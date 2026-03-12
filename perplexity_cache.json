@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran warns regional blackout would follow any US grid strike",
+      "url": "https://www.perplexity.ai/page/iran-warns-regional-blackout-w-cjDsE0M7RH6zbE0g9w4aYw",
+      "description": "Tehran's top security official said darkness would let Iran \"hunt down US servicemen,\" as threats expanded to oil and energy targets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T23:08:39Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Drones hit Dubai again as Iran's Gulf attacks enter 13th day",
+      "url": "https://www.perplexity.ai/page/drones-hit-dubai-again-as-iran-u_UJa5mlSBetPRryLquajw",
+      "description": "Multiple drone incidents struck Dubai overnight and Thursday morning, including near the financial district, as corporate evacuations spread across the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T23:02:56Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Aramco denies reports of talks to buy Ukrainian drones",
       "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
       "description": "The Saudi oil giant called a Wall Street Journal report about negotiations with Ukrainian interceptor drone makers \"inaccurate,\" saying no such procurement talks are underway.",
@@ -1241,56 +1259,29 @@
       "topic": "top",
       "pubDate": "2026-03-07T20:28:29Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Guinea dissolves 40 political parties, including top opposition groups",
-      "url": "https://www.perplexity.ai/page/guinea-dissolves-40-political-h4j9cDUtRGODqvnx_sKGOQ",
-      "description": "The late-night decree strips parties of legal status and seizes their assets less than two months after former junta leader Doumbouya's inauguration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T19:01:26Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump formally recognizes Venezuela's Rodriguez government",
-      "url": "https://www.perplexity.ai/page/trump-formally-recognizes-vene-_vTVAmvsQ.mKe8.S8vi4ZQ",
-      "description": "The announcement came at the Shield of the Americas Summit in Florida, alongside a new deal for Venezuelan gold and mineral exports to the U.S.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T00:43:36Z",
-      "sourceCount": "48 sources"
-    },
-    {
-      "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
-      "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
-      "description": "The deployment would create the largest American naval aviation presence in the Middle East since the 2003 invasion of Iraq.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T18:26:02Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Protests erupt across Havana after days without power",
-      "url": "https://www.perplexity.ai/page/protests-erupt-across-havana-a-12zcPIs1TOCrwQxTmenCRw",
-      "description": "Cubans banged pots and shouted slogans in darkened streets Friday night after enduring up to 80 hours without electricity amid a deepening energy crisis.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T18:02:05Z",
-      "sourceCount": "52 sources"
-    },
-    {
-      "title": "DOGE used ChatGPT to flag humanities grants for cancellation, court filings reveal",
-      "url": "https://www.perplexity.ai/page/doge-used-chatgpt-to-flag-huma-ctErT9g1SkOtENceWoUEdw",
-      "description": "Discovery documents show the efficiency office fed grant descriptions into the AI chatbot to label projects as \"DEI,\" bypassing NEH staff.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T22:18:20Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-12T23:00:13Z",
+  "cached_at": "2026-03-12T23:38:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran warns regional blackout would follow any US grid strike",
+        "url": "https://www.perplexity.ai/page/iran-warns-regional-blackout-w-cjDsE0M7RH6zbE0g9w4aYw",
+        "description": "Tehran's top security official said darkness would let Iran \"hunt down US servicemen,\" as threats expanded to oil and energy targets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T23:08:39Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Drones hit Dubai again as Iran's Gulf attacks enter 13th day",
+        "url": "https://www.perplexity.ai/page/drones-hit-dubai-again-as-iran-u_UJa5mlSBetPRryLquajw",
+        "description": "Multiple drone incidents struck Dubai overnight and Thursday morning, including near the financial district, as corporate evacuations spread across the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T23:02:56Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Aramco denies reports of talks to buy Ukrainian drones",
         "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
@@ -2532,51 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-03-07T20:28:29Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Guinea dissolves 40 political parties, including top opposition groups",
-        "url": "https://www.perplexity.ai/page/guinea-dissolves-40-political-h4j9cDUtRGODqvnx_sKGOQ",
-        "description": "The late-night decree strips parties of legal status and seizes their assets less than two months after former junta leader Doumbouya's inauguration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T19:01:26Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump formally recognizes Venezuela's Rodriguez government",
-        "url": "https://www.perplexity.ai/page/trump-formally-recognizes-vene-_vTVAmvsQ.mKe8.S8vi4ZQ",
-        "description": "The announcement came at the Shield of the Americas Summit in Florida, alongside a new deal for Venezuelan gold and mineral exports to the U.S.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T00:43:36Z",
-        "sourceCount": "48 sources"
-      },
-      {
-        "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
-        "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
-        "description": "The deployment would create the largest American naval aviation presence in the Middle East since the 2003 invasion of Iraq.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T18:26:02Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Protests erupt across Havana after days without power",
-        "url": "https://www.perplexity.ai/page/protests-erupt-across-havana-a-12zcPIs1TOCrwQxTmenCRw",
-        "description": "Cubans banged pots and shouted slogans in darkened streets Friday night after enduring up to 80 hours without electricity amid a deepening energy crisis.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T18:02:05Z",
-        "sourceCount": "52 sources"
-      },
-      {
-        "title": "DOGE used ChatGPT to flag humanities grants for cancellation, court filings reveal",
-        "url": "https://www.perplexity.ai/page/doge-used-chatgpt-to-flag-huma-ctErT9g1SkOtENceWoUEdw",
-        "description": "Discovery documents show the efficiency office fed grant descriptions into the AI chatbot to label projects as \"DEI,\" bypassing NEH staff.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T22:18:20Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
