@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
+      "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
+      "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T05:33:27Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
       "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
       "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
@@ -1268,20 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-03-08T09:35:41Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
-      "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
-      "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T08:20:45Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-13T05:35:03Z",
+  "cached_at": "2026-03-13T06:31:27Z",
   "topics": {
     "top": [
+      {
+        "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
+        "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
+        "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T05:33:27Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
         "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
@@ -2550,15 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-03-08T09:35:41Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
-        "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
-        "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T08:20:45Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
