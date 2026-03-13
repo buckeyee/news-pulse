@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
+      "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
+      "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T05:32:33Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
       "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
       "description": "The TikTok parent is working with Aolani Cloud to build AI computing capacity outside China, skirting U.S. export controls on direct chip sales.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T03:24:42Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Florida passes bill requiring proof of citizenship to vote",
+      "url": "https://www.perplexity.ai/page/florida-passes-bill-requiring-iSf1Pbx9RNyGinRW2SwW.w",
+      "description": "The legislation, which won't take effect until 2027, also eliminates student and retirement community IDs as acceptable forms of voter identification.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T02:04:45Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Democrats unveil bills to cut taxes for workers, raise them on millionaires",
@@ -1261,9 +1279,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-13T04:27:23Z",
+  "cached_at": "2026-03-13T05:35:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
+        "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
+        "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T05:32:33Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
         "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
@@ -1272,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T03:24:42Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Florida passes bill requiring proof of citizenship to vote",
+        "url": "https://www.perplexity.ai/page/florida-passes-bill-requiring-iSf1Pbx9RNyGinRW2SwW.w",
+        "description": "The legislation, which won't take effect until 2027, also eliminates student and retirement community IDs as acceptable forms of voter identification.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T02:04:45Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Democrats unveil bills to cut taxes for workers, raise them on millionaires",
