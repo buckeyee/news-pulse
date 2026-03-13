@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
+      "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
+      "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T12:20:05Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
       "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
       "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
@@ -16,24 +25,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-13T08:18:48Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Asian stocks slide as Iran war keeps oil near $100",
-      "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
-      "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T06:33:26Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump lifts Russia oil sanctions to ease Iran war price surge",
-      "url": "https://www.perplexity.ai/page/trump-lifts-russia-oil-sanctio-DAjqYl0yQ2mHH3B938nZ2A",
-      "description": "The Treasury Department temporarily authorized purchases of Russian crude at sea as Brent topped $100 amid the largest oil disruption ever.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T06:26:00Z",
       "sourceCount": "28 sources"
     },
     {
@@ -136,13 +127,13 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Lebanon death toll reaches 687 as Israel threatens to expand operations",
-      "url": "https://www.perplexity.ai/page/lebanon-death-toll-reaches-687-0yvOjGEsRyqE21BGEbslig",
-      "description": "Israeli strikes killed 53 people in a single day, including two university professors, as over 816,000 Lebanese are now displaced.",
+      "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
+      "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-12T22:33:26Z",
-      "sourceCount": "34 sources"
+      "pubDate": "2026-03-12T22:23:58Z",
+      "sourceCount": "56 sources"
     },
     {
       "title": "Iran's UN envoy says strait won't close, contradicting new supreme leader",
@@ -163,15 +154,6 @@
       "sourceCount": "50 sources"
     },
     {
-      "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
-      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
-      "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T22:23:58Z",
-      "sourceCount": "56 sources"
-    },
-    {
       "title": "Greene says GOP 'hijacked' by hawks as MAGA splits over Iran war",
       "url": "https://www.perplexity.ai/page/greene-says-gop-hijacked-by-ha-DYsFAN3XQFyMFQOi4NH0wQ",
       "description": "The former congresswoman accused party leaders of enabling a neoconservative takeover, deepening fractures within Trump's coalition over the two-week-old conflict.",
@@ -179,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T21:23:02Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Iran rejects US calls for negotiations amid ongoing strikes",
-      "url": "https://www.perplexity.ai/page/iran-rejects-us-calls-for-nego-HQFuXizES5uYwqLdc1ek5w",
-      "description": "Tehran says dialogue is impossible while \"war crimes\" continue, two weeks after joint US-Israeli strikes shattered nuclear talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T21:39:15Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "FBI investigates Old Dominion University shooting as act of terrorism",
@@ -199,6 +172,15 @@
       "sourceCount": "35 sources"
     },
     {
+      "title": "Iran rejects US calls for negotiations amid ongoing strikes",
+      "url": "https://www.perplexity.ai/page/iran-rejects-us-calls-for-nego-HQFuXizES5uYwqLdc1ek5w",
+      "description": "Tehran says dialogue is impossible while \"war crimes\" continue, two weeks after joint US-Israeli strikes shattered nuclear talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T21:39:15Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Israel says it struck nuclear weapons site in Tehran",
       "url": "https://www.perplexity.ai/page/israel-says-it-struck-nuclear-n3ImPM25RfiIx5eOj1sheQ",
       "description": "The IDF said the Taleghan compound was tied to Iran's covert AMAD nuclear weapons program, as the war enters its third week.",
@@ -206,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T21:06:41Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
-      "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
-      "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:33:22Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "CENTCOM says US struck 6,000 targets in Iran",
@@ -226,15 +199,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Israel attacked Iran with no regime change plan, security sources say",
-      "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-      "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T20:49:57Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "Thune to bring SAVE America Act to Senate floor next week",
       "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
       "description": "The voter ID bill faces long odds in the Senate as Democrats vow to block it and supporters fall short of the 60-vote filibuster threshold.",
@@ -244,6 +208,15 @@
       "sourceCount": "58 sources"
     },
     {
+      "title": "Israel attacked Iran with no regime change plan, security sources say",
+      "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
+      "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T20:49:57Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "US envoy rebukes Czechs for falling short of NATO spending target",
       "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
       "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
@@ -251,6 +224,15 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:38:49Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
+      "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
+      "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T19:33:22Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Iranian drones hit Kuwait airport, Saudi oil fields as Gulf war widens",
@@ -307,6 +289,15 @@
       "sourceCount": "41 sources"
     },
     {
+      "title": "Israeli drone strike on Lebanese University kills two senior academics",
+      "url": "https://www.perplexity.ai/page/israeli-drone-strike-on-lebane-3BFVpNNuSn2UlSBFdD8_9A",
+      "description": "The faculty of sciences director and a professor were killed on the Hadath campus near Beirut's southern suburbs amid intensified Israeli bombardment across Lebanon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T18:44:13Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran vows to 'drench Gulf in blood' if US attacks its islands",
       "url": "https://www.perplexity.ai/page/iran-vows-to-drench-gulf-in-bl-WqZXxTFcR_CAg3UQkRgLhQ",
       "description": "Parliament speaker Ghalibaf issued one of Tehran's sharpest warnings yet as reports suggest Washington is weighing a seizure of Kharg Island.",
@@ -316,15 +307,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Judge dismisses Gateway tunnel lawsuit after US releases frozen funds",
-      "url": "https://www.perplexity.ai/page/judge-dismisses-gateway-tunnel-yu0Fbh6EShqyIJ63AB4wTg",
-      "description": "The $16 billion Hudson River rail project resumed after the Trump administration paid roughly $205 million it had withheld since last fall.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T18:38:37Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "IDF kills Hezbollah's Radwan Force commander, IRGC missile chief in Lebanon",
       "url": "https://www.perplexity.ai/page/idf-kills-hezbollah-s-radwan-f-ATJk1XErTuu6MMuXcm117A",
       "description": "Israel confirmed the killings as part of Operation Roaring Lion, which has seen nearly 200 strikes and over 100 Hezbollah fighters killed since March 2.",
@@ -332,6 +314,15 @@
       "topic": "top",
       "pubDate": "2026-03-12T20:23:46Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Judge dismisses Gateway tunnel lawsuit after US releases frozen funds",
+      "url": "https://www.perplexity.ai/page/judge-dismisses-gateway-tunnel-yu0Fbh6EShqyIJ63AB4wTg",
+      "description": "The $16 billion Hudson River rail project resumed after the Trump administration paid roughly $205 million it had withheld since last fall.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T18:38:37Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
@@ -361,15 +352,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Israel strikes Beirut's Bachoura area for first time in current offensive",
-      "url": "https://www.perplexity.ai/page/israel-strikes-beirut-s-bachou-Y6HqH.mZQgG9cr7Z1E4Grg",
-      "description": "The airstrikes hit less than a kilometer from Lebanon's government headquarters, after Hezbollah launched its largest rocket barrage of the war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:44:01Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Trump administration sues California over EV mandates",
       "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
       "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
@@ -379,15 +361,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-      "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-      "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:58:57Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
       "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
       "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
@@ -395,6 +368,15 @@
       "topic": "top",
       "pubDate": "2026-03-12T14:40:37Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
+      "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
+      "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T17:58:57Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Trump says US will 'make a lot of money' from rising oil prices",
@@ -1207,9 +1189,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-13T11:48:55Z",
+  "cached_at": "2026-03-13T12:31:48Z",
   "topics": {
     "top": [
+      {
+        "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
+        "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
+        "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T12:20:05Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
         "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
@@ -1226,24 +1217,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-13T08:18:48Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Asian stocks slide as Iran war keeps oil near $100",
-        "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
-        "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T06:33:26Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump lifts Russia oil sanctions to ease Iran war price surge",
-        "url": "https://www.perplexity.ai/page/trump-lifts-russia-oil-sanctio-DAjqYl0yQ2mHH3B938nZ2A",
-        "description": "The Treasury Department temporarily authorized purchases of Russian crude at sea as Brent topped $100 amid the largest oil disruption ever.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T06:26:00Z",
         "sourceCount": "28 sources"
       },
       {
@@ -1346,13 +1319,13 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Lebanon death toll reaches 687 as Israel threatens to expand operations",
-        "url": "https://www.perplexity.ai/page/lebanon-death-toll-reaches-687-0yvOjGEsRyqE21BGEbslig",
-        "description": "Israeli strikes killed 53 people in a single day, including two university professors, as over 816,000 Lebanese are now displaced.",
+        "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
+        "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-12T22:33:26Z",
-        "sourceCount": "34 sources"
+        "pubDate": "2026-03-12T22:23:58Z",
+        "sourceCount": "56 sources"
       },
       {
         "title": "Iran's UN envoy says strait won't close, contradicting new supreme leader",
@@ -1373,15 +1346,6 @@
         "sourceCount": "50 sources"
       },
       {
-        "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
-        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
-        "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T22:23:58Z",
-        "sourceCount": "56 sources"
-      },
-      {
         "title": "Greene says GOP 'hijacked' by hawks as MAGA splits over Iran war",
         "url": "https://www.perplexity.ai/page/greene-says-gop-hijacked-by-ha-DYsFAN3XQFyMFQOi4NH0wQ",
         "description": "The former congresswoman accused party leaders of enabling a neoconservative takeover, deepening fractures within Trump's coalition over the two-week-old conflict.",
@@ -1389,15 +1353,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T21:23:02Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Iran rejects US calls for negotiations amid ongoing strikes",
-        "url": "https://www.perplexity.ai/page/iran-rejects-us-calls-for-nego-HQFuXizES5uYwqLdc1ek5w",
-        "description": "Tehran says dialogue is impossible while \"war crimes\" continue, two weeks after joint US-Israeli strikes shattered nuclear talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T21:39:15Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "FBI investigates Old Dominion University shooting as act of terrorism",
@@ -1409,6 +1364,15 @@
         "sourceCount": "35 sources"
       },
       {
+        "title": "Iran rejects US calls for negotiations amid ongoing strikes",
+        "url": "https://www.perplexity.ai/page/iran-rejects-us-calls-for-nego-HQFuXizES5uYwqLdc1ek5w",
+        "description": "Tehran says dialogue is impossible while \"war crimes\" continue, two weeks after joint US-Israeli strikes shattered nuclear talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T21:39:15Z",
+        "sourceCount": "25 sources"
+      },
+      {
         "title": "Israel says it struck nuclear weapons site in Tehran",
         "url": "https://www.perplexity.ai/page/israel-says-it-struck-nuclear-n3ImPM25RfiIx5eOj1sheQ",
         "description": "The IDF said the Taleghan compound was tied to Iran's covert AMAD nuclear weapons program, as the war enters its third week.",
@@ -1416,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T21:06:41Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
-        "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
-        "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:33:22Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "CENTCOM says US struck 6,000 targets in Iran",
@@ -1436,15 +1391,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Israel attacked Iran with no regime change plan, security sources say",
-        "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-        "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T20:49:57Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "Thune to bring SAVE America Act to Senate floor next week",
         "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
         "description": "The voter ID bill faces long odds in the Senate as Democrats vow to block it and supporters fall short of the 60-vote filibuster threshold.",
@@ -1454,6 +1400,15 @@
         "sourceCount": "58 sources"
       },
       {
+        "title": "Israel attacked Iran with no regime change plan, security sources say",
+        "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
+        "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T20:49:57Z",
+        "sourceCount": "39 sources"
+      },
+      {
         "title": "US envoy rebukes Czechs for falling short of NATO spending target",
         "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
         "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
@@ -1461,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:38:49Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
+        "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
+        "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T19:33:22Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Iranian drones hit Kuwait airport, Saudi oil fields as Gulf war widens",
@@ -1517,6 +1481,15 @@
         "sourceCount": "41 sources"
       },
       {
+        "title": "Israeli drone strike on Lebanese University kills two senior academics",
+        "url": "https://www.perplexity.ai/page/israeli-drone-strike-on-lebane-3BFVpNNuSn2UlSBFdD8_9A",
+        "description": "The faculty of sciences director and a professor were killed on the Hadath campus near Beirut's southern suburbs amid intensified Israeli bombardment across Lebanon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T18:44:13Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Iran vows to 'drench Gulf in blood' if US attacks its islands",
         "url": "https://www.perplexity.ai/page/iran-vows-to-drench-gulf-in-bl-WqZXxTFcR_CAg3UQkRgLhQ",
         "description": "Parliament speaker Ghalibaf issued one of Tehran's sharpest warnings yet as reports suggest Washington is weighing a seizure of Kharg Island.",
@@ -1526,15 +1499,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Judge dismisses Gateway tunnel lawsuit after US releases frozen funds",
-        "url": "https://www.perplexity.ai/page/judge-dismisses-gateway-tunnel-yu0Fbh6EShqyIJ63AB4wTg",
-        "description": "The $16 billion Hudson River rail project resumed after the Trump administration paid roughly $205 million it had withheld since last fall.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T18:38:37Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "IDF kills Hezbollah's Radwan Force commander, IRGC missile chief in Lebanon",
         "url": "https://www.perplexity.ai/page/idf-kills-hezbollah-s-radwan-f-ATJk1XErTuu6MMuXcm117A",
         "description": "Israel confirmed the killings as part of Operation Roaring Lion, which has seen nearly 200 strikes and over 100 Hezbollah fighters killed since March 2.",
@@ -1542,6 +1506,15 @@
         "topic": "top",
         "pubDate": "2026-03-12T20:23:46Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Judge dismisses Gateway tunnel lawsuit after US releases frozen funds",
+        "url": "https://www.perplexity.ai/page/judge-dismisses-gateway-tunnel-yu0Fbh6EShqyIJ63AB4wTg",
+        "description": "The $16 billion Hudson River rail project resumed after the Trump administration paid roughly $205 million it had withheld since last fall.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T18:38:37Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
@@ -1571,15 +1544,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Israel strikes Beirut's Bachoura area for first time in current offensive",
-        "url": "https://www.perplexity.ai/page/israel-strikes-beirut-s-bachou-Y6HqH.mZQgG9cr7Z1E4Grg",
-        "description": "The airstrikes hit less than a kilometer from Lebanon's government headquarters, after Hezbollah launched its largest rocket barrage of the war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:44:01Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Trump administration sues California over EV mandates",
         "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
         "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
@@ -1589,15 +1553,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-        "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-        "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:58:57Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
         "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
         "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
@@ -1605,6 +1560,15 @@
         "topic": "top",
         "pubDate": "2026-03-12T14:40:37Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
+        "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
+        "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T17:58:57Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Trump says US will 'make a lot of money' from rising oil prices",
