@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
+      "url": "https://www.perplexity.ai/page/midwest-farmers-rush-to-sell-s-IpSSn6s5SKCeNBx0d.dJxQ",
+      "description": "Corn and soybean futures have each climbed roughly 6% since the conflict began, with soybeans topping $12 per bushel for the first time since mid-2024.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T13:44:00Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
       "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
       "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
@@ -1189,9 +1198,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-13T13:43:54Z",
+  "cached_at": "2026-03-13T14:32:10Z",
   "topics": {
     "top": [
+      {
+        "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
+        "url": "https://www.perplexity.ai/page/midwest-farmers-rush-to-sell-s-IpSSn6s5SKCeNBx0d.dJxQ",
+        "description": "Corn and soybean futures have each climbed roughly 6% since the conflict began, with soybeans topping $12 per bushel for the first time since mid-2024.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T13:44:00Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
         "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
