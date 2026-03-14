@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Moscow businesses reel as mobile internet blackout enters second week",
+      "url": "https://www.perplexity.ai/page/moscow-businesses-reel-as-mobi-5cZ6pD4nR46K_GU6diYs1Q",
+      "description": "Russia's capital has lost widespread mobile connectivity since March 5, with analysts calling it the largest test yet of a government \"whitelist\" censorship system.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:24:23Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
       "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
       "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
@@ -217,15 +226,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Explosions rock Doha as Iran's missile campaign hits Qatar",
-      "url": "https://www.perplexity.ai/page/explosions-rock-doha-as-iran-s-uAmfKI0OTe6jjyBv7bZH9Q",
-      "description": "Qatar's military intercepted missiles over downtown Doha early Saturday, prompting evacuations as Iran's aerial assault on Gulf states enters a third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T00:46:05Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "UN says nearly all Gaza aid movements denied in past two days",
       "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
       "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
@@ -235,15 +235,6 @@
       "sourceCount": "48 sources"
     },
     {
-      "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
-      "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
-      "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:02:42Z",
-      "sourceCount": "11 sources"
-    },
-    {
       "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
       "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
       "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
@@ -251,6 +242,15 @@
       "topic": "top",
       "pubDate": "2026-03-14T00:18:47Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
+      "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
+      "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T01:02:42Z",
+      "sourceCount": "11 sources"
     },
     {
       "title": "Qatar orders evacuations as Gulf conflict enters third week",
@@ -1342,9 +1342,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-14T23:00:10Z",
+  "cached_at": "2026-03-14T23:38:02Z",
   "topics": {
     "top": [
+      {
+        "title": "Moscow businesses reel as mobile internet blackout enters second week",
+        "url": "https://www.perplexity.ai/page/moscow-businesses-reel-as-mobi-5cZ6pD4nR46K_GU6diYs1Q",
+        "description": "Russia's capital has lost widespread mobile connectivity since March 5, with analysts calling it the largest test yet of a government \"whitelist\" censorship system.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:24:23Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
         "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
@@ -1562,15 +1571,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Explosions rock Doha as Iran's missile campaign hits Qatar",
-        "url": "https://www.perplexity.ai/page/explosions-rock-doha-as-iran-s-uAmfKI0OTe6jjyBv7bZH9Q",
-        "description": "Qatar's military intercepted missiles over downtown Doha early Saturday, prompting evacuations as Iran's aerial assault on Gulf states enters a third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T00:46:05Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "UN says nearly all Gaza aid movements denied in past two days",
         "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
         "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
@@ -1580,15 +1580,6 @@
         "sourceCount": "48 sources"
       },
       {
-        "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
-        "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
-        "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:02:42Z",
-        "sourceCount": "11 sources"
-      },
-      {
         "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
         "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
         "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
@@ -1596,6 +1587,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T00:18:47Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
+        "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
+        "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T01:02:42Z",
+        "sourceCount": "11 sources"
       },
       {
         "title": "Qatar orders evacuations as Gulf conflict enters third week",
