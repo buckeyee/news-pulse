@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+      "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+      "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T17:58:00Z",
+      "sourceCount": "64 sources"
+    },
+    {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
       "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
       "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T01:39:47Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Pentagon IDs 7th service member killed in Iran war",
-      "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-      "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:58:36Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-14T19:36:34Z",
+  "cached_at": "2026-03-14T19:56:04Z",
   "topics": {
     "top": [
+      {
+        "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+        "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+        "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T17:58:00Z",
+        "sourceCount": "64 sources"
+      },
       {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
         "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T01:39:47Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Pentagon IDs 7th service member killed in Iran war",
-        "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-        "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:58:36Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
