@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Chemistry may not be quantum computing's killer app, New Scientist reports",
+      "url": "https://www.perplexity.ai/page/chemistry-may-not-be-quantum-c-0pNX9wEpSq6L4PQj20K0vw",
+      "description": "Despite rapid progress in error correction, simulating complex molecules still demands far more qubits than today's machines can deliver.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T11:19:56Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Mathematicians disprove 150-year-old geometry rule with doughnut-shaped surfaces",
       "url": "https://www.perplexity.ai/page/mathematicians-disprove-150-ye-79yKDFH1TW2FOOh.37Sdpg",
       "description": "Three researchers constructed two tori sharing the same metric and curvature but with different global shapes, resolving a longstanding open problem.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T01:18:13Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "IRGC offers Hormuz passage to nations that expel US, Israeli envoys",
-      "url": "https://www.perplexity.ai/page/irgc-offers-hormuz-passage-to-Q6cB9QzsRMWFgUpc7dDPXQ",
-      "description": "Iran ties strait transit rights to a diplomatic ultimatum as France assembles an unprecedented naval force to reopen the waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T22:34:25Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-14T10:57:13Z",
+  "cached_at": "2026-03-14T11:33:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Chemistry may not be quantum computing's killer app, New Scientist reports",
+        "url": "https://www.perplexity.ai/page/chemistry-may-not-be-quantum-c-0pNX9wEpSq6L4PQj20K0vw",
+        "description": "Despite rapid progress in error correction, simulating complex molecules still demands far more qubits than today's machines can deliver.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T11:19:56Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Mathematicians disprove 150-year-old geometry rule with doughnut-shaped surfaces",
         "url": "https://www.perplexity.ai/page/mathematicians-disprove-150-ye-79yKDFH1TW2FOOh.37Sdpg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T01:18:13Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "IRGC offers Hormuz passage to nations that expel US, Israeli envoys",
-        "url": "https://www.perplexity.ai/page/irgc-offers-hormuz-passage-to-Q6cB9QzsRMWFgUpc7dDPXQ",
-        "description": "Iran ties strait transit rights to a diplomatic ultimatum as France assembles an unprecedented naval force to reopen the waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T22:34:25Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
