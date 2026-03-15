@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hassett says Iran war has cost US $12B so far",
+      "url": "https://www.perplexity.ai/page/hassett-says-iran-war-has-cost-yrD7ioPKSba.dJYyd7NVwg",
+      "description": "The top White House economic adviser said the administration does not expect to seek additional war funding from Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-15T18:19:36Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Trump's call for warships to Hormuz draws no commitments from allies",
       "url": "https://www.perplexity.ai/page/trump-s-call-for-warships-to-h-SW6JCpiBSsmUh1fTQFgaKw",
       "description": "Japan called the threshold for deploying ships \"extremely high,\" while South Korea and others offered cautious responses but no pledges.",
@@ -253,13 +262,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "IDF estimates up to 5,000 Iranian troops killed as war enters third week",
-      "url": "https://www.perplexity.ai/page/idf-estimates-up-to-5000-irani-OWStvVHKQYarh7jinpWijg",
-      "description": "The figure, up from 3,000 a week earlier, came as Israel struck over 150 military sites in western and central Iran on Friday.",
+      "title": "DC-area airports reopen after chemical odor halts flights for hours",
+      "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
+      "description": "An overheated circuit board at a Virginia air traffic control facility forced ground stops at four airports, causing delays stretching past midnight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T07:15:35Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-14T03:07:35Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Greek tanker hit near Russia's Black Sea port",
@@ -269,15 +278,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T10:48:06Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "DC-area airports reopen after chemical odor halts flights for hours",
-      "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
-      "description": "An overheated circuit board at a Virginia air traffic control facility forced ground stops at four airports, causing delays stretching past midnight.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T03:07:35Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "Revolution Wind delivers first power to New England grid after surviving two Trump shutdowns",
@@ -973,15 +973,6 @@
       "sourceCount": "59 sources"
     },
     {
-      "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
-      "url": "https://www.perplexity.ai/page/pentagon-tells-congress-iran-w-Cxh8ZmIESm6LEdft0Fqlug",
-      "description": "The estimate, disclosed in a closed-door briefing Tuesday, does not include costs of the military buildup before strikes began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T05:21:36Z",
-      "sourceCount": "35 sources"
-    },
-    {
       "title": "Washington Legislature passes millionaires tax, sends bill to governor",
       "url": "https://www.perplexity.ai/page/washington-legislature-passes-Ybhq6I7SR8G7dY7JnWI2VA",
       "description": "The 9.9% tax on income over $1 million cleared the Senate on the session's final day and is expected to face legal challenges.",
@@ -1342,9 +1333,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-15T21:14:27Z",
+  "cached_at": "2026-03-15T21:45:46Z",
   "topics": {
     "top": [
+      {
+        "title": "Hassett says Iran war has cost US $12B so far",
+        "url": "https://www.perplexity.ai/page/hassett-says-iran-war-has-cost-yrD7ioPKSba.dJYyd7NVwg",
+        "description": "The top White House economic adviser said the administration does not expect to seek additional war funding from Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-15T18:19:36Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Trump's call for warships to Hormuz draws no commitments from allies",
         "url": "https://www.perplexity.ai/page/trump-s-call-for-warships-to-h-SW6JCpiBSsmUh1fTQFgaKw",
@@ -1598,13 +1598,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "IDF estimates up to 5,000 Iranian troops killed as war enters third week",
-        "url": "https://www.perplexity.ai/page/idf-estimates-up-to-5000-irani-OWStvVHKQYarh7jinpWijg",
-        "description": "The figure, up from 3,000 a week earlier, came as Israel struck over 150 military sites in western and central Iran on Friday.",
+        "title": "DC-area airports reopen after chemical odor halts flights for hours",
+        "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
+        "description": "An overheated circuit board at a Virginia air traffic control facility forced ground stops at four airports, causing delays stretching past midnight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T07:15:35Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-14T03:07:35Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Greek tanker hit near Russia's Black Sea port",
@@ -1614,15 +1614,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T10:48:06Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "DC-area airports reopen after chemical odor halts flights for hours",
-        "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
-        "description": "An overheated circuit board at a Virginia air traffic control facility forced ground stops at four airports, causing delays stretching past midnight.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T03:07:35Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "Revolution Wind delivers first power to New England grid after surviving two Trump shutdowns",
@@ -2316,15 +2307,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T06:00:34Z",
         "sourceCount": "59 sources"
-      },
-      {
-        "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
-        "url": "https://www.perplexity.ai/page/pentagon-tells-congress-iran-w-Cxh8ZmIESm6LEdft0Fqlug",
-        "description": "The estimate, disclosed in a closed-door briefing Tuesday, does not include costs of the military buildup before strikes began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T05:21:36Z",
-        "sourceCount": "35 sources"
       },
       {
         "title": "Washington Legislature passes millionaires tax, sends bill to governor",
