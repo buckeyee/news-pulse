@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Nvidia's GTC 2026 kicks off with new AI chips, software expected in Huang keynote",
+      "url": "https://www.perplexity.ai/page/nvidia-s-gtc-2026-kicks-off-wi-7l2QrlC2QAqRylcaXGFPvw",
+      "description": "Jensen Huang takes the stage at the SAP Center at 2 p.m. ET to unveil new hardware and software before 30,000 attendees from 190 countries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T15:58:57Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "US stocks surge as oil pulls back from $105 peak",
       "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
       "description": "The Dow climbed nearly 500 points in early Monday trading as WTI crude fell below $100, snapping three weeks of losses tied to the Iran war.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T14:24:58Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
+      "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T13:47:13Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "US is allowing Iranian ships through Strait of Hormuz",
@@ -703,15 +721,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Asian stocks slide as Iran war keeps oil near $100",
-      "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
-      "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T06:33:26Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
       "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
       "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
@@ -721,15 +730,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
-      "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
-      "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T13:08:12Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
       "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
       "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
@@ -737,6 +737,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T05:32:33Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
+      "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
+      "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T13:08:12Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
@@ -1243,9 +1252,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-16T15:18:09Z",
+  "cached_at": "2026-03-16T16:33:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Nvidia's GTC 2026 kicks off with new AI chips, software expected in Huang keynote",
+        "url": "https://www.perplexity.ai/page/nvidia-s-gtc-2026-kicks-off-wi-7l2QrlC2QAqRylcaXGFPvw",
+        "description": "Jensen Huang takes the stage at the SAP Center at 2 p.m. ET to unveil new hardware and software before 30,000 attendees from 190 countries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T15:58:57Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "US stocks surge as oil pulls back from $105 peak",
         "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
@@ -1254,6 +1272,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T14:24:58Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
+        "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T13:47:13Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "US is allowing Iranian ships through Strait of Hormuz",
@@ -1949,15 +1976,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Asian stocks slide as Iran war keeps oil near $100",
-        "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
-        "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T06:33:26Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
         "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
         "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
@@ -1967,15 +1985,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
-        "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
-        "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T13:08:12Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
         "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
         "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
@@ -1983,6 +1992,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T05:32:33Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
+        "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
+        "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T13:08:12Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
