@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Gas nears $4 a gallon as Iran war roils oil markets",
-      "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
-      "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+      "title": "Cuba suffers complete electrical grid collapse",
+      "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+      "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T19:37:13Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-16T19:43:56Z",
+      "sourceCount": "32 sources"
+    },
+    {
+      "title": "DOJ proposes rule to help states fast-track executions",
+      "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-help-stat-JmMNwrP4QSCyYr8520twsw",
+      "description": "The proposed change would ease certification requirements under a 1996 law that no state has ever successfully used to expedite federal death penalty reviews.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T19:04:39Z",
+      "sourceCount": "54 sources"
     },
     {
       "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
@@ -298,15 +307,6 @@
       "sourceCount": "65 sources"
     },
     {
-      "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
-      "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
-      "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T21:40:08Z",
-      "sourceCount": "31 sources"
-    },
-    {
       "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
       "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
       "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
@@ -314,15 +314,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T19:18:32Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
-      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
-      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T22:15:08Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
@@ -334,6 +325,15 @@
       "sourceCount": "64 sources"
     },
     {
+      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:15:08Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
       "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
       "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
@@ -343,15 +343,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T21:10:54Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "Iranians' regime change hopes fade as bombing enters third week",
       "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
       "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
@@ -359,6 +350,15 @@
       "topic": "top",
       "pubDate": "2026-03-14T17:50:04Z",
       "sourceCount": "81 sources"
+    },
+    {
+      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T21:10:54Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
@@ -1234,17 +1234,26 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-16T19:42:48Z",
+  "cached_at": "2026-03-16T20:22:54Z",
   "topics": {
     "top": [
       {
-        "title": "Gas nears $4 a gallon as Iran war roils oil markets",
-        "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
-        "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+        "title": "Cuba suffers complete electrical grid collapse",
+        "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+        "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T19:37:13Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-16T19:43:56Z",
+        "sourceCount": "32 sources"
+      },
+      {
+        "title": "DOJ proposes rule to help states fast-track executions",
+        "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-help-stat-JmMNwrP4QSCyYr8520twsw",
+        "description": "The proposed change would ease certification requirements under a 1996 law that no state has ever successfully used to expedite federal death penalty reviews.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T19:04:39Z",
+        "sourceCount": "54 sources"
       },
       {
         "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
@@ -1535,15 +1544,6 @@
         "sourceCount": "65 sources"
       },
       {
-        "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
-        "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
-        "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T21:40:08Z",
-        "sourceCount": "31 sources"
-      },
-      {
         "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
         "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
         "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
@@ -1551,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T19:18:32Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
-        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
-        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T22:15:08Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
@@ -1571,6 +1562,15 @@
         "sourceCount": "64 sources"
       },
       {
+        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:15:08Z",
+        "sourceCount": "36 sources"
+      },
+      {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
         "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
         "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
@@ -1580,15 +1580,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T21:10:54Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "Iranians' regime change hopes fade as bombing enters third week",
         "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
         "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
@@ -1596,6 +1587,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T17:50:04Z",
         "sourceCount": "81 sources"
+      },
+      {
+        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T21:10:54Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
