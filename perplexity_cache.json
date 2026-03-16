@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Oil tops $106 as Trump's push for naval coalition in Hormuz draws no commitments",
-      "url": "https://www.perplexity.ai/page/oil-tops-106-as-trump-s-push-f-FBHURfUFQOGjqrBGqmjh_w",
-      "description": "Trump asked about seven nations to send warships to reopen the Strait of Hormuz, but none made firm pledges as oil prices continued climbing.",
+      "title": "Trump threatens more Kharg Island strikes as Iran vows retaliation",
+      "url": "https://www.perplexity.ai/page/trump-threatens-more-kharg-isl-UoYvk.2ITuidgfY3NRA0rg",
+      "description": "Iran's Revolutionary Guard launched missile and drone attacks on Israel and three U.S. bases after the U.S. bombed 90 military targets on Kharg Island.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T10:10:39Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-16T11:07:03Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Rare Level 4 severe weather risk targets East Coast as storm outbreak continues Monday",
@@ -368,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T00:19:18Z",
       "sourceCount": "48 sources"
-    },
-    {
-      "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
-      "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
-      "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T00:18:47Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Qatar orders evacuations as Gulf conflict enters third week",
@@ -1243,26 +1234,26 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
-      "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
-      "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
+      "title": "White House urges GOP to drop 'mass deportation' talk",
+      "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
+      "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T23:53:08Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-10T23:10:24Z",
+      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-03-16T10:41:13Z",
+  "cached_at": "2026-03-16T11:35:18Z",
   "topics": {
     "top": [
       {
-        "title": "Oil tops $106 as Trump's push for naval coalition in Hormuz draws no commitments",
-        "url": "https://www.perplexity.ai/page/oil-tops-106-as-trump-s-push-f-FBHURfUFQOGjqrBGqmjh_w",
-        "description": "Trump asked about seven nations to send warships to reopen the Strait of Hormuz, but none made firm pledges as oil prices continued climbing.",
+        "title": "Trump threatens more Kharg Island strikes as Iran vows retaliation",
+        "url": "https://www.perplexity.ai/page/trump-threatens-more-kharg-isl-UoYvk.2ITuidgfY3NRA0rg",
+        "description": "Iran's Revolutionary Guard launched missile and drone attacks on Israel and three U.S. bases after the U.S. bombed 90 military targets on Kharg Island.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T10:10:39Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-16T11:07:03Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Rare Level 4 severe weather risk targets East Coast as storm outbreak continues Monday",
@@ -1623,15 +1614,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T00:19:18Z",
         "sourceCount": "48 sources"
-      },
-      {
-        "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
-        "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
-        "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T00:18:47Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Qatar orders evacuations as Gulf conflict enters third week",
@@ -2498,13 +2480,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
-        "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
-        "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
+        "title": "White House urges GOP to drop 'mass deportation' talk",
+        "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
+        "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T23:53:08Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-10T23:10:24Z",
+        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
