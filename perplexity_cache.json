@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Oil rebounds toward $103 as Hormuz crisis enters third week",
-      "url": "https://www.perplexity.ai/page/oil-rebounds-toward-103-as-hor-pdTYPODdRIauU2TI_6Dh1g",
-      "description": "Brent crude rose about 3% on Tuesday after Monday's sharp sell-off, as drone strikes on UAE energy sites and massive Middle East production cuts fueled supply fears.",
+      "title": "Oil prices rebound as Iran escalates Gulf attacks",
+      "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
+      "description": "Brent crude held above $100 a barrel as fresh Iranian drone strikes hit UAE energy infrastructure and commercial shipping through the Strait of Hormuz remains halted.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-17T09:25:29Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-17T10:41:27Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
@@ -19,15 +19,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "UAE reopens airspace after first full closure since Iran war began",
-      "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
-      "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T04:18:19Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
       "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
       "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
@@ -35,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T02:23:59Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "UAE reopens airspace after first full closure since Iran war began",
+      "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
+      "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T04:18:19Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "SK Group chairman says chip wafer shortage to last until 2030",
@@ -277,15 +277,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-16T12:18:18Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
-      "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T13:47:13Z",
       "sourceCount": "27 sources"
     },
     {
@@ -1315,17 +1306,17 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-17T10:07:27Z",
+  "cached_at": "2026-03-17T11:08:47Z",
   "topics": {
     "top": [
       {
-        "title": "Oil rebounds toward $103 as Hormuz crisis enters third week",
-        "url": "https://www.perplexity.ai/page/oil-rebounds-toward-103-as-hor-pdTYPODdRIauU2TI_6Dh1g",
-        "description": "Brent crude rose about 3% on Tuesday after Monday's sharp sell-off, as drone strikes on UAE energy sites and massive Middle East production cuts fueled supply fears.",
+        "title": "Oil prices rebound as Iran escalates Gulf attacks",
+        "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
+        "description": "Brent crude held above $100 a barrel as fresh Iranian drone strikes hit UAE energy infrastructure and commercial shipping through the Strait of Hormuz remains halted.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-17T09:25:29Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-17T10:41:27Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
@@ -1337,15 +1328,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "UAE reopens airspace after first full closure since Iran war began",
-        "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
-        "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T04:18:19Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
         "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
         "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
@@ -1353,6 +1335,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T02:23:59Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "UAE reopens airspace after first full closure since Iran war began",
+        "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
+        "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T04:18:19Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "SK Group chairman says chip wafer shortage to last until 2030",
@@ -1595,15 +1586,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-16T12:18:18Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
-        "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T13:47:13Z",
         "sourceCount": "27 sources"
       },
       {
