@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "US diesel tops $5 a gallon for first time since 2022",
+      "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
+      "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T15:52:54Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
+      "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
+      "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T15:42:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
       "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
       "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
@@ -52,15 +70,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-17T10:48:17Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Oil prices rebound as Iran escalates Gulf attacks",
-      "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
-      "description": "Brent crude held above $100 a barrel as fresh Iranian drone strikes hit UAE energy infrastructure and commercial shipping through the Strait of Hormuz remains halted.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T10:41:27Z",
       "sourceCount": "29 sources"
     },
     {
@@ -1295,29 +1304,29 @@
       "topic": "top",
       "pubDate": "2026-03-11T23:39:15Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "US embassies across Middle East issue shelter-in-place orders as Iran war widens",
-      "url": "https://www.perplexity.ai/page/us-embassies-across-middle-eas-j97XZy55SvehviJk31fuwA",
-      "description": "Multiple American embassies ordered citizens to shelter in place on March 11 as the conflict with Iran enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T23:29:00Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump rallies in Massie's district, calls him 'the worst'",
-      "url": "https://www.perplexity.ai/page/trump-rallies-in-massie-s-dist-0M9e05VVRk.1.X_QnOmgMQ",
-      "description": "The president campaigned in northern Kentucky on Wednesday to boost primary challenger Ed Gallrein ahead of the May 19 GOP primary.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T23:25:26Z",
-      "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-17T15:48:05Z",
+  "cached_at": "2026-03-17T16:50:59Z",
   "topics": {
     "top": [
+      {
+        "title": "US diesel tops $5 a gallon for first time since 2022",
+        "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
+        "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T15:52:54Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
+        "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
+        "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T15:42:53Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
         "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
@@ -1370,15 +1379,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-17T10:48:17Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Oil prices rebound as Iran escalates Gulf attacks",
-        "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
-        "description": "Brent crude held above $100 a barrel as fresh Iranian drone strikes hit UAE energy infrastructure and commercial shipping through the Strait of Hormuz remains halted.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T10:41:27Z",
         "sourceCount": "29 sources"
       },
       {
@@ -2612,24 +2612,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-11T23:39:15Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "US embassies across Middle East issue shelter-in-place orders as Iran war widens",
-        "url": "https://www.perplexity.ai/page/us-embassies-across-middle-eas-j97XZy55SvehviJk31fuwA",
-        "description": "Multiple American embassies ordered citizens to shelter in place on March 11 as the conflict with Iran enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T23:29:00Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump rallies in Massie's district, calls him 'the worst'",
-        "url": "https://www.perplexity.ai/page/trump-rallies-in-massie-s-dist-0M9e05VVRk.1.X_QnOmgMQ",
-        "description": "The president campaigned in northern Kentucky on Wednesday to boost primary challenger Ed Gallrein ahead of the May 19 GOP primary.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T23:25:26Z",
         "sourceCount": "40 sources"
       }
     ],
