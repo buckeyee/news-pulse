@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
+      "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
+      "description": "Democrats slammed the NEC director after he dismissed rising fuel costs during the Iran war, with gas prices hitting their highest since October 2023.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:46:26Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Google reveals itself behind 1-GW data center plan in Michigan",
+      "url": "https://www.perplexity.ai/page/google-reveals-itself-behind-1-EIvIb2A1Sl6hg84BsLA4cQ",
+      "description": "The tech giant committed to 2.7 GW of clean energy and a $10 million fund for communities as part of a deal with DTE Energy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:38:05Z",
+      "sourceCount": "20 sources"
+    },
+    {
+      "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
+      "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
+      "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:30:07Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "DOE approves safety design for Oklo's first reactor in Idaho",
       "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
       "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
@@ -44,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:02:14Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
-      "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
-      "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:48:05Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
@@ -217,15 +235,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Moldova issues environmental alert after Russian strike causes oil spill",
-      "url": "https://www.perplexity.ai/page/moldova-issues-environmental-a-4ivydUtdS9ubEJuGcRyZig",
-      "description": "The 15-day alert covers the Dniester River basin after a March 7 attack on a Ukrainian hydroelectric plant sent oil downstream, threatening water supplies for millions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T00:41:05Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Zambia balks at US deal tying HIV aid to mineral access",
       "url": "https://www.perplexity.ai/page/zambia-balks-at-us-deal-tying-aU5qFtDXSlCG8cNiBFzqaQ",
       "description": "The draft agreement would cut health funding while requiring mining concessions, data sharing, and domestic co-investment far exceeding terms offered to other African nations.",
@@ -233,15 +242,6 @@
       "topic": "top",
       "pubDate": "2026-03-16T23:37:27Z",
       "sourceCount": "60 sources"
-    },
-    {
-      "title": "Trump says he was 'shocked' by Iran strikes on Gulf allies",
-      "url": "https://www.perplexity.ai/page/trump-says-he-was-shocked-by-i-5pCx24S8S3yAV6H0Q0WTog",
-      "description": "The president called Tehran's retaliatory attacks on Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait \"the biggest surprise\" of the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T23:36:49Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Iran's Mojtaba Khamenei names ex-IRGC chief as military adviser",
@@ -253,6 +253,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Trump says he was 'shocked' by Iran strikes on Gulf allies",
+      "url": "https://www.perplexity.ai/page/trump-says-he-was-shocked-by-i-5pCx24S8S3yAV6H0Q0WTog",
+      "description": "The president called Tehran's retaliatory attacks on Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait \"the biggest surprise\" of the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T23:36:49Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
       "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
       "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
@@ -260,6 +269,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T22:58:01Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
+      "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
+      "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:48:57Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Kremlin denies peace process is fading but no new talks are set",
@@ -280,13 +298,13 @@
       "sourceCount": "91 sources"
     },
     {
-      "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
-      "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
-      "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+      "title": "Last detained Columbia protester freed after a year in ICE custody",
+      "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+      "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T22:48:57Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-16T22:14:05Z",
+      "sourceCount": "70 sources"
     },
     {
       "title": "House passes bill to expand sanctions on Iran's oil trade",
@@ -307,13 +325,13 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "Last detained Columbia protester freed after a year in ICE custody",
-      "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
-      "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
+      "title": "Cuba suffers complete electrical grid collapse",
+      "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+      "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T22:14:05Z",
-      "sourceCount": "70 sources"
+      "pubDate": "2026-03-16T19:43:56Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
@@ -343,15 +361,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Cuba suffers complete electrical grid collapse",
-      "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
-      "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T19:43:56Z",
-      "sourceCount": "32 sources"
-    },
-    {
       "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
       "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
       "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
@@ -359,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-16T19:33:20Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "US and Iran reestablish direct contact amid ongoing conflict",
-      "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
-      "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T21:42:01Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Drone strike sparks fire at Abu Dhabi's Shah oil field",
@@ -379,6 +379,15 @@
       "sourceCount": "42 sources"
     },
     {
+      "title": "US and Iran reestablish direct contact amid ongoing conflict",
+      "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+      "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:42:01Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "DOJ proposes rule to help states fast-track executions",
       "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-help-stat-JmMNwrP4QSCyYr8520twsw",
       "description": "The proposed change would ease certification requirements under a 1996 law that no state has ever successfully used to expedite federal death penalty reviews.",
@@ -386,15 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-16T19:04:39Z",
       "sourceCount": "54 sources"
-    },
-    {
-      "title": "Trump says he'll have the 'honor of taking Cuba'",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-      "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T21:41:16Z",
-      "sourceCount": "73 sources"
     },
     {
       "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
@@ -406,6 +406,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Trump says he'll have the 'honor of taking Cuba'",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
+      "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:41:16Z",
+      "sourceCount": "73 sources"
+    },
+    {
       "title": "Cuba to let expatriates invest in and own businesses on the island",
       "url": "https://www.perplexity.ai/page/cuba-to-let-expatriates-invest-atjVo326QUS9E3q7TJH0XA",
       "description": "Deputy Prime Minister Fraga announced the reforms in an NBC News interview, as the island faces its worst energy and economic crisis in decades.",
@@ -415,15 +424,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Susie Wiles diagnosed with early-stage breast cancer",
-      "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
-      "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T16:23:25Z",
-      "sourceCount": "90 sources"
-    },
-    {
       "title": "Starmer says Hormuz reopening effort won't be NATO-led",
       "url": "https://www.perplexity.ai/page/starmer-says-hormuz-reopening-3dBsmWHJT_CAYS.qJNMw2w",
       "description": "The UK is building a broad coalition with Gulf, European, and U.S. partners to restore shipping through the strait, which Iran has effectively blockaded.",
@@ -431,6 +431,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T13:05:19Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Susie Wiles diagnosed with early-stage breast cancer",
+      "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
+      "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T16:23:25Z",
+      "sourceCount": "90 sources"
     },
     {
       "title": "Greece joins Germany in refusing military role at Strait of Hormuz",
@@ -1340,20 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-12T10:42:25Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran sets three conditions to end war with US and Israel",
-      "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-      "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T10:14:10Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-17T20:51:46Z",
+  "cached_at": "2026-03-17T21:34:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
+        "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
+        "description": "Democrats slammed the NEC director after he dismissed rising fuel costs during the Iran war, with gas prices hitting their highest since October 2023.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:46:26Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Google reveals itself behind 1-GW data center plan in Michigan",
+        "url": "https://www.perplexity.ai/page/google-reveals-itself-behind-1-EIvIb2A1Sl6hg84BsLA4cQ",
+        "description": "The tech giant committed to 2.7 GW of clean energy and a $10 million fund for communities as part of a deal with DTE Energy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:38:05Z",
+        "sourceCount": "20 sources"
+      },
+      {
+        "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
+        "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
+        "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:30:07Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "DOE approves safety design for Oklo's first reactor in Idaho",
         "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
@@ -1398,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:02:14Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
-        "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
-        "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:48:05Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
@@ -1571,15 +1589,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Moldova issues environmental alert after Russian strike causes oil spill",
-        "url": "https://www.perplexity.ai/page/moldova-issues-environmental-a-4ivydUtdS9ubEJuGcRyZig",
-        "description": "The 15-day alert covers the Dniester River basin after a March 7 attack on a Ukrainian hydroelectric plant sent oil downstream, threatening water supplies for millions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T00:41:05Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Zambia balks at US deal tying HIV aid to mineral access",
         "url": "https://www.perplexity.ai/page/zambia-balks-at-us-deal-tying-aU5qFtDXSlCG8cNiBFzqaQ",
         "description": "The draft agreement would cut health funding while requiring mining concessions, data sharing, and domestic co-investment far exceeding terms offered to other African nations.",
@@ -1587,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T23:37:27Z",
         "sourceCount": "60 sources"
-      },
-      {
-        "title": "Trump says he was 'shocked' by Iran strikes on Gulf allies",
-        "url": "https://www.perplexity.ai/page/trump-says-he-was-shocked-by-i-5pCx24S8S3yAV6H0Q0WTog",
-        "description": "The president called Tehran's retaliatory attacks on Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait \"the biggest surprise\" of the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T23:36:49Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Iran's Mojtaba Khamenei names ex-IRGC chief as military adviser",
@@ -1607,6 +1607,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Trump says he was 'shocked' by Iran strikes on Gulf allies",
+        "url": "https://www.perplexity.ai/page/trump-says-he-was-shocked-by-i-5pCx24S8S3yAV6H0Q0WTog",
+        "description": "The president called Tehran's retaliatory attacks on Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait \"the biggest surprise\" of the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T23:36:49Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
         "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
         "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
@@ -1614,6 +1623,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T22:58:01Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
+        "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
+        "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:48:57Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Kremlin denies peace process is fading but no new talks are set",
@@ -1634,13 +1652,13 @@
         "sourceCount": "91 sources"
       },
       {
-        "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
-        "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
-        "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+        "title": "Last detained Columbia protester freed after a year in ICE custody",
+        "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+        "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T22:48:57Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-16T22:14:05Z",
+        "sourceCount": "70 sources"
       },
       {
         "title": "House passes bill to expand sanctions on Iran's oil trade",
@@ -1661,13 +1679,13 @@
         "sourceCount": "22 sources"
       },
       {
-        "title": "Last detained Columbia protester freed after a year in ICE custody",
-        "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
-        "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
+        "title": "Cuba suffers complete electrical grid collapse",
+        "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+        "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T22:14:05Z",
-        "sourceCount": "70 sources"
+        "pubDate": "2026-03-16T19:43:56Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
@@ -1697,15 +1715,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Cuba suffers complete electrical grid collapse",
-        "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
-        "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T19:43:56Z",
-        "sourceCount": "32 sources"
-      },
-      {
         "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
         "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
         "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
@@ -1713,15 +1722,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T19:33:20Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "US and Iran reestablish direct contact amid ongoing conflict",
-        "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
-        "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T21:42:01Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Drone strike sparks fire at Abu Dhabi's Shah oil field",
@@ -1733,6 +1733,15 @@
         "sourceCount": "42 sources"
       },
       {
+        "title": "US and Iran reestablish direct contact amid ongoing conflict",
+        "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+        "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:42:01Z",
+        "sourceCount": "44 sources"
+      },
+      {
         "title": "DOJ proposes rule to help states fast-track executions",
         "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-help-stat-JmMNwrP4QSCyYr8520twsw",
         "description": "The proposed change would ease certification requirements under a 1996 law that no state has ever successfully used to expedite federal death penalty reviews.",
@@ -1740,15 +1749,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T19:04:39Z",
         "sourceCount": "54 sources"
-      },
-      {
-        "title": "Trump says he'll have the 'honor of taking Cuba'",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-        "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T21:41:16Z",
-        "sourceCount": "73 sources"
       },
       {
         "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
@@ -1760,6 +1760,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Trump says he'll have the 'honor of taking Cuba'",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
+        "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:41:16Z",
+        "sourceCount": "73 sources"
+      },
+      {
         "title": "Cuba to let expatriates invest in and own businesses on the island",
         "url": "https://www.perplexity.ai/page/cuba-to-let-expatriates-invest-atjVo326QUS9E3q7TJH0XA",
         "description": "Deputy Prime Minister Fraga announced the reforms in an NBC News interview, as the island faces its worst energy and economic crisis in decades.",
@@ -1769,15 +1778,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Susie Wiles diagnosed with early-stage breast cancer",
-        "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
-        "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T16:23:25Z",
-        "sourceCount": "90 sources"
-      },
-      {
         "title": "Starmer says Hormuz reopening effort won't be NATO-led",
         "url": "https://www.perplexity.ai/page/starmer-says-hormuz-reopening-3dBsmWHJT_CAYS.qJNMw2w",
         "description": "The UK is building a broad coalition with Gulf, European, and U.S. partners to restore shipping through the strait, which Iran has effectively blockaded.",
@@ -1785,6 +1785,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T13:05:19Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Susie Wiles diagnosed with early-stage breast cancer",
+        "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
+        "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T16:23:25Z",
+        "sourceCount": "90 sources"
       },
       {
         "title": "Greece joins Germany in refusing military role at Strait of Hormuz",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T10:42:25Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran sets three conditions to end war with US and Israel",
-        "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-        "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T10:14:10Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
