@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "DOE approves safety design for Oklo's first reactor in Idaho",
+      "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
+      "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:12:17Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
+      "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
+      "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:02:14Z",
+      "sourceCount": "13 sources"
+    },
+    {
+      "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
+      "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
+      "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T18:48:05Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
+      "url": "https://www.perplexity.ai/page/ukraine-accepts-eu-offer-to-fu-9vD_Dzq4STix5GNy06adzw",
+      "description": "The deal aims to break Hungary's veto on a €90 billion aid package for Kyiv ahead of this week's EU summit.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T18:47:37Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
       "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
       "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
@@ -25,15 +61,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-17T17:39:47Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "US diesel tops $5 a gallon for first time since 2022",
-      "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
-      "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T15:52:54Z",
       "sourceCount": "15 sources"
     },
     {
@@ -368,15 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-16T16:23:25Z",
       "sourceCount": "90 sources"
-    },
-    {
-      "title": "US stocks surge as oil pulls back from $105 peak",
-      "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
-      "description": "The Dow climbed nearly 500 points in early Monday trading as WTI crude fell below $100, snapping three weeks of losses tied to the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T14:24:58Z",
-      "sourceCount": "41 sources"
     },
     {
       "title": "Starmer says Hormuz reopening effort won't be NATO-led",
@@ -1322,20 +1340,47 @@
       "topic": "top",
       "pubDate": "2026-03-12T03:38:56Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US to release 172M barrels from oil reserve in historic IEA drawdown",
-      "url": "https://www.perplexity.ai/page/us-to-release-172m-barrels-fro-AkOlRaMGT66h2fNTYyE6DA",
-      "description": "The decision reverses Trump's stance after days of downplaying the need to tap the SPR amid surging crude prices from the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T01:48:54Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-17T19:07:08Z",
+  "cached_at": "2026-03-17T19:57:37Z",
   "topics": {
     "top": [
+      {
+        "title": "DOE approves safety design for Oklo's first reactor in Idaho",
+        "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
+        "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:12:17Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
+        "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
+        "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:02:14Z",
+        "sourceCount": "13 sources"
+      },
+      {
+        "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
+        "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
+        "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T18:48:05Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
+        "url": "https://www.perplexity.ai/page/ukraine-accepts-eu-offer-to-fu-9vD_Dzq4STix5GNy06adzw",
+        "description": "The deal aims to break Hungary's veto on a €90 billion aid package for Kyiv ahead of this week's EU summit.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T18:47:37Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
         "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
@@ -1361,15 +1406,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-17T17:39:47Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "US diesel tops $5 a gallon for first time since 2022",
-        "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
-        "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T15:52:54Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1704,15 +1740,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T16:23:25Z",
         "sourceCount": "90 sources"
-      },
-      {
-        "title": "US stocks surge as oil pulls back from $105 peak",
-        "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
-        "description": "The Dow climbed nearly 500 points in early Monday trading as WTI crude fell below $100, snapping three weeks of losses tied to the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T14:24:58Z",
-        "sourceCount": "41 sources"
       },
       {
         "title": "Starmer says Hormuz reopening effort won't be NATO-led",
@@ -2658,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T03:38:56Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US to release 172M barrels from oil reserve in historic IEA drawdown",
-        "url": "https://www.perplexity.ai/page/us-to-release-172m-barrels-fro-AkOlRaMGT66h2fNTYyE6DA",
-        "description": "The decision reverses Trump's stance after days of downplaying the need to tap the SPR amid surging crude prices from the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T01:48:54Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
