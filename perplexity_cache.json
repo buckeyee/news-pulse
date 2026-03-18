@@ -10,6 +10,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "U.S. wholesale prices jump more than expected in February",
+      "url": "https://www.perplexity.ai/page/u-s-wholesale-prices-jump-more-lupsupmGSFCiP8WwLK_X4Q",
+      "description": "The Producer Price Index rose 0.7% in February, more than double the forecast, as food and energy costs surged across the supply chain.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T22:30:48Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
       "url": "https://www.perplexity.ai/page/iran-allows-trickle-of-ships-t-ciwGVwZcQ.OANxIgSt025w",
       "description": "Traffic through the strait remains down over 95%, but Iran has begun granting selective passage to allied nations as hundreds of vessels wait outside.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:13:50Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israel attacked Iran with no regime change plan, security sources say",
-      "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-      "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T20:49:57Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-18T22:52:22Z",
+  "cached_at": "2026-03-18T23:29:20Z",
   "topics": {
     "top": [
       {
@@ -1362,6 +1362,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T22:44:31Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "U.S. wholesale prices jump more than expected in February",
+        "url": "https://www.perplexity.ai/page/u-s-wholesale-prices-jump-more-lupsupmGSFCiP8WwLK_X4Q",
+        "description": "The Producer Price Index rose 0.7% in February, more than double the forecast, as food and energy costs surged across the supply chain.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T22:30:48Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:13:50Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israel attacked Iran with no regime change plan, security sources say",
-        "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-        "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T20:49:57Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
