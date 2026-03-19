@@ -1,22 +1,22 @@
 {
   "stories": [
     {
-      "title": "Oil surges past $118 as Iran strikes Gulf energy sites",
-      "url": "https://www.perplexity.ai/page/oil-surges-past-118-as-iran-st-T6JQr6eVQgK406ZknItYaw",
-      "description": "Brent crude spiked to its highest level in years after Iranian missiles hit facilities in Qatar, Saudi Arabia, and the UAE, deepening recession fears.",
+      "title": "Bank of England holds rates unanimously as Iran war reshapes outlook",
+      "url": "https://www.perplexity.ai/page/bank-of-england-holds-rates-un-AOJqOGjsQWuukId4wop3aQ",
+      "description": "The MPC's 9-0 vote marks a sharp shift from February's 5-4 split, as rising energy prices from the Middle East conflict shelve rate cut hopes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T12:12:23Z",
-      "sourceCount": "43 sources"
+      "pubDate": "2026-03-19T13:07:03Z",
+      "sourceCount": "38 sources"
     },
     {
-      "title": "Iran considers charging transit fees in Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-considers-charging-transi-1omuvjYPRm22yzQGNq7dzg",
-      "description": "An Iranian lawmaker said Tehran is weighing formal fees on vessels passing through the critical waterway it now controls as a selective checkpoint.",
+      "title": "US jobless claims fall to lowest level since January",
+      "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-lowe-hMmm.m6.Q82tHdB4vmwePw",
+      "description": "Weekly claims dropped to 205,000, well below the 215,000 economists expected, though continuing claims rose as hiring remains sluggish.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T10:36:02Z",
-      "sourceCount": "90 sources"
+      "pubDate": "2026-03-19T13:06:54Z",
+      "sourceCount": "46 sources"
     },
     {
       "title": "Unilever and Kraft Heinz end food merger talks",
@@ -46,15 +46,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Lynas begins samarium production in Malaysia ahead of schedule",
-      "url": "https://www.perplexity.ai/page/lynas-begins-samarium-producti-i2jmS4SKQiy7nUA_GCikhw",
-      "description": "The Australian miner says it is now the only producer of the critical defense mineral outside of China.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T07:24:32Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
       "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
       "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
@@ -80,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-19T05:09:14Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
+      "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
+      "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T04:44:19Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "China pledges solar energy aid to Cuba after grid collapse",
@@ -1223,55 +1223,28 @@
       "topic": "top",
       "pubDate": "2026-03-13T20:54:06Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
-      "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
-      "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T05:33:27Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
-      "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
-      "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T05:32:33Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Trump signs orders to cut housing regulations, ease mortgage access",
-      "url": "https://www.perplexity.ai/page/trump-signs-orders-to-cut-hous-7iorfy.rRaewAcibF2oNyQ",
-      "description": "The executive orders aim to speed up construction permitting and bring community banks back into mortgage lending ahead of the midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T20:02:30Z",
-      "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-19T12:30:47Z",
+  "cached_at": "2026-03-19T13:52:40Z",
   "topics": {
     "top": [
       {
-        "title": "Oil surges past $118 as Iran strikes Gulf energy sites",
-        "url": "https://www.perplexity.ai/page/oil-surges-past-118-as-iran-st-T6JQr6eVQgK406ZknItYaw",
-        "description": "Brent crude spiked to its highest level in years after Iranian missiles hit facilities in Qatar, Saudi Arabia, and the UAE, deepening recession fears.",
+        "title": "Bank of England holds rates unanimously as Iran war reshapes outlook",
+        "url": "https://www.perplexity.ai/page/bank-of-england-holds-rates-un-AOJqOGjsQWuukId4wop3aQ",
+        "description": "The MPC's 9-0 vote marks a sharp shift from February's 5-4 split, as rising energy prices from the Middle East conflict shelve rate cut hopes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T12:12:23Z",
-        "sourceCount": "43 sources"
+        "pubDate": "2026-03-19T13:07:03Z",
+        "sourceCount": "38 sources"
       },
       {
-        "title": "Iran considers charging transit fees in Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-considers-charging-transi-1omuvjYPRm22yzQGNq7dzg",
-        "description": "An Iranian lawmaker said Tehran is weighing formal fees on vessels passing through the critical waterway it now controls as a selective checkpoint.",
+        "title": "US jobless claims fall to lowest level since January",
+        "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-lowe-hMmm.m6.Q82tHdB4vmwePw",
+        "description": "Weekly claims dropped to 205,000, well below the 215,000 economists expected, though continuing claims rose as hiring remains sluggish.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T10:36:02Z",
-        "sourceCount": "90 sources"
+        "pubDate": "2026-03-19T13:06:54Z",
+        "sourceCount": "46 sources"
       },
       {
         "title": "Unilever and Kraft Heinz end food merger talks",
@@ -1301,15 +1274,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Lynas begins samarium production in Malaysia ahead of schedule",
-        "url": "https://www.perplexity.ai/page/lynas-begins-samarium-producti-i2jmS4SKQiy7nUA_GCikhw",
-        "description": "The Australian miner says it is now the only producer of the critical defense mineral outside of China.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T07:24:32Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
         "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
         "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
@@ -1335,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-19T05:09:14Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
+        "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
+        "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T04:44:19Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "China pledges solar energy aid to Cuba after grid collapse",
@@ -2478,33 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T20:54:06Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
-        "url": "https://www.perplexity.ai/page/scientists-decode-300-million-_NahwFaBS7WzhFdXN7XKUA",
-        "description": "A massive study of 284 plant species identified 2.3 million conserved regulatory sequences, some predating flowering plants entirely.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T05:33:27Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Japan's Katayama signals readiness to act on yen as currency nears 160",
-        "url": "https://www.perplexity.ai/page/japan-s-katayama-signals-readi-nFMMvDHiQBiRjeGLgSb7fw",
-        "description": "Finance Minister Satsuki Katayama said authorities will take \"all necessary measures\" as the yen hit its weakest level since July 2024 amid surging oil prices.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T05:32:33Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Trump signs orders to cut housing regulations, ease mortgage access",
-        "url": "https://www.perplexity.ai/page/trump-signs-orders-to-cut-hous-7iorfy.rRaewAcibF2oNyQ",
-        "description": "The executive orders aim to speed up construction permitting and bring community banks back into mortgage lending ahead of the midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T20:02:30Z",
-        "sourceCount": "72 sources"
       }
     ],
     "tech": [],
