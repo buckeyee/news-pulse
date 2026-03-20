@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US launches air campaign to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+      "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:46:46Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
       "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -730,15 +739,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Oil tankers begin trickling through Strait of Hormuz, White House says",
-      "url": "https://www.perplexity.ai/page/oil-tankers-begin-trickling-th-2dmPoPJ0R9KTWe9l4h_eaw",
-      "description": "Traffic through the critical waterway had nearly ceased as the U.S.-Israeli military campaign against Iran enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T15:22:25Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
       "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
       "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
@@ -773,6 +773,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T11:43:36Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israel says it killed Iran's security chief as Strait of Hormuz attacks continue",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-s-y0l.6_xSTceEzk1v_RdHHg",
+      "description": "A tanker was struck near a UAE port on Monday as the war enters its third week, with 500 vessels stuck or hit since hostilities began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T13:48:35Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
@@ -1313,47 +1322,20 @@
       "topic": "top",
       "pubDate": "2026-03-14T01:33:48Z",
       "sourceCount": "44 sources"
-    },
-    {
-      "title": "UN says nearly all Gaza aid movements denied in past two days",
-      "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
-      "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T00:19:18Z",
-      "sourceCount": "48 sources"
-    },
-    {
-      "title": "Qatar orders evacuations as Gulf conflict enters third week",
-      "url": "https://www.perplexity.ai/page/qatar-orders-evacuations-as-gu-WhutIpejQG.Qz6JCERZgjg",
-      "description": "Debris from an intercepted drone struck Dubai's financial district Friday as Qatar began evacuating residents from specified areas overnight.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T00:04:14Z",
-      "sourceCount": "65 sources"
-    },
-    {
-      "title": "Cuba says FBI team to help probe deadly speedboat incursion",
-      "url": "https://www.perplexity.ai/page/cuba-says-fbi-team-to-help-pro-tpRlTqaMQ3.b5D8hvi0KpQ",
-      "description": "Cuban President Díaz-Canel confirmed the FBI will send investigators to Havana, marking rare cooperation amid strained U.S.-Cuba relations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:18:44Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran-backed Iraqi militia offers bounty on US officials",
-      "url": "https://www.perplexity.ai/page/iran-backed-iraqi-militia-offe-YE1lETvOSsy2Itftqrh9oA",
-      "description": "The Islamic Resistance in Iraq announced a roughly $114,000 reward for intelligence leading to the capture or killing of senior American personnel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T23:47:35Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-20T10:29:28Z",
+  "cached_at": "2026-03-20T11:45:35Z",
   "topics": {
     "top": [
+      {
+        "title": "US launches air campaign to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+        "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:46:46Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
@@ -2084,15 +2066,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Oil tankers begin trickling through Strait of Hormuz, White House says",
-        "url": "https://www.perplexity.ai/page/oil-tankers-begin-trickling-th-2dmPoPJ0R9KTWe9l4h_eaw",
-        "description": "Traffic through the critical waterway had nearly ceased as the U.S.-Israeli military campaign against Iran enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T15:22:25Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
         "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
         "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
@@ -2127,6 +2100,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T11:43:36Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israel says it killed Iran's security chief as Strait of Hormuz attacks continue",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-s-y0l.6_xSTceEzk1v_RdHHg",
+        "description": "A tanker was struck near a UAE port on Monday as the war enters its third week, with 500 vessels stuck or hit since hostilities began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T13:48:35Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
@@ -2667,42 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T01:33:48Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "UN says nearly all Gaza aid movements denied in past two days",
-        "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
-        "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T00:19:18Z",
-        "sourceCount": "48 sources"
-      },
-      {
-        "title": "Qatar orders evacuations as Gulf conflict enters third week",
-        "url": "https://www.perplexity.ai/page/qatar-orders-evacuations-as-gu-WhutIpejQG.Qz6JCERZgjg",
-        "description": "Debris from an intercepted drone struck Dubai's financial district Friday as Qatar began evacuating residents from specified areas overnight.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T00:04:14Z",
-        "sourceCount": "65 sources"
-      },
-      {
-        "title": "Cuba says FBI team to help probe deadly speedboat incursion",
-        "url": "https://www.perplexity.ai/page/cuba-says-fbi-team-to-help-pro-tpRlTqaMQ3.b5D8hvi0KpQ",
-        "description": "Cuban President Díaz-Canel confirmed the FBI will send investigators to Havana, marking rare cooperation amid strained U.S.-Cuba relations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:18:44Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran-backed Iraqi militia offers bounty on US officials",
-        "url": "https://www.perplexity.ai/page/iran-backed-iraqi-militia-offe-YE1lETvOSsy2Itftqrh9oA",
-        "description": "The Islamic Resistance in Iraq announced a roughly $114,000 reward for intelligence leading to the capture or killing of senior American personnel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T23:47:35Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
