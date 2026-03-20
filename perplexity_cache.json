@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
+      "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
+      "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:19:38Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
+      "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
+      "description": "J.P. Morgan, Morgan Stanley, Barclays, and Goldman Sachs now expect rate hikes as early as April after both central banks held rates steady this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T09:54:21Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
       "description": "India called attacks on commercial shipping \"unacceptable\" as the IMO council urged an internationally coordinated response and a maritime safety corridor.",
@@ -19,15 +37,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "J.P. Morgan forecasts ECB rate hikes in April and July",
-      "url": "https://www.perplexity.ai/page/j-p-morgan-forecasts-ecb-rate-pvyEeUORRZGLjkQO7XlPMA",
-      "description": "The call came hours after the ECB held rates steady for a sixth straight meeting, warning the Middle East war would materially impact inflation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T07:20:09Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Old-growth forests store far more carbon than logged ones, study finds",
       "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
       "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
@@ -37,15 +46,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T05:41:48Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
       "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
       "description": "China's two largest tech companies lost a combined $66 billion in market value in roughly 24 hours after disappointing earnings and costly AI spending plans.",
@@ -53,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:20:03Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T05:41:48Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-13T23:47:35Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Kansas residents split over Deep Fission's underground nuclear reactor project",
-      "url": "https://www.perplexity.ai/page/kansas-residents-split-over-de-YN.Ak2UARoaGEIxFysSxyw",
-      "description": "Dozens gathered at a March 12 public meeting in Parsons, Kansas, days after the startup began drilling for its first-of-a-kind underground reactor.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T23:38:14Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-20T09:49:50Z",
+  "cached_at": "2026-03-20T10:29:28Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
+        "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
+        "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:19:38Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
+        "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
+        "description": "J.P. Morgan, Morgan Stanley, Barclays, and Goldman Sachs now expect rate hikes as early as April after both central banks held rates steady this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T09:54:21Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
@@ -1373,15 +1391,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "J.P. Morgan forecasts ECB rate hikes in April and July",
-        "url": "https://www.perplexity.ai/page/j-p-morgan-forecasts-ecb-rate-pvyEeUORRZGLjkQO7XlPMA",
-        "description": "The call came hours after the ECB held rates steady for a sixth straight meeting, warning the Middle East war would materially impact inflation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T07:20:09Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Old-growth forests store far more carbon than logged ones, study finds",
         "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
         "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
@@ -1391,15 +1400,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T05:41:48Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
         "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
         "description": "China's two largest tech companies lost a combined $66 billion in market value in roughly 24 hours after disappointing earnings and costly AI spending plans.",
@@ -1407,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:20:03Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T05:41:48Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T23:47:35Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Kansas residents split over Deep Fission's underground nuclear reactor project",
-        "url": "https://www.perplexity.ai/page/kansas-residents-split-over-de-YN.Ak2UARoaGEIxFysSxyw",
-        "description": "Dozens gathered at a March 12 public meeting in Parsons, Kansas, days after the startup began drilling for its first-of-a-kind underground reactor.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T23:38:14Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
