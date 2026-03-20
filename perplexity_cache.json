@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "European stocks rally as oil retreats from 2022 highs",
+      "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
+      "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T12:09:45Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "US launches air campaign to reopen Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
       "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:20:03Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T05:41:48Z",
-      "sourceCount": "41 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1304,29 +1304,20 @@
       "topic": "top",
       "pubDate": "2026-03-14T01:49:36Z",
       "sourceCount": "47 sources"
-    },
-    {
-      "title": "Qatar says food reserves can last 18 months amid Iran war",
-      "url": "https://www.perplexity.ai/page/qatar-says-food-reserves-can-l-ihG1XON_Qry049rhO4czjQ",
-      "description": "The interior minister said water supplies cover four months and medicine stocks nine months as Iranian strikes continue across the Gulf.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:28:29Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran's UN envoy warns European bases could be targets",
-      "url": "https://www.perplexity.ai/page/iran-s-un-envoy-warns-european-kKnYOH1HRmCi.FGP_7oayg",
-      "description": "Ambassador Ali Bahreini told Euronews that any facility used to attack Iran, including US bases in Europe, is a \"legitimate target.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:33:48Z",
-      "sourceCount": "44 sources"
     }
   ],
-  "cached_at": "2026-03-20T11:45:35Z",
+  "cached_at": "2026-03-20T12:26:19Z",
   "topics": {
     "top": [
+      {
+        "title": "European stocks rally as oil retreats from 2022 highs",
+        "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
+        "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T12:09:45Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "US launches air campaign to reopen Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
@@ -1389,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:20:03Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T05:41:48Z",
-        "sourceCount": "41 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -2631,24 +2613,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T01:49:36Z",
         "sourceCount": "47 sources"
-      },
-      {
-        "title": "Qatar says food reserves can last 18 months amid Iran war",
-        "url": "https://www.perplexity.ai/page/qatar-says-food-reserves-can-l-ihG1XON_Qry049rhO4czjQ",
-        "description": "The interior minister said water supplies cover four months and medicine stocks nine months as Iranian strikes continue across the Gulf.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:28:29Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran's UN envoy warns European bases could be targets",
-        "url": "https://www.perplexity.ai/page/iran-s-un-envoy-warns-european-kKnYOH1HRmCi.FGP_7oayg",
-        "description": "Ambassador Ali Bahreini told Euronews that any facility used to attack Iran, including US bases in Europe, is a \"legitimate target.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:33:48Z",
-        "sourceCount": "44 sources"
       }
     ],
     "tech": [],
