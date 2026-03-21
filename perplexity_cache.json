@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+      "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+      "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T06:51:30Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Cambridge memristor could cut AI energy use by 70%",
       "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
       "description": "A new hafnium oxide device mimics brain neurons to store and process data in the same place, slashing power demands of AI hardware.",
@@ -37,15 +46,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Oil dips as Iran allows more ships through Hormuz",
-      "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
-      "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T22:41:30Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Judge blocks Pentagon policy restricting press access",
       "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
       "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
@@ -55,15 +55,6 @@
       "sourceCount": "76 sources"
     },
     {
-      "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-      "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T02:05:55Z",
-      "sourceCount": "37 sources"
-    },
-    {
       "title": "Jury finds Musk liable for misleading Twitter investors",
       "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
       "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
@@ -71,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T22:10:04Z",
       "sourceCount": "66 sources"
+    },
+    {
+      "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
+      "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T02:05:55Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
@@ -1169,20 +1169,20 @@
       "topic": "top",
       "pubDate": "2026-03-15T16:45:41Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "House Republicans vow to block Senate bills until SAVE Act advances",
-      "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
-      "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-15T13:04:20Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-21T05:57:19Z",
+  "cached_at": "2026-03-21T06:58:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+        "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+        "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T06:51:30Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Cambridge memristor could cut AI energy use by 70%",
         "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
@@ -1220,15 +1220,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Oil dips as Iran allows more ships through Hormuz",
-        "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
-        "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T22:41:30Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Judge blocks Pentagon policy restricting press access",
         "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
         "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
@@ -1238,15 +1229,6 @@
         "sourceCount": "76 sources"
       },
       {
-        "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-        "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T02:05:55Z",
-        "sourceCount": "37 sources"
-      },
-      {
         "title": "Jury finds Musk liable for misleading Twitter investors",
         "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
         "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
@@ -1254,6 +1236,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T22:10:04Z",
         "sourceCount": "66 sources"
+      },
+      {
+        "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
+        "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T02:05:55Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
@@ -2352,15 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-03-15T16:45:41Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "House Republicans vow to block Senate bills until SAVE Act advances",
-        "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
-        "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-15T13:04:20Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
