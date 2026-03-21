@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Historic heat wave pushes California snowpack toward record low",
+      "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
+      "description": "More than 800 daily temperature records have broken this month as Sierra snow melts at about 1% per day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T10:10:25Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
       "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
       "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T05:08:51Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
+      "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
+      "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T10:08:14Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Senate fails to advance DHS funding on day 35 of shutdown",
@@ -1171,9 +1189,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-21T09:51:13Z",
+  "cached_at": "2026-03-21T10:21:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Historic heat wave pushes California snowpack toward record low",
+        "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
+        "description": "More than 800 daily temperature records have broken this month as Sierra snow melts at about 1% per day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T10:10:25Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
         "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
@@ -1191,6 +1218,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T05:08:51Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
+        "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
+        "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T10:08:14Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Senate fails to advance DHS funding on day 35 of shutdown",
