@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "IEA warns Iran war could disrupt oil flows for six months",
-      "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
-      "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+      "title": "White House urges Congress to override state AI laws",
+      "url": "https://www.perplexity.ai/page/white-house-urges-congress-to-m4NV9HT7Sn2xEDH4UNv7mQ",
+      "description": "The four-page blueprint would bar states from regulating AI development, instead routing oversight through existing federal agencies.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-21T11:37:56Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-21T14:08:32Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Iran refuses to discuss reopening Strait of Hormuz amid ongoing strikes",
+      "url": "https://www.perplexity.ai/page/iran-refuses-to-discuss-reopen-6GbR6qcQR0OZnEyTxNEWdQ",
+      "description": "The blockade has choked off 20% of global oil supply and a third of seaborne fertilizer trade, triggering a dual energy and food crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T14:03:21Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
@@ -28,6 +37,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "IEA warns Iran war could disrupt oil flows for six months",
+      "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
+      "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T11:37:56Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Historic heat wave pushes California snowpack toward record low",
       "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
       "description": "More than 800 daily temperature records have broken this month as Sierra snow melts at about 1% per day.",
@@ -35,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T10:10:25Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+      "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+      "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T06:51:30Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Cambridge memristor could cut AI energy use by 70%",
@@ -46,15 +73,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Senate fails to advance DHS funding on day 35 of shutdown",
-      "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
-      "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T03:21:40Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
       "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
       "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
@@ -62,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T10:08:14Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Senate fails to advance DHS funding on day 35 of shutdown",
+      "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
+      "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T03:21:40Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "International aid convoys converge on Havana amid U.S. oil blockade",
@@ -1198,17 +1225,26 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-21T13:53:18Z",
+  "cached_at": "2026-03-21T14:28:12Z",
   "topics": {
     "top": [
       {
-        "title": "IEA warns Iran war could disrupt oil flows for six months",
-        "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
-        "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+        "title": "White House urges Congress to override state AI laws",
+        "url": "https://www.perplexity.ai/page/white-house-urges-congress-to-m4NV9HT7Sn2xEDH4UNv7mQ",
+        "description": "The four-page blueprint would bar states from regulating AI development, instead routing oversight through existing federal agencies.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-21T11:37:56Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-21T14:08:32Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Iran refuses to discuss reopening Strait of Hormuz amid ongoing strikes",
+        "url": "https://www.perplexity.ai/page/iran-refuses-to-discuss-reopen-6GbR6qcQR0OZnEyTxNEWdQ",
+        "description": "The blockade has choked off 20% of global oil supply and a third of seaborne fertilizer trade, triggering a dual energy and food crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T14:03:21Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
@@ -1229,6 +1265,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "IEA warns Iran war could disrupt oil flows for six months",
+        "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
+        "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T11:37:56Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Historic heat wave pushes California snowpack toward record low",
         "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
         "description": "More than 800 daily temperature records have broken this month as Sierra snow melts at about 1% per day.",
@@ -1236,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T10:10:25Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+        "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+        "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T06:51:30Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Cambridge memristor could cut AI energy use by 70%",
@@ -1247,15 +1301,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Senate fails to advance DHS funding on day 35 of shutdown",
-        "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
-        "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T03:21:40Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
         "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
         "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
@@ -1263,6 +1308,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T10:08:14Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Senate fails to advance DHS funding on day 35 of shutdown",
+        "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
+        "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T03:21:40Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "International aid convoys converge on Havana amid U.S. oil blockade",
