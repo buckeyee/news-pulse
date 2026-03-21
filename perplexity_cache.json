@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Cambridge memristor could cut AI energy use by 70%",
+      "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
+      "description": "A new hafnium oxide device mimics brain neurons to store and process data in the same place, slashing power demands of AI hardware.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T05:08:51Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Senate fails to advance DHS funding on day 35 of shutdown",
       "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
       "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
@@ -1171,9 +1180,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-21T04:13:24Z",
+  "cached_at": "2026-03-21T05:14:00Z",
   "topics": {
     "top": [
+      {
+        "title": "Cambridge memristor could cut AI energy use by 70%",
+        "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
+        "description": "A new hafnium oxide device mimics brain neurons to store and process data in the same place, slashing power demands of AI hardware.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T05:08:51Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Senate fails to advance DHS funding on day 35 of shutdown",
         "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
