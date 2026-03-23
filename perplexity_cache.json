@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
+      "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
+      "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T19:33:56Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Jury awards $19.25M to woman who accused Cosby of 1972 assault",
+      "url": "https://www.perplexity.ai/page/jury-awards-19-25m-to-woman-wh-LpL0cIp3R_CornWyjrRMqA",
+      "description": "The verdict in Santa Monica is the largest civil judgment against the 88-year-old entertainer, who maintains any encounter was consensual.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T19:11:50Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Warren calls Pentagon's Anthropic blacklist 'retaliation'",
       "url": "https://www.perplexity.ai/page/warren-calls-pentagon-s-anthro-xSqqbdVXQlqKh.WceQcInQ",
       "description": "The senator urged Defense Secretary Hegseth to justify the supply-chain risk label ahead of a key court hearing Tuesday in San Francisco.",
@@ -1153,9 +1171,27 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-23T19:13:03Z",
+  "cached_at": "2026-03-23T19:58:21Z",
   "topics": {
     "top": [
+      {
+        "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
+        "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
+        "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T19:33:56Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Jury awards $19.25M to woman who accused Cosby of 1972 assault",
+        "url": "https://www.perplexity.ai/page/jury-awards-19-25m-to-woman-wh-LpL0cIp3R_CornWyjrRMqA",
+        "description": "The verdict in Santa Monica is the largest civil judgment against the 88-year-old entertainer, who maintains any encounter was consensual.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T19:11:50Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Warren calls Pentagon's Anthropic blacklist 'retaliation'",
         "url": "https://www.perplexity.ai/page/warren-calls-pentagon-s-anthro-xSqqbdVXQlqKh.WceQcInQ",
