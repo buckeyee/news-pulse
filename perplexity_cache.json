@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "AWS Bahrain region disrupted by drones for second time this month",
+      "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
+      "description": "Amazon confirmed drone activity knocked out its cloud computing region in Bahrain again, as the company urges customers to migrate workloads elsewhere.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T05:54:08Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "ISS images of Russian missile strike on Kyiv verified by analysts",
       "url": "https://www.perplexity.ai/page/iss-images-of-russian-missile-oSlEPulsROOKVcz4171yKA",
       "description": "Photographs taken from the space station on Dec. 27 show ballistic missiles streaking toward Kyiv and air defense systems firing back.",
@@ -1225,9 +1234,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-24T05:44:43Z",
+  "cached_at": "2026-03-24T06:45:30Z",
   "topics": {
     "top": [
+      {
+        "title": "AWS Bahrain region disrupted by drones for second time this month",
+        "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
+        "description": "Amazon confirmed drone activity knocked out its cloud computing region in Bahrain again, as the company urges customers to migrate workloads elsewhere.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T05:54:08Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "ISS images of Russian missile strike on Kyiv verified by analysts",
         "url": "https://www.perplexity.ai/page/iss-images-of-russian-missile-oSlEPulsROOKVcz4171yKA",
