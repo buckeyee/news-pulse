@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:59:26Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
+      "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
+      "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:36:53Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "NASA cancels Lunar Gateway, will build $20B moon base",
+      "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
+      "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:17:22Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
       "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
       "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
@@ -1079,38 +1106,38 @@
       "topic": "top",
       "pubDate": "2026-03-18T20:44:02Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "Australian scientists build world's first quantum battery prototype",
-      "url": "https://www.perplexity.ai/page/australian-scientists-build-wo-Aj_P9zYjSxCqXhqG9Nz2jg",
-      "description": "CSIRO-led team created a device that charges, stores, and discharges energy using quantum mechanics — and charges faster as it grows.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T18:11:06Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:43:46Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "FAA ends visual separation for helicopters near airports nationwide",
-      "url": "https://www.perplexity.ai/page/faa-ends-visual-separation-for-wLpeMDPETe.zf24pjCSddA",
-      "description": "Controllers must now use radar to keep helicopters and planes apart, a sweeping change after the 2025 Potomac midair collision and recent close calls.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T18:08:24Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T17:14:19Z",
+  "cached_at": "2026-03-24T18:11:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:59:26Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
+        "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
+        "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:36:53Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "NASA cancels Lunar Gateway, will build $20B moon base",
+        "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
+        "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:17:22Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
         "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
@@ -2190,33 +2217,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T20:44:02Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "Australian scientists build world's first quantum battery prototype",
-        "url": "https://www.perplexity.ai/page/australian-scientists-build-wo-Aj_P9zYjSxCqXhqG9Nz2jg",
-        "description": "CSIRO-led team created a device that charges, stores, and discharges energy using quantum mechanics — and charges faster as it grows.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T18:11:06Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:43:46Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "FAA ends visual separation for helicopters near airports nationwide",
-        "url": "https://www.perplexity.ai/page/faa-ends-visual-separation-for-wLpeMDPETe.zf24pjCSddA",
-        "description": "Controllers must now use radar to keep helicopters and planes apart, a sweeping change after the 2025 Potomac midair collision and recent close calls.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T18:08:24Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
