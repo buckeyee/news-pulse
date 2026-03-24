@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China mapping ocean floor for submarine warfare, Reuters finds",
+      "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
+      "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T07:56:57Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Sunken Soviet sub is leaking radioactive material, study finds",
       "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
       "description": "A new PNAS study confirms the Komsomolets submarine is releasing strontium, cesium, uranium, and plutonium into the Norwegian Sea from its corroding hull.",
@@ -1223,29 +1232,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T15:42:53Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
-      "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
-      "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T14:40:13Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Top US Counterterrorism Official Joe Kent Resigns Over Iran War",
-      "url": "https://www.perplexity.ai/page/top-us-counterterrorism-offici-TK8Guk.kTK2SWtflk2kQJg",
-      "description": "Kent accused Israeli officials of deploying \"a misinformation campaign\" that lured the U.S. into the conflict, now in its 17th day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T14:39:51Z",
-      "sourceCount": "78 sources"
     }
   ],
-  "cached_at": "2026-03-24T07:44:12Z",
+  "cached_at": "2026-03-24T08:35:16Z",
   "topics": {
     "top": [
+      {
+        "title": "China mapping ocean floor for submarine warfare, Reuters finds",
+        "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
+        "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T07:56:57Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Sunken Soviet sub is leaking radioactive material, study finds",
         "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
@@ -2469,24 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T15:42:53Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
-        "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
-        "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T14:40:13Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Top US Counterterrorism Official Joe Kent Resigns Over Iran War",
-        "url": "https://www.perplexity.ai/page/top-us-counterterrorism-offici-TK8Guk.kTK2SWtflk2kQJg",
-        "description": "Kent accused Israeli officials of deploying \"a misinformation campaign\" that lured the U.S. into the conflict, now in its 17th day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T14:39:51Z",
-        "sourceCount": "78 sources"
       }
     ],
     "tech": [],
