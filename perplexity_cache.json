@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump gets daily strike montage on Iran war, raising concerns",
-      "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
-      "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+      "title": "TSA chief tells Congress agency won't be ready for World Cup",
+      "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
+      "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T14:18:39Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-25T15:48:42Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Supreme Court rules ISPs not liable for users' piracy",
+      "url": "https://www.perplexity.ai/page/supreme-court-rules-isps-not-l-wnKeHG8gR8yNPA_hTyZTTg",
+      "description": "The unanimous decision reverses a jury verdict against Cox Communications in a lawsuit led by Sony Music over illegal downloads of more than 10,000 songs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T15:30:27Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
@@ -19,6 +28,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Trump gets daily strike montage on Iran war, raising concerns",
+      "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
+      "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T14:18:39Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "NASA confirms Artemis II is go for April 1 moon launch",
       "url": "https://www.perplexity.ai/page/nasa-confirms-artemis-ii-is-go-hSrsZ2AHTU.Bcp2N_I1D1Q",
       "description": "Four astronauts are set to become the first humans to travel to the moon in over 50 years aboard a 10-day test flight.",
@@ -26,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-25T12:20:27Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
-      "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
-      "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T13:53:27Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "New York Times accuses Pentagon of defying court order on press access",
@@ -46,6 +55,15 @@
       "sourceCount": "26 sources"
     },
     {
+      "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
+      "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
+      "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T13:53:27Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Astronomers spot two planets forming around a young star like our sun",
       "url": "https://www.perplexity.ai/page/astronomers-spot-two-planets-f-sTUNKc10R7OFyXU2_UtRzA",
       "description": "WISPIT 2 is only the second known system where two planets have been directly observed taking shape, offering a rare window into our solar system's origins.",
@@ -55,15 +73,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
-      "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
-      "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T12:23:04Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "US Army raises max enlistment age to 42, eases marijuana rules",
       "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
       "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
@@ -71,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T01:57:22Z",
       "sourceCount": "62 sources"
+    },
+    {
+      "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
+      "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
+      "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T12:23:04Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
@@ -1297,17 +1315,26 @@
       "sourceCount": "46 sources"
     }
   ],
-  "cached_at": "2026-03-25T14:50:30Z",
+  "cached_at": "2026-03-25T16:02:52Z",
   "topics": {
     "top": [
       {
-        "title": "Trump gets daily strike montage on Iran war, raising concerns",
-        "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
-        "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+        "title": "TSA chief tells Congress agency won't be ready for World Cup",
+        "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
+        "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T14:18:39Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-25T15:48:42Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Supreme Court rules ISPs not liable for users' piracy",
+        "url": "https://www.perplexity.ai/page/supreme-court-rules-isps-not-l-wnKeHG8gR8yNPA_hTyZTTg",
+        "description": "The unanimous decision reverses a jury verdict against Cox Communications in a lawsuit led by Sony Music over illegal downloads of more than 10,000 songs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T15:30:27Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
@@ -1319,6 +1346,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Trump gets daily strike montage on Iran war, raising concerns",
+        "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
+        "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T14:18:39Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "NASA confirms Artemis II is go for April 1 moon launch",
         "url": "https://www.perplexity.ai/page/nasa-confirms-artemis-ii-is-go-hSrsZ2AHTU.Bcp2N_I1D1Q",
         "description": "Four astronauts are set to become the first humans to travel to the moon in over 50 years aboard a 10-day test flight.",
@@ -1326,15 +1362,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T12:20:27Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
-        "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
-        "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T13:53:27Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "New York Times accuses Pentagon of defying court order on press access",
@@ -1346,6 +1373,15 @@
         "sourceCount": "26 sources"
       },
       {
+        "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
+        "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
+        "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T13:53:27Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Astronomers spot two planets forming around a young star like our sun",
         "url": "https://www.perplexity.ai/page/astronomers-spot-two-planets-f-sTUNKc10R7OFyXU2_UtRzA",
         "description": "WISPIT 2 is only the second known system where two planets have been directly observed taking shape, offering a rare window into our solar system's origins.",
@@ -1355,15 +1391,6 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
-        "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
-        "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T12:23:04Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "US Army raises max enlistment age to 42, eases marijuana rules",
         "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
         "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
@@ -1371,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T01:57:22Z",
         "sourceCount": "62 sources"
+      },
+      {
+        "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
+        "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
+        "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T12:23:04Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
