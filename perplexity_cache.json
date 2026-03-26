@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Iran quietly reviews US ceasefire plan despite public rejection",
-      "url": "https://www.perplexity.ai/page/iran-quietly-reviews-us-ceasef-uOHxaHgVSz.DCQOGeUH1tw",
-      "description": "Pakistan says it has not received a formal reply from Tehran, even as Iranian officials publicly dismiss the 15-point proposal to end the Gulf war.",
+      "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
+      "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
+      "description": "Commodity markets whipsawed after Tehran dismissed a 15-point proposal and issued its own conditions widely seen as unacceptable to Washington.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T08:40:11Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-26T09:36:59Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Rice researchers recover 95% of battery metals using plasma and citric acid",
+      "url": "https://www.perplexity.ai/page/rice-researchers-recover-95-of-U010ivklQUCv5KfRI2oQUw",
+      "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T09:25:14Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
@@ -1340,28 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-03-20T17:44:35Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Denmark planned to destroy Greenland runways if US invaded",
-      "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
-      "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T21:20:46Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-26T09:11:16Z",
+  "cached_at": "2026-03-26T10:13:26Z",
   "topics": {
     "top": [
       {
-        "title": "Iran quietly reviews US ceasefire plan despite public rejection",
-        "url": "https://www.perplexity.ai/page/iran-quietly-reviews-us-ceasef-uOHxaHgVSz.DCQOGeUH1tw",
-        "description": "Pakistan says it has not received a formal reply from Tehran, even as Iranian officials publicly dismiss the 15-point proposal to end the Gulf war.",
+        "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
+        "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
+        "description": "Commodity markets whipsawed after Tehran dismissed a 15-point proposal and issued its own conditions widely seen as unacceptable to Washington.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T08:40:11Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-26T09:36:59Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Rice researchers recover 95% of battery metals using plasma and citric acid",
+        "url": "https://www.perplexity.ai/page/rice-researchers-recover-95-of-U010ivklQUCv5KfRI2oQUw",
+        "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T09:25:14Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T17:44:35Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Denmark planned to destroy Greenland runways if US invaded",
-        "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
-        "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T21:20:46Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
