@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
+      "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
+      "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T21:17:21Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
       "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
       "description": "The Senate remains unable to clear the 60-vote filibuster threshold, with lawmakers facing a two-week recess starting Friday and no deal in sight.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T11:19:15Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Democrats conduct informal vote counts on ousting Schumer",
-      "url": "https://www.perplexity.ai/page/democrats-conduct-informal-vot-M.T7zvWkQ4yPSYMqsvNikw",
-      "description": "Sen. Chris Murphy revealed that Democratic lawmakers have tallied votes on removing Schumer as minority leader, though he said Schumer retains enough support to stay.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T10:18:52Z",
-      "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-03-26T21:41:38Z",
+  "cached_at": "2026-03-26T22:00:51Z",
   "topics": {
     "top": [
+      {
+        "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
+        "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
+        "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T21:17:21Z",
+        "sourceCount": "57 sources"
+      },
       {
         "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
         "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T11:19:15Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Democrats conduct informal vote counts on ousting Schumer",
-        "url": "https://www.perplexity.ai/page/democrats-conduct-informal-vot-M.T7zvWkQ4yPSYMqsvNikw",
-        "description": "Sen. Chris Murphy revealed that Democratic lawmakers have tallied votes on removing Schumer as minority leader, though he said Schumer retains enough support to stay.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T10:18:52Z",
-        "sourceCount": "75 sources"
       }
     ],
     "tech": [],
