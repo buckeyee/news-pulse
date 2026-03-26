@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+      "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+      "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T22:11:46Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Iran offers Spain Hormuz access in first such EU overture",
+      "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
+      "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T21:39:00Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Bipartisan Senate bill targets insider trading on prediction markets",
+      "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
+      "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T21:30:14Z",
+      "sourceCount": "73 sources"
+    },
+    {
       "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
       "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
       "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
@@ -1072,15 +1099,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Kalshi, Polymarket ban insider trading as senators target industry",
-      "url": "https://www.perplexity.ai/page/kalshi-polymarket-ban-insider-E2455h3lTMeo7BKprSLHLA",
-      "description": "The two largest prediction market platforms rushed to announce new guardrails after bipartisan legislation threatened to ban sports contracts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T02:38:19Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Pentagon closes press workspace, moves reporters off-site after court loss",
       "url": "https://www.perplexity.ai/page/pentagon-closes-press-workspac-yUq5HyPfSlWbbeHk6ZT.VQ",
       "description": "Three days after a judge ruled its press restrictions unconstitutional, the Defense Department is relocating journalists to an annex outside the building.",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-21T18:59:26Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:35:05Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
-      "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
-      "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T11:19:15Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-26T22:00:51Z",
+  "cached_at": "2026-03-26T22:48:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+        "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+        "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T22:11:46Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Iran offers Spain Hormuz access in first such EU overture",
+        "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
+        "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T21:39:00Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Bipartisan Senate bill targets insider trading on prediction markets",
+        "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
+        "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T21:30:14Z",
+        "sourceCount": "73 sources"
+      },
       {
         "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
         "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
@@ -2426,15 +2453,6 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "Kalshi, Polymarket ban insider trading as senators target industry",
-        "url": "https://www.perplexity.ai/page/kalshi-polymarket-ban-insider-E2455h3lTMeo7BKprSLHLA",
-        "description": "The two largest prediction market platforms rushed to announce new guardrails after bipartisan legislation threatened to ban sports contracts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T02:38:19Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Pentagon closes press workspace, moves reporters off-site after court loss",
         "url": "https://www.perplexity.ai/page/pentagon-closes-press-workspac-yUq5HyPfSlWbbeHk6ZT.VQ",
         "description": "Three days after a judge ruled its press restrictions unconstitutional, the Defense Department is relocating journalists to an annex outside the building.",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T18:59:26Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:35:05Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
-        "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
-        "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T11:19:15Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
