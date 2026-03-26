@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Study finds AI chatbots affirm users 49% more than humans do",
+      "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
+      "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T19:54:15Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "US conducts hypersonic missile test at Cape Canaveral",
       "url": "https://www.perplexity.ai/page/us-conducts-hypersonic-missile-SmQM_laMRzul1kXVBGTL.Q",
       "description": "Witnesses spotted an unscheduled launch Thursday from Cape Canaveral Space Force Station, identified by observers as a hypersonic missile test during a pre-announced window.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T02:10:46Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Judge blocks Pentagon policy restricting press access",
-      "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
-      "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T22:15:01Z",
-      "sourceCount": "76 sources"
     }
   ],
-  "cached_at": "2026-03-26T19:44:37Z",
+  "cached_at": "2026-03-26T20:22:23Z",
   "topics": {
     "top": [
+      {
+        "title": "Study finds AI chatbots affirm users 49% more than humans do",
+        "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
+        "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T19:54:15Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "US conducts hypersonic missile test at Cape Canaveral",
         "url": "https://www.perplexity.ai/page/us-conducts-hypersonic-missile-SmQM_laMRzul1kXVBGTL.Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T02:10:46Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Judge blocks Pentagon policy restricting press access",
-        "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
-        "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T22:15:01Z",
-        "sourceCount": "76 sources"
       }
     ],
     "tech": [],
