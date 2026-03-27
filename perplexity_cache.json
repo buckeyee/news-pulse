@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China boycotts top AI conference over US sanctions ban",
+      "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
+      "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T08:10:33Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Trump to order TSA agents paid amid 41-day shutdown",
       "url": "https://www.perplexity.ai/page/trump-to-order-tsa-agents-paid-pC7PDdz2TFSD3Nadr4PQXg",
       "description": "The president said he will direct DHS Secretary Markwayne Mullin to \"immediately pay\" TSA workers, but the legal authority for the move remains unclear.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-22T19:18:55Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
-      "url": "https://www.perplexity.ai/page/trump-draws-bipartisan-rebuke-t16E5rMgT8elUG2laF95GA",
-      "description": "Robert Mueller, the former FBI director and special counsel in the Trump-Russia probe, died Friday at 81. Trump said he was \"glad\" on Truth Social.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T19:18:57Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-27T08:08:48Z",
+  "cached_at": "2026-03-27T09:08:23Z",
   "topics": {
     "top": [
+      {
+        "title": "China boycotts top AI conference over US sanctions ban",
+        "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
+        "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T08:10:33Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Trump to order TSA agents paid amid 41-day shutdown",
         "url": "https://www.perplexity.ai/page/trump-to-order-tsa-agents-paid-pC7PDdz2TFSD3Nadr4PQXg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T19:18:55Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
-        "url": "https://www.perplexity.ai/page/trump-draws-bipartisan-rebuke-t16E5rMgT8elUG2laF95GA",
-        "description": "Robert Mueller, the former FBI director and special counsel in the Trump-Russia probe, died Friday at 81. Trump said he was \"glad\" on Truth Social.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T19:18:57Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
