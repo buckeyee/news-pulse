@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Japan backs US deep sea mining push in new pact",
+      "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
+      "description": "The non-binding memorandum, signed after a Trump-Takaichi meeting, was circulated at a UN seabed authority session where 40 nations seek a mining moratorium.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T11:09:56Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Hormuz oil crisis intensifies global push for renewables",
       "url": "https://www.perplexity.ai/page/hormuz-oil-crisis-intensifies-kaVD2mVJQr.Mj5weeVt5DQ",
       "description": "IEA chief Fatih Birol says the strait blockade, now in its fourth week, will hasten renewable energy adoption as a domestic alternative to vulnerable oil routes.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T20:45:26Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
-      "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
-      "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T19:42:57Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-28T10:56:02Z",
+  "cached_at": "2026-03-28T11:35:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Japan backs US deep sea mining push in new pact",
+        "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
+        "description": "The non-binding memorandum, signed after a Trump-Takaichi meeting, was circulated at a UN seabed authority session where 40 nations seek a mining moratorium.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T11:09:56Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Hormuz oil crisis intensifies global push for renewables",
         "url": "https://www.perplexity.ai/page/hormuz-oil-crisis-intensifies-kaVD2mVJQr.Mj5weeVt5DQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T20:45:26Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
-        "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
-        "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T19:42:57Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
