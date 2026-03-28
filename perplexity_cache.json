@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "NASA days from launching first crewed moon mission since 1972",
-      "url": "https://www.perplexity.ai/page/nasa-days-from-launching-first-3guZV5DeTn2c9EIOCLsVOw",
-      "description": "Artemis 2 is set to lift off April 1, while a nuclear-powered Mars spacecraft announced last week targets a December 2028 departure.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T15:38:31Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "MIT, ASU teams crack protein motion design for drug discovery",
-      "url": "https://www.perplexity.ai/page/mit-asu-teams-crack-protein-mo-giTdZLKHRPSTzimq5YPBfQ",
-      "description": "Two independent advances let scientists design and simulate proteins based on how they move, not just their shape, opening new paths for drug design.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T14:36:30Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Japan backs US deep sea mining push in new pact",
       "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
       "description": "The non-binding memorandum, signed after a Trump-Takaichi meeting, was circulated at a UN seabed authority session where 40 nations seek a mining moratorium.",
@@ -26,15 +8,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T11:09:56Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Hormuz oil crisis intensifies global push for renewables",
-      "url": "https://www.perplexity.ai/page/hormuz-oil-crisis-intensifies-kaVD2mVJQr.Mj5weeVt5DQ",
-      "description": "IEA chief Fatih Birol says the strait blockade, now in its fourth week, will hasten renewable energy adoption as a domestic alternative to vulnerable oil routes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T10:20:43Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Iran war wipes $11.5 trillion from global markets in one month",
@@ -55,25 +28,7 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Leiden scientists 3D-print microrobots that swim without a brain",
-      "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
-      "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T06:20:04Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "ASU method maps protein motion in hours, not months",
-      "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
-      "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T06:07:12Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+      "title": "IAEA says no radiation risk after strikes hit Iranian facilities",
       "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
       "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
       "source": "Perplexity",
@@ -1349,29 +1304,56 @@
       "topic": "top",
       "pubDate": "2026-03-24T21:55:54Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+      "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+      "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T22:11:30Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "NASA outlines moon strategy as Artemis II targets April launch",
+      "url": "https://www.perplexity.ai/page/nasa-outlines-moon-strategy-as-THwcKmppTEqjbUgxzg32Kg",
+      "description": "The agency is hosting a Washington event to detail how it plans to return astronauts to the lunar surface by 2028 despite ongoing delays.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T20:45:26Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
+      "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
+      "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T19:42:57Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Brazil court places Bolsonaro under house arrest on health grounds",
+      "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
+      "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T19:37:34Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:59:26Z",
+      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-28T16:24:56Z",
+  "cached_at": "2026-03-28T17:01:34Z",
   "topics": {
     "top": [
-      {
-        "title": "NASA days from launching first crewed moon mission since 1972",
-        "url": "https://www.perplexity.ai/page/nasa-days-from-launching-first-3guZV5DeTn2c9EIOCLsVOw",
-        "description": "Artemis 2 is set to lift off April 1, while a nuclear-powered Mars spacecraft announced last week targets a December 2028 departure.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T15:38:31Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "MIT, ASU teams crack protein motion design for drug discovery",
-        "url": "https://www.perplexity.ai/page/mit-asu-teams-crack-protein-mo-giTdZLKHRPSTzimq5YPBfQ",
-        "description": "Two independent advances let scientists design and simulate proteins based on how they move, not just their shape, opening new paths for drug design.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T14:36:30Z",
-        "sourceCount": "24 sources"
-      },
       {
         "title": "Japan backs US deep sea mining push in new pact",
         "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
@@ -1380,15 +1362,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T11:09:56Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Hormuz oil crisis intensifies global push for renewables",
-        "url": "https://www.perplexity.ai/page/hormuz-oil-crisis-intensifies-kaVD2mVJQr.Mj5weeVt5DQ",
-        "description": "IEA chief Fatih Birol says the strait blockade, now in its fourth week, will hasten renewable energy adoption as a domestic alternative to vulnerable oil routes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T10:20:43Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Iran war wipes $11.5 trillion from global markets in one month",
@@ -1409,25 +1382,7 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Leiden scientists 3D-print microrobots that swim without a brain",
-        "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
-        "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T06:20:04Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "ASU method maps protein motion in hours, not months",
-        "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
-        "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T06:07:12Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+        "title": "IAEA says no radiation risk after strikes hit Iranian facilities",
         "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
         "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
         "source": "Perplexity",
@@ -2703,6 +2658,51 @@
         "topic": "top",
         "pubDate": "2026-03-24T21:55:54Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+        "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+        "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T22:11:30Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "NASA outlines moon strategy as Artemis II targets April launch",
+        "url": "https://www.perplexity.ai/page/nasa-outlines-moon-strategy-as-THwcKmppTEqjbUgxzg32Kg",
+        "description": "The agency is hosting a Washington event to detail how it plans to return astronauts to the lunar surface by 2028 despite ongoing delays.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T20:45:26Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
+        "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
+        "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T19:42:57Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Brazil court places Bolsonaro under house arrest on health grounds",
+        "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
+        "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T19:37:34Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:59:26Z",
+        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
