@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "MIT, ASU teams crack protein motion design for drug discovery",
+      "url": "https://www.perplexity.ai/page/mit-asu-teams-crack-protein-mo-giTdZLKHRPSTzimq5YPBfQ",
+      "description": "Two independent advances let scientists design and simulate proteins based on how they move, not just their shape, opening new paths for drug design.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T14:36:30Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Japan backs US deep sea mining push in new pact",
       "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
       "description": "The non-binding memorandum, signed after a Trump-Takaichi meeting, was circulated at a UN seabed authority session where 40 nations seek a mining moratorium.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T22:11:30Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "NASA outlines moon strategy as Artemis II targets April launch",
-      "url": "https://www.perplexity.ai/page/nasa-outlines-moon-strategy-as-THwcKmppTEqjbUgxzg32Kg",
-      "description": "The agency is hosting a Washington event to detail how it plans to return astronauts to the lunar surface by 2028 despite ongoing delays.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T20:45:26Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-28T14:00:02Z",
+  "cached_at": "2026-03-28T14:46:19Z",
   "topics": {
     "top": [
+      {
+        "title": "MIT, ASU teams crack protein motion design for drug discovery",
+        "url": "https://www.perplexity.ai/page/mit-asu-teams-crack-protein-mo-giTdZLKHRPSTzimq5YPBfQ",
+        "description": "Two independent advances let scientists design and simulate proteins based on how they move, not just their shape, opening new paths for drug design.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T14:36:30Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "Japan backs US deep sea mining push in new pact",
         "url": "https://www.perplexity.ai/page/japan-backs-us-deep-sea-mining-TXjUBWBcTx.2XUTcWDt.4g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T22:11:30Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "NASA outlines moon strategy as Artemis II targets April launch",
-        "url": "https://www.perplexity.ai/page/nasa-outlines-moon-strategy-as-THwcKmppTEqjbUgxzg32Kg",
-        "description": "The agency is hosting a Washington event to detail how it plans to return astronauts to the lunar surface by 2028 despite ongoing delays.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T20:45:26Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
