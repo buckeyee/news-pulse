@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "USS Tripoli arrives as Pentagon weighs troops that could push total above 55,000",
+      "url": "https://www.perplexity.ai/page/uss-tripoli-arrives-as-pentago-MeLJo_aWSwmKYGcDZ5AxHg",
+      "description": "The amphibious assault ship brought 3,500 Marines and sailors to the region as the U.S.-Iran conflict enters its second month.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T22:29:06Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "U.S. to let Russian oil tanker reach Cuba after months-long blockade",
       "url": "https://www.perplexity.ai/page/u-s-to-let-russian-oil-tanker-xFqd107_TYeHoolBrCINHQ",
       "description": "The reversal ends a de facto energy embargo that left the island without fuel since January, deepening its worst crisis in decades.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:05:38Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "California Democrats' own poll shows two Republicans leading governor's race",
-      "url": "https://www.perplexity.ai/page/california-democrats-own-poll-3FoQYsWaRP6mUkoalB.pBw",
-      "description": "The party warns its crowded field of eight candidates risks being shut out of the November general election under the state's top-two primary system.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T13:34:14Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-29T22:53:59Z",
+  "cached_at": "2026-03-29T23:35:49Z",
   "topics": {
     "top": [
+      {
+        "title": "USS Tripoli arrives as Pentagon weighs troops that could push total above 55,000",
+        "url": "https://www.perplexity.ai/page/uss-tripoli-arrives-as-pentago-MeLJo_aWSwmKYGcDZ5AxHg",
+        "description": "The amphibious assault ship brought 3,500 Marines and sailors to the region as the U.S.-Iran conflict enters its second month.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T22:29:06Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "U.S. to let Russian oil tanker reach Cuba after months-long blockade",
         "url": "https://www.perplexity.ai/page/u-s-to-let-russian-oil-tanker-xFqd107_TYeHoolBrCINHQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:05:38Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "California Democrats' own poll shows two Republicans leading governor's race",
-        "url": "https://www.perplexity.ai/page/california-democrats-own-poll-3FoQYsWaRP6mUkoalB.pBw",
-        "description": "The party warns its crowded field of eight candidates risks being shut out of the November general election under the state's top-two primary system.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T13:34:14Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
