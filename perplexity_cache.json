@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
+      "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
+      "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T16:57:03Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
       "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
       "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T01:57:22Z",
       "sourceCount": "62 sources"
-    },
-    {
-      "title": "Israeli airstrike hits Christian town north of Beirut for first time",
-      "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
-      "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T01:04:05Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-29T17:16:36Z",
+  "cached_at": "2026-03-29T17:52:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
+        "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
+        "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T16:57:03Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
         "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T01:57:22Z",
         "sourceCount": "62 sources"
-      },
-      {
-        "title": "Israeli airstrike hits Christian town north of Beirut for first time",
-        "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
-        "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T01:04:05Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
