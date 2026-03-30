@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Starcloud hits $1.1B valuation for space data centers",
+      "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
+      "description": "The Y Combinator startup reached unicorn status faster than any company in YC history, raising $170 million in its Series A round.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T12:14:05Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
+      "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
+      "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T11:47:58Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Middle East war drives inflation higher in New Zealand, Germany",
       "url": "https://www.perplexity.ai/page/middle-east-war-drives-inflati-ayATRa.PRguQScJGUUNdvQ",
       "description": "New Zealand's finance minister warned Monday that inflation will likely exceed the central bank's target range this year amid the ongoing conflict.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:55:53Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Fed's operating losses fell to $19B in 2025 from $78B",
-      "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
-      "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T17:54:26Z",
-      "sourceCount": "33 sources"
-    },
-    {
-      "title": "Meta, YouTube found negligent in social media addiction trial",
-      "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
-      "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T17:48:24Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-30T11:30:18Z",
+  "cached_at": "2026-03-30T12:37:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Starcloud hits $1.1B valuation for space data centers",
+        "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
+        "description": "The Y Combinator startup reached unicorn status faster than any company in YC history, raising $170 million in its Series A round.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T12:14:05Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
+        "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
+        "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T11:47:58Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Middle East war drives inflation higher in New Zealand, Germany",
         "url": "https://www.perplexity.ai/page/middle-east-war-drives-inflati-ayATRa.PRguQScJGUUNdvQ",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:55:53Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Fed's operating losses fell to $19B in 2025 from $78B",
-        "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
-        "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T17:54:26Z",
-        "sourceCount": "33 sources"
-      },
-      {
-        "title": "Meta, YouTube found negligent in social media addiction trial",
-        "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
-        "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T17:48:24Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
