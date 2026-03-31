@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+      "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+      "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T18:12:10Z",
+      "sourceCount": "50 sources"
+    },
+    {
       "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
       "url": "https://www.perplexity.ai/page/fourth-greek-tanker-crosses-ho-oXW6NWb7Q7aLK5x.cmRBGg",
       "description": "Dynacom Tankers sent the Suezmax Pola through the strait with its transponder off, carrying 1 million barrels of crude to Thailand.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T01:03:10Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-      "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-      "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:10:12Z",
-      "sourceCount": "47 sources"
     }
   ],
-  "cached_at": "2026-03-31T17:42:41Z",
+  "cached_at": "2026-03-31T18:40:13Z",
   "topics": {
     "top": [
+      {
+        "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+        "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+        "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T18:12:10Z",
+        "sourceCount": "50 sources"
+      },
       {
         "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
         "url": "https://www.perplexity.ai/page/fourth-greek-tanker-crosses-ho-oXW6NWb7Q7aLK5x.cmRBGg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T01:03:10Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-        "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-        "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:10:12Z",
-        "sourceCount": "47 sources"
       }
     ],
     "tech": [],
