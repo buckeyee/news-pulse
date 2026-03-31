@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump says US will finish Iran war in 'two to three weeks'",
-      "url": "https://www.perplexity.ai/page/trump-says-us-will-finish-iran-l8WPP3iyQJeIP8ipS7_DwQ",
-      "description": "The president's latest estimate extends a pattern of shifting timelines as the conflict enters its second month with ceasefire talks ongoing.",
+      "title": "UN warns Lebanon at 'breaking point' as 1.1M displaced",
+      "url": "https://www.perplexity.ai/page/un-warns-lebanon-at-breaking-p-w96AbyA6RV6rzzQ2i1CnjA",
+      "description": "Emergency Relief Coordinator Tom Fletcher told the Security Council that over 1,240 people have been killed in four weeks as Israeli operations intensify.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T22:18:42Z",
-      "sourceCount": "64 sources"
+      "pubDate": "2026-03-31T22:48:40Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+      "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+      "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T22:39:03Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Judge blocks deal that would let churches endorse candidates",
@@ -217,15 +226,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Stocks surge as Trump signals willingness to end Iran war",
-      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-      "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T14:44:22Z",
-      "sourceCount": "43 sources"
-    },
-    {
       "title": "Kuwaiti oil tanker hit by projectile near Dubai port",
       "url": "https://www.perplexity.ai/page/kuwaiti-oil-tanker-hit-by-proj-psb.skA7TF2XQhmW0OlqQw",
       "description": "Kuwait Petroleum Corporation says the fully loaded Al Salmi was targeted in an Iranian attack, warning of a possible oil spill.",
@@ -235,15 +235,6 @@
       "sourceCount": "53 sources"
     },
     {
-      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T23:49:06Z",
-      "sourceCount": "52 sources"
-    },
-    {
       "title": "US struck Isfahan ammo depot with bunker busters",
       "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
       "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
@@ -251,6 +242,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T02:55:43Z",
       "sourceCount": "59 sources"
+    },
+    {
+      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T23:49:06Z",
+      "sourceCount": "52 sources"
     },
     {
       "title": "Health groups sue EPA over mercury rule rollback for coal plants",
@@ -1351,17 +1351,26 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-31T22:39:14Z",
+  "cached_at": "2026-03-31T23:16:51Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says US will finish Iran war in 'two to three weeks'",
-        "url": "https://www.perplexity.ai/page/trump-says-us-will-finish-iran-l8WPP3iyQJeIP8ipS7_DwQ",
-        "description": "The president's latest estimate extends a pattern of shifting timelines as the conflict enters its second month with ceasefire talks ongoing.",
+        "title": "UN warns Lebanon at 'breaking point' as 1.1M displaced",
+        "url": "https://www.perplexity.ai/page/un-warns-lebanon-at-breaking-p-w96AbyA6RV6rzzQ2i1CnjA",
+        "description": "Emergency Relief Coordinator Tom Fletcher told the Security Council that over 1,240 people have been killed in four weeks as Israeli operations intensify.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T22:18:42Z",
-        "sourceCount": "64 sources"
+        "pubDate": "2026-03-31T22:48:40Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+        "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+        "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T22:39:03Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Judge blocks deal that would let churches endorse candidates",
@@ -1571,15 +1580,6 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "Stocks surge as Trump signals willingness to end Iran war",
-        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-        "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T14:44:22Z",
-        "sourceCount": "43 sources"
-      },
-      {
         "title": "Kuwaiti oil tanker hit by projectile near Dubai port",
         "url": "https://www.perplexity.ai/page/kuwaiti-oil-tanker-hit-by-proj-psb.skA7TF2XQhmW0OlqQw",
         "description": "Kuwait Petroleum Corporation says the fully loaded Al Salmi was targeted in an Iranian attack, warning of a possible oil spill.",
@@ -1589,15 +1589,6 @@
         "sourceCount": "53 sources"
       },
       {
-        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T23:49:06Z",
-        "sourceCount": "52 sources"
-      },
-      {
         "title": "US struck Isfahan ammo depot with bunker busters",
         "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
         "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
@@ -1605,6 +1596,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T02:55:43Z",
         "sourceCount": "59 sources"
+      },
+      {
+        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T23:49:06Z",
+        "sourceCount": "52 sources"
       },
       {
         "title": "Health groups sue EPA over mercury rule rollback for coal plants",
