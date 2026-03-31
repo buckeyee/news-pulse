@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Global banks turn to Chinese stocks as Iran war roils markets",
+      "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
+      "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T11:35:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Australia, Indonesia probe tech giants over under-16 bans",
       "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
       "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T22:35:57Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iranian analyst warns Tehran ready to seize UAE, Bahrain coastlines",
-      "url": "https://www.perplexity.ai/page/iranian-analyst-warns-tehran-r-nBIf7iegRGSSiMBQ07GK2Q",
-      "description": "Morteza Simiari said on state TV that Iran's military has rehearsed coastal operations and will act if the U.S. \"makes any mistake.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T20:11:44Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-31T11:36:22Z",
+  "cached_at": "2026-03-31T12:40:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Global banks turn to Chinese stocks as Iran war roils markets",
+        "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
+        "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T11:35:46Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "Australia, Indonesia probe tech giants over under-16 bans",
         "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
@@ -2693,15 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-25T22:35:57Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iranian analyst warns Tehran ready to seize UAE, Bahrain coastlines",
-        "url": "https://www.perplexity.ai/page/iranian-analyst-warns-tehran-r-nBIf7iegRGSSiMBQ07GK2Q",
-        "description": "Morteza Simiari said on state TV that Iran's military has rehearsed coastal operations and will act if the U.S. \"makes any mistake.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T20:11:44Z",
         "sourceCount": "27 sources"
       }
     ],
