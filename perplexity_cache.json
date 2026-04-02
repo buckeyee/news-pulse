@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "House takes no action on DHS bill, extends record shutdown to 48 days",
+      "url": "https://www.perplexity.ai/page/house-takes-no-action-on-dhs-b-f5ur79wET9uoKN.UsfMzwQ",
+      "description": "No lawmaker moved to advance the Senate-passed funding bill during a brief pro forma session, pushing any resolution to April 13 at the earliest.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T15:20:05Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "Blue Owl caps fund redemptions after $5.4B in withdrawal requests",
       "url": "https://www.perplexity.ai/page/blue-owl-caps-fund-redemptions-NW0BddCoTJqUKCW3DM8Zkg",
       "description": "Investors sought to pull over 40% of one fund's shares, the worst hit yet in a wave of redemption pressure sweeping the private credit sector.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T14:36:56Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "SpaceX IPO sparks $15M in ticker bets before filing",
-      "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
-      "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T13:47:59Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-02T14:51:27Z",
+  "cached_at": "2026-04-02T15:56:55Z",
   "topics": {
     "top": [
+      {
+        "title": "House takes no action on DHS bill, extends record shutdown to 48 days",
+        "url": "https://www.perplexity.ai/page/house-takes-no-action-on-dhs-b-f5ur79wET9uoKN.UsfMzwQ",
+        "description": "No lawmaker moved to advance the Senate-passed funding bill during a brief pro forma session, pushing any resolution to April 13 at the earliest.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T15:20:05Z",
+        "sourceCount": "46 sources"
+      },
       {
         "title": "Blue Owl caps fund redemptions after $5.4B in withdrawal requests",
         "url": "https://www.perplexity.ai/page/blue-owl-caps-fund-redemptions-NW0BddCoTJqUKCW3DM8Zkg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T14:36:56Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "SpaceX IPO sparks $15M in ticker bets before filing",
-        "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
-        "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T13:47:59Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
