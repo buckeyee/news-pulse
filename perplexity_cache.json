@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump says he'll sign order to pay all DHS workers",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-sign-order-to-UWioPqkdRxy8CU5rMPN0xA",
+      "description": "The executive order would extend pay to FEMA, Coast Guard, and other agency staff still unpaid during the 48-day partial shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T15:41:28Z",
+      "sourceCount": "85 sources"
+    },
+    {
       "title": "House takes no action on DHS bill, extends record shutdown to 48 days",
       "url": "https://www.perplexity.ai/page/house-takes-no-action-on-dhs-b-f5ur79wET9uoKN.UsfMzwQ",
       "description": "No lawmaker moved to advance the Senate-passed funding bill during a brief pro forma session, pushing any resolution to April 13 at the earliest.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T14:49:21Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "US can confirm only a third of Iran's missiles destroyed",
-      "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
-      "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T14:36:56Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-02T15:56:55Z",
+  "cached_at": "2026-04-02T17:05:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump says he'll sign order to pay all DHS workers",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-sign-order-to-UWioPqkdRxy8CU5rMPN0xA",
+        "description": "The executive order would extend pay to FEMA, Coast Guard, and other agency staff still unpaid during the 48-day partial shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T15:41:28Z",
+        "sourceCount": "85 sources"
+      },
       {
         "title": "House takes no action on DHS bill, extends record shutdown to 48 days",
         "url": "https://www.perplexity.ai/page/house-takes-no-action-on-dhs-b-f5ur79wET9uoKN.UsfMzwQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T14:49:21Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "US can confirm only a third of Iran's missiles destroyed",
-        "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
-        "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T14:36:56Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
