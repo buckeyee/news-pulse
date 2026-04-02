@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Magnitude 7.4 earthquake kills one in Indonesia, triggers brief tsunami warning",
+      "url": "https://www.perplexity.ai/page/magnitude-7-4-earthquake-kills-_ucl7HwTTFqTAh75IpEwDQ",
+      "description": "The undersea quake toppled buildings across northern Indonesia and generated small tsunami waves before warnings were lifted hours later.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T11:56:37Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Iraq's oil exports halt as Hormuz closure cuts output 70%",
+      "url": "https://www.perplexity.ai/page/iraq-s-oil-exports-halt-as-hor-EHaT5gWzQaunkKT7gQYDSQ",
+      "description": "Southern Iraq's oil production has plunged from 3.1 million to 900,000 barrels per day, with exports completely stopped due to the Strait of Hormuz shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T11:47:50Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "One year after Liberation Day, tariff refunds loom",
+      "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
+      "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T11:37:56Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Korean researchers achieve lithium-air battery breakthrough",
       "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
       "description": "A novel 2D catalyst built through atomic-scale engineering sustained over 550 charge-discharge cycles, outperforming conventional alternatives.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-27T13:47:59Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
-      "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
-      "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T13:39:06Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "IRGC urges civilians to flee areas near US forces as Trump extends Hormuz deadline",
-      "url": "https://www.perplexity.ai/page/irgc-urges-civilians-to-flee-a-a8l__rlRQAGnAZa9PWXESg",
-      "description": "Iran's Revolutionary Guard declared the Strait of Hormuz closed and threatened US military positions as Trump pushed his strike deadline to April 6.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T13:04:05Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
-      "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
-      "description": "From emergency budgets to fuel rationing plans, countries across the region are deploying fiscal packages and liquidity measures to counter the economic fallout.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T12:05:15Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-02T11:12:29Z",
+  "cached_at": "2026-04-02T12:00:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Magnitude 7.4 earthquake kills one in Indonesia, triggers brief tsunami warning",
+        "url": "https://www.perplexity.ai/page/magnitude-7-4-earthquake-kills-_ucl7HwTTFqTAh75IpEwDQ",
+        "description": "The undersea quake toppled buildings across northern Indonesia and generated small tsunami waves before warnings were lifted hours later.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T11:56:37Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Iraq's oil exports halt as Hormuz closure cuts output 70%",
+        "url": "https://www.perplexity.ai/page/iraq-s-oil-exports-halt-as-hor-EHaT5gWzQaunkKT7gQYDSQ",
+        "description": "Southern Iraq's oil production has plunged from 3.1 million to 900,000 barrels per day, with exports completely stopped due to the Strait of Hormuz shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T11:47:50Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "One year after Liberation Day, tariff refunds loom",
+        "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
+        "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T11:37:56Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Korean researchers achieve lithium-air battery breakthrough",
         "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T13:47:59Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
-        "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
-        "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T13:39:06Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "IRGC urges civilians to flee areas near US forces as Trump extends Hormuz deadline",
-        "url": "https://www.perplexity.ai/page/irgc-urges-civilians-to-flee-a-a8l__rlRQAGnAZa9PWXESg",
-        "description": "Iran's Revolutionary Guard declared the Strait of Hormuz closed and threatened US military positions as Trump pushed his strike deadline to April 6.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T13:04:05Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
-        "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
-        "description": "From emergency budgets to fuel rationing plans, countries across the region are deploying fiscal packages and liquidity measures to counter the economic fallout.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T12:05:15Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
