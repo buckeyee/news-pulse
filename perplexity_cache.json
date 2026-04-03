@@ -1,8 +1,26 @@
 {
   "stories": [
     {
-      "title": "U.S. adds 178,000 jobs in March, far beating forecasts",
-      "url": "https://www.perplexity.ai/page/u-s-adds-178000-jobs-in-march-8SYbifDASYW38k9mn53sLw",
+      "title": "Trump sends $1.5T defense budget to Congress",
+      "url": "https://www.perplexity.ai/page/trump-sends-1-5t-defense-budge-4agHgAdgR_eI1PRMu0ApZg",
+      "description": "The proposal marks the largest military spending increase since World War II, with cuts to domestic agencies helping offset the massive Pentagon buildup.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T13:11:24Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "Iran claims capture of US pilot after F-15E allegedly downed",
+      "url": "https://www.perplexity.ai/page/iran-claims-capture-of-us-pilo-EgRO0XgxSBOEPsX8B_Q4vg",
+      "description": "Iranian media says the IRGC has a U.S. pilot in custody after an F-15E Strike Eagle was apparently shot down over central Iran. The Pentagon has not commented.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T13:04:31Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "US adds 178,000 jobs in March, far beating forecasts",
+      "url": "https://www.perplexity.ai/page/us-adds-178000-jobs-in-march-f-8SYbifDASYW38k9mn53sLw",
       "description": "The unemployment rate fell to 4.3% as the labor market rebounded sharply from February's loss of 92,000 jobs.",
       "source": "Perplexity",
       "topic": "top",
@@ -118,15 +136,6 @@
       "sourceCount": "55 sources"
     },
     {
-      "title": "US denies Iran's claim it downed warplane near Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/us-denies-iran-s-claim-it-down-XmFgYlNiToK2DRdVrjaUVw",
-      "description": "CENTCOM said all US fighter aircraft are accounted for, calling the IRGC assertion a repeat of at least six prior false claims during the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T00:43:27Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "IRGC launches fresh strikes on steel, aluminum plants across Middle East",
       "url": "https://www.perplexity.ai/page/irgc-launches-fresh-strikes-on-eSY_ZV0rTHeNiiI0qEtpYg",
       "description": "Iran announced a new wave of attacks on April 2 targeting U.S.-linked steel and aluminum facilities, escalating a conflict that has sent prices soaring.",
@@ -136,13 +145,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Dem senators urge SEC, Pentagon to probe insider trading",
-      "url": "https://www.perplexity.ai/page/dem-senators-urge-sec-pentagon-BmbBUuubS5uYjupZzrw9AA",
-      "description": "Sens. Warner and Schiff called on regulators Thursday to investigate suspicious trades ahead of major Trump administration policy moves.",
+      "title": "Half of Iran's missile launchers intact after weeks of strikes, assessment finds",
+      "url": "https://www.perplexity.ai/page/half-of-iran-s-missile-launche-f5GOCWQdT_ytlbMsC4i9Gw",
+      "description": "A U.S. intelligence assessment undercuts Trump administration claims that Iran's military capabilities have been nearly eliminated after five weeks of bombing.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-02T22:35:38Z",
-      "sourceCount": "84 sources"
+      "pubDate": "2026-04-03T00:53:09Z",
+      "sourceCount": "77 sources"
     },
     {
       "title": "Vance to visit Hungary, meet with Orban days before election",
@@ -163,13 +172,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Half of Iran's missile launchers intact after weeks of strikes, assessment finds",
-      "url": "https://www.perplexity.ai/page/half-of-iran-s-missile-launche-f5GOCWQdT_ytlbMsC4i9Gw",
-      "description": "A U.S. intelligence assessment undercuts Trump administration claims that Iran's military capabilities have been nearly eliminated after five weeks of bombing.",
+      "title": "US destroys major Iranian bridge as war widens across Gulf",
+      "url": "https://www.perplexity.ai/page/us-destroys-major-iranian-brid-2M1TS.baTZSUGHD4JKgX2A",
+      "description": "Trump hailed the severing of the B1 bridge near Tehran as Iran launched its largest missile salvo in weeks toward Israel.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-03T00:53:09Z",
-      "sourceCount": "77 sources"
+      "pubDate": "2026-04-02T23:23:55Z",
+      "sourceCount": "45 sources"
     },
     {
       "title": "GCC chief condemns Iran strikes in first-ever UN Council address",
@@ -190,13 +199,13 @@
       "sourceCount": "61 sources"
     },
     {
-      "title": "US destroys major Iranian bridge as war widens across Gulf",
-      "url": "https://www.perplexity.ai/page/us-destroys-major-iranian-brid-2M1TS.baTZSUGHD4JKgX2A",
-      "description": "Trump hailed the severing of the B1 bridge near Tehran as Iran launched its largest missile salvo in weeks toward Israel.",
+      "title": "Dem senators urge SEC, Pentagon to probe insider trading",
+      "url": "https://www.perplexity.ai/page/dem-senators-urge-sec-pentagon-BmbBUuubS5uYjupZzrw9AA",
+      "description": "Sens. Warner and Schiff called on regulators Thursday to investigate suspicious trades ahead of major Trump administration policy moves.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-02T23:23:55Z",
-      "sourceCount": "45 sources"
+      "pubDate": "2026-04-02T22:35:38Z",
+      "sourceCount": "84 sources"
     },
     {
       "title": "IRGC claims new strikes on Amazon data center in Bahrain",
@@ -1340,23 +1349,32 @@
       "topic": "top",
       "pubDate": "2026-03-27T21:34:15Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran death toll tops 1,900 as IFRC warns of deepening crisis",
-      "url": "https://www.perplexity.ai/page/iran-death-toll-tops-1900-as-i-nAYp8B0hRO2g0YpoCFfIJA",
-      "description": "The Red Cross federation said Friday that at least 20,000 have been injured since U.S.-Israeli strikes began on Feb. 28, with relief efforts strained.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T20:54:52Z",
-      "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-04-03T13:36:24Z",
+  "cached_at": "2026-04-03T14:26:35Z",
   "topics": {
     "top": [
       {
-        "title": "U.S. adds 178,000 jobs in March, far beating forecasts",
-        "url": "https://www.perplexity.ai/page/u-s-adds-178000-jobs-in-march-8SYbifDASYW38k9mn53sLw",
+        "title": "Trump sends $1.5T defense budget to Congress",
+        "url": "https://www.perplexity.ai/page/trump-sends-1-5t-defense-budge-4agHgAdgR_eI1PRMu0ApZg",
+        "description": "The proposal marks the largest military spending increase since World War II, with cuts to domestic agencies helping offset the massive Pentagon buildup.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T13:11:24Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "Iran claims capture of US pilot after F-15E allegedly downed",
+        "url": "https://www.perplexity.ai/page/iran-claims-capture-of-us-pilo-EgRO0XgxSBOEPsX8B_Q4vg",
+        "description": "Iranian media says the IRGC has a U.S. pilot in custody after an F-15E Strike Eagle was apparently shot down over central Iran. The Pentagon has not commented.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T13:04:31Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "US adds 178,000 jobs in March, far beating forecasts",
+        "url": "https://www.perplexity.ai/page/us-adds-178000-jobs-in-march-f-8SYbifDASYW38k9mn53sLw",
         "description": "The unemployment rate fell to 4.3% as the labor market rebounded sharply from February's loss of 92,000 jobs.",
         "source": "Perplexity",
         "topic": "top",
@@ -1472,15 +1490,6 @@
         "sourceCount": "55 sources"
       },
       {
-        "title": "US denies Iran's claim it downed warplane near Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/us-denies-iran-s-claim-it-down-XmFgYlNiToK2DRdVrjaUVw",
-        "description": "CENTCOM said all US fighter aircraft are accounted for, calling the IRGC assertion a repeat of at least six prior false claims during the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T00:43:27Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "IRGC launches fresh strikes on steel, aluminum plants across Middle East",
         "url": "https://www.perplexity.ai/page/irgc-launches-fresh-strikes-on-eSY_ZV0rTHeNiiI0qEtpYg",
         "description": "Iran announced a new wave of attacks on April 2 targeting U.S.-linked steel and aluminum facilities, escalating a conflict that has sent prices soaring.",
@@ -1490,13 +1499,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Dem senators urge SEC, Pentagon to probe insider trading",
-        "url": "https://www.perplexity.ai/page/dem-senators-urge-sec-pentagon-BmbBUuubS5uYjupZzrw9AA",
-        "description": "Sens. Warner and Schiff called on regulators Thursday to investigate suspicious trades ahead of major Trump administration policy moves.",
+        "title": "Half of Iran's missile launchers intact after weeks of strikes, assessment finds",
+        "url": "https://www.perplexity.ai/page/half-of-iran-s-missile-launche-f5GOCWQdT_ytlbMsC4i9Gw",
+        "description": "A U.S. intelligence assessment undercuts Trump administration claims that Iran's military capabilities have been nearly eliminated after five weeks of bombing.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-02T22:35:38Z",
-        "sourceCount": "84 sources"
+        "pubDate": "2026-04-03T00:53:09Z",
+        "sourceCount": "77 sources"
       },
       {
         "title": "Vance to visit Hungary, meet with Orban days before election",
@@ -1517,13 +1526,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Half of Iran's missile launchers intact after weeks of strikes, assessment finds",
-        "url": "https://www.perplexity.ai/page/half-of-iran-s-missile-launche-f5GOCWQdT_ytlbMsC4i9Gw",
-        "description": "A U.S. intelligence assessment undercuts Trump administration claims that Iran's military capabilities have been nearly eliminated after five weeks of bombing.",
+        "title": "US destroys major Iranian bridge as war widens across Gulf",
+        "url": "https://www.perplexity.ai/page/us-destroys-major-iranian-brid-2M1TS.baTZSUGHD4JKgX2A",
+        "description": "Trump hailed the severing of the B1 bridge near Tehran as Iran launched its largest missile salvo in weeks toward Israel.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-03T00:53:09Z",
-        "sourceCount": "77 sources"
+        "pubDate": "2026-04-02T23:23:55Z",
+        "sourceCount": "45 sources"
       },
       {
         "title": "GCC chief condemns Iran strikes in first-ever UN Council address",
@@ -1544,13 +1553,13 @@
         "sourceCount": "61 sources"
       },
       {
-        "title": "US destroys major Iranian bridge as war widens across Gulf",
-        "url": "https://www.perplexity.ai/page/us-destroys-major-iranian-brid-2M1TS.baTZSUGHD4JKgX2A",
-        "description": "Trump hailed the severing of the B1 bridge near Tehran as Iran launched its largest missile salvo in weeks toward Israel.",
+        "title": "Dem senators urge SEC, Pentagon to probe insider trading",
+        "url": "https://www.perplexity.ai/page/dem-senators-urge-sec-pentagon-BmbBUuubS5uYjupZzrw9AA",
+        "description": "Sens. Warner and Schiff called on regulators Thursday to investigate suspicious trades ahead of major Trump administration policy moves.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-02T23:23:55Z",
-        "sourceCount": "45 sources"
+        "pubDate": "2026-04-02T22:35:38Z",
+        "sourceCount": "84 sources"
       },
       {
         "title": "IRGC claims new strikes on Amazon data center in Bahrain",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T21:34:15Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran death toll tops 1,900 as IFRC warns of deepening crisis",
-        "url": "https://www.perplexity.ai/page/iran-death-toll-tops-1900-as-i-nAYp8B0hRO2g0YpoCFfIJA",
-        "description": "The Red Cross federation said Friday that at least 20,000 have been injured since U.S.-Israeli strikes began on Feb. 28, with relief efforts strained.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T20:54:52Z",
-        "sourceCount": "38 sources"
       }
     ],
     "tech": [],
