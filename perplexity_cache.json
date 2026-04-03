@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
+      "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
+      "description": "The Maltese-flagged Kribi exited the strait Thursday, navigating an Iranian-approved corridor while broadcasting \"owner France\" on its transponder.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T11:35:33Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
       "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-_3jMzbuLSUGZCOzQ7CRVyw",
       "description": "Iranian drones struck Kuwait's Mina al-Ahmadi oil refinery Friday as explosions were reported across Tehran and Isfahan amid continued U.S.-Israeli strikes.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T20:13:40Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Hegseth struck Black and female officers from Army promotion list",
-      "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
-      "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T21:45:14Z",
-      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-04-03T11:22:55Z",
+  "cached_at": "2026-04-03T12:00:16Z",
   "topics": {
     "top": [
+      {
+        "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
+        "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
+        "description": "The Maltese-flagged Kribi exited the strait Thursday, navigating an Iranian-approved corridor while broadcasting \"owner France\" on its transponder.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T11:35:33Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
         "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-_3jMzbuLSUGZCOzQ7CRVyw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T20:13:40Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Hegseth struck Black and female officers from Army promotion list",
-        "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
-        "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T21:45:14Z",
-        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
