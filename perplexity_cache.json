@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "South Korea, France elevate ties to strategic partnership",
+      "url": "https://www.perplexity.ai/page/south-korea-france-elevate-tie-RlnU0MFFSsuoj0J9VkqtYw",
+      "description": "The two leaders signed 11 MOUs covering nuclear energy, critical minerals, and defense after summit talks in Seoul on Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T06:22:29Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Shell, TotalEnergies and BP eye majority stake in Gulf deepwater field",
+      "url": "https://www.perplexity.ai/page/shell-totalenergies-and-bp-eye-ld6gWGsdTI2S5RNKcDbvdw",
+      "description": "Beacon Offshore Energy and HEQ Deepwater have launched a sale of their combined 51% stake in the Shenandoah ultra-deepwater project, sources say.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T05:21:36Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Hegseth forces out Army chief of staff Gen. Randy George",
       "url": "https://www.perplexity.ai/page/hegseth-forces-out-army-chief-oqG0qI_dROWiGwAmrWg3PQ",
       "description": "The dismissal caps a turbulent week after Hegseth blocked promotions of Black and female officers, deepening rifts with Army leadership.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-27T20:13:40Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Mexico says 40,000 of 130,000 missing may be alive",
-      "url": "https://www.perplexity.ai/page/mexico-says-40000-of-130000-mi-V5qhy8dyQ5exGpnazVQHMQ",
-      "description": "President Sheinbaum presented a long-awaited report on Mexico's disappearance crisis, revealing a national database plagued by gaps, duplicates, and missing data.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T19:54:15Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran-linked hackers breach FBI director's personal email",
-      "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
-      "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T19:39:43Z",
-      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-04-03T05:19:25Z",
+  "cached_at": "2026-04-03T06:42:04Z",
   "topics": {
     "top": [
+      {
+        "title": "South Korea, France elevate ties to strategic partnership",
+        "url": "https://www.perplexity.ai/page/south-korea-france-elevate-tie-RlnU0MFFSsuoj0J9VkqtYw",
+        "description": "The two leaders signed 11 MOUs covering nuclear energy, critical minerals, and defense after summit talks in Seoul on Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T06:22:29Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Shell, TotalEnergies and BP eye majority stake in Gulf deepwater field",
+        "url": "https://www.perplexity.ai/page/shell-totalenergies-and-bp-eye-ld6gWGsdTI2S5RNKcDbvdw",
+        "description": "Beacon Offshore Energy and HEQ Deepwater have launched a sale of their combined 51% stake in the Shenandoah ultra-deepwater project, sources say.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T05:21:36Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Hegseth forces out Army chief of staff Gen. Randy George",
         "url": "https://www.perplexity.ai/page/hegseth-forces-out-army-chief-oqG0qI_dROWiGwAmrWg3PQ",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T20:13:40Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Mexico says 40,000 of 130,000 missing may be alive",
-        "url": "https://www.perplexity.ai/page/mexico-says-40000-of-130000-mi-V5qhy8dyQ5exGpnazVQHMQ",
-        "description": "President Sheinbaum presented a long-awaited report on Mexico's disappearance crisis, revealing a national database plagued by gaps, duplicates, and missing data.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T19:54:15Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran-linked hackers breach FBI director's personal email",
-        "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
-        "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T19:39:43Z",
-        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
