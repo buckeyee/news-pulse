@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Nine-spin quantum system outperforms classical AI in weather forecasting",
-      "url": "https://www.perplexity.ai/page/nine-spin-quantum-system-outpe-.oJWsdhrTYGIBWp.7rewfw",
-      "description": "Researchers say a quantum processor with just nine atomic spins beat classical networks with thousands of nodes at predicting real-world weather patterns.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T23:03:30Z",
-      "sourceCount": "53 sources"
-    },
-    {
       "title": "Pope Leo urges world not to 'grow numb' to war at Easter vigil",
       "url": "https://www.perplexity.ai/page/pope-leo-urges-world-not-to-gr-Gkif76KPRbekPlptPSGHiA",
       "description": "The first American pope led his first Easter Vigil at St. Peter's Basilica, calling on Catholics to resist paralysis and work for peace.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-30T18:10:45Z",
       "sourceCount": "101 sources"
+    },
+    {
+      "title": "Washington governor signs millionaires tax into law",
+      "url": "https://www.perplexity.ai/page/washington-governor-signs-mill-LDDWSwjySUWx2aNgOKNU3A",
+      "description": "The 9.9% levy on household income above $1 million is the state's first personal income tax in nearly a century.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T18:06:51Z",
+      "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-04-04T23:16:55Z",
+  "cached_at": "2026-04-04T23:50:23Z",
   "topics": {
     "top": [
-      {
-        "title": "Nine-spin quantum system outperforms classical AI in weather forecasting",
-        "url": "https://www.perplexity.ai/page/nine-spin-quantum-system-outpe-.oJWsdhrTYGIBWp.7rewfw",
-        "description": "Researchers say a quantum processor with just nine atomic spins beat classical networks with thousands of nodes at predicting real-world weather patterns.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T23:03:30Z",
-        "sourceCount": "53 sources"
-      },
       {
         "title": "Pope Leo urges world not to 'grow numb' to war at Easter vigil",
         "url": "https://www.perplexity.ai/page/pope-leo-urges-world-not-to-gr-Gkif76KPRbekPlptPSGHiA",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-30T18:10:45Z",
         "sourceCount": "101 sources"
+      },
+      {
+        "title": "Washington governor signs millionaires tax into law",
+        "url": "https://www.perplexity.ai/page/washington-governor-signs-mill-LDDWSwjySUWx2aNgOKNU3A",
+        "description": "The 9.9% levy on household income above $1 million is the state's first personal income tax in nearly a century.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T18:06:51Z",
+        "sourceCount": "45 sources"
       }
     ],
     "tech": [],
