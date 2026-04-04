@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Five EU finance ministers demand windfall tax on energy firms",
+      "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
+      "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T08:33:56Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "Artemis II crew now closer to moon than Earth",
       "url": "https://www.perplexity.ai/page/artemis-ii-crew-now-closer-to-G0FtzaZJSaSz.Y0lvMdKSg",
       "description": "NASA shared the first photos from the Orion spacecraft as the four astronauts cross the midpoint on their historic lunar voyage.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-28T22:13:15Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran demands UN accountability over strikes on oil infrastructure",
-      "url": "https://www.perplexity.ai/page/iran-demands-un-accountability-xUXfiVKsQau9tOEmU0Imcw",
-      "description": "Tehran's UN ambassador filed formal complaints over March 7 and 18 attacks on energy facilities, calling them ecocide and demanding reparations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T16:29:16Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-04T08:05:24Z",
+  "cached_at": "2026-04-04T08:58:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Five EU finance ministers demand windfall tax on energy firms",
+        "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
+        "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T08:33:56Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "Artemis II crew now closer to moon than Earth",
         "url": "https://www.perplexity.ai/page/artemis-ii-crew-now-closer-to-G0FtzaZJSaSz.Y0lvMdKSg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T22:13:15Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran demands UN accountability over strikes on oil infrastructure",
-        "url": "https://www.perplexity.ai/page/iran-demands-un-accountability-xUXfiVKsQau9tOEmU0Imcw",
-        "description": "Tehran's UN ambassador filed formal complaints over March 7 and 18 attacks on energy facilities, calling them ecocide and demanding reparations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T16:29:16Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
