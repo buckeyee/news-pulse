@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Debris from intercepted drones hits buildings across Dubai",
+      "url": "https://www.perplexity.ai/page/debris-from-intercepted-drones-iF0NDeCFRd2p0YO9B3LQ7w",
+      "description": "Fallen debris struck Oracle's building in Dubai Internet City and a Dubai Marina tower Saturday, with no injuries reported amid ongoing Iranian attacks on the UAE.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T04:33:00Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
       "url": "https://www.perplexity.ai/page/us-pulled-1500-sailors-from-ba-3ebg0j3wS7Cwb9QZGfV7cg",
       "description": "Relief groups have distributed over $1 million to evacuated families who fled with little more than backpacks, NPR reported.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-28T16:29:16Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "'No Kings' protests sweep Europe as London draws half a million",
-      "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
-      "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T18:08:42Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-04T03:39:25Z",
+  "cached_at": "2026-04-04T05:13:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Debris from intercepted drones hits buildings across Dubai",
+        "url": "https://www.perplexity.ai/page/debris-from-intercepted-drones-iF0NDeCFRd2p0YO9B3LQ7w",
+        "description": "Fallen debris struck Oracle's building in Dubai Internet City and a Dubai Marina tower Saturday, with no injuries reported amid ongoing Iranian attacks on the UAE.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T04:33:00Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
         "url": "https://www.perplexity.ai/page/us-pulled-1500-sailors-from-ba-3ebg0j3wS7Cwb9QZGfV7cg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T16:29:16Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "'No Kings' protests sweep Europe as London draws half a million",
-        "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
-        "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T18:08:42Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
