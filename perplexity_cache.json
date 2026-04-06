@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
+      "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
+      "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T15:06:58Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Study of 1,700 languages finds shared grammar rules",
+      "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
+      "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T14:36:19Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Iran accuses IAEA of inaction over Bushehr strikes",
       "url": "https://www.perplexity.ai/page/iran-accuses-iaea-of-inaction-1CLq_zpNTpC.NjsvUmqEJQ",
       "description": "Tehran says the UN nuclear watchdog's silence \"emboldens aggression\" after a fourth U.S.-Israeli strike near its only operational nuclear plant.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-31T20:03:29Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
-      "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
-      "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:45:31Z",
-      "sourceCount": "130 sources"
-    },
-    {
-      "title": "Judge orders UPenn to hand over Jewish employee records",
-      "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
-      "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T21:03:37Z",
-      "sourceCount": "64 sources"
     }
   ],
-  "cached_at": "2026-04-06T14:37:06Z",
+  "cached_at": "2026-04-06T15:31:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
+        "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
+        "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T15:06:58Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Study of 1,700 languages finds shared grammar rules",
+        "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
+        "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T14:36:19Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Iran accuses IAEA of inaction over Bushehr strikes",
         "url": "https://www.perplexity.ai/page/iran-accuses-iaea-of-inaction-1CLq_zpNTpC.NjsvUmqEJQ",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T20:03:29Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
-        "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
-        "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:45:31Z",
-        "sourceCount": "130 sources"
-      },
-      {
-        "title": "Judge orders UPenn to hand over Jewish employee records",
-        "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
-        "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T21:03:37Z",
-        "sourceCount": "64 sources"
       }
     ],
     "tech": [],
