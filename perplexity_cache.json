@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump vows to 'obliterate' Iran at White House Easter Egg Roll",
+      "url": "https://www.perplexity.ai/page/trump-vows-to-obliterate-iran-Wa3g.Km9Sda095gz5YBZZQ",
+      "description": "The president used his first public appearance since hospitalization rumors to field questions on the war, telling reporters Tehran \"will say uncle.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T16:48:34Z",
+      "sourceCount": "48 sources"
+    },
+    {
       "title": "Appeals court bars New Jersey from regulating Kalshi",
       "url": "https://www.perplexity.ai/page/appeals-court-bars-new-jersey-E9PMOEOqRD2F._ub1reMFw",
       "description": "The Third Circuit ruled 2-1 that federal commodities law preempts state gambling enforcement, marking Kalshi's first appellate victory.",
@@ -10,15 +19,6 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
-      "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
-      "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T15:06:58Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "Study of 1,700 languages finds shared grammar rules",
       "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
       "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-06T14:36:19Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
+      "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
+      "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T15:06:58Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
@@ -305,6 +314,15 @@
       "topic": "top",
       "pubDate": "2026-04-05T09:34:31Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "China builds largest South China Sea island as US forces shift to Iran",
+      "url": "https://www.perplexity.ai/page/china-builds-largest-south-chi-u9SOD4CeRXuOrjRsUOsLVQ",
+      "description": "Beijing's dredging at Antelope Reef has created roughly 1,490 acres of new land since October, potentially its biggest military outpost in the disputed waters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T02:58:10Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-01T00:13:12Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "DHS pauses warehouse purchases for immigrant detention",
-      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T02:58:18Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T22:23:53Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-06T16:27:20Z",
+  "cached_at": "2026-04-06T17:27:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump vows to 'obliterate' Iran at White House Easter Egg Roll",
+        "url": "https://www.perplexity.ai/page/trump-vows-to-obliterate-iran-Wa3g.Km9Sda095gz5YBZZQ",
+        "description": "The president used his first public appearance since hospitalization rumors to field questions on the war, telling reporters Tehran \"will say uncle.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T16:48:34Z",
+        "sourceCount": "48 sources"
+      },
       {
         "title": "Appeals court bars New Jersey from regulating Kalshi",
         "url": "https://www.perplexity.ai/page/appeals-court-bars-new-jersey-E9PMOEOqRD2F._ub1reMFw",
@@ -1364,15 +1373,6 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
-        "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
-        "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T15:06:58Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "Study of 1,700 languages finds shared grammar rules",
         "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
         "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-04-06T14:36:19Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Treasury taps BNY and Robinhood to run Trump Accounts",
+        "url": "https://www.perplexity.ai/page/treasury-taps-bny-and-robinhoo-Qm9ZF6K3SXKzvNZ8oRoReg",
+        "description": "The firms will build a dedicated app and manage government-backed $1,000 investment accounts for millions of newborns ahead of a July launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T15:06:58Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
@@ -1659,6 +1668,15 @@
         "topic": "top",
         "pubDate": "2026-04-05T09:34:31Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "China builds largest South China Sea island as US forces shift to Iran",
+        "url": "https://www.perplexity.ai/page/china-builds-largest-south-chi-u9SOD4CeRXuOrjRsUOsLVQ",
+        "description": "Beijing's dredging at Antelope Reef has created roughly 1,490 acres of new land since October, potentially its biggest military outpost in the disputed waters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T02:58:10Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
@@ -2684,24 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T00:13:12Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "DHS pauses warehouse purchases for immigrant detention",
-        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T02:58:18Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T22:23:53Z",
         "sourceCount": "30 sources"
       }
     ],
