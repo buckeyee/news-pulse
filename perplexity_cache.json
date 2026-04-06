@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Study: 84% of fire-vulnerable species face rising wildfire risk by 2100",
+      "url": "https://www.perplexity.ai/page/study-84-of-fire-vulnerable-sp-crjfqDyTQh2bFFRpFcMXOg",
+      "description": "University of Gothenburg researchers found climate-driven wildfires will expand into new regions, with South America facing the sharpest increases in species exposure.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T11:03:33Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Artemis II crew begins historic lunar flyby Monday",
       "url": "https://www.perplexity.ai/page/artemis-ii-crew-begins-histori-lfWLGHHRQoSVIBFcieEKnw",
       "description": "The four astronauts are set to break the human distance record and observe the Moon's far side for the first time since 1972.",
@@ -397,13 +406,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-      "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-      "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+      "title": "India confirms Iranian oil purchases amid Hormuz crisis",
+      "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
+      "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T17:58:42Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-04-04T17:58:37Z",
+      "sourceCount": "67 sources"
     },
     {
       "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
@@ -413,15 +422,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:47Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-      "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-      "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:37Z",
-      "sourceCount": "67 sources"
     },
     {
       "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
@@ -1351,9 +1351,18 @@
       "sourceCount": "130 sources"
     }
   ],
-  "cached_at": "2026-04-06T10:02:58Z",
+  "cached_at": "2026-04-06T11:10:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Study: 84% of fire-vulnerable species face rising wildfire risk by 2100",
+        "url": "https://www.perplexity.ai/page/study-84-of-fire-vulnerable-sp-crjfqDyTQh2bFFRpFcMXOg",
+        "description": "University of Gothenburg researchers found climate-driven wildfires will expand into new regions, with South America facing the sharpest increases in species exposure.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T11:03:33Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Artemis II crew begins historic lunar flyby Monday",
         "url": "https://www.perplexity.ai/page/artemis-ii-crew-begins-histori-lfWLGHHRQoSVIBFcieEKnw",
@@ -1751,13 +1760,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-        "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-        "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+        "title": "India confirms Iranian oil purchases amid Hormuz crisis",
+        "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
+        "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T17:58:42Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-04-04T17:58:37Z",
+        "sourceCount": "67 sources"
       },
       {
         "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
@@ -1767,15 +1776,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:47Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-        "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-        "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:37Z",
-        "sourceCount": "67 sources"
       },
       {
         "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
