@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Dangote refinery ramps up African exports amid Iran war",
+      "url": "https://www.perplexity.ai/page/dangote-refinery-ramps-up-afri-5NmdMmzoTtKKDaTHl_Q3YA",
+      "description": "The facility has shipped 17 gasoline cargoes across the continent and redirected urea fertilizer to African buyers facing acute shortages.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T10:33:16Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Iran war energy shock accelerates global return to nuclear power",
       "url": "https://www.perplexity.ai/page/iran-war-energy-shock-accelera-5ziA1wViT92P4H9jncAcXQ",
       "description": "Countries across Asia are racing to restart reactors and build new plants as the Middle East conflict disrupts roughly one-fifth of global LNG supply.",
@@ -647,15 +656,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T01:32:46Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Israel warns it will strike Lebanon-Syria border crossing",
-      "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
-      "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T01:13:35Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
@@ -1351,9 +1351,18 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-04-07T10:08:29Z",
+  "cached_at": "2026-04-07T11:14:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Dangote refinery ramps up African exports amid Iran war",
+        "url": "https://www.perplexity.ai/page/dangote-refinery-ramps-up-afri-5NmdMmzoTtKKDaTHl_Q3YA",
+        "description": "The facility has shipped 17 gasoline cargoes across the continent and redirected urea fertilizer to African buyers facing acute shortages.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T10:33:16Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Iran war energy shock accelerates global return to nuclear power",
         "url": "https://www.perplexity.ai/page/iran-war-energy-shock-accelera-5ziA1wViT92P4H9jncAcXQ",
@@ -2001,15 +2010,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T01:32:46Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Israel warns it will strike Lebanon-Syria border crossing",
-        "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
-        "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T01:13:35Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
