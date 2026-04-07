@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran war energy shock accelerates global return to nuclear power",
+      "url": "https://www.perplexity.ai/page/iran-war-energy-shock-accelera-5ziA1wViT92P4H9jncAcXQ",
+      "description": "Countries across Asia are racing to restart reactors and build new plants as the Middle East conflict disrupts roughly one-fifth of global LNG supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T09:57:32Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Deere agrees to $99M settlement in right-to-repair suit",
       "url": "https://www.perplexity.ai/page/deere-agrees-to-99m-settlement-1.NitxK9Tty3iXNmi8v3XQ",
       "description": "The proposed deal also commits the company to providing farmers digital repair tools for a decade. A separate FTC lawsuit remains active.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-02T02:00:33Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Nepal charges 32 in $20M Everest helicopter rescue scam",
-      "url": "https://www.perplexity.ai/page/nepal-charges-32-in-20m-everes-lR0agHTiTFumvSWdraDaTA",
-      "description": "Guides allegedly poisoned trekkers with baking soda to trigger fake evacuations, then forged medical and flight records to defraud insurers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-02T01:11:49Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-04-07T08:53:41Z",
+  "cached_at": "2026-04-07T10:08:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war energy shock accelerates global return to nuclear power",
+        "url": "https://www.perplexity.ai/page/iran-war-energy-shock-accelera-5ziA1wViT92P4H9jncAcXQ",
+        "description": "Countries across Asia are racing to restart reactors and build new plants as the Middle East conflict disrupts roughly one-fifth of global LNG supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T09:57:32Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Deere agrees to $99M settlement in right-to-repair suit",
         "url": "https://www.perplexity.ai/page/deere-agrees-to-99m-settlement-1.NitxK9Tty3iXNmi8v3XQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-02T02:00:33Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Nepal charges 32 in $20M Everest helicopter rescue scam",
-        "url": "https://www.perplexity.ai/page/nepal-charges-32-in-20m-everes-lR0agHTiTFumvSWdraDaTA",
-        "description": "Guides allegedly poisoned trekkers with baking soda to trigger fake evacuations, then forged medical and flight records to defraud insurers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-02T01:11:49Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
