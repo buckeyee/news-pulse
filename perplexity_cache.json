@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
-      "url": "https://www.perplexity.ai/page/sk-hynix-jumps-15-as-samsung-s-F4IJTjI3So6xX29Zy.By6w",
-      "description": "Samsung's preliminary Q1 operating profit of 57.2 trillion won, an eightfold annual increase, fueled a broader rally in Korean chipmakers.",
+      "title": "Delta to slash capacity growth as jet fuel costs double",
+      "url": "https://www.perplexity.ai/page/delta-to-slash-capacity-growth-6Z1zd94tRain8isLTXCWeg",
+      "description": "The airline beat Q1 earnings estimates but projected weaker Q2 results and raised baggage fees amid surging fuel prices tied to the Middle East conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T09:39:05Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-04-08T11:52:09Z",
+      "sourceCount": "53 sources"
     },
     {
       "title": "Starmer heads to Gulf to back US-Iran ceasefire",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T07:23:19Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
+      "url": "https://www.perplexity.ai/page/sk-hynix-jumps-15-as-samsung-s-F4IJTjI3So6xX29Zy.By6w",
+      "description": "Samsung's preliminary Q1 operating profit of 57.2 trillion won, an eightfold annual increase, fueled a broader rally in Korean chipmakers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T09:39:05Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -377,15 +386,6 @@
       "topic": "top",
       "pubDate": "2026-04-07T00:53:02Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Sanchez calls Middle East leaders, demands end to Iran war",
-      "url": "https://www.perplexity.ai/page/sanchez-calls-middle-east-lead-8q7JRRboSwqvwZngAyJHow",
-      "description": "Spain's prime minister spoke Monday with leaders of Egypt, Jordan, Qatar, and Lebanon, pressing for de-escalation and condemning attacks on UN peacekeepers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T00:09:19Z",
-      "sourceCount": "45 sources"
     },
     {
       "title": "UN issues urgent call for aid as Cuba crisis worsens",
@@ -1351,17 +1351,17 @@
       "sourceCount": "55 sources"
     }
   ],
-  "cached_at": "2026-04-08T11:16:59Z",
+  "cached_at": "2026-04-08T12:06:02Z",
   "topics": {
     "top": [
       {
-        "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
-        "url": "https://www.perplexity.ai/page/sk-hynix-jumps-15-as-samsung-s-F4IJTjI3So6xX29Zy.By6w",
-        "description": "Samsung's preliminary Q1 operating profit of 57.2 trillion won, an eightfold annual increase, fueled a broader rally in Korean chipmakers.",
+        "title": "Delta to slash capacity growth as jet fuel costs double",
+        "url": "https://www.perplexity.ai/page/delta-to-slash-capacity-growth-6Z1zd94tRain8isLTXCWeg",
+        "description": "The airline beat Q1 earnings estimates but projected weaker Q2 results and raised baggage fees amid surging fuel prices tied to the Middle East conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T09:39:05Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-04-08T11:52:09Z",
+        "sourceCount": "53 sources"
       },
       {
         "title": "Starmer heads to Gulf to back US-Iran ceasefire",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T07:23:19Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
+        "url": "https://www.perplexity.ai/page/sk-hynix-jumps-15-as-samsung-s-F4IJTjI3So6xX29Zy.By6w",
+        "description": "Samsung's preliminary Q1 operating profit of 57.2 trillion won, an eightfold annual increase, fueled a broader rally in Korean chipmakers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T09:39:05Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -1731,15 +1740,6 @@
         "topic": "top",
         "pubDate": "2026-04-07T00:53:02Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Sanchez calls Middle East leaders, demands end to Iran war",
-        "url": "https://www.perplexity.ai/page/sanchez-calls-middle-east-lead-8q7JRRboSwqvwZngAyJHow",
-        "description": "Spain's prime minister spoke Monday with leaders of Egypt, Jordan, Qatar, and Lebanon, pressing for de-escalation and condemning attacks on UN peacekeepers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T00:09:19Z",
-        "sourceCount": "45 sources"
       },
       {
         "title": "UN issues urgent call for aid as Cuba crisis worsens",
