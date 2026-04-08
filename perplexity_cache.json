@@ -73,15 +73,6 @@
       "sourceCount": "61 sources"
     },
     {
-      "title": "Afghanistan, Pakistan hold 'useful' peace talks in China",
-      "url": "https://www.perplexity.ai/page/afghanistan-pakistan-hold-usef-xQZDDXThRpacc.tmtgCw_w",
-      "description": "Kabul's optimism clashes with Pakistan's military chief vowing to continue operations against militant targets on Afghan soil.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T23:46:31Z",
-      "sourceCount": "34 sources"
-    },
-    {
       "title": "Iran accepts two-week ceasefire hours before Trump's deadline to strike",
       "url": "https://www.perplexity.ai/page/iran-accepts-two-week-ceasefir-G8w2x75nRW6Fb_.88zyNgw",
       "description": "The agreement, brokered by Pakistan, pulled both nations back from the brink after a day of U.S. and Israeli strikes on Iranian infrastructure.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-04-03T08:54:46Z",
       "sourceCount": "116 sources"
+    },
+    {
+      "title": "Trump says Israel will halt Iran war on his orders",
+      "url": "https://www.perplexity.ai/page/trump-says-israel-will-halt-ir-yAafG.p5Q3yyMAWfc3tJ0Q",
+      "description": "In a TIME interview, the president claimed personal authority over the five-week-old conflict, saying of Israel: \"They'll do what I tell them.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T10:11:07Z",
+      "sourceCount": "50 sources"
     }
   ],
-  "cached_at": "2026-04-08T07:52:18Z",
+  "cached_at": "2026-04-08T08:58:54Z",
   "topics": {
     "top": [
       {
@@ -1425,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T00:37:44Z",
         "sourceCount": "61 sources"
-      },
-      {
-        "title": "Afghanistan, Pakistan hold 'useful' peace talks in China",
-        "url": "https://www.perplexity.ai/page/afghanistan-pakistan-hold-usef-xQZDDXThRpacc.tmtgCw_w",
-        "description": "Kabul's optimism clashes with Pakistan's military chief vowing to continue operations against militant targets on Afghan soil.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T23:46:31Z",
-        "sourceCount": "34 sources"
       },
       {
         "title": "Iran accepts two-week ceasefire hours before Trump's deadline to strike",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-03T08:54:46Z",
         "sourceCount": "116 sources"
+      },
+      {
+        "title": "Trump says Israel will halt Iran war on his orders",
+        "url": "https://www.perplexity.ai/page/trump-says-israel-will-halt-ir-yAafG.p5Q3yyMAWfc3tJ0Q",
+        "description": "In a TIME interview, the president claimed personal authority over the five-week-old conflict, saying of Israel: \"They'll do what I tell them.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T10:11:07Z",
+        "sourceCount": "50 sources"
       }
     ],
     "tech": [],
