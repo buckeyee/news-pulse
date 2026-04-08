@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Oil plunges, stock futures surge after U.S.-Iran ceasefire",
-      "url": "https://www.perplexity.ai/page/oil-plunges-stock-futures-surg-wy5kVZgRSoCdR5T6IISWrw",
-      "description": "Trump announced a two-week ceasefire with Iran on Tuesday evening, pulling back from threats of annihilation and sending oil prices sharply lower.",
+      "title": "Starmer heads to Gulf to back US-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
+      "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T04:35:00Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-04-08T07:23:42Z",
+      "sourceCount": "41 sources"
+    },
+    {
+      "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
+      "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
+      "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T07:23:19Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-08T03:27:15Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Israel backs US-Iran ceasefire but excludes Lebanon fight",
-      "url": "https://www.perplexity.ai/page/israel-backs-us-iran-ceasefire-kSS8dTFNTY25kRLzkgQFRQ",
-      "description": "Netanyahu endorsed the two-week truce with Iran but said it does not cover Israel's military campaign against Hezbollah in Lebanon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T03:09:45Z",
-      "sourceCount": "58 sources"
     },
     {
       "title": "Judge preserves abortion pill mail access, warns FDA review can't wait",
@@ -1351,17 +1351,26 @@
       "sourceCount": "116 sources"
     }
   ],
-  "cached_at": "2026-04-08T06:06:30Z",
+  "cached_at": "2026-04-08T07:52:18Z",
   "topics": {
     "top": [
       {
-        "title": "Oil plunges, stock futures surge after U.S.-Iran ceasefire",
-        "url": "https://www.perplexity.ai/page/oil-plunges-stock-futures-surg-wy5kVZgRSoCdR5T6IISWrw",
-        "description": "Trump announced a two-week ceasefire with Iran on Tuesday evening, pulling back from threats of annihilation and sending oil prices sharply lower.",
+        "title": "Starmer heads to Gulf to back US-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
+        "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T04:35:00Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-04-08T07:23:42Z",
+        "sourceCount": "41 sources"
+      },
+      {
+        "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
+        "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
+        "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T07:23:19Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -1389,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T03:27:15Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Israel backs US-Iran ceasefire but excludes Lebanon fight",
-        "url": "https://www.perplexity.ai/page/israel-backs-us-iran-ceasefire-kSS8dTFNTY25kRLzkgQFRQ",
-        "description": "Netanyahu endorsed the two-week truce with Iran but said it does not cover Israel's military campaign against Hezbollah in Lebanon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T03:09:45Z",
-        "sourceCount": "58 sources"
       },
       {
         "title": "Judge preserves abortion pill mail access, warns FDA review can't wait",
