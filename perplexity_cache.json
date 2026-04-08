@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil plunges, stock futures surge after U.S.-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/oil-plunges-stock-futures-surg-wy5kVZgRSoCdR5T6IISWrw",
+      "description": "Trump announced a two-week ceasefire with Iran on Tuesday evening, pulling back from threats of annihilation and sending oil prices sharply lower.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T04:35:00Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
       "url": "https://www.perplexity.ai/page/u-s-rebuffs-ford-s-request-for-LU6F5b2lQYq.bqowThmxYg",
       "description": "The denial comes as fires at a key Novelis plant have disrupted 40% of U.S. auto aluminum supply since September 2025, according to The Wall Street Journal.",
@@ -658,13 +667,13 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Iran vows Strait of Hormuz will 'never return' to pre-war state",
-      "url": "https://www.perplexity.ai/page/iran-vows-strait-of-hormuz-wil-ux.ZCOMjRjCu5yFgzAz99g",
-      "description": "The IRGC Navy said it is finalizing a \"new order\" in the Persian Gulf as Trump's latest deadline to reopen the waterway approaches Tuesday.",
+      "title": "State Dept. condemns 'outrageous' militia attacks on US sites in Iraq",
+      "url": "https://www.perplexity.ai/page/state-dept-condemns-outrageous-APxg2tptRNCcTd0WHTgh_A",
+      "description": "Iran-backed groups have launched a wave of drone and missile strikes on American diplomatic and military facilities across Iraq amid the broader US-Iran conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-06T10:03:37Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-06T01:53:50Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
@@ -676,24 +685,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
-      "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
-      "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T16:27:54Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "State Dept. condemns 'outrageous' militia attacks on US sites in Iraq",
-      "url": "https://www.perplexity.ai/page/state-dept-condemns-outrageous-APxg2tptRNCcTd0WHTgh_A",
-      "description": "Iran-backed groups have launched a wave of drone and missile strikes on American diplomatic and military facilities across Iraq amid the broader US-Iran conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T01:53:50Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "Putin's approval hits lowest point since Ukraine invasion",
       "url": "https://www.perplexity.ai/page/putin-s-approval-hits-lowest-p-v4Dhlz_PT9KurlsHDS8Beg",
       "description": "Russia's Telegram ban triggered a banking outage and a sharp drop in public trust, with approval falling to pre-invasion levels.",
@@ -701,6 +692,15 @@
       "topic": "top",
       "pubDate": "2026-04-05T16:38:20Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "WHO warns of nuclear accident risk as Iran war deadline looms",
+      "url": "https://www.perplexity.ai/page/who-warns-of-nuclear-accident-jq3hFkXlT0GEdCa43z_2vA",
+      "description": "Trump's 48-hour ultimatum for Iran to reopen the Strait of Hormuz expires Monday, as strikes hit near the Bushehr nuclear plant.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T19:39:42Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Jeffries calls Iran war 'reckless,' opposes $200B Pentagon request",
@@ -712,13 +712,22 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "WHO warns of nuclear accident risk as Iran war deadline looms",
-      "url": "https://www.perplexity.ai/page/who-warns-of-nuclear-accident-jq3hFkXlT0GEdCa43z_2vA",
-      "description": "Trump's 48-hour ultimatum for Iran to reopen the Strait of Hormuz expires Monday, as strikes hit near the Bushehr nuclear plant.",
+      "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
+      "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
+      "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T19:39:42Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-05T16:27:54Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump says US sent guns to Iranian protesters via Kurds",
+      "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
+      "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T16:34:46Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Congo agrees to accept US third-country deportees",
@@ -739,13 +748,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump says US sent guns to Iranian protesters via Kurds",
-      "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
-      "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
+      "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
+      "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
+      "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T16:34:46Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-04-05T15:56:54Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Navy SEALs rescue downed F-15E airman from Iran",
@@ -766,15 +775,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
-      "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
-      "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T15:56:54Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
       "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
       "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
@@ -784,13 +784,13 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
-      "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
-      "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
+      "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
+      "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
+      "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T10:15:21Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-05T14:14:20Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Explosives found near Serbia-Hungary gas pipeline; Orban convenes emergency defense council",
@@ -811,13 +811,13 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
-      "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
-      "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
+      "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
+      "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
+      "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T14:14:20Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-04-05T10:15:21Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "China builds largest South China Sea island as US forces shift to Iran",
@@ -1351,9 +1351,18 @@
       "sourceCount": "116 sources"
     }
   ],
-  "cached_at": "2026-04-08T04:24:19Z",
+  "cached_at": "2026-04-08T06:06:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil plunges, stock futures surge after U.S.-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/oil-plunges-stock-futures-surg-wy5kVZgRSoCdR5T6IISWrw",
+        "description": "Trump announced a two-week ceasefire with Iran on Tuesday evening, pulling back from threats of annihilation and sending oil prices sharply lower.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T04:35:00Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
         "url": "https://www.perplexity.ai/page/u-s-rebuffs-ford-s-request-for-LU6F5b2lQYq.bqowThmxYg",
@@ -2012,13 +2021,13 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Iran vows Strait of Hormuz will 'never return' to pre-war state",
-        "url": "https://www.perplexity.ai/page/iran-vows-strait-of-hormuz-wil-ux.ZCOMjRjCu5yFgzAz99g",
-        "description": "The IRGC Navy said it is finalizing a \"new order\" in the Persian Gulf as Trump's latest deadline to reopen the waterway approaches Tuesday.",
+        "title": "State Dept. condemns 'outrageous' militia attacks on US sites in Iraq",
+        "url": "https://www.perplexity.ai/page/state-dept-condemns-outrageous-APxg2tptRNCcTd0WHTgh_A",
+        "description": "Iran-backed groups have launched a wave of drone and missile strikes on American diplomatic and military facilities across Iraq amid the broader US-Iran conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-06T10:03:37Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-06T01:53:50Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
@@ -2030,24 +2039,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
-        "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
-        "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T16:27:54Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "State Dept. condemns 'outrageous' militia attacks on US sites in Iraq",
-        "url": "https://www.perplexity.ai/page/state-dept-condemns-outrageous-APxg2tptRNCcTd0WHTgh_A",
-        "description": "Iran-backed groups have launched a wave of drone and missile strikes on American diplomatic and military facilities across Iraq amid the broader US-Iran conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T01:53:50Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "Putin's approval hits lowest point since Ukraine invasion",
         "url": "https://www.perplexity.ai/page/putin-s-approval-hits-lowest-p-v4Dhlz_PT9KurlsHDS8Beg",
         "description": "Russia's Telegram ban triggered a banking outage and a sharp drop in public trust, with approval falling to pre-invasion levels.",
@@ -2055,6 +2046,15 @@
         "topic": "top",
         "pubDate": "2026-04-05T16:38:20Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "WHO warns of nuclear accident risk as Iran war deadline looms",
+        "url": "https://www.perplexity.ai/page/who-warns-of-nuclear-accident-jq3hFkXlT0GEdCa43z_2vA",
+        "description": "Trump's 48-hour ultimatum for Iran to reopen the Strait of Hormuz expires Monday, as strikes hit near the Bushehr nuclear plant.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T19:39:42Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Jeffries calls Iran war 'reckless,' opposes $200B Pentagon request",
@@ -2066,13 +2066,22 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "WHO warns of nuclear accident risk as Iran war deadline looms",
-        "url": "https://www.perplexity.ai/page/who-warns-of-nuclear-accident-jq3hFkXlT0GEdCa43z_2vA",
-        "description": "Trump's 48-hour ultimatum for Iran to reopen the Strait of Hormuz expires Monday, as strikes hit near the Bushehr nuclear plant.",
+        "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
+        "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
+        "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T19:39:42Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-05T16:27:54Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump says US sent guns to Iranian protesters via Kurds",
+        "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
+        "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T16:34:46Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Congo agrees to accept US third-country deportees",
@@ -2093,13 +2102,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump says US sent guns to Iranian protesters via Kurds",
-        "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
-        "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
+        "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
+        "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
+        "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T16:34:46Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-04-05T15:56:54Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Navy SEALs rescue downed F-15E airman from Iran",
@@ -2120,15 +2129,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
-        "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
-        "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T15:56:54Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
         "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
         "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
@@ -2138,13 +2138,13 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
-        "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
-        "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
+        "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
+        "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
+        "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T10:15:21Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-05T14:14:20Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Explosives found near Serbia-Hungary gas pipeline; Orban convenes emergency defense council",
@@ -2165,13 +2165,13 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
-        "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
-        "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
+        "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
+        "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
+        "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T14:14:20Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-04-05T10:15:21Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "China builds largest South China Sea island as US forces shift to Iran",
