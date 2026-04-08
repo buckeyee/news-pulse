@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "BWXT begins licensing process for uranium enrichment plant in Tennessee",
+      "url": "https://www.perplexity.ai/page/bwxt-begins-licensing-process-JPEekMAYSCSLhUm_lMWttw",
+      "description": "The defense contractor notified the NRC of plans to build a facility producing highly enriched uranium for the U.S. Navy's nuclear fleet.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T17:41:05Z",
+      "sourceCount": "13 sources"
+    },
+    {
+      "title": "Iran faces economic collapse after 40 days of war",
+      "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
+      "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T17:01:40Z",
+      "sourceCount": "60 sources"
+    },
+    {
+      "title": "Iran shuts Hormuz, threatens to quit ceasefire after Lebanon strikes",
+      "url": "https://www.perplexity.ai/page/iran-shuts-hormuz-threatens-to-QgWyb6O.QYK99qmgnBhpnw",
+      "description": "Tehran warned it may abandon the two-week truce after Israel hit over 100 Hezbollah sites across Lebanon, prompting Iran to reclose the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:44:00Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
       "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
       "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
@@ -26,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-04-08T16:16:03Z",
       "sourceCount": "96 sources"
-    },
-    {
-      "title": "Ceasefire frays as Iran strikes Gulf states, refinery hit",
-      "url": "https://www.perplexity.ai/page/ceasefire-frays-as-iran-strike-VWDnNCrVSxShFyVhUZmIDg",
-      "description": "Hours after the U.S.-Iran truce took effect, Iran launched missiles at the UAE and Kuwait while a strike hit an Iranian refinery.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T15:49:07Z",
-      "sourceCount": "58 sources"
     },
     {
       "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-04-03T11:56:43Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Environmental groups sue over Gulf drilling's ESA exemption",
-      "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
-      "description": "Conservation groups filed lawsuits challenging the Trump administration's unprecedented decision to exempt all Gulf oil and gas operations from the Endangered Species Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T10:03:28Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Russia holds nuclear missile drills as Trump threatens NATO exit",
-      "url": "https://www.perplexity.ai/page/russia-holds-nuclear-missile-d-aaoTm0nFSsqkAKngdFA3iw",
-      "description": "Moscow showcased Yars ICBMs in Siberian exercises as European leaders warned Trump's withdrawal threats serve Putin's interests.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T10:28:57Z",
-      "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-04-08T16:45:44Z",
+  "cached_at": "2026-04-08T17:53:20Z",
   "topics": {
     "top": [
+      {
+        "title": "BWXT begins licensing process for uranium enrichment plant in Tennessee",
+        "url": "https://www.perplexity.ai/page/bwxt-begins-licensing-process-JPEekMAYSCSLhUm_lMWttw",
+        "description": "The defense contractor notified the NRC of plans to build a facility producing highly enriched uranium for the U.S. Navy's nuclear fleet.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T17:41:05Z",
+        "sourceCount": "13 sources"
+      },
+      {
+        "title": "Iran faces economic collapse after 40 days of war",
+        "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
+        "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T17:01:40Z",
+        "sourceCount": "60 sources"
+      },
+      {
+        "title": "Iran shuts Hormuz, threatens to quit ceasefire after Lebanon strikes",
+        "url": "https://www.perplexity.ai/page/iran-shuts-hormuz-threatens-to-QgWyb6O.QYK99qmgnBhpnw",
+        "description": "Tehran warned it may abandon the two-week truce after Israel hit over 100 Hezbollah sites across Lebanon, prompting Iran to reclose the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:44:00Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
         "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
@@ -1380,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T16:16:03Z",
         "sourceCount": "96 sources"
-      },
-      {
-        "title": "Ceasefire frays as Iran strikes Gulf states, refinery hit",
-        "url": "https://www.perplexity.ai/page/ceasefire-frays-as-iran-strike-VWDnNCrVSxShFyVhUZmIDg",
-        "description": "Hours after the U.S.-Iran truce took effect, Iran launched missiles at the UAE and Kuwait while a strike hit an Iranian refinery.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T15:49:07Z",
-        "sourceCount": "58 sources"
       },
       {
         "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-03T11:56:43Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Environmental groups sue over Gulf drilling's ESA exemption",
-        "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
-        "description": "Conservation groups filed lawsuits challenging the Trump administration's unprecedented decision to exempt all Gulf oil and gas operations from the Endangered Species Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T10:03:28Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Russia holds nuclear missile drills as Trump threatens NATO exit",
-        "url": "https://www.perplexity.ai/page/russia-holds-nuclear-missile-d-aaoTm0nFSsqkAKngdFA3iw",
-        "description": "Moscow showcased Yars ICBMs in Siberian exercises as European leaders warned Trump's withdrawal threats serve Putin's interests.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T10:28:57Z",
-        "sourceCount": "34 sources"
       }
     ],
     "tech": [],
