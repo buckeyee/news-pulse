@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "US Gulf Coast refiners post strongest margins in years amid Iran war",
-      "url": "https://www.perplexity.ai/page/us-gulf-coast-refiners-post-st-362L066rRSSBP7Uv5qplEg",
-      "description": "A fragile ceasefire sent oil prices plunging, but analysts say elevated fuel prices and refining windfalls could persist for months.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T20:25:10Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
       "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
       "description": "VP Vance is set to lead U.S. talks with Iran in Islamabad on Saturday as Israeli strikes on Lebanon strain a days-old ceasefire.",
@@ -37,13 +28,13 @@
       "sourceCount": "41 sources"
     },
     {
-      "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
-      "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
-      "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
+      "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
+      "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T18:55:44Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-09T20:10:25Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Artemis II crew spends final day in space ahead of Friday splashdown",
@@ -64,6 +55,15 @@
       "sourceCount": "16 sources"
     },
     {
+      "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
+      "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
+      "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T18:55:44Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Small AI startups win Pentagon contracts after Anthropic split",
       "url": "https://www.perplexity.ai/page/small-ai-startups-win-pentagon-3c7fE_M9RmyJDnXXuEtg5w",
       "description": "Defense-focused firms like Smack Technologies and EdgeRunner AI report surging military interest after the Pentagon designated Anthropic a supply-chain risk.",
@@ -73,15 +73,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "US fertility rate fell to record low in 2025, CDC reports",
-      "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
-      "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T16:05:44Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
       "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
       "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
@@ -89,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T16:37:27Z",
       "sourceCount": "67 sources"
+    },
+    {
+      "title": "US fertility rate fell to record low in 2025, CDC reports",
+      "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
+      "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T16:05:44Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Iran's nuclear chief rejects enrichment curbs ahead of Islamabad talks",
@@ -125,6 +125,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T15:31:18Z",
       "sourceCount": "46 sources"
+    },
+    {
+      "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
+      "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
+      "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T14:46:14Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Finland nears launch of world's first permanent nuclear waste site",
@@ -1340,29 +1349,11 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:37Z",
       "sourceCount": "67 sources"
-    },
-    {
-      "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-      "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-      "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:13Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-09T20:35:04Z",
+  "cached_at": "2026-04-09T21:30:08Z",
   "topics": {
     "top": [
-      {
-        "title": "US Gulf Coast refiners post strongest margins in years amid Iran war",
-        "url": "https://www.perplexity.ai/page/us-gulf-coast-refiners-post-st-362L066rRSSBP7Uv5qplEg",
-        "description": "A fragile ceasefire sent oil prices plunging, but analysts say elevated fuel prices and refining windfalls could persist for months.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T20:25:10Z",
-        "sourceCount": "29 sources"
-      },
       {
         "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
         "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
@@ -1391,13 +1382,13 @@
         "sourceCount": "41 sources"
       },
       {
-        "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
-        "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
-        "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
+        "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
+        "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T18:55:44Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-09T20:10:25Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Artemis II crew spends final day in space ahead of Friday splashdown",
@@ -1418,6 +1409,15 @@
         "sourceCount": "16 sources"
       },
       {
+        "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
+        "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
+        "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T18:55:44Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Small AI startups win Pentagon contracts after Anthropic split",
         "url": "https://www.perplexity.ai/page/small-ai-startups-win-pentagon-3c7fE_M9RmyJDnXXuEtg5w",
         "description": "Defense-focused firms like Smack Technologies and EdgeRunner AI report surging military interest after the Pentagon designated Anthropic a supply-chain risk.",
@@ -1427,15 +1427,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "US fertility rate fell to record low in 2025, CDC reports",
-        "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
-        "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T16:05:44Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
         "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
         "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
@@ -1443,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T16:37:27Z",
         "sourceCount": "67 sources"
+      },
+      {
+        "title": "US fertility rate fell to record low in 2025, CDC reports",
+        "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
+        "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T16:05:44Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Iran's nuclear chief rejects enrichment curbs ahead of Islamabad talks",
@@ -1479,6 +1479,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T15:31:18Z",
         "sourceCount": "46 sources"
+      },
+      {
+        "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
+        "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
+        "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T14:46:14Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Finland nears launch of world's first permanent nuclear waste site",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:37Z",
         "sourceCount": "67 sources"
-      },
-      {
-        "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-        "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-        "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:13Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
