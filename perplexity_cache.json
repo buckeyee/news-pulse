@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Dow surges over 1,300 points after U.S.-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/dow-surges-over-1300-points-af-33Ai5q.WT1i.ujgOL42HBg",
+      "description": "Wall Street posted its best day in a year as oil prices plunged on hopes the Strait of Hormuz would reopen to tanker traffic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T06:19:50Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Artemis II crew races toward Friday splashdown after moon flyby",
       "url": "https://www.perplexity.ai/page/artemis-ii-crew-races-toward-f-JH_EtcACTfG_GhRTkwjlrA",
       "description": "Canada's PM Carney spoke with astronaut Jeremy Hansen from deep space as the record-breaking lunar mission nears its return to Earth.",
@@ -10,13 +19,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Iran announces alternative Hormuz routes, citing mines in main shipping lanes",
-      "url": "https://www.perplexity.ai/page/iran-announces-alternative-hor-Lc33I0hBTZKvWJGxQwFBhA",
-      "description": "The IRGC's new corridors route ships through Iranian territorial waters under military oversight, despite a fragile ceasefire with the U.S.",
+      "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
+      "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T04:32:25Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-04-09T04:38:10Z",
+      "sourceCount": "84 sources"
     },
     {
       "title": "UMass physicists link record-energy neutrino to exploding black hole",
@@ -262,15 +271,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
-      "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
-      "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:38:02Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Jeff Shell fired as Paramount president after leak allegations",
       "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
       "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
@@ -280,15 +280,6 @@
       "sourceCount": "62 sources"
     },
     {
-      "title": "Israel learned of Iran cease-fire deal at last minute",
-      "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
-      "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:16:03Z",
-      "sourceCount": "96 sources"
-    },
-    {
       "title": "DOJ says fired AG Bondi won't appear for Epstein deposition",
       "url": "https://www.perplexity.ai/page/doj-says-fired-ag-bondi-won-t-viWNtSngSuqDd8tqDpwYQQ",
       "description": "The department argues her subpoena was tied to a role she no longer holds, but the Oversight Committee says it will pursue her testimony.",
@@ -296,6 +287,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T16:09:13Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Israel learned of Iran cease-fire deal at last minute",
+      "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
+      "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:16:03Z",
+      "sourceCount": "96 sources"
     },
     {
       "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
@@ -1351,9 +1351,18 @@
       "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-04-09T05:28:59Z",
+  "cached_at": "2026-04-09T07:03:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Dow surges over 1,300 points after U.S.-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/dow-surges-over-1300-points-af-33Ai5q.WT1i.ujgOL42HBg",
+        "description": "Wall Street posted its best day in a year as oil prices plunged on hopes the Strait of Hormuz would reopen to tanker traffic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T06:19:50Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Artemis II crew races toward Friday splashdown after moon flyby",
         "url": "https://www.perplexity.ai/page/artemis-ii-crew-races-toward-f-JH_EtcACTfG_GhRTkwjlrA",
@@ -1364,13 +1373,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Iran announces alternative Hormuz routes, citing mines in main shipping lanes",
-        "url": "https://www.perplexity.ai/page/iran-announces-alternative-hor-Lc33I0hBTZKvWJGxQwFBhA",
-        "description": "The IRGC's new corridors route ships through Iranian territorial waters under military oversight, despite a fragile ceasefire with the U.S.",
+        "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
+        "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T04:32:25Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-04-09T04:38:10Z",
+        "sourceCount": "84 sources"
       },
       {
         "title": "UMass physicists link record-energy neutrino to exploding black hole",
@@ -1616,15 +1625,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
-        "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
-        "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:38:02Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Jeff Shell fired as Paramount president after leak allegations",
         "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
         "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
@@ -1634,15 +1634,6 @@
         "sourceCount": "62 sources"
       },
       {
-        "title": "Israel learned of Iran cease-fire deal at last minute",
-        "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
-        "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:16:03Z",
-        "sourceCount": "96 sources"
-      },
-      {
         "title": "DOJ says fired AG Bondi won't appear for Epstein deposition",
         "url": "https://www.perplexity.ai/page/doj-says-fired-ag-bondi-won-t-viWNtSngSuqDd8tqDpwYQQ",
         "description": "The department argues her subpoena was tied to a role she no longer holds, but the Oversight Committee says it will pursue her testimony.",
@@ -1650,6 +1641,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T16:09:13Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Israel learned of Iran cease-fire deal at last minute",
+        "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
+        "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:16:03Z",
+        "sourceCount": "96 sources"
       },
       {
         "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
