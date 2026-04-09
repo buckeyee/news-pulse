@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "Earth grew 16% brighter at night since 2014, study finds",
+      "url": "https://www.perplexity.ai/page/earth-grew-16-brighter-at-nigh-OQRDbz9BTAWV7yBt8QHh6w",
+      "description": "Daily satellite imagery reveals the planet's artificial lighting is far more volatile than scientists assumed, with regional brightening and dimming driven by development, conflict, and policy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T13:28:47Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "OpenAI pauses Stargate UK data center over energy costs",
+      "url": "https://www.perplexity.ai/page/openai-pauses-stargate-uk-data-2sjkRNyKQNSoQBKsQTglzQ",
+      "description": "The decision to shelve the sovereign AI infrastructure project is a setback for Prime Minister Starmer's national AI strategy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T13:15:30Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Lobbyists with Trump Jr. ties helped Chinese firm win national security review",
+      "url": "https://www.perplexity.ai/page/lobbyists-with-trump-jr-ties-h-afBXc_gBTpSjmUNiy.cEtQ",
+      "description": "A firm run by Donald Trump Jr.'s hunting companion helped Grand Pharmaceutical defeat a U.S. national security review of its investment in a medical-device startup.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T13:05:46Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Iran war doubles Russia's oil tax revenue to $9 bn in April",
+      "url": "https://www.perplexity.ai/page/iran-war-doubles-russia-s-oil-6Ul_N_VaQ5OkjoOPs8vfHA",
+      "description": "Reuters calculations show the mineral extraction tax windfall follows months of declining energy revenues and a record budget deficit.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T12:56:15Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
+      "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
+      "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T12:55:57Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "IUCN lists emperor penguins as endangered over sea ice loss",
       "url": "https://www.perplexity.ai/page/iucn-lists-emperor-penguins-as-Hqh5ajo1TQmXD5vylZXoTg",
       "description": "The Antarctic fur seal and southern elephant seal were also reclassified as climate change reshapes polar ecosystems.",
@@ -8,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T10:27:07Z",
       "sourceCount": "32 sources"
+    },
+    {
+      "title": "Chevron projects up to $2.2B Q1 earnings boost from higher oil prices",
+      "url": "https://www.perplexity.ai/page/chevron-projects-up-to-2-2b-q1-7so20yTwQR6xTUbzWa_WMg",
+      "description": "Production fell up to 6% due to the Iran war, but surging commodity prices are expected to more than offset the losses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T12:44:25Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "New model suggests dark matter has two particle states",
@@ -19,15 +73,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
-      "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
-      "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T10:11:19Z",
-      "sourceCount": "55 sources"
-    },
-    {
       "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
       "description": "Asian markets fell Thursday after Israel's massive Lebanon strikes prompted Iran to shut the strait again, casting doubt on the two-week ceasefire.",
@@ -35,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T07:55:15Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
+      "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
+      "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T10:11:19Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "Artemis II crew races toward Friday splashdown after moon flyby",
@@ -46,15 +100,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
-      "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T04:38:10Z",
-      "sourceCount": "84 sources"
-    },
-    {
       "title": "UMass physicists link record-energy neutrino to exploding black hole",
       "url": "https://www.perplexity.ai/page/umass-physicists-link-record-e-rGJWQnYXTJS0UtCWpSAKng",
       "description": "A \"dark charge\" model proposes primordial black holes from the early universe could explain a 2023 particle detection that defied all known physics.",
@@ -64,15 +109,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Artemis II crew preps for risky Friday reentry",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T03:48:13Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Study: 2.5 million Americans lost food aid after GOP megabill",
       "url": "https://www.perplexity.ai/page/study-2-5-million-americans-lo-9qaqYC0GRcGVG1PGi3VFeQ",
       "description": "The Center on Budget and Policy Priorities found SNAP enrollment fell sharply in the six months after the One Big Beautiful Bill Act took effect.",
@@ -80,6 +116,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T02:48:33Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Artemis II crew preps for risky Friday reentry",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T03:48:13Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -190,12 +235,12 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "UK vows to restore shipping confidence in Strait of Hormuz after US-Iran ceasefire",
-      "url": "https://www.perplexity.ai/page/uk-vows-to-restore-shipping-co-yRMqDJ0pT_eYDMaDJcZn3g",
-      "description": "PM Starmer arrived in Saudi Arabia to reinforce the fragile two-week truce as Foreign Secretary Cooper urged Iran to halt all threats to commercial shipping.",
+      "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
+      "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
+      "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T21:13:38Z",
+      "pubDate": "2026-04-08T20:17:23Z",
       "sourceCount": "27 sources"
     },
     {
@@ -206,15 +251,6 @@
       "topic": "top",
       "pubDate": "2026-04-08T22:27:39Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
-      "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
-      "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T20:17:23Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Trump weighs relocating troops to punish NATO allies over Iran war",
@@ -1313,47 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-04-04T12:29:14Z",
       "sourceCount": "56 sources"
-    },
-    {
-      "title": "UAE rejects Zarif's peace proposal, demands Iran compensate Gulf states",
-      "url": "https://www.perplexity.ai/page/uae-rejects-zarif-s-peace-prop-dTx76ic7Q2q7Ub5T4Nlzgg",
-      "description": "Dr. Anwar Gargash called the former Iranian FM's plan \"fundamentally flawed\" for ignoring Tehran's missile and drone attacks on Arab neighbors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T12:13:16Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
-      "url": "https://www.perplexity.ai/page/trump-weighs-broader-cabinet-s-mWRxB_0PQ1OUP1T8Z.7vdg",
-      "description": "Lutnick, Gabbard, and Chavez-DeRemer are among those on thin ice as Trump's approval hits a term low amid the Iran conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T11:11:25Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "Ukrainian drone strikes kill one in Taganrog, hit chemical plants deep in Russia",
-      "url": "https://www.perplexity.ai/page/ukrainian-drone-strikes-kill-o-c.ZXDSURRp6f9vu5H6O4yQ",
-      "description": "Overnight attacks targeted southern Russia's port city and industrial sites over 750 km from the front lines, leaving four in critical condition.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T10:03:10Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Five EU finance ministers demand windfall tax on energy firms",
-      "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
-      "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T08:33:56Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-04-09T12:05:44Z",
+  "cached_at": "2026-04-09T14:13:10Z",
   "topics": {
     "top": [
+      {
+        "title": "Earth grew 16% brighter at night since 2014, study finds",
+        "url": "https://www.perplexity.ai/page/earth-grew-16-brighter-at-nigh-OQRDbz9BTAWV7yBt8QHh6w",
+        "description": "Daily satellite imagery reveals the planet's artificial lighting is far more volatile than scientists assumed, with regional brightening and dimming driven by development, conflict, and policy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T13:28:47Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "OpenAI pauses Stargate UK data center over energy costs",
+        "url": "https://www.perplexity.ai/page/openai-pauses-stargate-uk-data-2sjkRNyKQNSoQBKsQTglzQ",
+        "description": "The decision to shelve the sovereign AI infrastructure project is a setback for Prime Minister Starmer's national AI strategy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T13:15:30Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Lobbyists with Trump Jr. ties helped Chinese firm win national security review",
+        "url": "https://www.perplexity.ai/page/lobbyists-with-trump-jr-ties-h-afBXc_gBTpSjmUNiy.cEtQ",
+        "description": "A firm run by Donald Trump Jr.'s hunting companion helped Grand Pharmaceutical defeat a U.S. national security review of its investment in a medical-device startup.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T13:05:46Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Iran war doubles Russia's oil tax revenue to $9 bn in April",
+        "url": "https://www.perplexity.ai/page/iran-war-doubles-russia-s-oil-6Ul_N_VaQ5OkjoOPs8vfHA",
+        "description": "Reuters calculations show the mineral extraction tax windfall follows months of declining energy revenues and a record budget deficit.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T12:56:15Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
+        "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
+        "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T12:55:57Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "IUCN lists emperor penguins as endangered over sea ice loss",
         "url": "https://www.perplexity.ai/page/iucn-lists-emperor-penguins-as-Hqh5ajo1TQmXD5vylZXoTg",
@@ -1362,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T10:27:07Z",
         "sourceCount": "32 sources"
+      },
+      {
+        "title": "Chevron projects up to $2.2B Q1 earnings boost from higher oil prices",
+        "url": "https://www.perplexity.ai/page/chevron-projects-up-to-2-2b-q1-7so20yTwQR6xTUbzWa_WMg",
+        "description": "Production fell up to 6% due to the Iran war, but surging commodity prices are expected to more than offset the losses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T12:44:25Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "New model suggests dark matter has two particle states",
@@ -1373,15 +1427,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
-        "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
-        "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T10:11:19Z",
-        "sourceCount": "55 sources"
-      },
-      {
         "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
         "description": "Asian markets fell Thursday after Israel's massive Lebanon strikes prompted Iran to shut the strait again, casting doubt on the two-week ceasefire.",
@@ -1389,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T07:55:15Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
+        "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
+        "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T10:11:19Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "Artemis II crew races toward Friday splashdown after moon flyby",
@@ -1400,15 +1454,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
-        "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T04:38:10Z",
-        "sourceCount": "84 sources"
-      },
-      {
         "title": "UMass physicists link record-energy neutrino to exploding black hole",
         "url": "https://www.perplexity.ai/page/umass-physicists-link-record-e-rGJWQnYXTJS0UtCWpSAKng",
         "description": "A \"dark charge\" model proposes primordial black holes from the early universe could explain a 2023 particle detection that defied all known physics.",
@@ -1418,15 +1463,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Artemis II crew preps for risky Friday reentry",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T03:48:13Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Study: 2.5 million Americans lost food aid after GOP megabill",
         "url": "https://www.perplexity.ai/page/study-2-5-million-americans-lo-9qaqYC0GRcGVG1PGi3VFeQ",
         "description": "The Center on Budget and Policy Priorities found SNAP enrollment fell sharply in the six months after the One Big Beautiful Bill Act took effect.",
@@ -1434,6 +1470,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T02:48:33Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Artemis II crew preps for risky Friday reentry",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T03:48:13Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -1544,12 +1589,12 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "UK vows to restore shipping confidence in Strait of Hormuz after US-Iran ceasefire",
-        "url": "https://www.perplexity.ai/page/uk-vows-to-restore-shipping-co-yRMqDJ0pT_eYDMaDJcZn3g",
-        "description": "PM Starmer arrived in Saudi Arabia to reinforce the fragile two-week truce as Foreign Secretary Cooper urged Iran to halt all threats to commercial shipping.",
+        "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
+        "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
+        "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T21:13:38Z",
+        "pubDate": "2026-04-08T20:17:23Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1560,15 +1605,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T22:27:39Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
-        "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
-        "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T20:17:23Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Trump weighs relocating troops to punish NATO allies over Iran war",
@@ -2667,42 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T12:29:14Z",
         "sourceCount": "56 sources"
-      },
-      {
-        "title": "UAE rejects Zarif's peace proposal, demands Iran compensate Gulf states",
-        "url": "https://www.perplexity.ai/page/uae-rejects-zarif-s-peace-prop-dTx76ic7Q2q7Ub5T4Nlzgg",
-        "description": "Dr. Anwar Gargash called the former Iranian FM's plan \"fundamentally flawed\" for ignoring Tehran's missile and drone attacks on Arab neighbors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T12:13:16Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
-        "url": "https://www.perplexity.ai/page/trump-weighs-broader-cabinet-s-mWRxB_0PQ1OUP1T8Z.7vdg",
-        "description": "Lutnick, Gabbard, and Chavez-DeRemer are among those on thin ice as Trump's approval hits a term low amid the Iran conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T11:11:25Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "Ukrainian drone strikes kill one in Taganrog, hit chemical plants deep in Russia",
-        "url": "https://www.perplexity.ai/page/ukrainian-drone-strikes-kill-o-c.ZXDSURRp6f9vu5H6O4yQ",
-        "description": "Overnight attacks targeted southern Russia's port city and industrial sites over 750 km from the front lines, leaving four in critical condition.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T10:03:10Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Five EU finance ministers demand windfall tax on energy firms",
-        "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
-        "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T08:33:56Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
