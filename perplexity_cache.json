@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
-      "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
-      "description": "VP Vance is set to lead U.S. talks with Iran in Islamabad on Saturday as Israeli strikes on Lebanon strain a days-old ceasefire.",
+      "title": "OpenAI pitches compute edge over Anthropic as revenue gap widens",
+      "url": "https://www.perplexity.ai/page/openai-pitches-compute-edge-ov-e8MB_zzoSMeMHlxLourMWQ",
+      "description": "Bloomberg reports OpenAI told investors this week that its infrastructure spending gives it a key advantage over Anthropic, which recently surpassed OpenAI's revenue run rate.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T20:20:11Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-04-09T21:46:33Z",
+      "sourceCount": "33 sources"
+    },
+    {
+      "title": "Trump demands Iran stop charging tolls on Hormuz strait",
+      "url": "https://www.perplexity.ai/page/trump-demands-iran-stop-chargi-96Jp4T59T96zf9mbZ8yhmA",
+      "description": "The warning strains a two-day-old ceasefire as the critical waterway remains effectively closed, with only Iran-linked vessels allowed through.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T21:33:08Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "CoreWeave launches $4.25B debt push after $21B Meta deal",
@@ -28,13 +37,13 @@
       "sourceCount": "41 sources"
     },
     {
-      "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
-      "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
+      "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
+      "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
+      "description": "VP Vance is set to lead U.S. talks with Iran in Islamabad on Saturday as Israeli strikes on Lebanon strain a days-old ceasefire.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T20:10:25Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-04-09T20:20:11Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Artemis II crew spends final day in space ahead of Friday splashdown",
@@ -43,24 +52,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-09T16:57:47Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Melania Trump denies Epstein ties, calls for survivor hearings",
-      "url": "https://www.perplexity.ai/page/melania-trump-denies-epstein-t-x4FsQWGSQWqhxXr6rKjlCw",
-      "description": "The first lady delivered a rare White House statement rejecting allegations linking her to Jeffrey Epstein and urging Congress to let victims testify.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T19:06:56Z",
-      "sourceCount": "16 sources"
-    },
-    {
-      "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
-      "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
-      "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T18:55:44Z",
       "sourceCount": "28 sources"
     },
     {
@@ -73,13 +64,22 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
-      "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
-      "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
+      "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
+      "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T16:37:27Z",
-      "sourceCount": "67 sources"
+      "pubDate": "2026-04-09T20:10:25Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Melania Trump denies Epstein ties, calls for survivor hearings",
+      "url": "https://www.perplexity.ai/page/melania-trump-denies-epstein-t-x4FsQWGSQWqhxXr6rKjlCw",
+      "description": "The first lady delivered a rare White House statement rejecting allegations linking her to Jeffrey Epstein and urging Congress to let victims testify.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T19:06:56Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "US fertility rate fell to record low in 2025, CDC reports",
@@ -98,6 +98,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T15:55:24Z",
       "sourceCount": "46 sources"
+    },
+    {
+      "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
+      "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
+      "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T16:37:27Z",
+      "sourceCount": "67 sources"
     },
     {
       "title": "Software stocks slide as Anthropic's Mythos AI model stokes disruption fears",
@@ -188,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-04-09T12:56:15Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
-      "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
-      "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T12:55:57Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "UK forces Russian submarines to retreat from undersea cables",
@@ -523,13 +523,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Starmer heads to Gulf to back US-Iran ceasefire",
-      "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
-      "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+      "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
+      "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
+      "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T07:23:42Z",
-      "sourceCount": "41 sources"
+      "pubDate": "2026-04-08T07:23:19Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
@@ -539,15 +539,6 @@
       "topic": "top",
       "pubDate": "2026-04-08T12:34:37Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
-      "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
-      "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T07:23:19Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -1349,19 +1340,37 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:37Z",
       "sourceCount": "67 sources"
+    },
+    {
+      "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
+      "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
+      "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:58:13Z",
+      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-09T21:30:08Z",
+  "cached_at": "2026-04-09T22:09:43Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
-        "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
-        "description": "VP Vance is set to lead U.S. talks with Iran in Islamabad on Saturday as Israeli strikes on Lebanon strain a days-old ceasefire.",
+        "title": "OpenAI pitches compute edge over Anthropic as revenue gap widens",
+        "url": "https://www.perplexity.ai/page/openai-pitches-compute-edge-ov-e8MB_zzoSMeMHlxLourMWQ",
+        "description": "Bloomberg reports OpenAI told investors this week that its infrastructure spending gives it a key advantage over Anthropic, which recently surpassed OpenAI's revenue run rate.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T20:20:11Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-04-09T21:46:33Z",
+        "sourceCount": "33 sources"
+      },
+      {
+        "title": "Trump demands Iran stop charging tolls on Hormuz strait",
+        "url": "https://www.perplexity.ai/page/trump-demands-iran-stop-chargi-96Jp4T59T96zf9mbZ8yhmA",
+        "description": "The warning strains a two-day-old ceasefire as the critical waterway remains effectively closed, with only Iran-linked vessels allowed through.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T21:33:08Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "CoreWeave launches $4.25B debt push after $21B Meta deal",
@@ -1382,13 +1391,13 @@
         "sourceCount": "41 sources"
       },
       {
-        "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
-        "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
+        "title": "Trump says he's 'very optimistic' on Iran deal amid Lebanon crisis",
+        "url": "https://www.perplexity.ai/page/trump-says-he-s-very-optimisti-BcB2vw2ATGe37n7HpXBVsQ",
+        "description": "VP Vance is set to lead U.S. talks with Iran in Islamabad on Saturday as Israeli strikes on Lebanon strain a days-old ceasefire.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T20:10:25Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-04-09T20:20:11Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Artemis II crew spends final day in space ahead of Friday splashdown",
@@ -1397,24 +1406,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-09T16:57:47Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Melania Trump denies Epstein ties, calls for survivor hearings",
-        "url": "https://www.perplexity.ai/page/melania-trump-denies-epstein-t-x4FsQWGSQWqhxXr6rKjlCw",
-        "description": "The first lady delivered a rare White House statement rejecting allegations linking her to Jeffrey Epstein and urging Congress to let victims testify.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T19:06:56Z",
-        "sourceCount": "16 sources"
-      },
-      {
-        "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
-        "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
-        "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T18:55:44Z",
         "sourceCount": "28 sources"
       },
       {
@@ -1427,13 +1418,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
-        "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
-        "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
+        "title": "Iran's Khamenei vows revenge, signals 'new phase' at Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-s-khamenei-vows-revenge-s-3X1rVJIvQnuRk_fuFHxubA",
+        "description": "The new supreme leader's defiant message came on the 40th day since his father's killing in US-Israeli strikes that sparked the wider war.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T16:37:27Z",
-        "sourceCount": "67 sources"
+        "pubDate": "2026-04-09T20:10:25Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Melania Trump denies Epstein ties, calls for survivor hearings",
+        "url": "https://www.perplexity.ai/page/melania-trump-denies-epstein-t-x4FsQWGSQWqhxXr6rKjlCw",
+        "description": "The first lady delivered a rare White House statement rejecting allegations linking her to Jeffrey Epstein and urging Congress to let victims testify.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T19:06:56Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "US fertility rate fell to record low in 2025, CDC reports",
@@ -1452,6 +1452,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T15:55:24Z",
         "sourceCount": "46 sources"
+      },
+      {
+        "title": "Trump administration curbs RFK Jr. on vaccines before midterms",
+        "url": "https://www.perplexity.ai/page/trump-administration-curbs-rfk-WsrabFXZQ2C1cqpWlBNKvQ",
+        "description": "The administration is actively restraining its own health secretary from discussing his signature issue as polling shows vaccine skepticism hurts Republicans.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T16:37:27Z",
+        "sourceCount": "67 sources"
       },
       {
         "title": "Software stocks slide as Anthropic's Mythos AI model stokes disruption fears",
@@ -1542,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-04-09T12:56:15Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
-        "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
-        "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T12:55:57Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "UK forces Russian submarines to retreat from undersea cables",
@@ -1877,13 +1877,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Starmer heads to Gulf to back US-Iran ceasefire",
-        "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
-        "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+        "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
+        "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
+        "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T07:23:42Z",
-        "sourceCount": "41 sources"
+        "pubDate": "2026-04-08T07:23:19Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
@@ -1893,15 +1893,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T12:34:37Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
-        "url": "https://www.perplexity.ai/page/iata-chief-warns-jet-fuel-reco-pBmuGhCDSc.yi36DUtrbKA",
-        "description": "Willie Walsh said Strait of Hormuz disruptions damaged Middle East refining capacity, meaning supply cannot quickly rebound even after a U.S.-Iran ceasefire.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T07:23:19Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:37Z",
         "sourceCount": "67 sources"
+      },
+      {
+        "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
+        "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
+        "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:58:13Z",
+        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
