@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "CoreWeave launches $4.25B debt push after $21B Meta deal",
+      "url": "https://www.perplexity.ai/page/coreweave-launches-4-25b-debt-dBEjpy0IRfuWZ_1kS3Eumg",
+      "description": "The AI cloud provider announced two separate note offerings hours after expanding its Meta partnership, bringing Meta's total commitments to $35.2 billion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T17:59:34Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "House GOP blocks Democrats' Iran war powers vote during recess",
       "url": "https://www.perplexity.ai/page/house-gop-blocks-democrats-ira-S5E33IlmRk.vka8ouO8U.Q",
       "description": "Rep. Chris Smith gaveled out of a pro forma session Thursday before Democrats could seek unanimous consent on a resolution to end the Iran conflict.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:37:54Z",
       "sourceCount": "58 sources"
-    },
-    {
-      "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
-      "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
-      "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:36:37Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-09T17:17:16Z",
+  "cached_at": "2026-04-09T18:14:07Z",
   "topics": {
     "top": [
+      {
+        "title": "CoreWeave launches $4.25B debt push after $21B Meta deal",
+        "url": "https://www.perplexity.ai/page/coreweave-launches-4-25b-debt-dBEjpy0IRfuWZ_1kS3Eumg",
+        "description": "The AI cloud provider announced two separate note offerings hours after expanding its Meta partnership, bringing Meta's total commitments to $35.2 billion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T17:59:34Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "House GOP blocks Democrats' Iran war powers vote during recess",
         "url": "https://www.perplexity.ai/page/house-gop-blocks-democrats-ira-S5E33IlmRk.vka8ouO8U.Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:37:54Z",
         "sourceCount": "58 sources"
-      },
-      {
-        "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
-        "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
-        "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:36:37Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
