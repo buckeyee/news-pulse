@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "PCE inflation holds at 2.8% in February as jobless claims jump",
+      "url": "https://www.perplexity.ai/page/pce-inflation-holds-at-2-8-in-Z_zL7tXfRFqHC7Y40YJOqw",
+      "description": "The Fed's preferred inflation gauge stayed unchanged in February while weekly unemployment filings rose more than expected, signaling a mixed economic outlook.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T15:31:18Z",
+      "sourceCount": "46 sources"
+    },
+    {
+      "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
+      "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
+      "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T14:46:14Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Finland nears launch of world's first permanent nuclear waste site",
+      "url": "https://www.perplexity.ai/page/finland-nears-launch-of-world-ESCa3dDITcuEsbqKZ.GPDg",
+      "description": "The Onkalo facility, built over two decades on the island of Olkiluoto, awaits a final operating license expected by mid-2026.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T14:45:30Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Trump demands European warships in Hormuz within days",
+      "url": "https://www.perplexity.ai/page/trump-demands-european-warship-yixqnw0hRtWX1z2h9LbXwA",
+      "description": "The ultimatum, relayed by NATO chief Rutte, sets up a standoff with Germany, which insists on a UN mandate and parliamentary approval first.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T14:42:52Z",
+      "sourceCount": "52 sources"
+    },
+    {
       "title": "Earth grew 16% brighter at night since 2014, study finds",
       "url": "https://www.perplexity.ai/page/earth-grew-16-brighter-at-nigh-OQRDbz9BTAWV7yBt8QHh6w",
       "description": "Daily satellite imagery reveals the planet's artificial lighting is far more volatile than scientists assumed, with regional brightening and dimming driven by development, conflict, and policy.",
@@ -55,15 +91,6 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "Chevron projects up to $2.2B Q1 earnings boost from higher oil prices",
-      "url": "https://www.perplexity.ai/page/chevron-projects-up-to-2-2b-q1-7so20yTwQR6xTUbzWa_WMg",
-      "description": "Production fell up to 6% due to the Iran war, but surging commodity prices are expected to more than offset the losses.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T12:44:25Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "New model suggests dark matter has two particle states",
       "url": "https://www.perplexity.ai/page/new-model-suggests-dark-matter-2tA7iXD.QGqoJcvfF.tBOA",
       "description": "Fermilab physicists propose that dark matter consists of two distinct particles, potentially explaining a longstanding gamma-ray puzzle.",
@@ -73,22 +100,22 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
-      "description": "Asian markets fell Thursday after Israel's massive Lebanon strikes prompted Iran to shut the strait again, casting doubt on the two-week ceasefire.",
+      "title": "US-Iran ceasefire teeters as Israel bombs Beirut, Hormuz stays blocked",
+      "url": "https://www.perplexity.ai/page/us-iran-ceasefire-teeters-as-i-Nxa7CNhjRk.not4I12.0eQ",
+      "description": "Iran accuses the U.S. of violating the two-day-old truce as Israeli strikes on Lebanon and disputes over the Strait of Hormuz threaten to collapse the deal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T07:55:15Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-09T11:40:11Z",
+      "sourceCount": "29 sources"
     },
     {
-      "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
-      "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
-      "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+      "title": "Dow surges over 1,300 points after U.S.-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/dow-surges-over-1300-points-af-33Ai5q.WT1i.ujgOL42HBg",
+      "description": "Wall Street posted its best day in a year as oil prices plunged on hopes the Strait of Hormuz would reopen to tanker traffic.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T10:11:19Z",
-      "sourceCount": "55 sources"
+      "pubDate": "2026-04-09T06:19:50Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Artemis II crew races toward Friday splashdown after moon flyby",
@@ -98,6 +125,42 @@
       "topic": "top",
       "pubDate": "2026-04-09T05:23:27Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
+      "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T04:38:10Z",
+      "sourceCount": "84 sources"
+    },
+    {
+      "title": "IRGC orders ships to follow new routes in Hormuz amid ceasefire chaos",
+      "url": "https://www.perplexity.ai/page/irgc-orders-ships-to-follow-ne-0xFLH_6WR3G0RPKMAYMp3A",
+      "description": "Iran's Revolutionary Guards cited mine risks and directed all vessels to coordinate with its navy, as conflicting reports left the strait's status unclear.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T04:05:20Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Artemis II crew preps for risky Friday reentry",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T03:48:13Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Iran announces alternative Hormuz routes, citing mines in main shipping lanes",
+      "url": "https://www.perplexity.ai/page/iran-announces-alternative-hor-Lc33I0hBTZKvWJGxQwFBhA",
+      "description": "The IRGC's new corridors route ships through Iranian territorial waters under military oversight, despite a fragile ceasefire with the U.S.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T04:32:25Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "UMass physicists link record-energy neutrino to exploding black hole",
@@ -118,13 +181,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Artemis II crew preps for risky Friday reentry",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+      "title": "Hezbollah vows retaliation as Israeli strikes devastate Lebanon",
+      "url": "https://www.perplexity.ai/page/hezbollah-vows-retaliation-as-2yBi0tsAS5K2RyFrsPeqgQ",
+      "description": "Hezbollah vowed to respond after Israeli jets struck 100 targets in 10 minutes, hours after a U.S.-Iran ceasefire took effect that excludes Lebanon.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T03:48:13Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-04-09T01:18:20Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -235,12 +298,12 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
-      "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
-      "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
+      "title": "UK vows to restore shipping confidence in Strait of Hormuz after US-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/uk-vows-to-restore-shipping-co-yRMqDJ0pT_eYDMaDJcZn3g",
+      "description": "PM Starmer arrived in Saudi Arabia to reinforce the fragile two-week truce as Foreign Secretary Cooper urged Iran to halt all threats to commercial shipping.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T20:17:23Z",
+      "pubDate": "2026-04-08T21:13:38Z",
       "sourceCount": "27 sources"
     },
     {
@@ -251,6 +314,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T22:27:39Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
+      "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
+      "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T20:17:23Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Trump weighs relocating troops to punish NATO allies over Iran war",
@@ -278,6 +350,24 @@
       "topic": "top",
       "pubDate": "2026-04-08T19:34:13Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "NATO chief Rutte meets Trump amid US threat to leave alliance",
+      "url": "https://www.perplexity.ai/page/nato-chief-rutte-meets-trump-a-RFLiCZxsSeGJ5ttt41gL1A",
+      "description": "The White House meeting Wednesday comes as European nations block US base and airspace access for the Iran war, deepening the transatlantic rift.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T19:03:46Z",
+      "sourceCount": "52 sources"
+    },
+    {
+      "title": "Iran’s parliament speaker says cease-fire terms already violated",
+      "url": "https://www.perplexity.ai/page/irans-parliament-speaker-says-Ceb4ejvHQLS2YVhSc1BA.w",
+      "description": "Iran's parliament speaker says three clauses of Tehran's 10-point framework have been breached, as Israeli strikes kill at least 254 in Lebanon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T18:52:55Z",
+      "sourceCount": "63 sources"
     },
     {
       "title": "Fed minutes reveal growing caution over Iran war, inflation",
@@ -316,6 +406,15 @@
       "sourceCount": "60 sources"
     },
     {
+      "title": "Iran shuts Hormuz, threatens to quit ceasefire after Lebanon strikes",
+      "url": "https://www.perplexity.ai/page/iran-shuts-hormuz-threatens-to-QgWyb6O.QYK99qmgnBhpnw",
+      "description": "Tehran warned it may abandon the two-week truce after Israel hit over 100 Hezbollah sites across Lebanon, prompting Iran to reclose the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:44:00Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
       "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
       "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
@@ -323,6 +422,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T16:18:33Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Jeff Shell fired as Paramount president after leak allegations",
+      "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
+      "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:17:31Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Sharif's 'draft' post gaffe raises questions about Pakistan's mediator role",
@@ -334,13 +442,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Jeff Shell fired as Paramount president after leak allegations",
-      "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-      "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+      "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
+      "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
+      "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T16:17:31Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-04-08T16:38:02Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "DOJ says fired AG Bondi won't appear for Epstein deposition",
@@ -361,13 +469,13 @@
       "sourceCount": "96 sources"
     },
     {
-      "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
-      "url": "https://www.perplexity.ai/page/irgc-takes-de-facto-control-of-wAeZLblkTjeTpNef8qxpqA",
-      "description": "Multiple intelligence sources indicate Mojtaba Khamenei is unconscious in Qom, unable to govern, as a military council runs the country.",
+      "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
+      "url": "https://www.perplexity.ai/page/oman-rejects-iran-s-hormuz-tol-i77Sf29eTwGKtNcXxyS37Q",
+      "description": "Tehran's push to charge ships up to $2 million to transit the strait faces opposition from Oman, Gulf states, and legal experts who say it violates maritime law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T12:49:17Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-08T14:13:36Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Russia pushes three lunar missions to 2032-2036",
@@ -379,15 +487,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "NYT names Adam Back as likely Bitcoin creator Satoshi Nakamoto",
-      "url": "https://www.perplexity.ai/page/nyt-names-adam-back-as-likely-pnVslwmURZS_gkvs4rdpVw",
-      "description": "A yearlong investigation built a circumstantial case using writing analysis and timeline gaps, but Back denied being Satoshi more than six times.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T10:38:55Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Hegseth declares US victory as Iran ceasefire takes effect",
       "url": "https://www.perplexity.ai/page/hegseth-declares-us-victory-as-CvAkzDPORSya_JRyBlST4g",
       "description": "Trump agreed to a two-week ceasefire Tuesday night after a 38-day air campaign, contingent on Iran reopening the Strait of Hormuz.",
@@ -395,6 +494,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T12:39:31Z",
       "sourceCount": "70 sources"
+    },
+    {
+      "title": "NYT names Adam Back as likely Bitcoin creator Satoshi Nakamoto",
+      "url": "https://www.perplexity.ai/page/nyt-names-adam-back-as-likely-pnVslwmURZS_gkvs4rdpVw",
+      "description": "A yearlong investigation built a circumstantial case using writing analysis and timeline gaps, but Back denied being Satoshi more than six times.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T10:38:55Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
@@ -406,22 +514,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Starmer heads to Gulf to back US-Iran ceasefire",
-      "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
-      "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+      "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
+      "url": "https://www.perplexity.ai/page/irgc-takes-de-facto-control-of-wAeZLblkTjeTpNef8qxpqA",
+      "description": "Multiple intelligence sources indicate Mojtaba Khamenei is unconscious in Qom, unable to govern, as a military council runs the country.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T07:23:42Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
-      "url": "https://www.perplexity.ai/page/iran-ceasefire-reinforces-view-PheEu75rSi.kK2MbcXDolQ",
-      "description": "Allies and adversaries see the 40-day campaign as a strategic setback that bolstered China and Russia while draining American military and diplomatic capital.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T12:34:37Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-04-08T12:49:17Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
@@ -442,6 +541,24 @@
       "sourceCount": "58 sources"
     },
     {
+      "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
+      "url": "https://www.perplexity.ai/page/iran-ceasefire-reinforces-view-PheEu75rSi.kK2MbcXDolQ",
+      "description": "Allies and adversaries see the 40-day campaign as a strategic setback that bolstered China and Russia while draining American military and diplomatic capital.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T12:34:37Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Starmer heads to Gulf to back US-Iran ceasefire",
+      "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
+      "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T07:23:42Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "Amsterdam researchers build metamaterials that learn to change shape",
       "url": "https://www.perplexity.ai/page/amsterdam-researchers-build-me-oEa3uuaiRA.9AZMN_9pRBQ",
       "description": "Worm-like synthetic materials can learn, forget, and relearn new shapes without a central processor, mimicking living systems.",
@@ -449,6 +566,15 @@
       "topic": "top",
       "pubDate": "2026-04-08T03:38:17Z",
       "sourceCount": "13 sources"
+    },
+    {
+      "title": "Israel backs US-Iran ceasefire but excludes Lebanon fight",
+      "url": "https://www.perplexity.ai/page/israel-backs-us-iran-ceasefire-kSS8dTFNTY25kRLzkgQFRQ",
+      "description": "Netanyahu endorsed the two-week truce with Iran but said it does not cover Israel's military campaign against Hezbollah in Lebanon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T03:09:45Z",
+      "sourceCount": "58 sources"
     },
     {
       "title": "China helped push Iran to accept ceasefire, AP reports",
@@ -667,6 +793,15 @@
       "sourceCount": "54 sources"
     },
     {
+      "title": "Trump calls Artemis II crew after record-breaking moon flyby",
+      "url": "https://www.perplexity.ai/page/trump-calls-artemis-ii-crew-af-K_TDT8IWS56MwPaLHTSL7Q",
+      "description": "Trump congratulated the four astronauts after they traveled 252,756 miles from Earth, surpassing a record held since 1970.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T03:25:23Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Federal judge upholds Dugan's ICE obstruction conviction",
       "url": "https://www.perplexity.ai/page/federal-judge-upholds-dugan-s-aQDjPE8yRTmYoBTrQBpKwQ",
       "description": "U.S. District Judge Lynn Adelman rejected the former Milwaukee County judge's bid for acquittal or a new trial, clearing the way for sentencing and a 7th Circuit appeal.",
@@ -676,15 +811,6 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Artemis II crew witnesses solar eclipse after shattering distance record",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-witnesses-sola-CQX5AjMDSr.zLfAASRCQsA",
-      "description": "The four astronauts saw a 53-minute total solar eclipse from beyond the Moon, capping a day of record-breaking firsts during humanity's return to lunar orbit.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T02:36:43Z",
-      "sourceCount": "36 sources"
-    },
-    {
       "title": "Iran-launched drone kills couple in Erbil village",
       "url": "https://www.perplexity.ai/page/iran-launched-drone-kills-coup-UaR6o8eWTA2z1JIxtM_vKA",
       "description": "The Peshmerga ministry warned it may abandon restraint if Baghdad fails to act against militias behind the escalating aerial campaign.",
@@ -692,6 +818,15 @@
       "topic": "top",
       "pubDate": "2026-04-07T01:36:08Z",
       "sourceCount": "71 sources"
+    },
+    {
+      "title": "Artemis II crew witnesses solar eclipse after shattering distance record",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-witnesses-sola-CQX5AjMDSr.zLfAASRCQsA",
+      "description": "The four astronauts saw a 53-minute total solar eclipse from beyond the Moon, capping a day of record-breaking firsts during humanity's return to lunar orbit.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T02:36:43Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Iran launches fresh missile barrage at southern Israel",
@@ -1214,146 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-04-04T18:58:11Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
-      "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
-      "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T18:13:35Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-      "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-      "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:47Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-      "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-      "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:37Z",
-      "sourceCount": "67 sources"
-    },
-    {
-      "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-      "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-      "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:13Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
-      "url": "https://www.perplexity.ai/page/witkoff-and-kushner-plan-first-KVUKa1nIRAqKwHPbSqiO5g",
-      "description": "Ukraine's Budanov says the U.S. envoys are expected to travel to Kyiv after Orthodox Easter on April 12, their first trip to the capital.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:37:54Z",
-      "sourceCount": "58 sources"
-    },
-    {
-      "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
-      "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
-      "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:36:37Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:41:20Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Judge blocks Trump push for race data from colleges in 17 states",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
-      "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:34:08Z",
-      "sourceCount": "48 sources"
-    },
-    {
-      "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
-      "url": "https://www.perplexity.ai/page/erdogan-tells-nato-chief-iran-f9s1wgSyS4irxLlTmL47Uw",
-      "description": "The Turkish president urged the international community to intensify efforts to end the conflict during a Saturday phone call with Mark Rutte.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:23:45Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Slovak, Hungarian PMs demand EU lift Russia energy sanctions",
-      "url": "https://www.perplexity.ai/page/slovak-hungarian-pms-demand-eu-48olB3qNTNum7Nadp4DlQA",
-      "description": "The two leaders cited Europe's deepening energy crisis, driven by the Iran conflict, as reason to restore Russian oil and gas flows immediately.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:18:44Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-      "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-      "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:35:56Z",
-      "sourceCount": "45 sources"
-    },
-    {
-      "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
-      "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
-      "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T15:43:48Z",
-      "sourceCount": "75 sources"
-    },
-    {
-      "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
-      "url": "https://www.perplexity.ai/page/interception-debris-strikes-or-yfGPIBU5SNOjoTyvy9Mxyg",
-      "description": "Oracle is among 18 U.S. tech firms that Iran's Revolutionary Guard declared \"legitimate targets\" in late March.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T13:13:11Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Surcharges hit global commerce as Hormuz crisis deepens",
-      "url": "https://www.perplexity.ai/page/surcharges-hit-global-commerce-qHk_B1HSQJeGSOUWg4GVjw",
-      "description": "Amazon, UPS, FedEx, and USPS are passing rising fuel and shipping costs to sellers and consumers as the conflict's supply chain fallout widens.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T12:54:22Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Iran vows to 'finish' any US ground operation as war nears 6th week",
-      "url": "https://www.perplexity.ai/page/iran-vows-to-finish-any-us-gro-BK1.Br.YTF6NqZWn0nT_1w",
-      "description": "A diplomatic source said Tehran would determine the outcome of any American ground incursion, adding that no negotiations are underway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T12:29:14Z",
-      "sourceCount": "56 sources"
     }
   ],
-  "cached_at": "2026-04-09T14:13:10Z",
+  "cached_at": "2026-04-09T15:56:51Z",
   "topics": {
     "top": [
+      {
+        "title": "PCE inflation holds at 2.8% in February as jobless claims jump",
+        "url": "https://www.perplexity.ai/page/pce-inflation-holds-at-2-8-in-Z_zL7tXfRFqHC7Y40YJOqw",
+        "description": "The Fed's preferred inflation gauge stayed unchanged in February while weekly unemployment filings rose more than expected, signaling a mixed economic outlook.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T15:31:18Z",
+        "sourceCount": "46 sources"
+      },
+      {
+        "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
+        "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
+        "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T14:46:14Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Finland nears launch of world's first permanent nuclear waste site",
+        "url": "https://www.perplexity.ai/page/finland-nears-launch-of-world-ESCa3dDITcuEsbqKZ.GPDg",
+        "description": "The Onkalo facility, built over two decades on the island of Olkiluoto, awaits a final operating license expected by mid-2026.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T14:45:30Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Trump demands European warships in Hormuz within days",
+        "url": "https://www.perplexity.ai/page/trump-demands-european-warship-yixqnw0hRtWX1z2h9LbXwA",
+        "description": "The ultimatum, relayed by NATO chief Rutte, sets up a standoff with Germany, which insists on a UN mandate and parliamentary approval first.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T14:42:52Z",
+        "sourceCount": "52 sources"
+      },
       {
         "title": "Earth grew 16% brighter at night since 2014, study finds",
         "url": "https://www.perplexity.ai/page/earth-grew-16-brighter-at-nigh-OQRDbz9BTAWV7yBt8QHh6w",
@@ -1409,15 +1445,6 @@
         "sourceCount": "32 sources"
       },
       {
-        "title": "Chevron projects up to $2.2B Q1 earnings boost from higher oil prices",
-        "url": "https://www.perplexity.ai/page/chevron-projects-up-to-2-2b-q1-7so20yTwQR6xTUbzWa_WMg",
-        "description": "Production fell up to 6% due to the Iran war, but surging commodity prices are expected to more than offset the losses.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T12:44:25Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "New model suggests dark matter has two particle states",
         "url": "https://www.perplexity.ai/page/new-model-suggests-dark-matter-2tA7iXD.QGqoJcvfF.tBOA",
         "description": "Fermilab physicists propose that dark matter consists of two distinct particles, potentially explaining a longstanding gamma-ray puzzle.",
@@ -1427,22 +1454,22 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
-        "description": "Asian markets fell Thursday after Israel's massive Lebanon strikes prompted Iran to shut the strait again, casting doubt on the two-week ceasefire.",
+        "title": "US-Iran ceasefire teeters as Israel bombs Beirut, Hormuz stays blocked",
+        "url": "https://www.perplexity.ai/page/us-iran-ceasefire-teeters-as-i-Nxa7CNhjRk.not4I12.0eQ",
+        "description": "Iran accuses the U.S. of violating the two-day-old truce as Israeli strikes on Lebanon and disputes over the Strait of Hormuz threaten to collapse the deal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T07:55:15Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-09T11:40:11Z",
+        "sourceCount": "29 sources"
       },
       {
-        "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
-        "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
-        "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+        "title": "Dow surges over 1,300 points after U.S.-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/dow-surges-over-1300-points-af-33Ai5q.WT1i.ujgOL42HBg",
+        "description": "Wall Street posted its best day in a year as oil prices plunged on hopes the Strait of Hormuz would reopen to tanker traffic.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T10:11:19Z",
-        "sourceCount": "55 sources"
+        "pubDate": "2026-04-09T06:19:50Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Artemis II crew races toward Friday splashdown after moon flyby",
@@ -1452,6 +1479,42 @@
         "topic": "top",
         "pubDate": "2026-04-09T05:23:27Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump threatens to resume strikes if Iran breaks ceasefire",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-resume-stri-hWEzVj62S1q7jvbIERF.aQ",
+        "description": "U.S. forces will remain deployed near Iran, with the president warning on Truth Social that \"the shooting starts\" if Tehran doesn't comply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T04:38:10Z",
+        "sourceCount": "84 sources"
+      },
+      {
+        "title": "IRGC orders ships to follow new routes in Hormuz amid ceasefire chaos",
+        "url": "https://www.perplexity.ai/page/irgc-orders-ships-to-follow-ne-0xFLH_6WR3G0RPKMAYMp3A",
+        "description": "Iran's Revolutionary Guards cited mine risks and directed all vessels to coordinate with its navy, as conflicting reports left the strait's status unclear.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T04:05:20Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Artemis II crew preps for risky Friday reentry",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T03:48:13Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Iran announces alternative Hormuz routes, citing mines in main shipping lanes",
+        "url": "https://www.perplexity.ai/page/iran-announces-alternative-hor-Lc33I0hBTZKvWJGxQwFBhA",
+        "description": "The IRGC's new corridors route ships through Iranian territorial waters under military oversight, despite a fragile ceasefire with the U.S.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T04:32:25Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "UMass physicists link record-energy neutrino to exploding black hole",
@@ -1472,13 +1535,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Artemis II crew preps for risky Friday reentry",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+        "title": "Hezbollah vows retaliation as Israeli strikes devastate Lebanon",
+        "url": "https://www.perplexity.ai/page/hezbollah-vows-retaliation-as-2yBi0tsAS5K2RyFrsPeqgQ",
+        "description": "Hezbollah vowed to respond after Israeli jets struck 100 targets in 10 minutes, hours after a U.S.-Iran ceasefire took effect that excludes Lebanon.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T03:48:13Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-04-09T01:18:20Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -1589,12 +1652,12 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
-        "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
-        "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
+        "title": "UK vows to restore shipping confidence in Strait of Hormuz after US-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/uk-vows-to-restore-shipping-co-yRMqDJ0pT_eYDMaDJcZn3g",
+        "description": "PM Starmer arrived in Saudi Arabia to reinforce the fragile two-week truce as Foreign Secretary Cooper urged Iran to halt all threats to commercial shipping.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T20:17:23Z",
+        "pubDate": "2026-04-08T21:13:38Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1605,6 +1668,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T22:27:39Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry's death",
+        "url": "https://www.perplexity.ai/page/ketamine-queen-sentenced-to-15-4fwfqwalSmmpcOyMKizcYQ",
+        "description": "Jasveen Sangha, who sold the fatal dose of ketamine to the \"Friends\" star, apologized for her \"hand in this tragic outcome\" before sentencing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T20:17:23Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Trump weighs relocating troops to punish NATO allies over Iran war",
@@ -1632,6 +1704,24 @@
         "topic": "top",
         "pubDate": "2026-04-08T19:34:13Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "NATO chief Rutte meets Trump amid US threat to leave alliance",
+        "url": "https://www.perplexity.ai/page/nato-chief-rutte-meets-trump-a-RFLiCZxsSeGJ5ttt41gL1A",
+        "description": "The White House meeting Wednesday comes as European nations block US base and airspace access for the Iran war, deepening the transatlantic rift.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T19:03:46Z",
+        "sourceCount": "52 sources"
+      },
+      {
+        "title": "Iran’s parliament speaker says cease-fire terms already violated",
+        "url": "https://www.perplexity.ai/page/irans-parliament-speaker-says-Ceb4ejvHQLS2YVhSc1BA.w",
+        "description": "Iran's parliament speaker says three clauses of Tehran's 10-point framework have been breached, as Israeli strikes kill at least 254 in Lebanon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T18:52:55Z",
+        "sourceCount": "63 sources"
       },
       {
         "title": "Fed minutes reveal growing caution over Iran war, inflation",
@@ -1670,6 +1760,15 @@
         "sourceCount": "60 sources"
       },
       {
+        "title": "Iran shuts Hormuz, threatens to quit ceasefire after Lebanon strikes",
+        "url": "https://www.perplexity.ai/page/iran-shuts-hormuz-threatens-to-QgWyb6O.QYK99qmgnBhpnw",
+        "description": "Tehran warned it may abandon the two-week truce after Israel hit over 100 Hezbollah sites across Lebanon, prompting Iran to reclose the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:44:00Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
         "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
         "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
@@ -1677,6 +1776,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T16:18:33Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Jeff Shell fired as Paramount president after leak allegations",
+        "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
+        "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:17:31Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Sharif's 'draft' post gaffe raises questions about Pakistan's mediator role",
@@ -1688,13 +1796,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Jeff Shell fired as Paramount president after leak allegations",
-        "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-        "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+        "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
+        "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
+        "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T16:17:31Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-04-08T16:38:02Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "DOJ says fired AG Bondi won't appear for Epstein deposition",
@@ -1715,13 +1823,13 @@
         "sourceCount": "96 sources"
       },
       {
-        "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
-        "url": "https://www.perplexity.ai/page/irgc-takes-de-facto-control-of-wAeZLblkTjeTpNef8qxpqA",
-        "description": "Multiple intelligence sources indicate Mojtaba Khamenei is unconscious in Qom, unable to govern, as a military council runs the country.",
+        "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
+        "url": "https://www.perplexity.ai/page/oman-rejects-iran-s-hormuz-tol-i77Sf29eTwGKtNcXxyS37Q",
+        "description": "Tehran's push to charge ships up to $2 million to transit the strait faces opposition from Oman, Gulf states, and legal experts who say it violates maritime law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T12:49:17Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-08T14:13:36Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Russia pushes three lunar missions to 2032-2036",
@@ -1733,15 +1841,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "NYT names Adam Back as likely Bitcoin creator Satoshi Nakamoto",
-        "url": "https://www.perplexity.ai/page/nyt-names-adam-back-as-likely-pnVslwmURZS_gkvs4rdpVw",
-        "description": "A yearlong investigation built a circumstantial case using writing analysis and timeline gaps, but Back denied being Satoshi more than six times.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T10:38:55Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Hegseth declares US victory as Iran ceasefire takes effect",
         "url": "https://www.perplexity.ai/page/hegseth-declares-us-victory-as-CvAkzDPORSya_JRyBlST4g",
         "description": "Trump agreed to a two-week ceasefire Tuesday night after a 38-day air campaign, contingent on Iran reopening the Strait of Hormuz.",
@@ -1749,6 +1848,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T12:39:31Z",
         "sourceCount": "70 sources"
+      },
+      {
+        "title": "NYT names Adam Back as likely Bitcoin creator Satoshi Nakamoto",
+        "url": "https://www.perplexity.ai/page/nyt-names-adam-back-as-likely-pnVslwmURZS_gkvs4rdpVw",
+        "description": "A yearlong investigation built a circumstantial case using writing analysis and timeline gaps, but Back denied being Satoshi more than six times.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T10:38:55Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "SK Hynix jumps 15% as Samsung's record forecast lifts chip stocks",
@@ -1760,22 +1868,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Starmer heads to Gulf to back US-Iran ceasefire",
-        "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
-        "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+        "title": "IRGC takes de facto control of Iran as supreme leader reportedly incapacitated",
+        "url": "https://www.perplexity.ai/page/irgc-takes-de-facto-control-of-wAeZLblkTjeTpNef8qxpqA",
+        "description": "Multiple intelligence sources indicate Mojtaba Khamenei is unconscious in Qom, unable to govern, as a military council runs the country.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T07:23:42Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
-        "url": "https://www.perplexity.ai/page/iran-ceasefire-reinforces-view-PheEu75rSi.kK2MbcXDolQ",
-        "description": "Allies and adversaries see the 40-day campaign as a strategic setback that bolstered China and Russia while draining American military and diplomatic capital.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T12:34:37Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-04-08T12:49:17Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
@@ -1796,6 +1895,24 @@
         "sourceCount": "58 sources"
       },
       {
+        "title": "Iran ceasefire reinforces view US emerged weakened, Bloomberg reports",
+        "url": "https://www.perplexity.ai/page/iran-ceasefire-reinforces-view-PheEu75rSi.kK2MbcXDolQ",
+        "description": "Allies and adversaries see the 40-day campaign as a strategic setback that bolstered China and Russia while draining American military and diplomatic capital.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T12:34:37Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Starmer heads to Gulf to back US-Iran ceasefire",
+        "url": "https://www.perplexity.ai/page/starmer-heads-to-gulf-to-back-qGvKgVV4QROF5oklBNFfxw",
+        "description": "The prime minister aims to ensure the Strait of Hormuz reopens permanently after a two-week ceasefire was reached overnight.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T07:23:42Z",
+        "sourceCount": "41 sources"
+      },
+      {
         "title": "Amsterdam researchers build metamaterials that learn to change shape",
         "url": "https://www.perplexity.ai/page/amsterdam-researchers-build-me-oEa3uuaiRA.9AZMN_9pRBQ",
         "description": "Worm-like synthetic materials can learn, forget, and relearn new shapes without a central processor, mimicking living systems.",
@@ -1803,6 +1920,15 @@
         "topic": "top",
         "pubDate": "2026-04-08T03:38:17Z",
         "sourceCount": "13 sources"
+      },
+      {
+        "title": "Israel backs US-Iran ceasefire but excludes Lebanon fight",
+        "url": "https://www.perplexity.ai/page/israel-backs-us-iran-ceasefire-kSS8dTFNTY25kRLzkgQFRQ",
+        "description": "Netanyahu endorsed the two-week truce with Iran but said it does not cover Israel's military campaign against Hezbollah in Lebanon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T03:09:45Z",
+        "sourceCount": "58 sources"
       },
       {
         "title": "China helped push Iran to accept ceasefire, AP reports",
@@ -2021,6 +2147,15 @@
         "sourceCount": "54 sources"
       },
       {
+        "title": "Trump calls Artemis II crew after record-breaking moon flyby",
+        "url": "https://www.perplexity.ai/page/trump-calls-artemis-ii-crew-af-K_TDT8IWS56MwPaLHTSL7Q",
+        "description": "Trump congratulated the four astronauts after they traveled 252,756 miles from Earth, surpassing a record held since 1970.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T03:25:23Z",
+        "sourceCount": "40 sources"
+      },
+      {
         "title": "Federal judge upholds Dugan's ICE obstruction conviction",
         "url": "https://www.perplexity.ai/page/federal-judge-upholds-dugan-s-aQDjPE8yRTmYoBTrQBpKwQ",
         "description": "U.S. District Judge Lynn Adelman rejected the former Milwaukee County judge's bid for acquittal or a new trial, clearing the way for sentencing and a 7th Circuit appeal.",
@@ -2030,15 +2165,6 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Artemis II crew witnesses solar eclipse after shattering distance record",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-witnesses-sola-CQX5AjMDSr.zLfAASRCQsA",
-        "description": "The four astronauts saw a 53-minute total solar eclipse from beyond the Moon, capping a day of record-breaking firsts during humanity's return to lunar orbit.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T02:36:43Z",
-        "sourceCount": "36 sources"
-      },
-      {
         "title": "Iran-launched drone kills couple in Erbil village",
         "url": "https://www.perplexity.ai/page/iran-launched-drone-kills-coup-UaR6o8eWTA2z1JIxtM_vKA",
         "description": "The Peshmerga ministry warned it may abandon restraint if Baghdad fails to act against militias behind the escalating aerial campaign.",
@@ -2046,6 +2172,15 @@
         "topic": "top",
         "pubDate": "2026-04-07T01:36:08Z",
         "sourceCount": "71 sources"
+      },
+      {
+        "title": "Artemis II crew witnesses solar eclipse after shattering distance record",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-witnesses-sola-CQX5AjMDSr.zLfAASRCQsA",
+        "description": "The four astronauts saw a 53-minute total solar eclipse from beyond the Moon, capping a day of record-breaking firsts during humanity's return to lunar orbit.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T02:36:43Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Iran launches fresh missile barrage at southern Israel",
@@ -2568,141 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T18:58:11Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
-        "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
-        "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T18:13:35Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-        "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-        "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:47Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-        "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-        "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:37Z",
-        "sourceCount": "67 sources"
-      },
-      {
-        "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-        "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-        "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:13Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
-        "url": "https://www.perplexity.ai/page/witkoff-and-kushner-plan-first-KVUKa1nIRAqKwHPbSqiO5g",
-        "description": "Ukraine's Budanov says the U.S. envoys are expected to travel to Kyiv after Orthodox Easter on April 12, their first trip to the capital.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:37:54Z",
-        "sourceCount": "58 sources"
-      },
-      {
-        "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
-        "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
-        "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:36:37Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:41:20Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Judge blocks Trump push for race data from colleges in 17 states",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
-        "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:34:08Z",
-        "sourceCount": "48 sources"
-      },
-      {
-        "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
-        "url": "https://www.perplexity.ai/page/erdogan-tells-nato-chief-iran-f9s1wgSyS4irxLlTmL47Uw",
-        "description": "The Turkish president urged the international community to intensify efforts to end the conflict during a Saturday phone call with Mark Rutte.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:23:45Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Slovak, Hungarian PMs demand EU lift Russia energy sanctions",
-        "url": "https://www.perplexity.ai/page/slovak-hungarian-pms-demand-eu-48olB3qNTNum7Nadp4DlQA",
-        "description": "The two leaders cited Europe's deepening energy crisis, driven by the Iran conflict, as reason to restore Russian oil and gas flows immediately.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:18:44Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-        "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-        "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:35:56Z",
-        "sourceCount": "45 sources"
-      },
-      {
-        "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
-        "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
-        "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T15:43:48Z",
-        "sourceCount": "75 sources"
-      },
-      {
-        "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
-        "url": "https://www.perplexity.ai/page/interception-debris-strikes-or-yfGPIBU5SNOjoTyvy9Mxyg",
-        "description": "Oracle is among 18 U.S. tech firms that Iran's Revolutionary Guard declared \"legitimate targets\" in late March.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T13:13:11Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Surcharges hit global commerce as Hormuz crisis deepens",
-        "url": "https://www.perplexity.ai/page/surcharges-hit-global-commerce-qHk_B1HSQJeGSOUWg4GVjw",
-        "description": "Amazon, UPS, FedEx, and USPS are passing rising fuel and shipping costs to sellers and consumers as the conflict's supply chain fallout widens.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T12:54:22Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Iran vows to 'finish' any US ground operation as war nears 6th week",
-        "url": "https://www.perplexity.ai/page/iran-vows-to-finish-any-us-gro-BK1.Br.YTF6NqZWn0nT_1w",
-        "description": "A diplomatic source said Tehran would determine the outcome of any American ground incursion, adding that no negotiations are underway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T12:29:14Z",
-        "sourceCount": "56 sources"
       }
     ],
     "tech": [],
