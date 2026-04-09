@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "IUCN lists emperor penguins as endangered over sea ice loss",
+      "url": "https://www.perplexity.ai/page/iucn-lists-emperor-penguins-as-Hqh5ajo1TQmXD5vylZXoTg",
+      "description": "The Antarctic fur seal and southern elephant seal were also reclassified as climate change reshapes polar ecosystems.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T10:27:07Z",
+      "sourceCount": "32 sources"
+    },
+    {
+      "title": "New model suggests dark matter has two particle states",
+      "url": "https://www.perplexity.ai/page/new-model-suggests-dark-matter-2tA7iXD.QGqoJcvfF.tBOA",
+      "description": "Fermilab physicists propose that dark matter consists of two distinct particles, potentially explaining a longstanding gamma-ray puzzle.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T10:18:17Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
+      "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
+      "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T10:11:19Z",
+      "sourceCount": "55 sources"
+    },
+    {
       "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
       "description": "Asian markets fell Thursday after Israel's massive Lebanon strikes prompted Iran to shut the strait again, casting doubt on the two-week ceasefire.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-04-04T08:33:56Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Trump's FY2027 budget boosts defense 42%, flat-funds SSA",
-      "url": "https://www.perplexity.ai/page/trump-s-fy2027-budget-boosts-d-7yobiqudTxCdQElIW65CFg",
-      "description": "The $2.2 trillion proposal cuts nondefense spending by $73 billion while avoiding reforms to Social Security and Medicare as insolvency looms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T10:08:09Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
-      "url": "https://www.perplexity.ai/page/us-pulled-1500-sailors-from-ba-3ebg0j3wS7Cwb9QZGfV7cg",
-      "description": "Relief groups have distributed over $1 million to evacuated families who fled with little more than backpacks, NPR reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T02:47:50Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "North Korea razes villages near key missile launch site",
-      "url": "https://www.perplexity.ai/page/north-korea-razes-villages-nea-m0bzg9g0QFuWIKopow0Twg",
-      "description": "Satellite imagery shows hundreds of buildings demolished near the Sohae station, pointing to an expansion of the facility amid an accelerating weapons buildup.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T01:53:36Z",
-      "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-04-09T09:58:30Z",
+  "cached_at": "2026-04-09T11:11:40Z",
   "topics": {
     "top": [
+      {
+        "title": "IUCN lists emperor penguins as endangered over sea ice loss",
+        "url": "https://www.perplexity.ai/page/iucn-lists-emperor-penguins-as-Hqh5ajo1TQmXD5vylZXoTg",
+        "description": "The Antarctic fur seal and southern elephant seal were also reclassified as climate change reshapes polar ecosystems.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T10:27:07Z",
+        "sourceCount": "32 sources"
+      },
+      {
+        "title": "New model suggests dark matter has two particle states",
+        "url": "https://www.perplexity.ai/page/new-model-suggests-dark-matter-2tA7iXD.QGqoJcvfF.tBOA",
+        "description": "Fermilab physicists propose that dark matter consists of two distinct particles, potentially explaining a longstanding gamma-ray puzzle.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T10:18:17Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Goldman Sachs cuts gas forecast after ceasefire but warns risks remain",
+        "url": "https://www.perplexity.ai/page/goldman-sachs-cuts-gas-forecas-_VZl4q.1STWWYx.WukGYSQ",
+        "description": "The bank lowered its Q2 European gas price estimate after a U.S.-Iran ceasefire but said Hormuz restrictions and damaged Qatari infrastructure pose lasting threats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T10:11:19Z",
+        "sourceCount": "55 sources"
+      },
       {
         "title": "Oil surges past $97 as Iran re-closes Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-surges-past-97-as-iran-re-2zqWf6UeSv2UaBKMz_Rclg",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T08:33:56Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Trump's FY2027 budget boosts defense 42%, flat-funds SSA",
-        "url": "https://www.perplexity.ai/page/trump-s-fy2027-budget-boosts-d-7yobiqudTxCdQElIW65CFg",
-        "description": "The $2.2 trillion proposal cuts nondefense spending by $73 billion while avoiding reforms to Social Security and Medicare as insolvency looms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T10:08:09Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
-        "url": "https://www.perplexity.ai/page/us-pulled-1500-sailors-from-ba-3ebg0j3wS7Cwb9QZGfV7cg",
-        "description": "Relief groups have distributed over $1 million to evacuated families who fled with little more than backpacks, NPR reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T02:47:50Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "North Korea razes villages near key missile launch site",
-        "url": "https://www.perplexity.ai/page/north-korea-razes-villages-nea-m0bzg9g0QFuWIKopow0Twg",
-        "description": "Satellite imagery shows hundreds of buildings demolished near the Sohae station, pointing to an expansion of the facility amid an accelerating weapons buildup.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T01:53:36Z",
-        "sourceCount": "35 sources"
       }
     ],
     "tech": [],
