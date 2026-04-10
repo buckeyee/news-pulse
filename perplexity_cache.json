@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
+      "url": "https://www.perplexity.ai/page/russia-and-ukraine-agree-to-32-A.MzYc9SSneJEHr4WmGF7w",
+      "description": "Putin ordered forces to halt operations starting Saturday after weeks of rejecting Zelensky's truce proposal, which was relayed through U.S. mediators.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T01:34:01Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Judge finds Pentagon violating order on press access",
+      "url": "https://www.perplexity.ai/page/judge-finds-pentagon-violating-iXSqzHehRxGM3VUNnhw4Vw",
+      "description": "U.S. District Judge Paul Friedman ruled Thursday that the Defense Department defied his earlier order by imposing new restrictions that still block meaningful reporter access.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T00:16:28Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
       "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
       "description": "The directive followed suspicious trading surges that repeatedly preceded Trump's announcements on the Iran conflict, triggering bipartisan legislative action.",
@@ -224,6 +242,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T12:56:15Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "US-Iran ceasefire teeters as Israel bombs Beirut, Hormuz stays blocked",
+      "url": "https://www.perplexity.ai/page/us-iran-ceasefire-teeters-as-i-Nxa7CNhjRk.not4I12.0eQ",
+      "description": "Iran accuses the U.S. of violating the two-day-old truce as Israeli strikes on Lebanon and disputes over the Strait of Hormuz threaten to collapse the deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T11:40:11Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "UK forces Russian submarines to retreat from undersea cables",
@@ -1315,15 +1342,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-      "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-      "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T19:28:26Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Hezbollah claims 38 operations in 24 hours as war with Israel escalates",
       "url": "https://www.perplexity.ai/page/hezbollah-claims-38-operations-EGbXBb7sS8WBzgjASFzusw",
       "description": "Rocket salvos, drone strikes, and sniper fire hit targets across northern Israel on Friday, with Kiryat Shmona struck at least seven times.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-04T19:13:45Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "Trump administration appeals to resume White House ballroom work",
-      "url": "https://www.perplexity.ai/page/trump-administration-appeals-t-aZeqEjLDT36ZL4sRfwyqjA",
-      "description": "The emergency motion argues the halted $400 million project has left the executive mansion \"open and exposed,\" posing security risks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T19:23:42Z",
-      "sourceCount": "59 sources"
-    },
-    {
-      "title": "Zelenskyy, Erdogan agree on new security steps at Istanbul talks",
-      "url": "https://www.perplexity.ai/page/zelenskyy-erdogan-agree-on-new-CtFKOwDmT.uIdpJZV_S3yg",
-      "description": "Ukraine will share wartime expertise and technology with Turkey as part of a broader cooperation deal reached Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T18:58:11Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-09T23:51:06Z",
+  "cached_at": "2026-04-10T02:01:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
+        "url": "https://www.perplexity.ai/page/russia-and-ukraine-agree-to-32-A.MzYc9SSneJEHr4WmGF7w",
+        "description": "Putin ordered forces to halt operations starting Saturday after weeks of rejecting Zelensky's truce proposal, which was relayed through U.S. mediators.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T01:34:01Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Judge finds Pentagon violating order on press access",
+        "url": "https://www.perplexity.ai/page/judge-finds-pentagon-violating-iXSqzHehRxGM3VUNnhw4Vw",
+        "description": "U.S. District Judge Paul Friedman ruled Thursday that the Defense Department defied his earlier order by imposing new restrictions that still block meaningful reporter access.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T00:16:28Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
         "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
@@ -1578,6 +1596,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T12:56:15Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "US-Iran ceasefire teeters as Israel bombs Beirut, Hormuz stays blocked",
+        "url": "https://www.perplexity.ai/page/us-iran-ceasefire-teeters-as-i-Nxa7CNhjRk.not4I12.0eQ",
+        "description": "Iran accuses the U.S. of violating the two-day-old truce as Israeli strikes on Lebanon and disputes over the Strait of Hormuz threaten to collapse the deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T11:40:11Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "UK forces Russian submarines to retreat from undersea cables",
@@ -2669,15 +2696,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-        "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-        "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T19:28:26Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Hezbollah claims 38 operations in 24 hours as war with Israel escalates",
         "url": "https://www.perplexity.ai/page/hezbollah-claims-38-operations-EGbXBb7sS8WBzgjASFzusw",
         "description": "Rocket salvos, drone strikes, and sniper fire hit targets across northern Israel on Friday, with Kiryat Shmona struck at least seven times.",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T19:13:45Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "Trump administration appeals to resume White House ballroom work",
-        "url": "https://www.perplexity.ai/page/trump-administration-appeals-t-aZeqEjLDT36ZL4sRfwyqjA",
-        "description": "The emergency motion argues the halted $400 million project has left the executive mansion \"open and exposed,\" posing security risks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T19:23:42Z",
-        "sourceCount": "59 sources"
-      },
-      {
-        "title": "Zelenskyy, Erdogan agree on new security steps at Istanbul talks",
-        "url": "https://www.perplexity.ai/page/zelenskyy-erdogan-agree-on-new-CtFKOwDmT.uIdpJZV_S3yg",
-        "description": "Ukraine will share wartime expertise and technology with Turkey as part of a broader cooperation deal reached Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T18:58:11Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
