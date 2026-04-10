@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trade court hears challenge to Trump's 10% global tariff",
+      "url": "https://www.perplexity.ai/page/trade-court-hears-challenge-to-unBUfO5oS1qc1MbFAglU9Q",
+      "description": "A three-judge panel considers whether the president exceeded his authority by invoking a never-before-used trade statute after the Supreme Court struck down earlier tariffs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T12:20:13Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Dubai caps foreign airlines at one daily flight until May 31",
       "url": "https://www.perplexity.ai/page/dubai-caps-foreign-airlines-at-7ITUnuTuR1SBmRqHN4fGAw",
       "description": "Indian carriers face the steepest losses as wartime restrictions limit each foreign airline to a single round trip per day at the world's busiest international hub.",
@@ -541,33 +550,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Vance to lead US delegation in Iran talks in Islamabad",
-      "url": "https://www.perplexity.ai/page/vance-to-lead-us-delegation-in-V_Om8b3vTcqApZzozl3K2Q",
-      "description": "The first direct negotiations since the war began follow a two-week ceasefire, with Iran's parliament speaker heading Tehran's team.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T19:44:08Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Iran faces economic collapse after 40 days of war",
-      "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
-      "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T17:01:40Z",
-      "sourceCount": "60 sources"
-    },
-    {
-      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-      "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-      "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:18:33Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "Iran’s parliament speaker says cease-fire terms already violated",
       "url": "https://www.perplexity.ai/page/irans-parliament-speaker-says-Ceb4ejvHQLS2YVhSc1BA.w",
       "description": "Iran's parliament speaker says three clauses of Tehran's 10-point framework have been breached, as Israeli strikes kill at least 254 in Lebanon.",
@@ -586,13 +568,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Jeff Shell fired as Paramount president after leak allegations",
-      "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-      "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+      "title": "Iran faces economic collapse after 40 days of war",
+      "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
+      "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T16:17:31Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-04-08T17:01:40Z",
+      "sourceCount": "60 sources"
     },
     {
       "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
@@ -602,6 +584,24 @@
       "topic": "top",
       "pubDate": "2026-04-08T16:38:02Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
+      "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
+      "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:18:33Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Jeff Shell fired as Paramount president after leak allegations",
+      "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
+      "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-08T16:17:31Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Israel learned of Iran cease-fire deal at last minute",
@@ -1351,9 +1351,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-04-10T11:35:51Z",
+  "cached_at": "2026-04-10T12:33:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Trade court hears challenge to Trump's 10% global tariff",
+        "url": "https://www.perplexity.ai/page/trade-court-hears-challenge-to-unBUfO5oS1qc1MbFAglU9Q",
+        "description": "A three-judge panel considers whether the president exceeded his authority by invoking a never-before-used trade statute after the Supreme Court struck down earlier tariffs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T12:20:13Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Dubai caps foreign airlines at one daily flight until May 31",
         "url": "https://www.perplexity.ai/page/dubai-caps-foreign-airlines-at-7ITUnuTuR1SBmRqHN4fGAw",
@@ -1895,33 +1904,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Vance to lead US delegation in Iran talks in Islamabad",
-        "url": "https://www.perplexity.ai/page/vance-to-lead-us-delegation-in-V_Om8b3vTcqApZzozl3K2Q",
-        "description": "The first direct negotiations since the war began follow a two-week ceasefire, with Iran's parliament speaker heading Tehran's team.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T19:44:08Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Iran faces economic collapse after 40 days of war",
-        "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
-        "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T17:01:40Z",
-        "sourceCount": "60 sources"
-      },
-      {
-        "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-        "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-        "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:18:33Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "Iran’s parliament speaker says cease-fire terms already violated",
         "url": "https://www.perplexity.ai/page/irans-parliament-speaker-says-Ceb4ejvHQLS2YVhSc1BA.w",
         "description": "Iran's parliament speaker says three clauses of Tehran's 10-point framework have been breached, as Israeli strikes kill at least 254 in Lebanon.",
@@ -1940,13 +1922,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Jeff Shell fired as Paramount president after leak allegations",
-        "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-        "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+        "title": "Iran faces economic collapse after 40 days of war",
+        "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
+        "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T16:17:31Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-04-08T17:01:40Z",
+        "sourceCount": "60 sources"
       },
       {
         "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
@@ -1956,6 +1938,24 @@
         "topic": "top",
         "pubDate": "2026-04-08T16:38:02Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
+        "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
+        "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:18:33Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Jeff Shell fired as Paramount president after leak allegations",
+        "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
+        "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-08T16:17:31Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Israel learned of Iran cease-fire deal at last minute",
