@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "California wildfires now add $41 a month to typical power bill",
+      "url": "https://www.perplexity.ai/page/california-wildfires-now-add-4-E7AVXSRcR72WO_n3vyAAmw",
+      "description": "A state report found wildfire-related charges account for nearly 20% of the average PG&E residential bill, prompting calls for sweeping reform.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T16:55:58Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Ukraine nearing peace deal with Russia, top aide says",
+      "url": "https://www.perplexity.ai/page/ukraine-nearing-peace-deal-wit-mdlmc151R324KczDeAdixg",
+      "description": "Zelenskyy's chief of staff Kyrylo Budanov told Bloomberg he sees progress in negotiations, saying a resolution \"will not take long.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T16:34:09Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Vance departs for historic Iran peace talks in Pakistan",
+      "url": "https://www.perplexity.ai/page/vance-departs-for-historic-ira-OSWuNpGrTx.6rqNW_isg_A",
+      "description": "The vice president left Friday for Islamabad, where he will lead the highest-level U.S.-Iran engagement since the 1979 Islamic Revolution.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T16:33:25Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Massachusetts high court rules Meta must face youth addiction suit",
       "url": "https://www.perplexity.ai/page/massachusetts-high-court-rules-Yb7rjMqOQAGwuKrhjdKeMw",
       "description": "The first state supreme court to weigh Section 230's reach found the law does not shield Meta from claims its platform design harmed minors.",
@@ -26,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-04-10T14:35:45Z",
       "sourceCount": "68 sources"
-    },
-    {
-      "title": "Vance departs for Iran peace talks as Lebanon crisis threatens ceasefire",
-      "url": "https://www.perplexity.ai/page/vance-departs-for-iran-peace-t-g24TmJqlQ96QVaBXV.IapA",
-      "description": "The vice president will lead a U.S. delegation in Islamabad for what officials call the most direct U.S.-Iran engagement since 1979.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T14:35:23Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "EU and US near critical minerals deal to counter China",
@@ -208,15 +226,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-      "url": "https://www.perplexity.ai/page/russia-and-ukraine-agree-to-32-A.MzYc9SSneJEHr4WmGF7w",
-      "description": "Putin ordered forces to halt operations starting Saturday after weeks of rejecting Zelensky's truce proposal, which was relayed through U.S. mediators.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T01:34:01Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "Judge finds Pentagon violating order on press access",
       "url": "https://www.perplexity.ai/page/judge-finds-pentagon-violating-iXSqzHehRxGM3VUNnhw4Vw",
       "description": "U.S. District Judge Paul Friedman ruled Thursday that the Defense Department defied his earlier order by imposing new restrictions that still block meaningful reporter access.",
@@ -224,15 +233,6 @@
       "topic": "top",
       "pubDate": "2026-04-10T00:16:28Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
-      "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
-      "description": "The directive followed suspicious trading surges that repeatedly preceded Trump's announcements on the Iran conflict, triggering bipartisan legislative action.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T23:13:19Z",
-      "sourceCount": "71 sources"
     },
     {
       "title": "OpenAI pitches compute edge over Anthropic as revenue gap widens",
@@ -244,6 +244,15 @@
       "sourceCount": "33 sources"
     },
     {
+      "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
+      "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
+      "description": "The directive followed suspicious trading surges that repeatedly preceded Trump's announcements on the Iran conflict, triggering bipartisan legislative action.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T23:13:19Z",
+      "sourceCount": "71 sources"
+    },
+    {
       "title": "Cuba's Diaz-Canel vows not to resign in historic NBC interview",
       "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-not-to-kyj1KlVPSva0CMJezeN7DQ",
       "description": "The Cuban president told \"Meet the Press\" that \"resigning is not part of our vocabulary,\" becoming the first Cuban leader on U.S. TV in decades.",
@@ -253,15 +262,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "White House confirms Cuba talks continuing 'at the highest level'",
-      "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
-      "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T21:27:58Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
       "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
       "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
@@ -269,6 +269,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T18:55:44Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "White House confirms Cuba talks continuing 'at the highest level'",
+      "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
+      "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T21:27:58Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "House GOP blocks Democrats' Iran war powers vote during recess",
@@ -424,13 +433,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Artemis II crew preps for risky Friday reentry",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+      "title": "Artemis II crew races toward Friday splashdown after moon flyby",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-races-toward-f-JH_EtcACTfG_GhRTkwjlrA",
+      "description": "Canada's PM Carney spoke with astronaut Jeremy Hansen from deep space as the record-breaking lunar mission nears its return to Earth.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-09T03:48:13Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-04-09T05:23:27Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Study: 2.5 million Americans lost food aid after GOP megabill",
@@ -449,6 +458,15 @@
       "topic": "top",
       "pubDate": "2026-04-09T02:50:07Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Artemis II crew preps for risky Friday reentry",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+      "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T03:48:13Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -1027,12 +1045,30 @@
       "sourceCount": "40 sources"
     },
     {
+      "title": "USS Murtha departs San Diego to recover Artemis II crew",
+      "url": "https://www.perplexity.ai/page/uss-murtha-departs-san-diego-t-FeW6OPbJREG7Gy6yn9l9NQ",
+      "description": "The Navy recovery ship set sail Monday as the four astronauts performed their lunar flyby, with splashdown set for Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T01:05:40Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Saudi Arabia intercepts missiles as debris falls near energy sites",
       "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-missil-eS0mvfXNQbiJxYsD7kVBhg",
       "description": "Up to 11 ballistic missiles were fired at the kingdom's oil-rich Eastern Province, with damage assessment ongoing at undisclosed energy facilities.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-07T00:43:50Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
+      "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
+      "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-07T01:29:01Z",
       "sourceCount": "27 sources"
     },
     {
@@ -1043,15 +1079,6 @@
       "topic": "top",
       "pubDate": "2026-04-07T00:14:15Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
-      "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
-      "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T01:29:01Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Rep. Ansari moves to impeach Hegseth over Iran war",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-04-05T16:34:46Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Congo agrees to accept US third-country deportees",
-      "url": "https://www.perplexity.ai/page/congo-agrees-to-accept-us-thir-MqhWX1zKQgKFLn_IpDPpRQ",
-      "description": "The US-funded arrangement includes facilities near Kinshasa, though the number of deportees Congo will receive was not disclosed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T14:43:09Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
-      "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
-      "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T11:32:29Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
-      "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
-      "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T15:56:54Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-10T16:06:46Z",
+  "cached_at": "2026-04-10T17:06:58Z",
   "topics": {
     "top": [
+      {
+        "title": "California wildfires now add $41 a month to typical power bill",
+        "url": "https://www.perplexity.ai/page/california-wildfires-now-add-4-E7AVXSRcR72WO_n3vyAAmw",
+        "description": "A state report found wildfire-related charges account for nearly 20% of the average PG&E residential bill, prompting calls for sweeping reform.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T16:55:58Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Ukraine nearing peace deal with Russia, top aide says",
+        "url": "https://www.perplexity.ai/page/ukraine-nearing-peace-deal-wit-mdlmc151R324KczDeAdixg",
+        "description": "Zelenskyy's chief of staff Kyrylo Budanov told Bloomberg he sees progress in negotiations, saying a resolution \"will not take long.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T16:34:09Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Vance departs for historic Iran peace talks in Pakistan",
+        "url": "https://www.perplexity.ai/page/vance-departs-for-historic-ira-OSWuNpGrTx.6rqNW_isg_A",
+        "description": "The vice president left Friday for Islamabad, where he will lead the highest-level U.S.-Iran engagement since the 1979 Islamic Revolution.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T16:33:25Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Massachusetts high court rules Meta must face youth addiction suit",
         "url": "https://www.perplexity.ai/page/massachusetts-high-court-rules-Yb7rjMqOQAGwuKrhjdKeMw",
@@ -1380,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T14:35:45Z",
         "sourceCount": "68 sources"
-      },
-      {
-        "title": "Vance departs for Iran peace talks as Lebanon crisis threatens ceasefire",
-        "url": "https://www.perplexity.ai/page/vance-departs-for-iran-peace-t-g24TmJqlQ96QVaBXV.IapA",
-        "description": "The vice president will lead a U.S. delegation in Islamabad for what officials call the most direct U.S.-Iran engagement since 1979.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T14:35:23Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "EU and US near critical minerals deal to counter China",
@@ -1562,15 +1580,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-        "url": "https://www.perplexity.ai/page/russia-and-ukraine-agree-to-32-A.MzYc9SSneJEHr4WmGF7w",
-        "description": "Putin ordered forces to halt operations starting Saturday after weeks of rejecting Zelensky's truce proposal, which was relayed through U.S. mediators.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T01:34:01Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "Judge finds Pentagon violating order on press access",
         "url": "https://www.perplexity.ai/page/judge-finds-pentagon-violating-iXSqzHehRxGM3VUNnhw4Vw",
         "description": "U.S. District Judge Paul Friedman ruled Thursday that the Defense Department defied his earlier order by imposing new restrictions that still block meaningful reporter access.",
@@ -1578,15 +1587,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T00:16:28Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
-        "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
-        "description": "The directive followed suspicious trading surges that repeatedly preceded Trump's announcements on the Iran conflict, triggering bipartisan legislative action.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T23:13:19Z",
-        "sourceCount": "71 sources"
       },
       {
         "title": "OpenAI pitches compute edge over Anthropic as revenue gap widens",
@@ -1598,6 +1598,15 @@
         "sourceCount": "33 sources"
       },
       {
+        "title": "White House warns staff against prediction market bets amid Iran trading scrutiny",
+        "url": "https://www.perplexity.ai/page/white-house-warns-staff-agains-GmSNBe6TTJOY6_mCSvyO8g",
+        "description": "The directive followed suspicious trading surges that repeatedly preceded Trump's announcements on the Iran conflict, triggering bipartisan legislative action.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T23:13:19Z",
+        "sourceCount": "71 sources"
+      },
+      {
         "title": "Cuba's Diaz-Canel vows not to resign in historic NBC interview",
         "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-not-to-kyj1KlVPSva0CMJezeN7DQ",
         "description": "The Cuban president told \"Meet the Press\" that \"resigning is not part of our vocabulary,\" becoming the first Cuban leader on U.S. TV in decades.",
@@ -1607,15 +1616,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "White House confirms Cuba talks continuing 'at the highest level'",
-        "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
-        "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T21:27:58Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "Netanyahu rejects cease-fire calls, vows strikes on Hezbollah",
         "url": "https://www.perplexity.ai/page/netanyahu-rejects-cease-fire-c-uUEzEamaRiSnD4ybEbAYIw",
         "description": "Hezbollah resumed rocket fire into northern Israel on Thursday after Israel's deadliest day of strikes killed at least 254 people in Lebanon.",
@@ -1623,6 +1623,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T18:55:44Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "White House confirms Cuba talks continuing 'at the highest level'",
+        "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
+        "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T21:27:58Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "House GOP blocks Democrats' Iran war powers vote during recess",
@@ -1778,13 +1787,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Artemis II crew preps for risky Friday reentry",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
-        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+        "title": "Artemis II crew races toward Friday splashdown after moon flyby",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-races-toward-f-JH_EtcACTfG_GhRTkwjlrA",
+        "description": "Canada's PM Carney spoke with astronaut Jeremy Hansen from deep space as the record-breaking lunar mission nears its return to Earth.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-09T03:48:13Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-04-09T05:23:27Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Study: 2.5 million Americans lost food aid after GOP megabill",
@@ -1803,6 +1812,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T02:50:07Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Artemis II crew preps for risky Friday reentry",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-preps-for-risk-WKspsST3SJ2T3__y8Boasg",
+        "description": "The four astronauts are stowing gear and running tests as they hurtle toward Earth, with a high-stakes heat shield reentry set for Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T03:48:13Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "ArcelorMittal donated foreign steel for Trump's ballroom, then got tariff relief",
@@ -2381,12 +2399,30 @@
         "sourceCount": "40 sources"
       },
       {
+        "title": "USS Murtha departs San Diego to recover Artemis II crew",
+        "url": "https://www.perplexity.ai/page/uss-murtha-departs-san-diego-t-FeW6OPbJREG7Gy6yn9l9NQ",
+        "description": "The Navy recovery ship set sail Monday as the four astronauts performed their lunar flyby, with splashdown set for Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T01:05:40Z",
+        "sourceCount": "36 sources"
+      },
+      {
         "title": "Saudi Arabia intercepts missiles as debris falls near energy sites",
         "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-missil-eS0mvfXNQbiJxYsD7kVBhg",
         "description": "Up to 11 ballistic missiles were fired at the kingdom's oil-rich Eastern Province, with damage assessment ongoing at undisclosed energy facilities.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-07T00:43:50Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
+        "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
+        "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-07T01:29:01Z",
         "sourceCount": "27 sources"
       },
       {
@@ -2397,15 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-04-07T00:14:15Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
-        "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
-        "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T01:29:01Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Rep. Ansari moves to impeach Hegseth over Iran war",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T16:34:46Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Congo agrees to accept US third-country deportees",
-        "url": "https://www.perplexity.ai/page/congo-agrees-to-accept-us-thir-MqhWX1zKQgKFLn_IpDPpRQ",
-        "description": "The US-funded arrangement includes facilities near Kinshasa, though the number of deportees Congo will receive was not disclosed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T14:43:09Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
-        "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
-        "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T11:32:29Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Moore rejects Trump's push for states to fund Medicare and Medicaid",
-        "url": "https://www.perplexity.ai/page/moore-rejects-trump-s-push-for-OQgh3UXTRPmAJOor7seVdA",
-        "description": "Maryland's governor called Trump's proposal \"absurd,\" citing his state's $62 million SNAP rescue as proof states can't absorb federal programs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T15:56:54Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
