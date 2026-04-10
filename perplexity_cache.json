@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump warns Iranians 'only alive to negotiate' as Hormuz remains closed",
+      "url": "https://www.perplexity.ai/page/trump-warns-iranians-only-aliv-ZjWd2sqWQryJK4U3wIQq_w",
+      "description": "Vice President Vance heads to Islamabad for Saturday peace talks as the fragile ceasefire frays and Iran keeps the strait effectively shut.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T19:33:15Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Harris says she's 'thinking about' running for president in 2028",
       "url": "https://www.perplexity.ai/page/harris-says-she-s-thinking-abo-BiGrjDJZSFyzsceWwJmKFA",
       "description": "The former vice president made the comments at Rev. Al Sharpton's National Action Network convention in New York City on Thursday.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-04-10T17:28:03Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "Iran sets preconditions that throw Islamabad talks into doubt",
-      "url": "https://www.perplexity.ai/page/iran-sets-preconditions-that-t-0GOfmIjYRlmHn5USroTMTA",
-      "description": "Tehran demands a Lebanon ceasefire and release of frozen assets before negotiations can begin, even as VP Vance heads to Pakistan.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T17:23:33Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "NASA's Artemis II crew set to splash down tonight after moon voyage",
@@ -28,13 +28,22 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "UK and France deepen defense ties amid rift with Trump",
-      "url": "https://www.perplexity.ai/page/uk-and-france-deepen-defense-t-5oUhAOV5RVmGmdE8m3559w",
-      "description": "Britain and France signed a joint missile development pact and boosted military spending as both nations push for European security independence from the U.S.",
+      "title": "Trump unveils design for gilded 250-foot arch in DC",
+      "url": "https://www.perplexity.ai/page/trump-unveils-design-for-gilde-9VmzrtkTRH2odO1_l0IizQ",
+      "description": "The proposed Independence Arch would feature a winged figure, golden eagles and lions, and become the world's largest monumental arch.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-10T17:08:40Z",
-      "sourceCount": "94 sources"
+      "pubDate": "2026-04-10T19:24:53Z",
+      "sourceCount": "76 sources"
+    },
+    {
+      "title": "Iran sets preconditions that throw Islamabad talks into doubt",
+      "url": "https://www.perplexity.ai/page/iran-sets-preconditions-that-t-0GOfmIjYRlmHn5USroTMTA",
+      "description": "Tehran demands a Lebanon ceasefire and release of frozen assets before negotiations can begin, even as VP Vance heads to Pakistan.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T17:23:33Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Ukraine nearing peace deal with Russia, top aide says",
@@ -44,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-04-10T16:34:09Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "UK and France deepen defense ties amid rift with Trump",
+      "url": "https://www.perplexity.ai/page/uk-and-france-deepen-defense-t-5oUhAOV5RVmGmdE8m3559w",
+      "description": "Britain and France signed a joint missile development pact and boosted military spending as both nations push for European security independence from the U.S.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T17:08:40Z",
+      "sourceCount": "94 sources"
     },
     {
       "title": "Vance departs for historic Iran peace talks in Pakistan",
@@ -116,15 +134,6 @@
       "topic": "top",
       "pubDate": "2026-04-10T12:46:15Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Strait of Hormuz remains closed despite ceasefire as Iran imposes ship tolls",
-      "url": "https://www.perplexity.ai/page/strait-of-hormuz-remains-close-5MaDnx2qS2S7YiV32OFJCQ",
-      "description": "The UN's shipping agency called Iran's transit fees a \"dangerous precedent,\" while only a handful of vessels have crossed since Tuesday's truce.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T12:38:39Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Trade court hears challenge to Trump's 10% global tariff",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-05T16:27:54Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump says US sent guns to Iranian protesters via Kurds",
-      "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
-      "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T16:34:46Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-04-10T19:08:45Z",
+  "cached_at": "2026-04-10T19:54:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump warns Iranians 'only alive to negotiate' as Hormuz remains closed",
+        "url": "https://www.perplexity.ai/page/trump-warns-iranians-only-aliv-ZjWd2sqWQryJK4U3wIQq_w",
+        "description": "Vice President Vance heads to Islamabad for Saturday peace talks as the fragile ceasefire frays and Iran keeps the strait effectively shut.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T19:33:15Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Harris says she's 'thinking about' running for president in 2028",
         "url": "https://www.perplexity.ai/page/harris-says-she-s-thinking-abo-BiGrjDJZSFyzsceWwJmKFA",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T17:28:03Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "Iran sets preconditions that throw Islamabad talks into doubt",
-        "url": "https://www.perplexity.ai/page/iran-sets-preconditions-that-t-0GOfmIjYRlmHn5USroTMTA",
-        "description": "Tehran demands a Lebanon ceasefire and release of frozen assets before negotiations can begin, even as VP Vance heads to Pakistan.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T17:23:33Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "NASA's Artemis II crew set to splash down tonight after moon voyage",
@@ -1382,13 +1382,22 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "UK and France deepen defense ties amid rift with Trump",
-        "url": "https://www.perplexity.ai/page/uk-and-france-deepen-defense-t-5oUhAOV5RVmGmdE8m3559w",
-        "description": "Britain and France signed a joint missile development pact and boosted military spending as both nations push for European security independence from the U.S.",
+        "title": "Trump unveils design for gilded 250-foot arch in DC",
+        "url": "https://www.perplexity.ai/page/trump-unveils-design-for-gilde-9VmzrtkTRH2odO1_l0IizQ",
+        "description": "The proposed Independence Arch would feature a winged figure, golden eagles and lions, and become the world's largest monumental arch.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-10T17:08:40Z",
-        "sourceCount": "94 sources"
+        "pubDate": "2026-04-10T19:24:53Z",
+        "sourceCount": "76 sources"
+      },
+      {
+        "title": "Iran sets preconditions that throw Islamabad talks into doubt",
+        "url": "https://www.perplexity.ai/page/iran-sets-preconditions-that-t-0GOfmIjYRlmHn5USroTMTA",
+        "description": "Tehran demands a Lebanon ceasefire and release of frozen assets before negotiations can begin, even as VP Vance heads to Pakistan.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T17:23:33Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Ukraine nearing peace deal with Russia, top aide says",
@@ -1398,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-04-10T16:34:09Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "UK and France deepen defense ties amid rift with Trump",
+        "url": "https://www.perplexity.ai/page/uk-and-france-deepen-defense-t-5oUhAOV5RVmGmdE8m3559w",
+        "description": "Britain and France signed a joint missile development pact and boosted military spending as both nations push for European security independence from the U.S.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T17:08:40Z",
+        "sourceCount": "94 sources"
       },
       {
         "title": "Vance departs for historic Iran peace talks in Pakistan",
@@ -1470,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T12:46:15Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Strait of Hormuz remains closed despite ceasefire as Iran imposes ship tolls",
-        "url": "https://www.perplexity.ai/page/strait-of-hormuz-remains-close-5MaDnx2qS2S7YiV32OFJCQ",
-        "description": "The UN's shipping agency called Iran's transit fees a \"dangerous precedent,\" while only a handful of vessels have crossed since Tuesday's truce.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T12:38:39Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Trade court hears challenge to Trump's 10% global tariff",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T16:27:54Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump says US sent guns to Iranian protesters via Kurds",
-        "url": "https://www.perplexity.ai/page/trump-says-us-sent-guns-to-ira-T9NWDpcRTtG1ts6ssdTbvA",
-        "description": "The president told Fox News the weapons were funneled through Kurdish forces, but claimed the Kurds \"took the guns\" for themselves.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T16:34:46Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
