@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Bank of Korea holds rates as BOJ flags stagflation risk",
+      "url": "https://www.perplexity.ai/page/bank-of-korea-holds-rates-as-b-om189CP4QxK_YIVShzwPIA",
+      "description": "South Korea kept its benchmark rate at 2.50% for a seventh straight meeting while Japan's wholesale inflation accelerated amid Middle East energy shock.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T05:50:25Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Xi Jinping meets Taiwan's KMT leader in Beijing",
+      "url": "https://www.perplexity.ai/page/xi-jinping-meets-taiwan-s-kmt-0xxavbG8TUK87jQDnhxMmg",
+      "description": "Cheng Li-wun's visit to the Great Hall of the People marks the first meeting between a sitting KMT chair and China's leader in a decade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T04:58:44Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "Lawsuit filed after USC freshman loses eye at protest",
       "url": "https://www.perplexity.ai/page/lawsuit-filed-after-usc-freshm-qftUue2KSqe7N_PH.W35dQ",
       "description": "An attorney filed a federal tort claim against DHS on behalf of Tucker Collins, 18, who was blinded by a projectile at a March 28 \"No Kings\" rally in L.A.",
@@ -188,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-04-09T15:31:18Z",
       "sourceCount": "46 sources"
-    },
-    {
-      "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
-      "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
-      "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T14:46:14Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Finland nears launch of world's first permanent nuclear waste site",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-04T19:28:48Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-      "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-      "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T19:28:26Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-10T04:53:37Z",
+  "cached_at": "2026-04-10T06:53:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Bank of Korea holds rates as BOJ flags stagflation risk",
+        "url": "https://www.perplexity.ai/page/bank-of-korea-holds-rates-as-b-om189CP4QxK_YIVShzwPIA",
+        "description": "South Korea kept its benchmark rate at 2.50% for a seventh straight meeting while Japan's wholesale inflation accelerated amid Middle East energy shock.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T05:50:25Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Xi Jinping meets Taiwan's KMT leader in Beijing",
+        "url": "https://www.perplexity.ai/page/xi-jinping-meets-taiwan-s-kmt-0xxavbG8TUK87jQDnhxMmg",
+        "description": "Cheng Li-wun's visit to the Great Hall of the People marks the first meeting between a sitting KMT chair and China's leader in a decade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T04:58:44Z",
+        "sourceCount": "57 sources"
+      },
       {
         "title": "Lawsuit filed after USC freshman loses eye at protest",
         "url": "https://www.perplexity.ai/page/lawsuit-filed-after-usc-freshm-qftUue2KSqe7N_PH.W35dQ",
@@ -1542,15 +1560,6 @@
         "topic": "top",
         "pubDate": "2026-04-09T15:31:18Z",
         "sourceCount": "46 sources"
-      },
-      {
-        "title": "Oil prices climb again as Strait of Hormuz stays shut despite ceasefire",
-        "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-stra-GEpO_uIKQWKZ1OVLEIe_yQ",
-        "description": "An initial market rally faded as no oil tankers have passed through the strait since the U.S.-Iran truce, with about 800 tankers waiting on both sides.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T14:46:14Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Finland nears launch of world's first permanent nuclear waste site",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T19:28:48Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-        "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-        "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T19:28:26Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
