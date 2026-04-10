@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "First-ever egg from a mammal ancestor found in 250M-year-old fossil",
+      "url": "https://www.perplexity.ai/page/first-ever-egg-from-a-mammal-a-IPKbJ67aTKSNcwUwBvSPtA",
+      "description": "Scientists confirmed that mammal ancestors laid soft-shelled eggs, resolving a question that has stumped evolutionary biologists for nearly two centuries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T08:36:12Z",
+      "sourceCount": "19 sources"
+    },
+    {
+      "title": "Bessent, Powell summon bank CEOs over Anthropic AI cyber risks",
+      "url": "https://www.perplexity.ai/page/bessent-powell-summon-bank-ceo-KlWSZo4JR76ERy5_jKPs2g",
+      "description": "Treasury Secretary Bessent and Fed Chair Powell warned Wall Street leaders at an urgent Tuesday meeting about threats from Anthropic's new model.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T08:30:11Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Finland begins trial run at world's first permanent nuclear waste site",
+      "url": "https://www.perplexity.ai/page/finland-begins-trial-run-at-wo-4346gmlJRXK25L8r5qrqaA",
+      "description": "Posiva announced it has started placing test canisters at Onkalo, the underground repository built to entomb spent fuel for millennia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T08:26:39Z",
+      "sourceCount": "12 sources"
+    },
+    {
       "title": "Artemis II crew set to splash down today after Moon flyby",
       "url": "https://www.perplexity.ai/page/artemis-ii-crew-set-to-splash-ljJL9GsXS76WMAieFoxBGg",
       "description": "The four astronauts are expected to land in the Pacific Ocean off San Diego this evening, capping a historic 10-day lunar mission.",
@@ -224,15 +251,6 @@
       "topic": "top",
       "pubDate": "2026-04-09T15:31:18Z",
       "sourceCount": "46 sources"
-    },
-    {
-      "title": "Finland nears launch of world's first permanent nuclear waste site",
-      "url": "https://www.perplexity.ai/page/finland-nears-launch-of-world-ESCa3dDITcuEsbqKZ.GPDg",
-      "description": "The Onkalo facility, built over two decades on the island of Olkiluoto, awaits a final operating license expected by mid-2026.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T14:45:30Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Trump demands European warships in Hormuz within days",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-04-05T00:28:31Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
-      "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
-      "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T21:15:53Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
-      "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
-      "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T21:03:31Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-04-10T08:21:27Z",
+  "cached_at": "2026-04-10T09:45:25Z",
   "topics": {
     "top": [
+      {
+        "title": "First-ever egg from a mammal ancestor found in 250M-year-old fossil",
+        "url": "https://www.perplexity.ai/page/first-ever-egg-from-a-mammal-a-IPKbJ67aTKSNcwUwBvSPtA",
+        "description": "Scientists confirmed that mammal ancestors laid soft-shelled eggs, resolving a question that has stumped evolutionary biologists for nearly two centuries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T08:36:12Z",
+        "sourceCount": "19 sources"
+      },
+      {
+        "title": "Bessent, Powell summon bank CEOs over Anthropic AI cyber risks",
+        "url": "https://www.perplexity.ai/page/bessent-powell-summon-bank-ceo-KlWSZo4JR76ERy5_jKPs2g",
+        "description": "Treasury Secretary Bessent and Fed Chair Powell warned Wall Street leaders at an urgent Tuesday meeting about threats from Anthropic's new model.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T08:30:11Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Finland begins trial run at world's first permanent nuclear waste site",
+        "url": "https://www.perplexity.ai/page/finland-begins-trial-run-at-wo-4346gmlJRXK25L8r5qrqaA",
+        "description": "Posiva announced it has started placing test canisters at Onkalo, the underground repository built to entomb spent fuel for millennia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T08:26:39Z",
+        "sourceCount": "12 sources"
+      },
       {
         "title": "Artemis II crew set to splash down today after Moon flyby",
         "url": "https://www.perplexity.ai/page/artemis-ii-crew-set-to-splash-ljJL9GsXS76WMAieFoxBGg",
@@ -1578,15 +1605,6 @@
         "topic": "top",
         "pubDate": "2026-04-09T15:31:18Z",
         "sourceCount": "46 sources"
-      },
-      {
-        "title": "Finland nears launch of world's first permanent nuclear waste site",
-        "url": "https://www.perplexity.ai/page/finland-nears-launch-of-world-ESCa3dDITcuEsbqKZ.GPDg",
-        "description": "The Onkalo facility, built over two decades on the island of Olkiluoto, awaits a final operating license expected by mid-2026.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T14:45:30Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Trump demands European warships in Hormuz within days",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T00:28:31Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
-        "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
-        "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T21:15:53Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
-        "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
-        "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T21:03:31Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
