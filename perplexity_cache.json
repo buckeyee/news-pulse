@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Dubai caps foreign airlines at one daily flight until May 31",
+      "url": "https://www.perplexity.ai/page/dubai-caps-foreign-airlines-at-7ITUnuTuR1SBmRqHN4fGAw",
+      "description": "Indian carriers face the steepest losses as wartime restrictions limit each foreign airline to a single round trip per day at the world's busiest international hub.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T11:27:12Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Markets brace for March CPI as U.S.-Iran ceasefire frays",
+      "url": "https://www.perplexity.ai/page/markets-brace-for-march-cpi-as-YpWVntahTPqUo0Tihb2zxw",
+      "description": "The Bureau of Labor Statistics is set to release March inflation data Friday morning, with economists forecasting the sharpest monthly price spike since 2022 amid surging energy costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-10T11:00:26Z",
+      "sourceCount": "59 sources"
+    },
+    {
       "title": "TotalEnergies shuts SATORP refinery after Iran strike damages processing train",
       "url": "https://www.perplexity.ai/page/totalenergies-shuts-satorp-ref-GUwgEFmbQG25Li3yS6CAHg",
       "description": "Saudi Arabia says Iranian attacks have cut over 1.3 million barrels per day of oil capacity and killed three people since the war began.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-05T09:34:31Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "China builds largest South China Sea island as US forces shift to Iran",
-      "url": "https://www.perplexity.ai/page/china-builds-largest-south-chi-u9SOD4CeRXuOrjRsUOsLVQ",
-      "description": "Beijing's dredging at Antelope Reef has created roughly 1,490 acres of new land since October, potentially its biggest military outpost in the disputed waters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T02:58:10Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
-      "url": "https://www.perplexity.ai/page/jbs-workers-end-three-week-str-RBsrhkd6RdOgKes1pGUO.g",
-      "description": "About 3,800 meatpacking workers at the Greeley, Colorado, plant will resume work as negotiations are set for April 9 and 10.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T01:32:46Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-10T10:41:05Z",
+  "cached_at": "2026-04-10T11:35:51Z",
   "topics": {
     "top": [
+      {
+        "title": "Dubai caps foreign airlines at one daily flight until May 31",
+        "url": "https://www.perplexity.ai/page/dubai-caps-foreign-airlines-at-7ITUnuTuR1SBmRqHN4fGAw",
+        "description": "Indian carriers face the steepest losses as wartime restrictions limit each foreign airline to a single round trip per day at the world's busiest international hub.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T11:27:12Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Markets brace for March CPI as U.S.-Iran ceasefire frays",
+        "url": "https://www.perplexity.ai/page/markets-brace-for-march-cpi-as-YpWVntahTPqUo0Tihb2zxw",
+        "description": "The Bureau of Labor Statistics is set to release March inflation data Friday morning, with economists forecasting the sharpest monthly price spike since 2022 amid surging energy costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-10T11:00:26Z",
+        "sourceCount": "59 sources"
+      },
       {
         "title": "TotalEnergies shuts SATORP refinery after Iran strike damages processing train",
         "url": "https://www.perplexity.ai/page/totalenergies-shuts-satorp-ref-GUwgEFmbQG25Li3yS6CAHg",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T09:34:31Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "China builds largest South China Sea island as US forces shift to Iran",
-        "url": "https://www.perplexity.ai/page/china-builds-largest-south-chi-u9SOD4CeRXuOrjRsUOsLVQ",
-        "description": "Beijing's dredging at Antelope Reef has created roughly 1,490 acres of new land since October, potentially its biggest military outpost in the disputed waters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T02:58:10Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
-        "url": "https://www.perplexity.ai/page/jbs-workers-end-three-week-str-RBsrhkd6RdOgKes1pGUO.g",
-        "description": "About 3,800 meatpacking workers at the Greeley, Colorado, plant will resume work as negotiations are set for April 9 and 10.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T01:32:46Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
