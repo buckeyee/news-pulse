@@ -199,15 +199,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trade court hears challenge to Trump's 10% global tariff",
-      "url": "https://www.perplexity.ai/page/trade-court-hears-challenge-to-unBUfO5oS1qc1MbFAglU9Q",
-      "description": "A three-judge panel considers whether the president exceeded his authority by invoking a never-before-used trade statute after the Supreme Court struck down earlier tariffs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T12:20:13Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "First-ever egg from a mammal ancestor found in 250M-year-old fossil",
       "url": "https://www.perplexity.ai/page/first-ever-egg-from-a-mammal-a-IPKbJ67aTKSNcwUwBvSPtA",
       "description": "Scientists confirmed that mammal ancestors laid soft-shelled eggs, resolving a question that has stumped evolutionary biologists for nearly two centuries.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-04-05T16:38:20Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
+      "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
+      "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T16:27:54Z",
+      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-11T09:54:20Z",
+  "cached_at": "2026-04-11T10:38:25Z",
   "topics": {
     "top": [
       {
@@ -1551,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T09:44:53Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trade court hears challenge to Trump's 10% global tariff",
-        "url": "https://www.perplexity.ai/page/trade-court-hears-challenge-to-unBUfO5oS1qc1MbFAglU9Q",
-        "description": "A three-judge panel considers whether the president exceeded his authority by invoking a never-before-used trade statute after the Supreme Court struck down earlier tariffs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T12:20:13Z",
-        "sourceCount": "39 sources"
       },
       {
         "title": "First-ever egg from a mammal ancestor found in 250M-year-old fossil",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-05T16:38:20Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "California mail ballot rejections quadrupled after USPS cut rural pickups",
+        "url": "https://www.perplexity.ai/page/california-mail-ballot-rejecti-6DDabhzJSeGK5o8emcBqTA",
+        "description": "A Los Angeles Times analysis found late-arriving ballots surged in the state's 2025 special election, with rural counties hit hardest by postal changes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T16:27:54Z",
+        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
