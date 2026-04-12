@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Putin offers to mediate after US-Iran talks collapse in Islamabad",
+      "url": "https://www.perplexity.ai/page/putin-offers-to-mediate-after-BOisy1YZQGqEMyvJ0IRY2A",
+      "description": "The 21-hour negotiations broke down over Iran's nuclear programme, putting the two-week ceasefire brokered by Pakistan at risk.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T14:41:25Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Study finds three distinct types of black hole mergers",
       "url": "https://www.perplexity.ai/page/study-finds-three-distinct-typ-Sb7LlwXIQVC4kxMY5V7VZQ",
       "description": "Gravitational-wave data from the LIGO-Virgo-KAGRA Collaboration reveals merging black holes fall into three subpopulations with different cosmic origins.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-06T18:07:01Z",
       "sourceCount": "103 sources"
-    },
-    {
-      "title": "Study of 1,700 languages finds shared grammar rules",
-      "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-      "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T14:36:19Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-12T14:28:42Z",
+  "cached_at": "2026-04-12T15:09:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Putin offers to mediate after US-Iran talks collapse in Islamabad",
+        "url": "https://www.perplexity.ai/page/putin-offers-to-mediate-after-BOisy1YZQGqEMyvJ0IRY2A",
+        "description": "The 21-hour negotiations broke down over Iran's nuclear programme, putting the two-week ceasefire brokered by Pakistan at risk.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T14:41:25Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Study finds three distinct types of black hole mergers",
         "url": "https://www.perplexity.ai/page/study-finds-three-distinct-typ-Sb7LlwXIQVC4kxMY5V7VZQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-06T18:07:01Z",
         "sourceCount": "103 sources"
-      },
-      {
-        "title": "Study of 1,700 languages finds shared grammar rules",
-        "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-        "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T14:36:19Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
