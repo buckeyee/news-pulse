@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "IRGC warns military vessels near Hormuz will breach ceasefire",
-      "url": "https://www.perplexity.ai/page/irgc-warns-military-vessels-ne-0JRgw0dWQ3Kq5Y.bQ81GTQ",
-      "description": "Trump ordered a naval blockade of the strait after US-Iran talks in Islamabad collapsed Sunday without a deal.",
+      "title": "NASA shifts focus to Artemis III after crew's Moon return",
+      "url": "https://www.perplexity.ai/page/nasa-shifts-focus-to-artemis-i-OPvk.lxuSK29S91p68404Q",
+      "description": "The Artemis II astronauts splashed down Friday after a 10-day lunar flyby, and NASA says mission design work for Artemis III is already underway.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-12T19:18:15Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-04-12T20:18:22Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "UK refuses to join Trump's Strait of Hormuz blockade",
+      "url": "https://www.perplexity.ai/page/uk-refuses-to-join-trump-s-str-GRgvF76DSh.LEG1yrNvghQ",
+      "description": "Britain says it will not participate in the naval blockade, directly contradicting Trump's claim that the UK is sending minesweepers to assist.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T20:13:07Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Orban concedes as Magyar's Tisza wins Hungary election",
+      "url": "https://www.perplexity.ai/page/orban-concedes-as-magyar-s-tis-R60tiyujRsSXwGugjqmIYw",
+      "description": "Peter Magyar's opposition party ended 16 years of Fidesz rule, with projections showing Tisza on track for a two-thirds supermajority.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T19:31:40Z",
+      "sourceCount": "65 sources"
     },
     {
       "title": "Cuba's Díaz-Canel vows to 'die' defending island in first U.S. TV interview",
@@ -1331,37 +1349,37 @@
       "topic": "top",
       "pubDate": "2026-04-06T18:07:01Z",
       "sourceCount": "103 sources"
-    },
-    {
-      "title": "Study of 1,700 languages finds shared grammar rules",
-      "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-      "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T14:36:19Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
-      "url": "https://www.perplexity.ai/page/supreme-court-vacates-bannon-s-vCzZ4EhbRwSuOiB5qvjLeA",
-      "description": "The justices returned the case to a lower court where prosecutors have already moved to dismiss the indictment tied to Bannon's Jan. 6 subpoena defiance.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T14:04:10Z",
-      "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-04-12T19:49:33Z",
+  "cached_at": "2026-04-12T20:24:27Z",
   "topics": {
     "top": [
       {
-        "title": "IRGC warns military vessels near Hormuz will breach ceasefire",
-        "url": "https://www.perplexity.ai/page/irgc-warns-military-vessels-ne-0JRgw0dWQ3Kq5Y.bQ81GTQ",
-        "description": "Trump ordered a naval blockade of the strait after US-Iran talks in Islamabad collapsed Sunday without a deal.",
+        "title": "NASA shifts focus to Artemis III after crew's Moon return",
+        "url": "https://www.perplexity.ai/page/nasa-shifts-focus-to-artemis-i-OPvk.lxuSK29S91p68404Q",
+        "description": "The Artemis II astronauts splashed down Friday after a 10-day lunar flyby, and NASA says mission design work for Artemis III is already underway.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-12T19:18:15Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-04-12T20:18:22Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "UK refuses to join Trump's Strait of Hormuz blockade",
+        "url": "https://www.perplexity.ai/page/uk-refuses-to-join-trump-s-str-GRgvF76DSh.LEG1yrNvghQ",
+        "description": "Britain says it will not participate in the naval blockade, directly contradicting Trump's claim that the UK is sending minesweepers to assist.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T20:13:07Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Orban concedes as Magyar's Tisza wins Hungary election",
+        "url": "https://www.perplexity.ai/page/orban-concedes-as-magyar-s-tis-R60tiyujRsSXwGugjqmIYw",
+        "description": "Peter Magyar's opposition party ended 16 years of Fidesz rule, with projections showing Tisza on track for a two-thirds supermajority.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T19:31:40Z",
+        "sourceCount": "65 sources"
       },
       {
         "title": "Cuba's Díaz-Canel vows to 'die' defending island in first U.S. TV interview",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-06T18:07:01Z",
         "sourceCount": "103 sources"
-      },
-      {
-        "title": "Study of 1,700 languages finds shared grammar rules",
-        "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-        "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T14:36:19Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
-        "url": "https://www.perplexity.ai/page/supreme-court-vacates-bannon-s-vCzZ4EhbRwSuOiB5qvjLeA",
-        "description": "The justices returned the case to a lower court where prosecutors have already moved to dismiss the indictment tied to Bannon's Jan. 6 subpoena defiance.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T14:04:10Z",
-        "sourceCount": "75 sources"
       }
     ],
     "tech": [],
