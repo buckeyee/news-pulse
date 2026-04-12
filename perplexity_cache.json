@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Putin offers to mediate after US-Iran talks collapse in Islamabad",
-      "url": "https://www.perplexity.ai/page/putin-offers-to-mediate-after-BOisy1YZQGqEMyvJ0IRY2A",
-      "description": "The 21-hour negotiations broke down over Iran's nuclear programme, putting the two-week ceasefire brokered by Pakistan at risk.",
+      "title": "Trump orders naval blockade of Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-orders-naval-blockade-of-fJn0KqMoShWmFnqT1aE0XA",
+      "description": "The announcement came hours after 21-hour peace talks with Iran in Islamabad collapsed without a deal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-12T14:41:25Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-04-12T13:53:31Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Hungarians vote in election that could end Orban's 16-year rule",
+      "url": "https://www.perplexity.ai/page/hungarians-vote-in-election-th-tBXwBt7gSdC_dcRxBGX1Fg",
+      "description": "Record-high turnout was reported as polls opened Sunday, with opposition leader Peter Magyar's Tisza party leading in most surveys.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T12:58:35Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Economists say world far better equipped for oil shocks than in the 1970s",
@@ -118,15 +127,6 @@
       "sourceCount": "48 sources"
     },
     {
-      "title": "U.S.-Iran peace talks begin in Pakistan as Wall Street posts best week since November",
-      "url": "https://www.perplexity.ai/page/u-s-iran-peace-talks-begin-in-3YCH9zjCS6mCTHNykVz8nw",
-      "description": "The first direct negotiations between Washington and Tehran in decades got underway Saturday in Islamabad after a ceasefire-fueled rally lifted stocks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T20:08:33Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Altman ties Molotov cocktail attack to New Yorker expose",
       "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
       "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
@@ -134,15 +134,6 @@
       "topic": "top",
       "pubDate": "2026-04-11T19:43:12Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Lebanon death toll passes 2,000 as Israel-Hezbollah fighting intensifies",
-      "url": "https://www.perplexity.ai/page/lebanon-death-toll-passes-2000-mKP4WR.iQx.xevUz4B2WdA",
-      "description": "Israeli forces struck 200 Hezbollah targets in 24 hours as Iran demands a Lebanon ceasefire before U.S. peace talks in Islamabad can proceed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T21:33:11Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Manhattan DA opens investigation into Swalwell assault allegations",
@@ -154,6 +145,15 @@
       "sourceCount": "32 sources"
     },
     {
+      "title": "Lebanon death toll passes 2,000 as Israel-Hezbollah fighting intensifies",
+      "url": "https://www.perplexity.ai/page/lebanon-death-toll-passes-2000-mKP4WR.iQx.xevUz4B2WdA",
+      "description": "Israeli forces struck 200 Hezbollah targets in 24 hours as Iran demands a Lebanon ceasefire before U.S. peace talks in Islamabad can proceed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-11T21:33:11Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
       "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
       "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
@@ -163,15 +163,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Netanyahu says Iran has no functioning enrichment facilities left",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-iran-has-no-fun-Yb0jxDAWT9qXfHt_37A6HA",
-      "description": "The Israeli PM claimed \"enormous achievements\" in the U.S.-Israeli campaign as peace talks continued in Islamabad on Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T21:18:47Z",
-      "sourceCount": "83 sources"
-    },
-    {
       "title": "GOP lawmakers accuse EU of election meddling in Hungary",
       "url": "https://www.perplexity.ai/page/gop-lawmakers-accuse-eu-of-ele-eE2fa_teRhe6p5JswgKMZA",
       "description": "Reps. Smith and Harris sent a letter to von der Leyen condemning \"unprecedented, undemocratic interference\" ahead of Sunday's vote.",
@@ -179,6 +170,15 @@
       "topic": "top",
       "pubDate": "2026-04-11T19:13:46Z",
       "sourceCount": "48 sources"
+    },
+    {
+      "title": "Netanyahu says Iran has no functioning enrichment facilities left",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-iran-has-no-fun-Yb0jxDAWT9qXfHt_37A6HA",
+      "description": "The Israeli PM claimed \"enormous achievements\" in the U.S.-Israeli campaign as peace talks continued in Islamabad on Saturday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-11T21:18:47Z",
+      "sourceCount": "83 sources"
     },
     {
       "title": "US launches mine clearance mission in Strait of Hormuz",
@@ -404,15 +404,6 @@
       "topic": "top",
       "pubDate": "2026-04-10T11:27:12Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "IDF chief says Israel is 'in a state of war' in Lebanon, not a ceasefire",
-      "url": "https://www.perplexity.ai/page/idf-chief-says-israel-is-in-a-cJ8ogaaOSOqWZOtNWfMkFA",
-      "description": "Hezbollah rockets caused power outages in northern Israel on Friday as Lt. Gen. Zamir declared Lebanon the IDF's \"primary combat zone.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T10:53:23Z",
-      "sourceCount": "70 sources"
     },
     {
       "title": "TotalEnergies shuts SATORP refinery after Iran strike damages processing train",
@@ -1349,19 +1340,37 @@
       "topic": "top",
       "pubDate": "2026-04-06T18:07:01Z",
       "sourceCount": "103 sources"
+    },
+    {
+      "title": "Study of 1,700 languages finds shared grammar rules",
+      "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
+      "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T14:36:19Z",
+      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-12T16:38:37Z",
+  "cached_at": "2026-04-12T17:20:33Z",
   "topics": {
     "top": [
       {
-        "title": "Putin offers to mediate after US-Iran talks collapse in Islamabad",
-        "url": "https://www.perplexity.ai/page/putin-offers-to-mediate-after-BOisy1YZQGqEMyvJ0IRY2A",
-        "description": "The 21-hour negotiations broke down over Iran's nuclear programme, putting the two-week ceasefire brokered by Pakistan at risk.",
+        "title": "Trump orders naval blockade of Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-orders-naval-blockade-of-fJn0KqMoShWmFnqT1aE0XA",
+        "description": "The announcement came hours after 21-hour peace talks with Iran in Islamabad collapsed without a deal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-12T14:41:25Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-04-12T13:53:31Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Hungarians vote in election that could end Orban's 16-year rule",
+        "url": "https://www.perplexity.ai/page/hungarians-vote-in-election-th-tBXwBt7gSdC_dcRxBGX1Fg",
+        "description": "Record-high turnout was reported as polls opened Sunday, with opposition leader Peter Magyar's Tisza party leading in most surveys.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T12:58:35Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Economists say world far better equipped for oil shocks than in the 1970s",
@@ -1472,15 +1481,6 @@
         "sourceCount": "48 sources"
       },
       {
-        "title": "U.S.-Iran peace talks begin in Pakistan as Wall Street posts best week since November",
-        "url": "https://www.perplexity.ai/page/u-s-iran-peace-talks-begin-in-3YCH9zjCS6mCTHNykVz8nw",
-        "description": "The first direct negotiations between Washington and Tehran in decades got underway Saturday in Islamabad after a ceasefire-fueled rally lifted stocks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T20:08:33Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Altman ties Molotov cocktail attack to New Yorker expose",
         "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
         "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
@@ -1488,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-04-11T19:43:12Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Lebanon death toll passes 2,000 as Israel-Hezbollah fighting intensifies",
-        "url": "https://www.perplexity.ai/page/lebanon-death-toll-passes-2000-mKP4WR.iQx.xevUz4B2WdA",
-        "description": "Israeli forces struck 200 Hezbollah targets in 24 hours as Iran demands a Lebanon ceasefire before U.S. peace talks in Islamabad can proceed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T21:33:11Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Manhattan DA opens investigation into Swalwell assault allegations",
@@ -1508,6 +1499,15 @@
         "sourceCount": "32 sources"
       },
       {
+        "title": "Lebanon death toll passes 2,000 as Israel-Hezbollah fighting intensifies",
+        "url": "https://www.perplexity.ai/page/lebanon-death-toll-passes-2000-mKP4WR.iQx.xevUz4B2WdA",
+        "description": "Israeli forces struck 200 Hezbollah targets in 24 hours as Iran demands a Lebanon ceasefire before U.S. peace talks in Islamabad can proceed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-11T21:33:11Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
         "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
         "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
@@ -1517,15 +1517,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Netanyahu says Iran has no functioning enrichment facilities left",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-iran-has-no-fun-Yb0jxDAWT9qXfHt_37A6HA",
-        "description": "The Israeli PM claimed \"enormous achievements\" in the U.S.-Israeli campaign as peace talks continued in Islamabad on Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T21:18:47Z",
-        "sourceCount": "83 sources"
-      },
-      {
         "title": "GOP lawmakers accuse EU of election meddling in Hungary",
         "url": "https://www.perplexity.ai/page/gop-lawmakers-accuse-eu-of-ele-eE2fa_teRhe6p5JswgKMZA",
         "description": "Reps. Smith and Harris sent a letter to von der Leyen condemning \"unprecedented, undemocratic interference\" ahead of Sunday's vote.",
@@ -1533,6 +1524,15 @@
         "topic": "top",
         "pubDate": "2026-04-11T19:13:46Z",
         "sourceCount": "48 sources"
+      },
+      {
+        "title": "Netanyahu says Iran has no functioning enrichment facilities left",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-iran-has-no-fun-Yb0jxDAWT9qXfHt_37A6HA",
+        "description": "The Israeli PM claimed \"enormous achievements\" in the U.S.-Israeli campaign as peace talks continued in Islamabad on Saturday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-11T21:18:47Z",
+        "sourceCount": "83 sources"
       },
       {
         "title": "US launches mine clearance mission in Strait of Hormuz",
@@ -1758,15 +1758,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T11:27:12Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "IDF chief says Israel is 'in a state of war' in Lebanon, not a ceasefire",
-        "url": "https://www.perplexity.ai/page/idf-chief-says-israel-is-in-a-cJ8ogaaOSOqWZOtNWfMkFA",
-        "description": "Hezbollah rockets caused power outages in northern Israel on Friday as Lt. Gen. Zamir declared Lebanon the IDF's \"primary combat zone.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T10:53:23Z",
-        "sourceCount": "70 sources"
       },
       {
         "title": "TotalEnergies shuts SATORP refinery after Iran strike damages processing train",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-06T18:07:01Z",
         "sourceCount": "103 sources"
+      },
+      {
+        "title": "Study of 1,700 languages finds shared grammar rules",
+        "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
+        "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T14:36:19Z",
+        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
