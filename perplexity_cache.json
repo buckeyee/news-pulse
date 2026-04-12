@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "U.S.-Iran talks end without deal as UN chief calls Hormuz tolls unlawful",
+      "url": "https://www.perplexity.ai/page/u-s-iran-talks-end-without-dea-FZBNdBxrQJqpm4Sq0D5wLg",
+      "description": "IMO Secretary-General Arsenio Dominguez said Iran's toll plan violates international law, as 21 hours of ceasefire talks in Pakistan ended without agreement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T21:18:37Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "An Iraqi drone narrowly missed a convoy carrying a freed US journalist in Baghdad",
+      "url": "https://www.perplexity.ai/page/an-iraqi-drone-narrowly-missed-m6yptKxET2qkhqGcp6f65Q",
+      "description": "The move follows revelations that a drone narrowly missed a U.S. convoy carrying freed journalist Shelly Kittleson at Baghdad airport on April 8.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T21:07:46Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "NASA shifts focus to Artemis III after crew's Moon return",
       "url": "https://www.perplexity.ai/page/nasa-shifts-focus-to-artemis-i-OPvk.lxuSK29S91p68404Q",
       "description": "The Artemis II astronauts splashed down Friday after a 10-day lunar flyby, and NASA says mission design work for Artemis III is already underway.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-04-12T20:18:22Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "UK refuses to join Trump's Strait of Hormuz blockade",
-      "url": "https://www.perplexity.ai/page/uk-refuses-to-join-trump-s-str-GRgvF76DSh.LEG1yrNvghQ",
-      "description": "Britain says it will not participate in the naval blockade, directly contradicting Trump's claim that the UK is sending minesweepers to assist.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-12T20:13:07Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Orban concedes as Magyar's Tisza wins Hungary election",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-06T18:07:01Z",
       "sourceCount": "103 sources"
-    },
-    {
-      "title": "Study of 1,700 languages finds shared grammar rules",
-      "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-      "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T14:36:19Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-12T21:02:18Z",
+  "cached_at": "2026-04-12T21:48:29Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S.-Iran talks end without deal as UN chief calls Hormuz tolls unlawful",
+        "url": "https://www.perplexity.ai/page/u-s-iran-talks-end-without-dea-FZBNdBxrQJqpm4Sq0D5wLg",
+        "description": "IMO Secretary-General Arsenio Dominguez said Iran's toll plan violates international law, as 21 hours of ceasefire talks in Pakistan ended without agreement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T21:18:37Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "An Iraqi drone narrowly missed a convoy carrying a freed US journalist in Baghdad",
+        "url": "https://www.perplexity.ai/page/an-iraqi-drone-narrowly-missed-m6yptKxET2qkhqGcp6f65Q",
+        "description": "The move follows revelations that a drone narrowly missed a U.S. convoy carrying freed journalist Shelly Kittleson at Baghdad airport on April 8.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T21:07:46Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "NASA shifts focus to Artemis III after crew's Moon return",
         "url": "https://www.perplexity.ai/page/nasa-shifts-focus-to-artemis-i-OPvk.lxuSK29S91p68404Q",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-04-12T20:18:22Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "UK refuses to join Trump's Strait of Hormuz blockade",
-        "url": "https://www.perplexity.ai/page/uk-refuses-to-join-trump-s-str-GRgvF76DSh.LEG1yrNvghQ",
-        "description": "Britain says it will not participate in the naval blockade, directly contradicting Trump's claim that the UK is sending minesweepers to assist.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-12T20:13:07Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Orban concedes as Magyar's Tisza wins Hungary election",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-06T18:07:01Z",
         "sourceCount": "103 sources"
-      },
-      {
-        "title": "Study of 1,700 languages finds shared grammar rules",
-        "url": "https://www.perplexity.ai/page/study-of-1700-languages-finds-7doUc3xlSemr7bplA3uDzg",
-        "description": "About one-third of long-proposed \"linguistic universals\" hold up under modern statistical testing, pointing to deep cognitive forces shaping all human languages.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T14:36:19Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
