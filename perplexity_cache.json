@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Study finds three distinct types of black hole mergers",
+      "url": "https://www.perplexity.ai/page/study-finds-three-distinct-typ-Sb7LlwXIQVC4kxMY5V7VZQ",
+      "description": "Gravitational-wave data from the LIGO-Virgo-KAGRA Collaboration reveals merging black holes fall into three subpopulations with different cosmic origins.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T12:51:06Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Economists say world far better equipped for oil shocks than in the 1970s",
       "url": "https://www.perplexity.ai/page/economists-say-world-far-bette-8gI5Caf_RmCRnG5Doac8Eg",
       "description": "Oil's share of global energy fell from 46% in 1973 to below 30%, but the current Middle East crisis still poses risks to growth and inflation.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-04-12T12:18:39Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran lost track of its own mines in Hormuz, NYT reports",
+      "url": "https://www.perplexity.ai/page/iran-lost-track-of-its-own-min-ez1kiWPMQbuYwWUzwuOPQg",
+      "description": "Physical oil hit a record $144 per barrel as the strait remains largely impassable six weeks into the crisis, with mine clearance posing a major obstacle.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T11:04:18Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "USS John P. Murtha returns to San Diego with Artemis II Orion capsule",
@@ -820,13 +838,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran faces economic collapse after 40 days of war",
-      "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
-      "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
+      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
+      "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
+      "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-08T17:01:40Z",
-      "sourceCount": "60 sources"
+      "pubDate": "2026-04-08T16:18:33Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
@@ -836,15 +854,6 @@
       "topic": "top",
       "pubDate": "2026-04-08T16:38:02Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-      "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-      "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:18:33Z",
-      "sourceCount": "38 sources"
     },
     {
       "title": "Jeff Shell fired as Paramount president after leak allegations",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-06T14:36:19Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
-      "url": "https://www.perplexity.ai/page/supreme-court-vacates-bannon-s-vCzZ4EhbRwSuOiB5qvjLeA",
-      "description": "The justices returned the case to a lower court where prosecutors have already moved to dismiss the indictment tied to Bannon's Jan. 6 subpoena defiance.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T14:04:10Z",
-      "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-04-12T12:28:55Z",
+  "cached_at": "2026-04-12T13:43:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Study finds three distinct types of black hole mergers",
+        "url": "https://www.perplexity.ai/page/study-finds-three-distinct-typ-Sb7LlwXIQVC4kxMY5V7VZQ",
+        "description": "Gravitational-wave data from the LIGO-Virgo-KAGRA Collaboration reveals merging black holes fall into three subpopulations with different cosmic origins.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T12:51:06Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Economists say world far better equipped for oil shocks than in the 1970s",
         "url": "https://www.perplexity.ai/page/economists-say-world-far-bette-8gI5Caf_RmCRnG5Doac8Eg",
@@ -1362,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-04-12T12:18:39Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran lost track of its own mines in Hormuz, NYT reports",
+        "url": "https://www.perplexity.ai/page/iran-lost-track-of-its-own-min-ez1kiWPMQbuYwWUzwuOPQg",
+        "description": "Physical oil hit a record $144 per barrel as the strait remains largely impassable six weeks into the crisis, with mine clearance posing a major obstacle.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T11:04:18Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "USS John P. Murtha returns to San Diego with Artemis II Orion capsule",
@@ -2174,13 +2192,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran faces economic collapse after 40 days of war",
-        "url": "https://www.perplexity.ai/page/iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
-        "description": "A two-week ceasefire halted U.S.-Israeli bombardment, but Reuters reports Iran is \"near the brink of economic collapse\" with GDP expected to contract sharply.",
+        "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
+        "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
+        "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-08T17:01:40Z",
-        "sourceCount": "60 sources"
+        "pubDate": "2026-04-08T16:18:33Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
@@ -2190,15 +2208,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T16:38:02Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-        "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-        "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:18:33Z",
-        "sourceCount": "38 sources"
       },
       {
         "title": "Jeff Shell fired as Paramount president after leak allegations",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-06T14:36:19Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Supreme Court vacates Bannon's contempt-of-Congress conviction",
-        "url": "https://www.perplexity.ai/page/supreme-court-vacates-bannon-s-vCzZ4EhbRwSuOiB5qvjLeA",
-        "description": "The justices returned the case to a lower court where prosecutors have already moved to dismiss the indictment tied to Bannon's Jan. 6 subpoena defiance.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T14:04:10Z",
-        "sourceCount": "75 sources"
       }
     ],
     "tech": [],
