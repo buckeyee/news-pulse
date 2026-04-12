@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "McIlroy wins back-to-back Masters titles at Augusta",
+      "url": "https://www.perplexity.ai/page/mcilroy-wins-back-to-back-mast-gI3nFfsSQpWgQJZisLKa3g",
+      "description": "The defending champion rallied on the back nine Sunday to become just the fourth player to win consecutive green jackets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T23:11:44Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "Sam Altman's home targeted in second attack days after Molotov cocktail",
       "url": "https://www.perplexity.ai/page/sam-altman-s-home-targeted-in-yPcVE1ZaTASjRWHL3bmytA",
       "description": "A car reportedly stopped outside the OpenAI CEO's San Francisco residence early Sunday and a gun was apparently fired at the property.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-06T21:14:01Z",
       "sourceCount": "63 sources"
-    },
-    {
-      "title": "White House proposes cutting 9,400 TSA jobs, $1.5B from budget",
-      "url": "https://www.perplexity.ai/page/white-house-proposes-cutting-9-DQ7DGXZITp2wvVyhUsUKPg",
-      "description": "The plan would shrink the post-9/11 agency's workforce by roughly 16% and reduce its $7.8 billion budget by about 20%, according to budget documents.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-06T20:59:44Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-12T23:01:23Z",
+  "cached_at": "2026-04-12T23:49:05Z",
   "topics": {
     "top": [
+      {
+        "title": "McIlroy wins back-to-back Masters titles at Augusta",
+        "url": "https://www.perplexity.ai/page/mcilroy-wins-back-to-back-mast-gI3nFfsSQpWgQJZisLKa3g",
+        "description": "The defending champion rallied on the back nine Sunday to become just the fourth player to win consecutive green jackets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T23:11:44Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "Sam Altman's home targeted in second attack days after Molotov cocktail",
         "url": "https://www.perplexity.ai/page/sam-altman-s-home-targeted-in-yPcVE1ZaTASjRWHL3bmytA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-06T21:14:01Z",
         "sourceCount": "63 sources"
-      },
-      {
-        "title": "White House proposes cutting 9,400 TSA jobs, $1.5B from budget",
-        "url": "https://www.perplexity.ai/page/white-house-proposes-cutting-9-DQ7DGXZITp2wvVyhUsUKPg",
-        "description": "The plan would shrink the post-9/11 agency's workforce by roughly 16% and reduce its $7.8 billion budget by about 20%, according to budget documents.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-06T20:59:44Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
