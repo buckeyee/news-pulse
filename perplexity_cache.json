@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IRGC claims full control of Strait of Hormuz after Trump orders blockade",
+      "url": "https://www.perplexity.ai/page/irgc-claims-full-control-of-st-ZbEShuiaSSaSKiRhUWZw2g",
+      "description": "Iran's Revolutionary Guards warned of a \"deadly vortex\" for enemies as U.S.-Iran tensions spike following collapsed peace talks in Islamabad.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T16:38:31Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Lawmakers from both parties back expelling Swalwell and Gonzales",
       "url": "https://www.perplexity.ai/page/lawmakers-from-both-parties-ba-BUaXw6ART3WJ6WeLmQ2G1A",
       "description": "Members of Congress crossed party lines Sunday to support expelling two House members facing sexual misconduct allegations.",
@@ -8,24 +17,6 @@
       "topic": "top",
       "pubDate": "2026-04-12T15:55:05Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump orders naval blockade of Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-orders-naval-blockade-of-fJn0KqMoShWmFnqT1aE0XA",
-      "description": "The announcement came hours after 21-hour peace talks with Iran in Islamabad collapsed without a deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-12T13:53:31Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Hungarians vote in election that could end Orban's 16-year rule",
-      "url": "https://www.perplexity.ai/page/hungarians-vote-in-election-th-tBXwBt7gSdC_dcRxBGX1Fg",
-      "description": "Record-high turnout was reported as polls opened Sunday, with opposition leader Peter Magyar's Tisza party leading in most surveys.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-12T12:58:35Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Economists say world far better equipped for oil shocks than in the 1970s",
@@ -44,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-04-12T11:04:18Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "Russia, Ukraine trade thousands of violation claims as Easter ceasefire crumbles",
+      "url": "https://www.perplexity.ai/page/russia-ukraine-trade-thousands-9qRuiTWoTSC7NHpAi2OEEw",
+      "description": "Both sides reported over 2,000 breaches within hours of the 32-hour truce taking effect, with Moscow rejecting Kyiv's call to extend the pause.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T10:13:19Z",
+      "sourceCount": "33 sources"
     },
     {
       "title": "China unveils 10 incentives for Taiwan after historic Xi-Cheng meeting",
@@ -1351,9 +1351,18 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-12T17:58:07Z",
+  "cached_at": "2026-04-12T19:03:05Z",
   "topics": {
     "top": [
+      {
+        "title": "IRGC claims full control of Strait of Hormuz after Trump orders blockade",
+        "url": "https://www.perplexity.ai/page/irgc-claims-full-control-of-st-ZbEShuiaSSaSKiRhUWZw2g",
+        "description": "Iran's Revolutionary Guards warned of a \"deadly vortex\" for enemies as U.S.-Iran tensions spike following collapsed peace talks in Islamabad.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T16:38:31Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Lawmakers from both parties back expelling Swalwell and Gonzales",
         "url": "https://www.perplexity.ai/page/lawmakers-from-both-parties-ba-BUaXw6ART3WJ6WeLmQ2G1A",
@@ -1362,24 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-04-12T15:55:05Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump orders naval blockade of Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-orders-naval-blockade-of-fJn0KqMoShWmFnqT1aE0XA",
-        "description": "The announcement came hours after 21-hour peace talks with Iran in Islamabad collapsed without a deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-12T13:53:31Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Hungarians vote in election that could end Orban's 16-year rule",
-        "url": "https://www.perplexity.ai/page/hungarians-vote-in-election-th-tBXwBt7gSdC_dcRxBGX1Fg",
-        "description": "Record-high turnout was reported as polls opened Sunday, with opposition leader Peter Magyar's Tisza party leading in most surveys.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-12T12:58:35Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Economists say world far better equipped for oil shocks than in the 1970s",
@@ -1398,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-04-12T11:04:18Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "Russia, Ukraine trade thousands of violation claims as Easter ceasefire crumbles",
+        "url": "https://www.perplexity.ai/page/russia-ukraine-trade-thousands-9qRuiTWoTSC7NHpAi2OEEw",
+        "description": "Both sides reported over 2,000 breaches within hours of the 32-hour truce taking effect, with Moscow rejecting Kyiv's call to extend the pause.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T10:13:19Z",
+        "sourceCount": "33 sources"
       },
       {
         "title": "China unveils 10 incentives for Taiwan after historic Xi-Cheng meeting",
