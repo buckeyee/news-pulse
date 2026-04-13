@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Pope Leo XIV arrives in Algeria on historic first papal visit",
+      "url": "https://www.perplexity.ai/page/pope-leo-xiv-arrives-in-algeri-Sv_Nr2EQTku53kPrVOQL7w",
+      "description": "The American-born pontiff begins an 11-day, four-nation Africa tour promoting Christian-Muslim dialogue and honoring St. Augustine's legacy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-13T06:02:34Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Starmer and Macron call for de-escalation and Lebanon ceasefire",
+      "url": "https://www.perplexity.ai/page/starmer-and-macron-call-for-de-8C6jL.LSTuOfLa3C1fP2Rw",
+      "description": "Starmer and Macron called for de-escalation and a broad coalition to protect shipping lanes after Trump ordered a naval blockade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-13T04:12:16Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Over 2,000 US flights disrupted as storms lash major hubs",
       "url": "https://www.perplexity.ai/page/over-2000-us-flights-disrupted-FekEkke3QNCLMFj3EUXViA",
       "description": "Sunday's severe weather across the southern Plains and upper Midwest extended weeks of cascading delays at airports nationwide.",
@@ -109,15 +127,6 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "U.S.-Iran talks end without deal as UN chief calls Hormuz tolls unlawful",
-      "url": "https://www.perplexity.ai/page/u-s-iran-talks-end-without-dea-FZBNdBxrQJqpm4Sq0D5wLg",
-      "description": "IMO Secretary-General Arsenio Dominguez said Iran's toll plan violates international law, as 21 hours of ceasefire talks in Pakistan ended without agreement.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-12T21:18:37Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "An Iraqi drone narrowly missed a convoy carrying a freed US journalist in Baghdad",
       "url": "https://www.perplexity.ai/page/an-iraqi-drone-narrowly-missed-m6yptKxET2qkhqGcp6f65Q",
       "description": "The move follows revelations that a drone narrowly missed a U.S. convoy carrying freed journalist Shelly Kittleson at Baghdad airport on April 8.",
@@ -161,6 +170,15 @@
       "topic": "top",
       "pubDate": "2026-04-12T17:33:44Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump admits gas prices may rise before midterms",
+      "url": "https://www.perplexity.ai/page/trump-admits-gas-prices-may-ri-l_5WFxOVSSupyHaRBMSsCA",
+      "description": "The president's concession on Sunday came hours after he announced a U.S. naval blockade of the Strait of Hormuz following collapsed Iran talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T16:03:39Z",
+      "sourceCount": "71 sources"
     },
     {
       "title": "Lawmakers from both parties back expelling Swalwell and Gonzales",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-07T00:43:50Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
-      "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
-      "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T01:29:01Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Minneapolis releases video contradicting ICE's account of January shooting",
-      "url": "https://www.perplexity.ai/page/minneapolis-releases-video-con-8yWG2S6DQV6TV0ygMJgDTQ",
-      "description": "Footage shows a 12-second scuffle, not the three-minute assault with a shovel and broom that officers described under oath.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-07T00:14:15Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-04-13T04:42:49Z",
+  "cached_at": "2026-04-13T07:04:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Pope Leo XIV arrives in Algeria on historic first papal visit",
+        "url": "https://www.perplexity.ai/page/pope-leo-xiv-arrives-in-algeri-Sv_Nr2EQTku53kPrVOQL7w",
+        "description": "The American-born pontiff begins an 11-day, four-nation Africa tour promoting Christian-Muslim dialogue and honoring St. Augustine's legacy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-13T06:02:34Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Starmer and Macron call for de-escalation and Lebanon ceasefire",
+        "url": "https://www.perplexity.ai/page/starmer-and-macron-call-for-de-8C6jL.LSTuOfLa3C1fP2Rw",
+        "description": "Starmer and Macron called for de-escalation and a broad coalition to protect shipping lanes after Trump ordered a naval blockade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-13T04:12:16Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Over 2,000 US flights disrupted as storms lash major hubs",
         "url": "https://www.perplexity.ai/page/over-2000-us-flights-disrupted-FekEkke3QNCLMFj3EUXViA",
@@ -1463,15 +1481,6 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "U.S.-Iran talks end without deal as UN chief calls Hormuz tolls unlawful",
-        "url": "https://www.perplexity.ai/page/u-s-iran-talks-end-without-dea-FZBNdBxrQJqpm4Sq0D5wLg",
-        "description": "IMO Secretary-General Arsenio Dominguez said Iran's toll plan violates international law, as 21 hours of ceasefire talks in Pakistan ended without agreement.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-12T21:18:37Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "An Iraqi drone narrowly missed a convoy carrying a freed US journalist in Baghdad",
         "url": "https://www.perplexity.ai/page/an-iraqi-drone-narrowly-missed-m6yptKxET2qkhqGcp6f65Q",
         "description": "The move follows revelations that a drone narrowly missed a U.S. convoy carrying freed journalist Shelly Kittleson at Baghdad airport on April 8.",
@@ -1515,6 +1524,15 @@
         "topic": "top",
         "pubDate": "2026-04-12T17:33:44Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump admits gas prices may rise before midterms",
+        "url": "https://www.perplexity.ai/page/trump-admits-gas-prices-may-ri-l_5WFxOVSSupyHaRBMSsCA",
+        "description": "The president's concession on Sunday came hours after he announced a U.S. naval blockade of the Strait of Hormuz following collapsed Iran talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T16:03:39Z",
+        "sourceCount": "71 sources"
       },
       {
         "title": "Lawmakers from both parties back expelling Swalwell and Gonzales",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-07T00:43:50Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Four IDF combat soldiers arrested for suspected Iran espionage",
-        "url": "https://www.perplexity.ai/page/four-idf-combat-soldiers-arres-iQFekZAGSS6xQrdO7jULsg",
-        "description": "The arrests mark one of the most serious spy cases since the war began, with two other Iran-linked espionage affairs revealed the same day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T01:29:01Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Minneapolis releases video contradicting ICE's account of January shooting",
-        "url": "https://www.perplexity.ai/page/minneapolis-releases-video-con-8yWG2S6DQV6TV0ygMJgDTQ",
-        "description": "Footage shows a 12-second scuffle, not the three-minute assault with a shovel and broom that officers described under oath.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-07T00:14:15Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
