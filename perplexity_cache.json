@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Pakistan pushes for new U.S.-Iran talks as port blockade enters second day",
-      "url": "https://www.perplexity.ai/page/pakistan-pushes-for-new-u-s-ir-LAc5GVZOQzqrAdGOtpC0kw",
-      "description": "The blockade took effect Monday after weekend peace negotiations in Islamabad collapsed, with oil prices easing Tuesday on hopes of resumed diplomacy.",
+      "title": "Oil dips as Iran war fuels historic shift to renewables",
+      "url": "https://www.perplexity.ai/page/oil-dips-as-iran-war-fuels-his-XmwkWQ9TS7mxn4bS21i06Q",
+      "description": "Brent crude fell below $100 Tuesday amid peace signals, but the seven-week conflict has accelerated a global pivot to clean energy.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-14T15:42:35Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-14T16:48:40Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Ships slip past US blockade of Iran despite CENTCOM's zero-breach claim",
+      "url": "https://www.perplexity.ai/page/ships-slip-past-us-blockade-of-jpaDULJtT_qHErU1FvOn5Q",
+      "description": "Maritime tracking firms reported at least four vessels transited the Strait of Hormuz from Iranian ports, contradicting CENTCOM's claim of no breaches.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-14T16:33:41Z",
+      "sourceCount": "51 sources"
     },
     {
       "title": "US wholesale prices rise 4% annually as Iran war fuels energy surge",
@@ -91,15 +100,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "US Hormuz blockade could cost Iran $435 million a day",
-      "url": "https://www.perplexity.ai/page/us-hormuz-blockade-could-cost-aby9TgGlRuqRoQX5vAg4mQ",
-      "description": "The naval blockade of Iranian ports took effect on Monday after peace talks in Islamabad collapsed over the weekend, with oil prices surging sharply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T08:51:45Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "OpenAI backers question $852B valuation amid strategy shifts",
       "url": "https://www.perplexity.ai/page/openai-backers-question-852b-v-WrCJXYkuQGy7axI7l6TqkA",
       "description": "Some investors told the Financial Times the company has redrawn its product roadmap twice in six months as it faces pressure from Anthropic and Google.",
@@ -107,15 +107,6 @@
       "topic": "top",
       "pubDate": "2026-04-14T08:34:01Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "OMB withholds NOAA grant funding Congress approved",
-      "url": "https://www.perplexity.ai/page/omb-withholds-noaa-grant-fundi-9UP5X9q_Q6OVFzTwuyYIQA",
-      "description": "Sen. Van Hollen accuses OMB Director Russ Vought of violating the law by blocking funds Congress appropriated for NOAA research and operations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T02:23:54Z",
-      "sourceCount": "45 sources"
     },
     {
       "title": "Chinese tanker transits Strait of Hormuz despite new U.S. blockade on Iran",
@@ -136,12 +127,30 @@
       "sourceCount": "53 sources"
     },
     {
+      "title": "OMB withholds NOAA grant funding Congress approved",
+      "url": "https://www.perplexity.ai/page/omb-withholds-noaa-grant-fundi-9UP5X9q_Q6OVFzTwuyYIQA",
+      "description": "Sen. Van Hollen accuses OMB Director Russ Vought of violating the law by blocking funds Congress appropriated for NOAA research and operations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-14T02:23:54Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Carney's Liberals secure majority in Canadian by-elections",
       "url": "https://www.perplexity.ai/page/carney-s-liberals-secure-major-mbliVKBTTs6ZqqcFiGMz0Q",
       "description": "Three by-elections on Monday pushed the Liberal Party past the 172-seat threshold, giving Carney a free hand to govern until 2029.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-14T01:58:34Z",
+      "sourceCount": "48 sources"
+    },
+    {
+      "title": "Israeli airstrikes kill four in Gaza as Cairo talks stall",
+      "url": "https://www.perplexity.ai/page/israeli-airstrikes-kill-four-i-A95keBVmRc2olsdGWZS9VA",
+      "description": "Hamas says it won't discuss disarmament until Israel fully implements the October ceasefire, while Israel warns of renewed full-scale war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-14T00:13:45Z",
       "sourceCount": "48 sources"
     },
     {
@@ -152,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-04-14T01:27:42Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israeli airstrikes kill four in Gaza as Cairo talks stall",
-      "url": "https://www.perplexity.ai/page/israeli-airstrikes-kill-four-i-A95keBVmRc2olsdGWZS9VA",
-      "description": "Hamas says it won't discuss disarmament until Israel fully implements the October ceasefire, while Israel warns of renewed full-scale war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T00:13:45Z",
-      "sourceCount": "48 sources"
     },
     {
       "title": "Vance calls Trump's deleted Jesus image 'a joke,' tells Vatican to stay in its lane",
@@ -397,6 +397,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Iran lost track of its own mines in Hormuz, NYT reports",
+      "url": "https://www.perplexity.ai/page/iran-lost-track-of-its-own-min-ez1kiWPMQbuYwWUzwuOPQg",
+      "description": "Physical oil hit a record $144 per barrel as the strait remains largely impassable six weeks into the crisis, with mine clearance posing a major obstacle.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-12T11:04:18Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "AI data center boom keeps coal plants running, worsening US air quality",
       "url": "https://www.perplexity.ai/page/ai-data-center-boom-keeps-coal-BWCPH1OGQc6S9x6WC0.sKw",
       "description": "A Reuters investigation found St. Louis among the hardest-hit cities as regulatory rollbacks and surging power demand from AI undermine decades of clean-air progress.",
@@ -404,15 +413,6 @@
       "topic": "top",
       "pubDate": "2026-04-11T23:54:29Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "Artemis II crew gets hero's welcome in Houston",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
-      "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T22:04:27Z",
-      "sourceCount": "65 sources"
     },
     {
       "title": "FTC in settlement talks with ad giants over boycott probe",
@@ -433,13 +433,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
-      "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
+      "title": "Artemis II crew gets hero's welcome in Houston",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
+      "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-11T21:39:39Z",
-      "sourceCount": "48 sources"
+      "pubDate": "2026-04-11T22:04:27Z",
+      "sourceCount": "65 sources"
     },
     {
       "title": "Trump admits gas prices may rise before midterms",
@@ -451,6 +451,15 @@
       "sourceCount": "71 sources"
     },
     {
+      "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
+      "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-11T21:39:39Z",
+      "sourceCount": "48 sources"
+    },
+    {
       "title": "Altman ties Molotov cocktail attack to New Yorker expose",
       "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
       "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
@@ -460,22 +469,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
-      "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
-      "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
+      "title": "Brennan says 25th Amendment 'written with Trump in mind'",
+      "url": "https://www.perplexity.ai/page/brennan-says-25th-amendment-wr-YkdiY59BSpiAmESab1LKjQ",
+      "description": "More than 70 Democratic lawmakers have called for impeachment or the 25th Amendment after Trump threatened to annihilate Iranian civilization.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-11T19:18:37Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "UK shelves Chagos Islands handover after Trump opposition",
-      "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
-      "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T22:38:15Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-04-12T01:53:26Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "US launches mine clearance mission in Strait of Hormuz",
@@ -496,13 +496,22 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Brennan says 25th Amendment 'written with Trump in mind'",
-      "url": "https://www.perplexity.ai/page/brennan-says-25th-amendment-wr-YkdiY59BSpiAmESab1LKjQ",
-      "description": "More than 70 Democratic lawmakers have called for impeachment or the 25th Amendment after Trump threatened to annihilate Iranian civilization.",
+      "title": "UK shelves Chagos Islands handover after Trump opposition",
+      "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
+      "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-12T01:53:26Z",
-      "sourceCount": "41 sources"
+      "pubDate": "2026-04-11T22:38:15Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
+      "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
+      "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-11T19:18:37Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Iran's new supreme leader has 'severe and disfiguring wounds'",
@@ -1196,55 +1205,28 @@
       "topic": "top",
       "pubDate": "2026-04-08T12:34:37Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
-      "url": "https://www.perplexity.ai/page/u-s-rebuffs-ford-s-request-for-LU6F5b2lQYq.bqowThmxYg",
-      "description": "The denial comes as fires at a key Novelis plant have disrupted 40% of U.S. auto aluminum supply since September 2025, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T03:39:30Z",
-      "sourceCount": "58 sources"
-    },
-    {
-      "title": "Amsterdam researchers build metamaterials that learn to change shape",
-      "url": "https://www.perplexity.ai/page/amsterdam-researchers-build-me-oEa3uuaiRA.9AZMN_9pRBQ",
-      "description": "Worm-like synthetic materials can learn, forget, and relearn new shapes without a central processor, mimicking living systems.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T03:38:17Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "China helped push Iran to accept ceasefire, AP reports",
-      "url": "https://www.perplexity.ai/page/china-helped-push-iran-to-acce-7keZu.81RsyyYFDUYRa2Og",
-      "description": "Beijing urged Tehran to agree to the two-week truce brokered by Pakistan, as peace talks are set to begin Friday in Islamabad.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T03:27:15Z",
-      "sourceCount": "53 sources"
-    },
-    {
-      "title": "Judge preserves abortion pill mail access, warns FDA review can't wait",
-      "url": "https://www.perplexity.ai/page/judge-preserves-abortion-pill-3q1BkKO0Qb2LHtPgXaK96A",
-      "description": "A Louisiana federal judge declined to block mifepristone prescriptions by mail but signaled the state could eventually prevail.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T02:58:56Z",
-      "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-04-14T15:52:25Z",
+  "cached_at": "2026-04-14T17:04:57Z",
   "topics": {
     "top": [
       {
-        "title": "Pakistan pushes for new U.S.-Iran talks as port blockade enters second day",
-        "url": "https://www.perplexity.ai/page/pakistan-pushes-for-new-u-s-ir-LAc5GVZOQzqrAdGOtpC0kw",
-        "description": "The blockade took effect Monday after weekend peace negotiations in Islamabad collapsed, with oil prices easing Tuesday on hopes of resumed diplomacy.",
+        "title": "Oil dips as Iran war fuels historic shift to renewables",
+        "url": "https://www.perplexity.ai/page/oil-dips-as-iran-war-fuels-his-XmwkWQ9TS7mxn4bS21i06Q",
+        "description": "Brent crude fell below $100 Tuesday amid peace signals, but the seven-week conflict has accelerated a global pivot to clean energy.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-14T15:42:35Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-14T16:48:40Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Ships slip past US blockade of Iran despite CENTCOM's zero-breach claim",
+        "url": "https://www.perplexity.ai/page/ships-slip-past-us-blockade-of-jpaDULJtT_qHErU1FvOn5Q",
+        "description": "Maritime tracking firms reported at least four vessels transited the Strait of Hormuz from Iranian ports, contradicting CENTCOM's claim of no breaches.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-14T16:33:41Z",
+        "sourceCount": "51 sources"
       },
       {
         "title": "US wholesale prices rise 4% annually as Iran war fuels energy surge",
@@ -1328,15 +1310,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "US Hormuz blockade could cost Iran $435 million a day",
-        "url": "https://www.perplexity.ai/page/us-hormuz-blockade-could-cost-aby9TgGlRuqRoQX5vAg4mQ",
-        "description": "The naval blockade of Iranian ports took effect on Monday after peace talks in Islamabad collapsed over the weekend, with oil prices surging sharply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T08:51:45Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "OpenAI backers question $852B valuation amid strategy shifts",
         "url": "https://www.perplexity.ai/page/openai-backers-question-852b-v-WrCJXYkuQGy7axI7l6TqkA",
         "description": "Some investors told the Financial Times the company has redrawn its product roadmap twice in six months as it faces pressure from Anthropic and Google.",
@@ -1344,15 +1317,6 @@
         "topic": "top",
         "pubDate": "2026-04-14T08:34:01Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "OMB withholds NOAA grant funding Congress approved",
-        "url": "https://www.perplexity.ai/page/omb-withholds-noaa-grant-fundi-9UP5X9q_Q6OVFzTwuyYIQA",
-        "description": "Sen. Van Hollen accuses OMB Director Russ Vought of violating the law by blocking funds Congress appropriated for NOAA research and operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T02:23:54Z",
-        "sourceCount": "45 sources"
       },
       {
         "title": "Chinese tanker transits Strait of Hormuz despite new U.S. blockade on Iran",
@@ -1373,12 +1337,30 @@
         "sourceCount": "53 sources"
       },
       {
+        "title": "OMB withholds NOAA grant funding Congress approved",
+        "url": "https://www.perplexity.ai/page/omb-withholds-noaa-grant-fundi-9UP5X9q_Q6OVFzTwuyYIQA",
+        "description": "Sen. Van Hollen accuses OMB Director Russ Vought of violating the law by blocking funds Congress appropriated for NOAA research and operations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-14T02:23:54Z",
+        "sourceCount": "45 sources"
+      },
+      {
         "title": "Carney's Liberals secure majority in Canadian by-elections",
         "url": "https://www.perplexity.ai/page/carney-s-liberals-secure-major-mbliVKBTTs6ZqqcFiGMz0Q",
         "description": "Three by-elections on Monday pushed the Liberal Party past the 172-seat threshold, giving Carney a free hand to govern until 2029.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-14T01:58:34Z",
+        "sourceCount": "48 sources"
+      },
+      {
+        "title": "Israeli airstrikes kill four in Gaza as Cairo talks stall",
+        "url": "https://www.perplexity.ai/page/israeli-airstrikes-kill-four-i-A95keBVmRc2olsdGWZS9VA",
+        "description": "Hamas says it won't discuss disarmament until Israel fully implements the October ceasefire, while Israel warns of renewed full-scale war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-14T00:13:45Z",
         "sourceCount": "48 sources"
       },
       {
@@ -1389,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-04-14T01:27:42Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israeli airstrikes kill four in Gaza as Cairo talks stall",
-        "url": "https://www.perplexity.ai/page/israeli-airstrikes-kill-four-i-A95keBVmRc2olsdGWZS9VA",
-        "description": "Hamas says it won't discuss disarmament until Israel fully implements the October ceasefire, while Israel warns of renewed full-scale war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T00:13:45Z",
-        "sourceCount": "48 sources"
       },
       {
         "title": "Vance calls Trump's deleted Jesus image 'a joke,' tells Vatican to stay in its lane",
@@ -1634,6 +1607,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Iran lost track of its own mines in Hormuz, NYT reports",
+        "url": "https://www.perplexity.ai/page/iran-lost-track-of-its-own-min-ez1kiWPMQbuYwWUzwuOPQg",
+        "description": "Physical oil hit a record $144 per barrel as the strait remains largely impassable six weeks into the crisis, with mine clearance posing a major obstacle.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-12T11:04:18Z",
+        "sourceCount": "39 sources"
+      },
+      {
         "title": "AI data center boom keeps coal plants running, worsening US air quality",
         "url": "https://www.perplexity.ai/page/ai-data-center-boom-keeps-coal-BWCPH1OGQc6S9x6WC0.sKw",
         "description": "A Reuters investigation found St. Louis among the hardest-hit cities as regulatory rollbacks and surging power demand from AI undermine decades of clean-air progress.",
@@ -1641,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-04-11T23:54:29Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "Artemis II crew gets hero's welcome in Houston",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
-        "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T22:04:27Z",
-        "sourceCount": "65 sources"
       },
       {
         "title": "FTC in settlement talks with ad giants over boycott probe",
@@ -1670,13 +1643,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
-        "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
+        "title": "Artemis II crew gets hero's welcome in Houston",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
+        "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-11T21:39:39Z",
-        "sourceCount": "48 sources"
+        "pubDate": "2026-04-11T22:04:27Z",
+        "sourceCount": "65 sources"
       },
       {
         "title": "Trump admits gas prices may rise before midterms",
@@ -1688,6 +1661,15 @@
         "sourceCount": "71 sources"
       },
       {
+        "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
+        "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-11T21:39:39Z",
+        "sourceCount": "48 sources"
+      },
+      {
         "title": "Altman ties Molotov cocktail attack to New Yorker expose",
         "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
         "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
@@ -1697,22 +1679,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
-        "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
-        "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
+        "title": "Brennan says 25th Amendment 'written with Trump in mind'",
+        "url": "https://www.perplexity.ai/page/brennan-says-25th-amendment-wr-YkdiY59BSpiAmESab1LKjQ",
+        "description": "More than 70 Democratic lawmakers have called for impeachment or the 25th Amendment after Trump threatened to annihilate Iranian civilization.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-11T19:18:37Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "UK shelves Chagos Islands handover after Trump opposition",
-        "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
-        "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T22:38:15Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-04-12T01:53:26Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "US launches mine clearance mission in Strait of Hormuz",
@@ -1733,13 +1706,22 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Brennan says 25th Amendment 'written with Trump in mind'",
-        "url": "https://www.perplexity.ai/page/brennan-says-25th-amendment-wr-YkdiY59BSpiAmESab1LKjQ",
-        "description": "More than 70 Democratic lawmakers have called for impeachment or the 25th Amendment after Trump threatened to annihilate Iranian civilization.",
+        "title": "UK shelves Chagos Islands handover after Trump opposition",
+        "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
+        "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-12T01:53:26Z",
-        "sourceCount": "41 sources"
+        "pubDate": "2026-04-11T22:38:15Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
+        "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
+        "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-11T19:18:37Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Iran's new supreme leader has 'severe and disfiguring wounds'",
@@ -2433,42 +2415,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T12:34:37Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "U.S. rebuffs Ford's request for aluminum tariff relief",
-        "url": "https://www.perplexity.ai/page/u-s-rebuffs-ford-s-request-for-LU6F5b2lQYq.bqowThmxYg",
-        "description": "The denial comes as fires at a key Novelis plant have disrupted 40% of U.S. auto aluminum supply since September 2025, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T03:39:30Z",
-        "sourceCount": "58 sources"
-      },
-      {
-        "title": "Amsterdam researchers build metamaterials that learn to change shape",
-        "url": "https://www.perplexity.ai/page/amsterdam-researchers-build-me-oEa3uuaiRA.9AZMN_9pRBQ",
-        "description": "Worm-like synthetic materials can learn, forget, and relearn new shapes without a central processor, mimicking living systems.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T03:38:17Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "China helped push Iran to accept ceasefire, AP reports",
-        "url": "https://www.perplexity.ai/page/china-helped-push-iran-to-acce-7keZu.81RsyyYFDUYRa2Og",
-        "description": "Beijing urged Tehran to agree to the two-week truce brokered by Pakistan, as peace talks are set to begin Friday in Islamabad.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T03:27:15Z",
-        "sourceCount": "53 sources"
-      },
-      {
-        "title": "Judge preserves abortion pill mail access, warns FDA review can't wait",
-        "url": "https://www.perplexity.ai/page/judge-preserves-abortion-pill-3q1BkKO0Qb2LHtPgXaK96A",
-        "description": "A Louisiana federal judge declined to block mifepristone prescriptions by mail but signaled the state could eventually prevail.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T02:58:56Z",
-        "sourceCount": "21 sources"
       }
     ],
     "tech": [],
