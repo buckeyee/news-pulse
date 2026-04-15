@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IAEA chief warns North Korea rapidly expanding nuclear weapons capacity",
+      "url": "https://www.perplexity.ai/page/iaea-chief-warns-north-korea-r-7GBi._U0Qwan4k7cxuya8Q",
+      "description": "Rafael Grossi confirmed heightened activity across the Yongbyon complex and a probable new uranium enrichment facility during a visit to Seoul.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T07:38:24Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Satellite study finds urban methane emissions far exceed official estimates",
       "url": "https://www.perplexity.ai/page/satellite-study-finds-urban-me-IUnyG39NS3ui6rxLNAKQOw",
       "description": "Cities account for 10% of all human-caused methane, nearly four times the output of oil and gas \"ultra-emitters,\" according to new research.",
@@ -1268,47 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-04-08T22:32:47Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-      "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-      "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:18:33Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Jeff Shell fired as Paramount president after leak allegations",
-      "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-      "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:17:31Z",
-      "sourceCount": "62 sources"
-    },
-    {
-      "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
-      "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
-      "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:38:02Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Israel learned of Iran cease-fire deal at last minute",
-      "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
-      "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-08T16:16:03Z",
-      "sourceCount": "96 sources"
     }
   ],
-  "cached_at": "2026-04-15T07:25:41Z",
+  "cached_at": "2026-04-15T09:05:01Z",
   "topics": {
     "top": [
+      {
+        "title": "IAEA chief warns North Korea rapidly expanding nuclear weapons capacity",
+        "url": "https://www.perplexity.ai/page/iaea-chief-warns-north-korea-r-7GBi._U0Qwan4k7cxuya8Q",
+        "description": "Rafael Grossi confirmed heightened activity across the Yongbyon complex and a probable new uranium enrichment facility during a visit to Seoul.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T07:38:24Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Satellite study finds urban methane emissions far exceed official estimates",
         "url": "https://www.perplexity.ai/page/satellite-study-finds-urban-me-IUnyG39NS3ui6rxLNAKQOw",
@@ -2577,42 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-04-08T22:32:47Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-        "url": "https://www.perplexity.ai/page/meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-        "description": "The closed-source model now powers Meta AI in the U.S., with plans to expand across Instagram, WhatsApp, Facebook, and smart glasses.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:18:33Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Jeff Shell fired as Paramount president after leak allegations",
-        "url": "https://www.perplexity.ai/page/jeff-shell-fired-as-paramount-StQCKNV.RxGYet_NBquqFg",
-        "description": "Shell's ouster follows a $150 million lawsuit accusing him of leaking confidential deal information to a high-stakes gambler.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:17:31Z",
-        "sourceCount": "62 sources"
-      },
-      {
-        "title": "Pentagon says US ready to resume Iran combat if ceasefire falters",
-        "url": "https://www.perplexity.ai/page/pentagon-says-us-ready-to-resu-XXICxWSOSP.pwvXHiyLSkQ",
-        "description": "Defense Secretary Hegseth and Gen. Caine declared military victory but warned forces will \"restart at a moment's notice\" as Iranian strikes test the truce.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:38:02Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Israel learned of Iran cease-fire deal at last minute",
-        "url": "https://www.perplexity.ai/page/israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
-        "description": "Netanyahu was informed by Trump only moments before the two-week truce was announced, and Israel was not part of the negotiations, according to the Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-08T16:16:03Z",
-        "sourceCount": "96 sources"
       }
     ],
     "tech": [],
