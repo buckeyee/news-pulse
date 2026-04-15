@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Google rolls out Gemini Personal Intelligence globally, excluding Europe",
+      "url": "https://www.perplexity.ai/page/google-rolls-out-gemini-person-Qtodc6uiRACaKHtsbPVgFA",
+      "description": "The AI feature connects Gmail, Photos, and other Google apps to personalize responses, reaching paid subscribers outside the U.S. for the first time.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T05:17:16Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Pope Leo celebrates Mass at St. Augustine's basilica in Algeria",
+      "url": "https://www.perplexity.ai/page/pope-leo-celebrates-mass-at-st-KpQ71xjISniy4ijR7BdZMQ",
+      "description": "The first papal visit to Algeria included a pilgrimage to the ancient site where St. Augustine served as bishop and died in A.D. 430.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T04:02:46Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "White House eyes Erica Schwartz to lead the CDC",
       "url": "https://www.perplexity.ai/page/white-house-eyes-erica-schwart-aAA5mC2iTfaEqQ68KbSRAg",
       "description": "Schwartz, a former deputy surgeon general during Trump's first term, would be the third nominee for the role, which has lacked a permanent leader for months.",
@@ -181,15 +199,6 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Pope Leo XIV presses on in Algeria after twin suicide bombings rock first day of visit",
-      "url": "https://www.perplexity.ai/page/pope-leo-xiv-presses-on-in-alg-lWGngVE5S_WYn_2Ii9X5Kg",
-      "description": "Two attackers detonated explosives Monday in Blida, southwest of Algiers, killing themselves and wounding a police officer as the pope began his historic trip.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T14:35:53Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Greenpeace warns of 'catastrophic' collapse risk at Chernobyl",
       "url": "https://www.perplexity.ai/page/greenpeace-warns-of-catastroph-cgKuIex5TyeEYya5KY9NZg",
       "description": "A new report says the aging inner sarcophagus holds four tons of radioactive dust that could scatter if the unstable structure fails.",
@@ -197,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-04-14T11:51:32Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Bondi skips House Epstein deposition, faces contempt threat",
-      "url": "https://www.perplexity.ai/page/bondi-skips-house-epstein-depo-Uv27Dkz3SoCj9B8NIs.SRw",
-      "description": "Democrats vowed immediate contempt proceedings after the former attorney general defied a bipartisan subpoena to testify on Epstein records.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T16:38:33Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Italy suspends defense deal with Israel in reversal by Meloni",
@@ -217,6 +217,15 @@
       "sourceCount": "46 sources"
     },
     {
+      "title": "Bondi skips House Epstein deposition, faces contempt threat",
+      "url": "https://www.perplexity.ai/page/bondi-skips-house-epstein-depo-Uv27Dkz3SoCj9B8NIs.SRw",
+      "description": "Democrats vowed immediate contempt proceedings after the former attorney general defied a bipartisan subpoena to testify on Epstein records.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-14T16:38:33Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "IEA says global oil demand will fall as Iran war boosts China's clean-tech exports",
       "url": "https://www.perplexity.ai/page/iea-says-global-oil-demand-wil-HCpnAxGJR7e4CP_ZMyM8mA",
       "description": "China's dominance in solar, battery, and EV manufacturing positions it to gain as the energy crisis accelerates the shift away from fossil fuels worldwide.",
@@ -226,15 +235,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Appeals court kills contempt probe into Trump deportation flights",
-      "url": "https://www.perplexity.ai/page/appeals-court-kills-contempt-p-7g2NOU6YT1KE7d7WD8rSVw",
-      "description": "Two Trump-appointed judges called the year-long criminal contempt investigation into administration officials \"a clear abuse\" of judicial power.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T16:37:00Z",
-      "sourceCount": "82 sources"
-    },
-    {
       "title": "Von der Leyen calls for ending EU foreign policy vetoes after Orbán's defeat",
       "url": "https://www.perplexity.ai/page/von-der-leyen-calls-for-ending-hG.XJPD9T4.R8aTjgOTtvw",
       "description": "The European Commission president wants to replace unanimity with majority voting, seizing on Hungary's landmark election results.",
@@ -242,6 +242,15 @@
       "topic": "top",
       "pubDate": "2026-04-14T10:08:40Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Appeals court kills contempt probe into Trump deportation flights",
+      "url": "https://www.perplexity.ai/page/appeals-court-kills-contempt-p-7g2NOU6YT1KE7d7WD8rSVw",
+      "description": "Two Trump-appointed judges called the year-long criminal contempt investigation into administration officials \"a clear abuse\" of judicial power.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-14T16:37:00Z",
+      "sourceCount": "82 sources"
     },
     {
       "title": "Xi warns of world 'crumbling into disarray' as Spain PM seeks China's help on Iran",
@@ -1270,9 +1279,27 @@
       "sourceCount": "96 sources"
     }
   ],
-  "cached_at": "2026-04-15T03:41:59Z",
+  "cached_at": "2026-04-15T05:51:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Google rolls out Gemini Personal Intelligence globally, excluding Europe",
+        "url": "https://www.perplexity.ai/page/google-rolls-out-gemini-person-Qtodc6uiRACaKHtsbPVgFA",
+        "description": "The AI feature connects Gmail, Photos, and other Google apps to personalize responses, reaching paid subscribers outside the U.S. for the first time.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T05:17:16Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Pope Leo celebrates Mass at St. Augustine's basilica in Algeria",
+        "url": "https://www.perplexity.ai/page/pope-leo-celebrates-mass-at-st-KpQ71xjISniy4ijR7BdZMQ",
+        "description": "The first papal visit to Algeria included a pilgrimage to the ancient site where St. Augustine served as bishop and died in A.D. 430.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T04:02:46Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "White House eyes Erica Schwartz to lead the CDC",
         "url": "https://www.perplexity.ai/page/white-house-eyes-erica-schwart-aAA5mC2iTfaEqQ68KbSRAg",
@@ -1454,15 +1481,6 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Pope Leo XIV presses on in Algeria after twin suicide bombings rock first day of visit",
-        "url": "https://www.perplexity.ai/page/pope-leo-xiv-presses-on-in-alg-lWGngVE5S_WYn_2Ii9X5Kg",
-        "description": "Two attackers detonated explosives Monday in Blida, southwest of Algiers, killing themselves and wounding a police officer as the pope began his historic trip.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T14:35:53Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Greenpeace warns of 'catastrophic' collapse risk at Chernobyl",
         "url": "https://www.perplexity.ai/page/greenpeace-warns-of-catastroph-cgKuIex5TyeEYya5KY9NZg",
         "description": "A new report says the aging inner sarcophagus holds four tons of radioactive dust that could scatter if the unstable structure fails.",
@@ -1470,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-04-14T11:51:32Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Bondi skips House Epstein deposition, faces contempt threat",
-        "url": "https://www.perplexity.ai/page/bondi-skips-house-epstein-depo-Uv27Dkz3SoCj9B8NIs.SRw",
-        "description": "Democrats vowed immediate contempt proceedings after the former attorney general defied a bipartisan subpoena to testify on Epstein records.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T16:38:33Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Italy suspends defense deal with Israel in reversal by Meloni",
@@ -1490,6 +1499,15 @@
         "sourceCount": "46 sources"
       },
       {
+        "title": "Bondi skips House Epstein deposition, faces contempt threat",
+        "url": "https://www.perplexity.ai/page/bondi-skips-house-epstein-depo-Uv27Dkz3SoCj9B8NIs.SRw",
+        "description": "Democrats vowed immediate contempt proceedings after the former attorney general defied a bipartisan subpoena to testify on Epstein records.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-14T16:38:33Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "IEA says global oil demand will fall as Iran war boosts China's clean-tech exports",
         "url": "https://www.perplexity.ai/page/iea-says-global-oil-demand-wil-HCpnAxGJR7e4CP_ZMyM8mA",
         "description": "China's dominance in solar, battery, and EV manufacturing positions it to gain as the energy crisis accelerates the shift away from fossil fuels worldwide.",
@@ -1499,15 +1517,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Appeals court kills contempt probe into Trump deportation flights",
-        "url": "https://www.perplexity.ai/page/appeals-court-kills-contempt-p-7g2NOU6YT1KE7d7WD8rSVw",
-        "description": "Two Trump-appointed judges called the year-long criminal contempt investigation into administration officials \"a clear abuse\" of judicial power.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T16:37:00Z",
-        "sourceCount": "82 sources"
-      },
-      {
         "title": "Von der Leyen calls for ending EU foreign policy vetoes after Orbán's defeat",
         "url": "https://www.perplexity.ai/page/von-der-leyen-calls-for-ending-hG.XJPD9T4.R8aTjgOTtvw",
         "description": "The European Commission president wants to replace unanimity with majority voting, seizing on Hungary's landmark election results.",
@@ -1515,6 +1524,15 @@
         "topic": "top",
         "pubDate": "2026-04-14T10:08:40Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Appeals court kills contempt probe into Trump deportation flights",
+        "url": "https://www.perplexity.ai/page/appeals-court-kills-contempt-p-7g2NOU6YT1KE7d7WD8rSVw",
+        "description": "Two Trump-appointed judges called the year-long criminal contempt investigation into administration officials \"a clear abuse\" of judicial power.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-14T16:37:00Z",
+        "sourceCount": "82 sources"
       },
       {
         "title": "Xi warns of world 'crumbling into disarray' as Spain PM seeks China's help on Iran",
