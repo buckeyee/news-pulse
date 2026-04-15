@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Satellite study finds urban methane emissions far exceed official estimates",
+      "url": "https://www.perplexity.ai/page/satellite-study-finds-urban-me-IUnyG39NS3ui6rxLNAKQOw",
+      "description": "Cities account for 10% of all human-caused methane, nearly four times the output of oil and gas \"ultra-emitters,\" according to new research.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T06:46:14Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Sperm whale clicks contain vowel-like sounds, new study finds",
+      "url": "https://www.perplexity.ai/page/sperm-whale-clicks-contain-vow-PLAlemKVTRibJVK.1Hek5A",
+      "description": "Researchers say the cetaceans produce two distinct vowel patterns and show signs of coarticulation, a hallmark of human speech.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T05:48:11Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Google rolls out Gemini Personal Intelligence globally, excluding Europe",
       "url": "https://www.perplexity.ai/page/google-rolls-out-gemini-person-Qtodc6uiRACaKHtsbPVgFA",
       "description": "The AI feature connects Gmail, Photos, and other Google apps to personalize responses, reaching paid subscribers outside the U.S. for the first time.",
@@ -1054,6 +1072,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
+      "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
+      "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-09T12:55:57Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "UK forces Russian submarines to retreat from undersea cables",
       "url": "https://www.perplexity.ai/page/uk-forces-russian-submarines-t-OhitwtziQ5qi4PYNyF.8dg",
       "description": "Britain and Norway tracked three Russian submarines near critical underwater infrastructure for over a month, forcing all vessels to withdraw.",
@@ -1279,9 +1306,27 @@
       "sourceCount": "96 sources"
     }
   ],
-  "cached_at": "2026-04-15T05:51:35Z",
+  "cached_at": "2026-04-15T07:25:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Satellite study finds urban methane emissions far exceed official estimates",
+        "url": "https://www.perplexity.ai/page/satellite-study-finds-urban-me-IUnyG39NS3ui6rxLNAKQOw",
+        "description": "Cities account for 10% of all human-caused methane, nearly four times the output of oil and gas \"ultra-emitters,\" according to new research.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T06:46:14Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Sperm whale clicks contain vowel-like sounds, new study finds",
+        "url": "https://www.perplexity.ai/page/sperm-whale-clicks-contain-vow-PLAlemKVTRibJVK.1Hek5A",
+        "description": "Researchers say the cetaceans produce two distinct vowel patterns and show signs of coarticulation, a hallmark of human speech.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T05:48:11Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Google rolls out Gemini Personal Intelligence globally, excluding Europe",
         "url": "https://www.perplexity.ai/page/google-rolls-out-gemini-person-Qtodc6uiRACaKHtsbPVgFA",
@@ -2334,6 +2379,15 @@
         "topic": "top",
         "pubDate": "2026-04-09T12:56:15Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "UK Foreign Secretary Cooper demands toll-free Strait of Hormuz passage",
+        "url": "https://www.perplexity.ai/page/uk-foreign-secretary-cooper-de-gt8Y9zR4TVqUkgLpKaQdBA",
+        "description": "Foreign Secretary Yvette Cooper is pushing back against both Iran's blockade and Trump's proposed toll system for the critical waterway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-09T12:55:57Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "UK forces Russian submarines to retreat from undersea cables",
