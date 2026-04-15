@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "IDF chief approves new battle plans for Iran and Lebanon",
+      "url": "https://www.perplexity.ai/page/idf-chief-approves-new-battle-kwhXfji0Qoi7RfqLdt0QDw",
+      "description": "Lt. Gen. Eyal Zamir declared forces at \"very high readiness\" during a visit to southern Lebanon, saying targets are loaded for immediate strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T21:06:24Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Artemis II crew returns to Houston after historic moon mission",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-returns-to-hou-R6NqKG9YTFWiFLsIQo0Gqw",
+      "description": "The four astronauts are back at Johnson Space Center as NASA reviews heat shield data and faces proposed budget cuts of nearly 23%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-15T20:27:24Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Newsom faces pressure to pick a Democrat in scrambled California governor's race",
       "url": "https://www.perplexity.ai/page/newsom-faces-pressure-to-pick-X0z7Vn65SGWxhxJtDqSIYg",
       "description": "Democrats are urging the governor to endorse before the June 2 primary to prevent two Republicans from locking the party out of the general election.",
@@ -136,13 +154,13 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "Chinese tanker defies US blockade as Trump preps for Xi summit",
-      "url": "https://www.perplexity.ai/page/chinese-tanker-defies-us-block-aA39EapTQ7SJ1iHkT2_XFg",
-      "description": "Trump met with his ambassador to China on Tuesday as a sanctioned Chinese vessel breached the Iran port blockade, deepening tensions ahead of the May summit.",
+      "title": "Chinese tanker turned back at Hormuz as US blockade holds",
+      "url": "https://www.perplexity.ai/page/chinese-tanker-turned-back-at-3y8nS9FrS_uvlV6TbEuxRg",
+      "description": "The Rich Starry's reversal on Wednesday marks the first major test of Trump's naval blockade, which is intensifying tensions with Beijing.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-15T10:58:56Z",
-      "sourceCount": "41 sources"
+      "pubDate": "2026-04-15T10:34:03Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Thune says Senate GOP ready to confirm Alito replacement",
@@ -631,13 +649,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Artemis II crew gets hero's welcome in Houston",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
-      "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
+      "title": "Altman ties Molotov cocktail attack to New Yorker expose",
+      "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
+      "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-11T22:04:27Z",
-      "sourceCount": "65 sources"
+      "pubDate": "2026-04-11T19:43:12Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Brennan says 25th Amendment 'written with Trump in mind'",
@@ -674,15 +692,6 @@
       "topic": "top",
       "pubDate": "2026-04-11T22:38:15Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Altman ties Molotov cocktail attack to New Yorker expose",
-      "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
-      "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T19:43:12Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
@@ -1126,9 +1135,27 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-15T20:27:06Z",
+  "cached_at": "2026-04-15T21:29:53Z",
   "topics": {
     "top": [
+      {
+        "title": "IDF chief approves new battle plans for Iran and Lebanon",
+        "url": "https://www.perplexity.ai/page/idf-chief-approves-new-battle-kwhXfji0Qoi7RfqLdt0QDw",
+        "description": "Lt. Gen. Eyal Zamir declared forces at \"very high readiness\" during a visit to southern Lebanon, saying targets are loaded for immediate strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T21:06:24Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Artemis II crew returns to Houston after historic moon mission",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-returns-to-hou-R6NqKG9YTFWiFLsIQo0Gqw",
+        "description": "The four astronauts are back at Johnson Space Center as NASA reviews heat shield data and faces proposed budget cuts of nearly 23%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-15T20:27:24Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Newsom faces pressure to pick a Democrat in scrambled California governor's race",
         "url": "https://www.perplexity.ai/page/newsom-faces-pressure-to-pick-X0z7Vn65SGWxhxJtDqSIYg",
@@ -1265,13 +1292,13 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "Chinese tanker defies US blockade as Trump preps for Xi summit",
-        "url": "https://www.perplexity.ai/page/chinese-tanker-defies-us-block-aA39EapTQ7SJ1iHkT2_XFg",
-        "description": "Trump met with his ambassador to China on Tuesday as a sanctioned Chinese vessel breached the Iran port blockade, deepening tensions ahead of the May summit.",
+        "title": "Chinese tanker turned back at Hormuz as US blockade holds",
+        "url": "https://www.perplexity.ai/page/chinese-tanker-turned-back-at-3y8nS9FrS_uvlV6TbEuxRg",
+        "description": "The Rich Starry's reversal on Wednesday marks the first major test of Trump's naval blockade, which is intensifying tensions with Beijing.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-15T10:58:56Z",
-        "sourceCount": "41 sources"
+        "pubDate": "2026-04-15T10:34:03Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Thune says Senate GOP ready to confirm Alito replacement",
@@ -1760,13 +1787,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Artemis II crew gets hero's welcome in Houston",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-gets-hero-s-we-L.Q2PkL6ScqWRhYksjmAiQ",
-        "description": "The four astronauts reunited with their families Saturday after splashing down Friday, capping a record-breaking 10-day voyage around the Moon.",
+        "title": "Altman ties Molotov cocktail attack to New Yorker expose",
+        "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
+        "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-11T22:04:27Z",
-        "sourceCount": "65 sources"
+        "pubDate": "2026-04-11T19:43:12Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Brennan says 25th Amendment 'written with Trump in mind'",
@@ -1803,15 +1830,6 @@
         "topic": "top",
         "pubDate": "2026-04-11T22:38:15Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Altman ties Molotov cocktail attack to New Yorker expose",
-        "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
-        "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T19:43:12Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
