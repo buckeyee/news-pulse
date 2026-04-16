@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Scientists measure a black hole's jet power for the first time",
+      "url": "https://www.perplexity.ai/page/scientists-measure-a-black-hol-Z7I5A3tDRbCM9PwCcezcfg",
+      "description": "Researchers found jets from Cygnus X-1 carry energy equal to 10,000 suns, confirming a key assumption in models of cosmic evolution.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-16T09:54:43Z",
+      "sourceCount": "48 sources"
+    },
+    {
+      "title": "Beijing rejects US sanctions threat over Iranian oil",
+      "url": "https://www.perplexity.ai/page/beijing-rejects-us-sanctions-t-4SmLAmZ3ROuuSEYGJ0KR0A",
+      "description": "China condemned Washington's warnings to its banks as \"illegal\" after the US tightened its economic squeeze on Iran alongside a full naval blockade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-16T08:50:33Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Musk's Terafab team contacts chip suppliers for quotes, Bloomberg reports",
       "url": "https://www.perplexity.ai/page/musk-s-terafab-team-contacts-c-Zw9iLxiIQE6Ezhn0HWSUtA",
       "description": "Staff from the Tesla-SpaceX joint venture sought pricing and delivery timelines from major semiconductor equipment makers, pushing to begin production by 2029.",
@@ -1151,47 +1169,29 @@
       "topic": "top",
       "pubDate": "2026-04-09T23:13:19Z",
       "sourceCount": "71 sources"
-    },
-    {
-      "title": "US fertility rate fell to record low in 2025, CDC reports",
-      "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
-      "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T16:05:44Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "DOJ opens antitrust investigation into NFL over streaming practices over streaming push",
-      "url": "https://www.perplexity.ai/page/doj-opens-antitrust-investigat-hFtSKjdKQFOD0O6Roysk0Q",
-      "description": "The probe examines whether the league's shift of games to streaming platforms harms consumers and violates its broadcast exemption.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T15:43:02Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "White House confirms Cuba talks continuing 'at the highest level'",
-      "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
-      "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T21:27:58Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "PCE inflation holds at 2.8% in February as jobless claims jump",
-      "url": "https://www.perplexity.ai/page/pce-inflation-holds-at-2-8-in-Z_zL7tXfRFqHC7Y40YJOqw",
-      "description": "The Fed's preferred inflation gauge stayed unchanged in February while weekly unemployment filings rose more than expected, signaling a mixed economic outlook.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-09T15:31:18Z",
-      "sourceCount": "46 sources"
     }
   ],
-  "cached_at": "2026-04-16T09:05:46Z",
+  "cached_at": "2026-04-16T10:39:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Scientists measure a black hole's jet power for the first time",
+        "url": "https://www.perplexity.ai/page/scientists-measure-a-black-hol-Z7I5A3tDRbCM9PwCcezcfg",
+        "description": "Researchers found jets from Cygnus X-1 carry energy equal to 10,000 suns, confirming a key assumption in models of cosmic evolution.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-16T09:54:43Z",
+        "sourceCount": "48 sources"
+      },
+      {
+        "title": "Beijing rejects US sanctions threat over Iranian oil",
+        "url": "https://www.perplexity.ai/page/beijing-rejects-us-sanctions-t-4SmLAmZ3ROuuSEYGJ0KR0A",
+        "description": "China condemned Washington's warnings to its banks as \"illegal\" after the US tightened its economic squeeze on Iran alongside a full naval blockade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-16T08:50:33Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Musk's Terafab team contacts chip suppliers for quotes, Bloomberg reports",
         "url": "https://www.perplexity.ai/page/musk-s-terafab-team-contacts-c-Zw9iLxiIQE6Ezhn0HWSUtA",
@@ -2343,42 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-04-09T23:13:19Z",
         "sourceCount": "71 sources"
-      },
-      {
-        "title": "US fertility rate fell to record low in 2025, CDC reports",
-        "url": "https://www.perplexity.ai/page/us-fertility-rate-fell-to-reco-IxwNUt8BSYCbu0uK8_JxOA",
-        "description": "The lifetime fertility rate dropped to 1.57 births per woman, well below the 2.1 replacement level, despite pro-natalist policy efforts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T16:05:44Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "DOJ opens antitrust investigation into NFL over streaming practices over streaming push",
-        "url": "https://www.perplexity.ai/page/doj-opens-antitrust-investigat-hFtSKjdKQFOD0O6Roysk0Q",
-        "description": "The probe examines whether the league's shift of games to streaming platforms harms consumers and violates its broadcast exemption.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T15:43:02Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "White House confirms Cuba talks continuing 'at the highest level'",
-        "url": "https://www.perplexity.ai/page/white-house-confirms-cuba-talk-CHbTXTLIQmiKKhC8l3Undg",
-        "description": "Press secretary Karoline Leavitt said discussions are ongoing but announced no policy changes, as Díaz-Canel calls talks \"difficult.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T21:27:58Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "PCE inflation holds at 2.8% in February as jobless claims jump",
-        "url": "https://www.perplexity.ai/page/pce-inflation-holds-at-2-8-in-Z_zL7tXfRFqHC7Y40YJOqw",
-        "description": "The Fed's preferred inflation gauge stayed unchanged in February while weekly unemployment filings rose more than expected, signaling a mixed economic outlook.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-09T15:31:18Z",
-        "sourceCount": "46 sources"
       }
     ],
     "tech": [],
