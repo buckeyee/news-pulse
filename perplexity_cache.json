@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Oil plunges as Iran opens Strait of Hormuz to shipping",
+      "url": "https://www.perplexity.ai/page/oil-plunges-as-iran-opens-stra-zG6Kcq86QvOiWn7pS8Mgzg",
+      "description": "Iran's foreign minister declared the vital waterway open to all commercial vessels during the Israel-Lebanon ceasefire, sending crude to five-week lows.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T14:08:20Z",
+      "sourceCount": "54 sources"
+    },
+    {
+      "title": "Data center industry scrambles as backlash threatens trillions in projects",
+      "url": "https://www.perplexity.ai/page/data-center-industry-scrambles-ebtGGVnlQ46xIaDOpYGYsA",
+      "description": "Industry executives worry a coordinated response is lacking as communities block projects and states reconsider billions in tax breaks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T14:03:35Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Pope Leo XIV draws massive crowd at Douala Mass",
       "url": "https://www.perplexity.ai/page/pope-leo-xiv-draws-massive-cro-C5G_GagaSWSFB4L7UVMILA",
       "description": "The pope challenged corruption and urged youth to reject violence during the largest gathering of his 11-day African tour.",
@@ -19,15 +37,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Iran declares Strait of Hormuz open to all ships during ceasefire",
-      "url": "https://www.perplexity.ai/page/iran-declares-strait-of-hormuz-FNDR.CXSSj2JiUiZJAlGDA",
-      "description": "Foreign Minister Araghchi linked the move to the Israel-Lebanon truce, marking the first unrestricted passage offer since the war began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T13:06:06Z",
-      "sourceCount": "81 sources"
-    },
-    {
       "title": "Anthropic CEO meets White House amid Mythos access push",
       "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
       "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-17T12:28:07Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "European markets tread water ahead of weekend US-Iran talks",
-      "url": "https://www.perplexity.ai/page/european-markets-tread-water-a-sIHRsNjTTgSJsoP42hakdQ",
-      "description": "The STOXX 600 held near flat Friday but is on track for a fourth straight weekly gain as investors eye a possible ceasefire extension.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T11:49:40Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "US delays weapons deliveries to European allies as Iran war strains stockpiles",
@@ -55,6 +55,15 @@
       "sourceCount": "26 sources"
     },
     {
+      "title": "Researchers produce hydrogen from alcohol using iron and UV light",
+      "url": "https://www.perplexity.ai/page/researchers-produce-hydrogen-f-.798UDLSS92wz4zW9FSsdA",
+      "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T11:40:44Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "Trump offers fired FEMA chief Hamilton permanent role",
       "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
       "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-04-17T12:13:24Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Kyushu researchers produce hydrogen from alcohol using iron and UV light",
-      "url": "https://www.perplexity.ai/page/kyushu-researchers-produce-hyd-.798UDLSS92wz4zW9FSsdA",
-      "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T11:40:44Z",
-      "sourceCount": "13 sources"
     },
     {
       "title": "Thousands of displaced Lebanese head south as ceasefire takes hold",
@@ -82,24 +82,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
-      "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T11:36:04Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Strait of Hormuz sees more ships despite US blockade",
-      "url": "https://www.perplexity.ai/page/strait-of-hormuz-sees-more-shi-.cac.1huRJK3gvbRhPtdJA",
-      "description": "Vessel traffic through the vital waterway rose to over 20 crossings in a day, though it remains far below the pre-war average of 100.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T10:31:25Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
       "url": "https://www.perplexity.ai/page/asian-stocks-near-pre-war-leve-5VOnMshbTP6q_uRdv99iaA",
       "description": "Markets are set for a second straight weekly gain as investors price in a likely extension of the U.S.-Iran ceasefire expiring April 22.",
@@ -109,12 +91,12 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Iran war drives nuclear power surge across Asia and Africa",
-      "url": "https://www.perplexity.ai/page/iran-war-drives-nuclear-power-oyY4Y6tbQYC9HeZ23cfW2Q",
-      "description": "Nations are racing to boost reactor output and fast-track atomic energy plans as the conflict's energy shock disrupts global oil and gas supplies.",
+      "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
+      "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-17T09:19:04Z",
+      "pubDate": "2026-04-17T11:36:04Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1214,38 +1196,29 @@
       "topic": "top",
       "pubDate": "2026-04-10T17:33:20Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Massachusetts high court rules Meta must face youth addiction suit",
-      "url": "https://www.perplexity.ai/page/massachusetts-high-court-rules-Yb7rjMqOQAGwuKrhjdKeMw",
-      "description": "The first state supreme court to weigh Section 230's reach found the law does not shield Meta from claims its platform design harmed minors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T15:23:31Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "Hezbollah vows to fight 'until last breath' ahead of Israel-Lebanon talks",
-      "url": "https://www.perplexity.ai/page/hezbollah-vows-to-fight-until-i9v3wJtsS.aCE6GISJ5Vig",
-      "description": "Secretary-General Naim Qassem warned Lebanese officials against \"free concessions\" as Washington prepares to host direct negotiations next week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T14:59:02Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "Trump's Board of Peace receives fraction of $17B pledged for Gaza",
-      "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-receive-DjxD3PI8Rw.bQMP_9CZy3Q",
-      "description": "Only 3 of 10 countries that pledged funds have contributed, with the Iran war compounding donor reluctance, sources told Reuters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-10T18:28:26Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-17T14:08:00Z",
+  "cached_at": "2026-04-17T15:15:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil plunges as Iran opens Strait of Hormuz to shipping",
+        "url": "https://www.perplexity.ai/page/oil-plunges-as-iran-opens-stra-zG6Kcq86QvOiWn7pS8Mgzg",
+        "description": "Iran's foreign minister declared the vital waterway open to all commercial vessels during the Israel-Lebanon ceasefire, sending crude to five-week lows.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T14:08:20Z",
+        "sourceCount": "54 sources"
+      },
+      {
+        "title": "Data center industry scrambles as backlash threatens trillions in projects",
+        "url": "https://www.perplexity.ai/page/data-center-industry-scrambles-ebtGGVnlQ46xIaDOpYGYsA",
+        "description": "Industry executives worry a coordinated response is lacking as communities block projects and states reconsider billions in tax breaks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T14:03:35Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Pope Leo XIV draws massive crowd at Douala Mass",
         "url": "https://www.perplexity.ai/page/pope-leo-xiv-draws-massive-cro-C5G_GagaSWSFB4L7UVMILA",
@@ -1265,15 +1238,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Iran declares Strait of Hormuz open to all ships during ceasefire",
-        "url": "https://www.perplexity.ai/page/iran-declares-strait-of-hormuz-FNDR.CXSSj2JiUiZJAlGDA",
-        "description": "Foreign Minister Araghchi linked the move to the Israel-Lebanon truce, marking the first unrestricted passage offer since the war began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T13:06:06Z",
-        "sourceCount": "81 sources"
-      },
-      {
         "title": "Anthropic CEO meets White House amid Mythos access push",
         "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
         "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
@@ -1281,15 +1245,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T12:28:07Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "European markets tread water ahead of weekend US-Iran talks",
-        "url": "https://www.perplexity.ai/page/european-markets-tread-water-a-sIHRsNjTTgSJsoP42hakdQ",
-        "description": "The STOXX 600 held near flat Friday but is on track for a fourth straight weekly gain as investors eye a possible ceasefire extension.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T11:49:40Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "US delays weapons deliveries to European allies as Iran war strains stockpiles",
@@ -1301,6 +1256,15 @@
         "sourceCount": "26 sources"
       },
       {
+        "title": "Researchers produce hydrogen from alcohol using iron and UV light",
+        "url": "https://www.perplexity.ai/page/researchers-produce-hydrogen-f-.798UDLSS92wz4zW9FSsdA",
+        "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T11:40:44Z",
+        "sourceCount": "13 sources"
+      },
+      {
         "title": "Trump offers fired FEMA chief Hamilton permanent role",
         "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
         "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
@@ -1308,15 +1272,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T12:13:24Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Kyushu researchers produce hydrogen from alcohol using iron and UV light",
-        "url": "https://www.perplexity.ai/page/kyushu-researchers-produce-hyd-.798UDLSS92wz4zW9FSsdA",
-        "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T11:40:44Z",
-        "sourceCount": "13 sources"
       },
       {
         "title": "Thousands of displaced Lebanese head south as ceasefire takes hold",
@@ -1328,24 +1283,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
-        "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T11:36:04Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Strait of Hormuz sees more ships despite US blockade",
-        "url": "https://www.perplexity.ai/page/strait-of-hormuz-sees-more-shi-.cac.1huRJK3gvbRhPtdJA",
-        "description": "Vessel traffic through the vital waterway rose to over 20 crossings in a day, though it remains far below the pre-war average of 100.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T10:31:25Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
         "url": "https://www.perplexity.ai/page/asian-stocks-near-pre-war-leve-5VOnMshbTP6q_uRdv99iaA",
         "description": "Markets are set for a second straight weekly gain as investors price in a likely extension of the U.S.-Iran ceasefire expiring April 22.",
@@ -1355,12 +1292,12 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Iran war drives nuclear power surge across Asia and Africa",
-        "url": "https://www.perplexity.ai/page/iran-war-drives-nuclear-power-oyY4Y6tbQYC9HeZ23cfW2Q",
-        "description": "Nations are racing to boost reactor output and fast-track atomic energy plans as the conflict's energy shock disrupts global oil and gas supplies.",
+        "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
+        "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-17T09:19:04Z",
+        "pubDate": "2026-04-17T11:36:04Z",
         "sourceCount": "30 sources"
       },
       {
@@ -2460,33 +2397,6 @@
         "topic": "top",
         "pubDate": "2026-04-10T17:33:20Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Massachusetts high court rules Meta must face youth addiction suit",
-        "url": "https://www.perplexity.ai/page/massachusetts-high-court-rules-Yb7rjMqOQAGwuKrhjdKeMw",
-        "description": "The first state supreme court to weigh Section 230's reach found the law does not shield Meta from claims its platform design harmed minors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T15:23:31Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "Hezbollah vows to fight 'until last breath' ahead of Israel-Lebanon talks",
-        "url": "https://www.perplexity.ai/page/hezbollah-vows-to-fight-until-i9v3wJtsS.aCE6GISJ5Vig",
-        "description": "Secretary-General Naim Qassem warned Lebanese officials against \"free concessions\" as Washington prepares to host direct negotiations next week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T14:59:02Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "Trump's Board of Peace receives fraction of $17B pledged for Gaza",
-        "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-receive-DjxD3PI8Rw.bQMP_9CZy3Q",
-        "description": "Only 3 of 10 countries that pledged funds have contributed, with the Iran war compounding donor reluctance, sources told Reuters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-10T18:28:26Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
