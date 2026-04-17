@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
+      "url": "https://www.perplexity.ai/page/asian-stocks-near-pre-war-leve-5VOnMshbTP6q_uRdv99iaA",
+      "description": "Markets are set for a second straight weekly gain as investors price in a likely extension of the U.S.-Iran ceasefire expiring April 22.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T09:34:25Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran war drives nuclear power surge across Asia and Africa",
+      "url": "https://www.perplexity.ai/page/iran-war-drives-nuclear-power-oyY4Y6tbQYC9HeZ23cfW2Q",
+      "description": "Nations are racing to boost reactor output and fast-track atomic energy plans as the conflict's energy shock disrupts global oil and gas supplies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T09:19:04Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Starmer and Macron host 40-nation summit on reopening Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/starmer-and-macron-host-40-nat-0plenxfYRj2w4Ltxjb0wNg",
       "description": "Around 40 countries are gathering in Paris to plan a multinational mission to restore shipping through the strait, where traffic has dropped roughly 95%.",
@@ -1198,9 +1216,27 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-17T08:56:36Z",
+  "cached_at": "2026-04-17T10:20:27Z",
   "topics": {
     "top": [
+      {
+        "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
+        "url": "https://www.perplexity.ai/page/asian-stocks-near-pre-war-leve-5VOnMshbTP6q_uRdv99iaA",
+        "description": "Markets are set for a second straight weekly gain as investors price in a likely extension of the U.S.-Iran ceasefire expiring April 22.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T09:34:25Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran war drives nuclear power surge across Asia and Africa",
+        "url": "https://www.perplexity.ai/page/iran-war-drives-nuclear-power-oyY4Y6tbQYC9HeZ23cfW2Q",
+        "description": "Nations are racing to boost reactor output and fast-track atomic energy plans as the conflict's energy shock disrupts global oil and gas supplies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T09:19:04Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Starmer and Macron host 40-nation summit on reopening Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/starmer-and-macron-host-40-nat-0plenxfYRj2w4Ltxjb0wNg",
