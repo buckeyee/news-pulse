@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump says US will recover enriched uranium from Iran",
-      "url": "https://www.perplexity.ai/page/trump-says-us-will-recover-enr-wNjCV.r2SaCmKar3spp64g",
-      "description": "The president told Reuters the effort would begin \"very soon,\" adding that a broader peace deal could be finalized over the weekend.",
+      "title": "UNICEF reports 172 children killed as Lebanon ceasefire takes effect",
+      "url": "https://www.perplexity.ai/page/unicef-reports-172-children-ki-xiJLLWVoRVmxWAHA0iF9jw",
+      "description": "The U.S.-brokered 10-day truce began at midnight local time on April 17 after 46 days of fighting that killed over 2,100 people.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-17T20:21:57Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-04-17T21:56:39Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Iran denies agreeing to hand enriched uranium to US",
+      "url": "https://www.perplexity.ai/page/iran-denies-agreeing-to-hand-e-0eu8ThybS6.3e70aoi1Ccg",
+      "description": "Tehran's Foreign Ministry said the transfer of nuclear material \"has never been raised in negotiations,\" directly contradicting Trump's claim of a breakthrough.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T21:43:57Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "RFK Jr. calls Danish Tylenol-autism study 'garbage' at House hearing",
@@ -82,6 +91,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
+      "url": "https://www.perplexity.ai/page/trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
+      "description": "The declaration came as a 10-day ceasefire entered its first full day Friday, following six weeks of conflict that killed over 2,000 people.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T15:12:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "IATA warns Europe could see flight cancellations by late May amid jet fuel shortage",
       "url": "https://www.perplexity.ai/page/iata-warns-europe-could-see-fl-._As.lttTW..q0xvk1GVkQ",
       "description": "The airline body's director general said the Strait of Hormuz blockade is draining Europe's fuel reserves, with some countries down to fewer than 20 days of supply.",
@@ -89,15 +107,6 @@
       "topic": "top",
       "pubDate": "2026-04-17T13:12:45Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Anthropic CEO meets White House amid Mythos access push",
-      "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
-      "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T12:28:07Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "US delays weapons deliveries to European allies as Iran war strains stockpiles",
@@ -109,6 +118,15 @@
       "sourceCount": "26 sources"
     },
     {
+      "title": "Anthropic CEO meets White House amid Mythos access push",
+      "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
+      "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T12:28:07Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Researchers produce hydrogen from alcohol using iron and UV light",
       "url": "https://www.perplexity.ai/page/researchers-produce-hydrogen-f-.798UDLSS92wz4zW9FSsdA",
       "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
@@ -118,15 +136,6 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Trump offers fired FEMA chief Hamilton permanent role",
-      "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
-      "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T12:13:24Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Thousands of displaced Lebanese head south as ceasefire takes hold",
       "url": "https://www.perplexity.ai/page/thousands-of-displaced-lebanes-qEoggtAuScS3MUDWNOMN5Q",
       "description": "A 10-day U.S.-mediated truce between Israel and Hezbollah took effect at midnight, pausing a conflict that killed over 2,100 and displaced more than a million.",
@@ -134,6 +143,15 @@
       "topic": "top",
       "pubDate": "2026-04-17T11:16:33Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Trump offers fired FEMA chief Hamilton permanent role",
+      "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
+      "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T12:13:24Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
@@ -1126,17 +1144,26 @@
       "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-04-17T21:09:37Z",
+  "cached_at": "2026-04-17T22:01:53Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says US will recover enriched uranium from Iran",
-        "url": "https://www.perplexity.ai/page/trump-says-us-will-recover-enr-wNjCV.r2SaCmKar3spp64g",
-        "description": "The president told Reuters the effort would begin \"very soon,\" adding that a broader peace deal could be finalized over the weekend.",
+        "title": "UNICEF reports 172 children killed as Lebanon ceasefire takes effect",
+        "url": "https://www.perplexity.ai/page/unicef-reports-172-children-ki-xiJLLWVoRVmxWAHA0iF9jw",
+        "description": "The U.S.-brokered 10-day truce began at midnight local time on April 17 after 46 days of fighting that killed over 2,100 people.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-17T20:21:57Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-04-17T21:56:39Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Iran denies agreeing to hand enriched uranium to US",
+        "url": "https://www.perplexity.ai/page/iran-denies-agreeing-to-hand-e-0eu8ThybS6.3e70aoi1Ccg",
+        "description": "Tehran's Foreign Ministry said the transfer of nuclear material \"has never been raised in negotiations,\" directly contradicting Trump's claim of a breakthrough.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T21:43:57Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "RFK Jr. calls Danish Tylenol-autism study 'garbage' at House hearing",
@@ -1211,6 +1238,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
+        "url": "https://www.perplexity.ai/page/trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
+        "description": "The declaration came as a 10-day ceasefire entered its first full day Friday, following six weeks of conflict that killed over 2,000 people.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T15:12:53Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "IATA warns Europe could see flight cancellations by late May amid jet fuel shortage",
         "url": "https://www.perplexity.ai/page/iata-warns-europe-could-see-fl-._As.lttTW..q0xvk1GVkQ",
         "description": "The airline body's director general said the Strait of Hormuz blockade is draining Europe's fuel reserves, with some countries down to fewer than 20 days of supply.",
@@ -1218,15 +1254,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T13:12:45Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Anthropic CEO meets White House amid Mythos access push",
-        "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
-        "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T12:28:07Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "US delays weapons deliveries to European allies as Iran war strains stockpiles",
@@ -1238,6 +1265,15 @@
         "sourceCount": "26 sources"
       },
       {
+        "title": "Anthropic CEO meets White House amid Mythos access push",
+        "url": "https://www.perplexity.ai/page/anthropic-ceo-meets-white-hous-aWG9kvx1S0i6wCSKOtZShw",
+        "description": "Dario Amodei is scheduled to meet chief of staff Susie Wiles on Friday as OMB prepares to give federal agencies access to the powerful AI model.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T12:28:07Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "Researchers produce hydrogen from alcohol using iron and UV light",
         "url": "https://www.perplexity.ai/page/researchers-produce-hydrogen-f-.798UDLSS92wz4zW9FSsdA",
         "description": "A control experiment that was expected to fail led to a simple method rivaling the performance of expensive catalysts.",
@@ -1247,15 +1283,6 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Trump offers fired FEMA chief Hamilton permanent role",
-        "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
-        "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T12:13:24Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Thousands of displaced Lebanese head south as ceasefire takes hold",
         "url": "https://www.perplexity.ai/page/thousands-of-displaced-lebanes-qEoggtAuScS3MUDWNOMN5Q",
         "description": "A 10-day U.S.-mediated truce between Israel and Hezbollah took effect at midnight, pausing a conflict that killed over 2,100 and displaced more than a million.",
@@ -1263,6 +1290,15 @@
         "topic": "top",
         "pubDate": "2026-04-17T11:16:33Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Trump offers fired FEMA chief Hamilton permanent role",
+        "url": "https://www.perplexity.ai/page/trump-offers-fired-fema-chief-3PzxPQQrQN6Fd.w4ghBwRA",
+        "description": "Hamilton was dismissed in May 2025 after publicly opposing the administration's push to disband the agency he is now being asked to lead.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T12:13:24Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Asian stocks near pre-war levels as oil drops on ceasefire hopes",
