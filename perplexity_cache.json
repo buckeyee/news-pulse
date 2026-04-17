@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Xanadu CEO becomes billionaire as Nvidia quantum AI push lifts stock",
+      "url": "https://www.perplexity.ai/page/xanadu-ceo-becomes-billionaire-szmTSrjhRVmZlKL_hK_DhA",
+      "description": "Christian Weedbrook's 51.8% stake in the photonic quantum computing firm is now worth over $1.6 billion, three weeks after its IPO.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-17T17:13:15Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Trump keeps naval blockade despite Iran reopening Hormuz",
       "url": "https://www.perplexity.ai/page/trump-keeps-naval-blockade-des-N8mqeSlbS8qEre1C8kiB1w",
       "description": "Iran declared the Strait of Hormuz open for shipping on Friday, but Trump said the U.S. blockade on Iranian ports will hold until a deal is finalized.",
@@ -89,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-04-17T09:34:25Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
-      "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T11:36:04Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Newsom's PAC spent $1.5M buying his memoir for donors",
@@ -361,13 +361,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump says Iran agreed to hand over enriched uranium as deal nears",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-agreed-to-hand-nK50U4xnS.anmB1m0EmJzQ",
-      "description": "Negotiators are pursuing a temporary agreement before the April 21 ceasefire expires, though major gaps on nuclear issues persist.",
+      "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
+      "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
+      "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-16T18:50:43Z",
-      "sourceCount": "127 sources"
+      "pubDate": "2026-04-16T18:03:43Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Attorney says ICE detainee faces death risk after denied medical care in Texas",
@@ -388,13 +388,13 @@
       "sourceCount": "54 sources"
     },
     {
-      "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
-      "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
-      "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
+      "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
+      "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
+      "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-16T18:03:43Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-04-16T13:54:31Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "DeSantis delays Florida redistricting session, adds AI and vaccine bills",
@@ -439,15 +439,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-16T00:03:28Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
-      "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
-      "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T13:54:31Z",
       "sourceCount": "55 sources"
     },
     {
@@ -1144,9 +1135,18 @@
       "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-04-17T17:11:29Z",
+  "cached_at": "2026-04-17T18:07:27Z",
   "topics": {
     "top": [
+      {
+        "title": "Xanadu CEO becomes billionaire as Nvidia quantum AI push lifts stock",
+        "url": "https://www.perplexity.ai/page/xanadu-ceo-becomes-billionaire-szmTSrjhRVmZlKL_hK_DhA",
+        "description": "Christian Weedbrook's 51.8% stake in the photonic quantum computing firm is now worth over $1.6 billion, three weeks after its IPO.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-17T17:13:15Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Trump keeps naval blockade despite Iran reopening Hormuz",
         "url": "https://www.perplexity.ai/page/trump-keeps-naval-blockade-des-N8mqeSlbS8qEre1C8kiB1w",
@@ -1236,15 +1236,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T09:34:25Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-deal-is-close-3iV_PlWAQ_CFcNbSseH1eg",
-        "description": "Thousands of displaced Lebanese headed south Friday as a 10-day truce halted fighting, while U.S.-Iran talks could resume this weekend.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T11:36:04Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Newsom's PAC spent $1.5M buying his memoir for donors",
@@ -1508,13 +1499,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump says Iran agreed to hand over enriched uranium as deal nears",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-agreed-to-hand-nK50U4xnS.anmB1m0EmJzQ",
-        "description": "Negotiators are pursuing a temporary agreement before the April 21 ceasefire expires, though major gaps on nuclear issues persist.",
+        "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
+        "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
+        "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-16T18:50:43Z",
-        "sourceCount": "127 sources"
+        "pubDate": "2026-04-16T18:03:43Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Attorney says ICE detainee faces death risk after denied medical care in Texas",
@@ -1535,13 +1526,13 @@
         "sourceCount": "54 sources"
       },
       {
-        "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
-        "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
-        "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
+        "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
+        "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
+        "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-16T18:03:43Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-04-16T13:54:31Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "DeSantis delays Florida redistricting session, adds AI and vaccine bills",
@@ -1586,15 +1577,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-16T00:03:28Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
-        "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
-        "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T13:54:31Z",
         "sourceCount": "55 sources"
       },
       {
