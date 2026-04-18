@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Kairos Power breaks ground on Google-backed Gen IV reactor in Tennessee",
+      "url": "https://www.perplexity.ai/page/kairos-power-breaks-ground-on-bA80T80jRq29QZkbrRHF1w",
+      "description": "The Hermes 2 plant in Oak Ridge is the first power-producing Generation IV reactor approved for construction by the NRC.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T09:04:55Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Australia, Japan sign $7B stealth frigate deal",
       "url": "https://www.perplexity.ai/page/australia-japan-sign-7b-stealt-R3.B2Gp.QRyJu7ULXYmypA",
       "description": "The A$10 billion contract for 11 Mogami-class warships is Japan's biggest defense export since lifting its postwar military export ban.",
@@ -10,15 +19,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "China reaches 125 GW to become world's largest nuclear power",
-      "url": "https://www.perplexity.ai/page/china-reaches-125-gw-to-become-SsJMBPf0SFa1_3HOuToInA",
-      "description": "The milestone includes 60 operating reactors and 36 under construction, according to a report released Friday by the China Nuclear Energy Association.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-18T04:22:02Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Tornado outbreak batters Midwest as severe storms continue",
       "url": "https://www.perplexity.ai/page/tornado-outbreak-batters-midwe-s8eM_quqQPKL_9F0IXqVCw",
       "description": "At least 10 tornadoes were reported Friday as storms unleashed massive hail and destructive winds from Texas to the Great Lakes.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-18T02:11:18Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "China reaches 125 GW to become world's largest nuclear power",
+      "url": "https://www.perplexity.ai/page/china-reaches-125-gw-to-become-SsJMBPf0SFa1_3HOuToInA",
+      "description": "The milestone includes 60 operating reactors and 36 under construction, according to a report released Friday by the China Nuclear Energy Association.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T04:22:02Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Trump reverses course, renews Russian oil sanctions waiver",
@@ -1225,9 +1234,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-18T09:04:53Z",
+  "cached_at": "2026-04-18T09:59:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Kairos Power breaks ground on Google-backed Gen IV reactor in Tennessee",
+        "url": "https://www.perplexity.ai/page/kairos-power-breaks-ground-on-bA80T80jRq29QZkbrRHF1w",
+        "description": "The Hermes 2 plant in Oak Ridge is the first power-producing Generation IV reactor approved for construction by the NRC.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T09:04:55Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Australia, Japan sign $7B stealth frigate deal",
         "url": "https://www.perplexity.ai/page/australia-japan-sign-7b-stealt-R3.B2Gp.QRyJu7ULXYmypA",
@@ -1238,15 +1256,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "China reaches 125 GW to become world's largest nuclear power",
-        "url": "https://www.perplexity.ai/page/china-reaches-125-gw-to-become-SsJMBPf0SFa1_3HOuToInA",
-        "description": "The milestone includes 60 operating reactors and 36 under construction, according to a report released Friday by the China Nuclear Energy Association.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-18T04:22:02Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Tornado outbreak batters Midwest as severe storms continue",
         "url": "https://www.perplexity.ai/page/tornado-outbreak-batters-midwe-s8eM_quqQPKL_9F0IXqVCw",
         "description": "At least 10 tornadoes were reported Friday as storms unleashed massive hail and destructive winds from Texas to the Great Lakes.",
@@ -1254,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-04-18T02:11:18Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "China reaches 125 GW to become world's largest nuclear power",
+        "url": "https://www.perplexity.ai/page/china-reaches-125-gw-to-become-SsJMBPf0SFa1_3HOuToInA",
+        "description": "The milestone includes 60 operating reactors and 36 under construction, according to a report released Friday by the China Nuclear Energy Association.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T04:22:02Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Trump reverses course, renews Russian oil sanctions waiver",
