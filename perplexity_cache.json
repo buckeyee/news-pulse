@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump pledges answers on missing US scientists within days",
+      "url": "https://www.perplexity.ai/page/trump-pledges-answers-on-missi-y6fgFBWRR1qhhrw3U0mbdg",
+      "description": "At least 10 researchers tied to classified nuclear and aerospace programs have died or vanished since 2023, drawing White House scrutiny.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T13:32:44Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Iranians face 50th day of internet blackout as ceasefire nears expiration",
       "url": "https://www.perplexity.ai/page/iranians-face-50th-day-of-inte-NthVLqlMT3i1YiJZOzZvyQ",
       "description": "With the U.S.-Iran ceasefire set to expire April 22, mediators push for an extension while key disputes over Iran's nuclear program remain unresolved.",
@@ -1261,9 +1270,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-18T13:34:10Z",
+  "cached_at": "2026-04-18T14:23:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump pledges answers on missing US scientists within days",
+        "url": "https://www.perplexity.ai/page/trump-pledges-answers-on-missi-y6fgFBWRR1qhhrw3U0mbdg",
+        "description": "At least 10 researchers tied to classified nuclear and aerospace programs have died or vanished since 2023, drawing White House scrutiny.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T13:32:44Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Iranians face 50th day of internet blackout as ceasefire nears expiration",
         "url": "https://www.perplexity.ai/page/iranians-face-50th-day-of-inte-NthVLqlMT3i1YiJZOzZvyQ",
