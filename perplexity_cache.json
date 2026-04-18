@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Iranians face 50th day of internet blackout as ceasefire nears expiration",
+      "url": "https://www.perplexity.ai/page/iranians-face-50th-day-of-inte-NthVLqlMT3i1YiJZOzZvyQ",
+      "description": "With the U.S.-Iran ceasefire set to expire April 22, mediators push for an extension while key disputes over Iran's nuclear program remain unresolved.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T11:10:09Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Iran's 'mosquito fleet' holds Hormuz despite 155 warships sunk",
+      "url": "https://www.perplexity.ai/page/iran-s-mosquito-fleet-holds-ho-A2y0yb9gTSSP7pGrI5ABWQ",
+      "description": "Over 60% of the IRGC's fast-attack boats remain operational, posing a persistent threat to shipping as a fragile truce nears expiration.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T10:49:36Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iranians fear regime will tighten grip once ceasefire holds",
+      "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
+      "description": "As a fragile truce pauses U.S.-Israeli strikes, Iranians told Reuters they dread the regime redirecting its full coercive apparatus inward.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T10:49:35Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Rice team builds modular dual-bacteria sensor system",
       "url": "https://www.perplexity.ai/page/rice-team-builds-modular-dual-j9xmH.79TAyyZatmrmVWvg",
       "description": "The e-COSENS platform pairs engineered bacteria to detect toxins, health markers and contaminants by converting chemical signals into electricity.",
@@ -1241,29 +1268,38 @@
       "topic": "top",
       "pubDate": "2026-04-11T13:18:04Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran's 'mosquito fleet' holds Hormuz despite 155 warships sunk",
-      "url": "https://www.perplexity.ai/page/iran-s-mosquito-fleet-holds-ho-A2y0yb9gTSSP7pGrI5ABWQ",
-      "description": "Over 60% of the IRGC's fast-attack boats remain operational, posing a persistent threat to shipping as a fragile truce nears expiration.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-04-18T10:49:36Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iranians fear regime will tighten grip once ceasefire holds",
-      "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
-      "description": "As a fragile truce pauses U.S.-Israeli strikes, Iranians told Reuters they dread the regime redirecting its full coercive apparatus inward.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-04-18T10:49:35Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-18T10:55:13Z",
+  "cached_at": "2026-04-18T11:39:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Iranians face 50th day of internet blackout as ceasefire nears expiration",
+        "url": "https://www.perplexity.ai/page/iranians-face-50th-day-of-inte-NthVLqlMT3i1YiJZOzZvyQ",
+        "description": "With the U.S.-Iran ceasefire set to expire April 22, mediators push for an extension while key disputes over Iran's nuclear program remain unresolved.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T11:10:09Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Iran's 'mosquito fleet' holds Hormuz despite 155 warships sunk",
+        "url": "https://www.perplexity.ai/page/iran-s-mosquito-fleet-holds-ho-A2y0yb9gTSSP7pGrI5ABWQ",
+        "description": "Over 60% of the IRGC's fast-attack boats remain operational, posing a persistent threat to shipping as a fragile truce nears expiration.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T10:49:36Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iranians fear regime will tighten grip once ceasefire holds",
+        "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
+        "description": "As a fragile truce pauses U.S.-Israeli strikes, Iranians told Reuters they dread the regime redirecting its full coercive apparatus inward.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T10:49:35Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "Rice team builds modular dual-bacteria sensor system",
         "url": "https://www.perplexity.ai/page/rice-team-builds-modular-dual-j9xmH.79TAyyZatmrmVWvg",
@@ -2507,26 +2543,7 @@
         "sourceCount": "28 sources"
       }
     ],
-    "tech": [
-      {
-        "title": "Iran's 'mosquito fleet' holds Hormuz despite 155 warships sunk",
-        "url": "https://www.perplexity.ai/page/iran-s-mosquito-fleet-holds-ho-A2y0yb9gTSSP7pGrI5ABWQ",
-        "description": "Over 60% of the IRGC's fast-attack boats remain operational, posing a persistent threat to shipping as a fragile truce nears expiration.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-04-18T10:49:36Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iranians fear regime will tighten grip once ceasefire holds",
-        "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
-        "description": "As a fragile truce pauses U.S.-Israeli strikes, Iranians told Reuters they dread the regime redirecting its full coercive apparatus inward.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-04-18T10:49:35Z",
-        "sourceCount": "42 sources"
-      }
-    ],
+    "tech": [],
     "finance": []
   }
 }
