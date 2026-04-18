@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "BLM sets June 5 oil lease sale in Arctic Refuge",
-      "url": "https://www.perplexity.ai/page/blm-sets-june-5-oil-lease-sale-B.aqxvDOTri66iYds4DXkA",
-      "description": "The auction will be the first under the One Big Beautiful Bill Act, but two prior ANWR sales drew little to no interest from major oil companies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-18T14:22:36Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Iranians fear regime will tighten grip once ceasefire holds",
       "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
       "description": "As a fragile truce pauses U.S.-Israeli strikes, Iranians told Reuters they dread the regime redirecting its full coercive apparatus inward.",
@@ -17,6 +8,24 @@
       "topic": "top",
       "pubDate": "2026-04-18T10:49:35Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Appeals court lets Trump resume White House ballroom work",
+      "url": "https://www.perplexity.ai/page/appeals-court-lets-trump-resum-sg0WEYqVQK.f5X.DnOWSaA",
+      "description": "A three-judge panel temporarily lifted a lower court injunction, allowing the $400 million project to continue ahead of a June 5 hearing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T10:18:22Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Egypt, Pakistan building framework for lasting US-Iran peace",
+      "url": "https://www.perplexity.ai/page/egypt-pakistan-building-framew-1kiXxvcmQoKcSnJrhU7Mxw",
+      "description": "Four regional powers are intensifying diplomacy at the Antalya forum as a fragile ceasefire nears its April 22 expiration.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T10:02:55Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Australia, Japan sign $7B stealth frigate deal",
@@ -1198,18 +1207,9 @@
       "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-04-18T18:00:57Z",
+  "cached_at": "2026-04-18T19:06:12Z",
   "topics": {
     "top": [
-      {
-        "title": "BLM sets June 5 oil lease sale in Arctic Refuge",
-        "url": "https://www.perplexity.ai/page/blm-sets-june-5-oil-lease-sale-B.aqxvDOTri66iYds4DXkA",
-        "description": "The auction will be the first under the One Big Beautiful Bill Act, but two prior ANWR sales drew little to no interest from major oil companies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-18T14:22:36Z",
-        "sourceCount": "15 sources"
-      },
       {
         "title": "Iranians fear regime will tighten grip once ceasefire holds",
         "url": "https://www.perplexity.ai/page/iranians-fear-regime-will-tigh-zQut7QKZTqq7X5uNXaPsyQ",
@@ -1218,6 +1218,24 @@
         "topic": "top",
         "pubDate": "2026-04-18T10:49:35Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Appeals court lets Trump resume White House ballroom work",
+        "url": "https://www.perplexity.ai/page/appeals-court-lets-trump-resum-sg0WEYqVQK.f5X.DnOWSaA",
+        "description": "A three-judge panel temporarily lifted a lower court injunction, allowing the $400 million project to continue ahead of a June 5 hearing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T10:18:22Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Egypt, Pakistan building framework for lasting US-Iran peace",
+        "url": "https://www.perplexity.ai/page/egypt-pakistan-building-framew-1kiXxvcmQoKcSnJrhU7Mxw",
+        "description": "Four regional powers are intensifying diplomacy at the Antalya forum as a fragile ceasefire nears its April 22 expiration.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T10:02:55Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Australia, Japan sign $7B stealth frigate deal",
