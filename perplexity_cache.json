@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Blue Origin set to refly New Glenn booster for the first time",
+      "url": "https://www.perplexity.ai/page/blue-origin-set-to-refly-new-g-0VDoH84CTnCbFQeTdJZERg",
+      "description": "The NG-3 mission is scheduled to launch Sunday morning from Cape Canaveral, making Blue Origin the second company to reuse an orbital booster.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-19T04:33:42Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
+      "url": "https://www.perplexity.ai/page/iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
+      "description": "Tehran asserted its right to control the strait, a day after 40-plus nations met in Paris to plan a multinational force to restore shipping access.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-19T01:34:25Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iran recloses Strait of Hormuz, deepening jet fuel crisis",
       "url": "https://www.perplexity.ai/page/iran-recloses-strait-of-hormuz-iWCwe3sGRpanJj5OMCWK4A",
       "description": "Airlines across Europe and Asia are canceling flights as fuel supplies dwindle, with the IEA warning Europe has roughly six weeks of jet fuel left.",
@@ -10,6 +28,15 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "French peacekeeper killed as Lebanon ceasefire frays",
+      "url": "https://www.perplexity.ai/page/french-peacekeeper-killed-as-l-HcxCqDNyQB6bD7_nQ9iS1g",
+      "description": "A French UN soldier was killed in southern Lebanon on Saturday as Israel continued shelling despite Trump declaring strikes \"prohibited.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T23:18:41Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "North Korea fires ballistic missile into East Sea",
       "url": "https://www.perplexity.ai/page/north-korea-fires-ballistic-mi-pt59RBGFQTKHntH9o190ag",
       "description": "South Korea's JCS detected at least one missile launched eastward on Sunday, the sixth known ballistic missile test by Pyongyang this year.",
@@ -17,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-04-18T23:07:38Z",
       "sourceCount": "61 sources"
+    },
+    {
+      "title": "Penn State develops 3D-printed brain sensors tailored to each patient",
+      "url": "https://www.perplexity.ai/page/penn-state-develops-3d-printed-aTNsshu8RB.qpnORVWH_oQ",
+      "description": "Hydrogel electrodes shaped from MRI scans matched individual brain folds, improving signal quality without immune response in rat tests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-18T22:47:38Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Iran fires on Indian-flag ships after reclosing Hormuz strait",
@@ -1178,47 +1214,29 @@
       "topic": "top",
       "pubDate": "2026-04-12T01:53:26Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "Altman ties Molotov cocktail attack to New Yorker expose",
-      "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
-      "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T19:43:12Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
-      "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T21:39:39Z",
-      "sourceCount": "48 sources"
-    },
-    {
-      "title": "UK shelves Chagos Islands handover after Trump opposition",
-      "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
-      "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T22:38:15Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
-      "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
-      "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-11T19:18:37Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-04-19T02:00:52Z",
+  "cached_at": "2026-04-19T05:10:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Blue Origin set to refly New Glenn booster for the first time",
+        "url": "https://www.perplexity.ai/page/blue-origin-set-to-refly-new-g-0VDoH84CTnCbFQeTdJZERg",
+        "description": "The NG-3 mission is scheduled to launch Sunday morning from Cape Canaveral, making Blue Origin the second company to reuse an orbital booster.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-19T04:33:42Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
+        "url": "https://www.perplexity.ai/page/iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
+        "description": "Tehran asserted its right to control the strait, a day after 40-plus nations met in Paris to plan a multinational force to restore shipping access.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-19T01:34:25Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Iran recloses Strait of Hormuz, deepening jet fuel crisis",
         "url": "https://www.perplexity.ai/page/iran-recloses-strait-of-hormuz-iWCwe3sGRpanJj5OMCWK4A",
@@ -1229,6 +1247,15 @@
         "sourceCount": "30 sources"
       },
       {
+        "title": "French peacekeeper killed as Lebanon ceasefire frays",
+        "url": "https://www.perplexity.ai/page/french-peacekeeper-killed-as-l-HcxCqDNyQB6bD7_nQ9iS1g",
+        "description": "A French UN soldier was killed in southern Lebanon on Saturday as Israel continued shelling despite Trump declaring strikes \"prohibited.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T23:18:41Z",
+        "sourceCount": "38 sources"
+      },
+      {
         "title": "North Korea fires ballistic missile into East Sea",
         "url": "https://www.perplexity.ai/page/north-korea-fires-ballistic-mi-pt59RBGFQTKHntH9o190ag",
         "description": "South Korea's JCS detected at least one missile launched eastward on Sunday, the sixth known ballistic missile test by Pyongyang this year.",
@@ -1236,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-04-18T23:07:38Z",
         "sourceCount": "61 sources"
+      },
+      {
+        "title": "Penn State develops 3D-printed brain sensors tailored to each patient",
+        "url": "https://www.perplexity.ai/page/penn-state-develops-3d-printed-aTNsshu8RB.qpnORVWH_oQ",
+        "description": "Hydrogel electrodes shaped from MRI scans matched individual brain folds, improving signal quality without immune response in rat tests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-18T22:47:38Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Iran fires on Indian-flag ships after reclosing Hormuz strait",
@@ -2397,42 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-04-12T01:53:26Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "Altman ties Molotov cocktail attack to New Yorker expose",
-        "url": "https://www.perplexity.ai/page/altman-ties-molotov-cocktail-a-fcsEdjCdTNa11p.wl4iPOw",
-        "description": "The OpenAI CEO published a blog post linking the firebombing of his home to rhetoric in the magazine's investigation of his leadership.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T19:43:12Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
-        "description": "The Israeli PM issued a defiant video statement Saturday as Vice President Vance led the first direct U.S.-Iran negotiations since 1979.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T21:39:39Z",
-        "sourceCount": "48 sources"
-      },
-      {
-        "title": "UK shelves Chagos Islands handover after Trump opposition",
-        "url": "https://www.perplexity.ai/page/uk-shelves-chagos-islands-hand-L3yig9vwQp2vTESHD1T4Sw",
-        "description": "The bill to transfer sovereignty to Mauritius has been pulled from the King's Speech after Washington withdrew its support for the deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T22:38:15Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "DHS orders furloughed staff back to work despite ongoing shutdown",
-        "url": "https://www.perplexity.ai/page/dhs-orders-furloughed-staff-ba-o3uBZdInQ5eEHw45dF_8Fw",
-        "description": "The department recalled all furloughed employees Friday as paychecks begin arriving, but Congress remains on recess with no funding deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-11T19:18:37Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
