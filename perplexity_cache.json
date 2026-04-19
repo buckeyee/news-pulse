@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hamas signals readiness to hand over some weapons in Gaza",
+      "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
+      "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-19T21:18:19Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Trump says US seized Iranian ship as talks falter",
       "url": "https://www.perplexity.ai/page/trump-says-us-seized-iranian-s-lWSyf.xsRJSOnXBi56XDyA",
       "description": "Tehran declined a second round of peace negotiations just hours after Trump announced U.S. forces captured an Iranian cargo vessel near the Strait of Hormuz.",
@@ -1243,9 +1252,18 @@
       "sourceCount": "65 sources"
     }
   ],
-  "cached_at": "2026-04-19T21:18:14Z",
+  "cached_at": "2026-04-19T21:55:04Z",
   "topics": {
     "top": [
+      {
+        "title": "Hamas signals readiness to hand over some weapons in Gaza",
+        "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
+        "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-19T21:18:19Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Trump says US seized Iranian ship as talks falter",
         "url": "https://www.perplexity.ai/page/trump-says-us-seized-iranian-s-lWSyf.xsRJSOnXBi56XDyA",
