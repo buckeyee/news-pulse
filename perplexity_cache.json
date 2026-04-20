@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "White House convenes GOP strategists as Trump's approval hits second-term low",
+      "url": "https://www.perplexity.ai/page/white-house-convenes-gop-strat-yzH2XwB3SgSNtYZ8wgwG9w",
+      "description": "Susie Wiles and James Blair gathered Republican operatives at the Waldorf Astoria to align midterm messaging as new polling shows 37% approval.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T19:18:42Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Vaccine-hesitant parents shift course as measles surges across the Americas",
+      "url": "https://www.perplexity.ai/page/vaccine-hesitant-parents-shift-cVndbwOERR2gSO41AbeVNw",
+      "description": "PAHO reports over 15,000 confirmed cases in the first 14 weeks of 2026, with two-thirds of patients unvaccinated.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T18:58:52Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "Singer D4vd charged with first-degree murder of teen found in his Tesla",
       "url": "https://www.perplexity.ai/page/singer-d4vd-charged-with-first-LBEWj5TWQ2G_fNvaNWGVWg",
       "description": "LA County DA Nathan Hochman announced charges Monday against the 21-year-old artist in the death of 14-year-old Celeste Rivas Hernandez.",
@@ -1295,29 +1313,29 @@
       "topic": "top",
       "pubDate": "2026-04-13T17:16:15Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran says it hasn't charged Indian ships tolls as U.S. blockade takes effect",
-      "url": "https://www.perplexity.ai/page/iran-says-it-hasn-t-charged-in-.oA_kn5_SMqWLAzjQZw1Tw",
-      "description": "Tehran's ambassador to New Delhi denied toll charges on Indian tankers transiting the Strait of Hormuz as a U.S. naval blockade of Iranian ports began Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T16:35:13Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump warns Iran 'fast-attack' ships near blockade will be 'eliminated'",
-      "url": "https://www.perplexity.ai/page/trump-warns-iran-fast-attack-s-IBPUs95nTDeEwvpSlar5Nw",
-      "description": "The U.S. naval blockade of Iranian ports took effect Monday as failed peace talks in Pakistan gave way to intensifying military confrontation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T15:53:22Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-20T18:39:29Z",
+  "cached_at": "2026-04-20T19:46:07Z",
   "topics": {
     "top": [
+      {
+        "title": "White House convenes GOP strategists as Trump's approval hits second-term low",
+        "url": "https://www.perplexity.ai/page/white-house-convenes-gop-strat-yzH2XwB3SgSNtYZ8wgwG9w",
+        "description": "Susie Wiles and James Blair gathered Republican operatives at the Waldorf Astoria to align midterm messaging as new polling shows 37% approval.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T19:18:42Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Vaccine-hesitant parents shift course as measles surges across the Americas",
+        "url": "https://www.perplexity.ai/page/vaccine-hesitant-parents-shift-cVndbwOERR2gSO41AbeVNw",
+        "description": "PAHO reports over 15,000 confirmed cases in the first 14 weeks of 2026, with two-thirds of patients unvaccinated.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T18:58:52Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "Singer D4vd charged with first-degree murder of teen found in his Tesla",
         "url": "https://www.perplexity.ai/page/singer-d4vd-charged-with-first-LBEWj5TWQ2G_fNvaNWGVWg",
@@ -2613,24 +2631,6 @@
         "topic": "top",
         "pubDate": "2026-04-13T17:16:15Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran says it hasn't charged Indian ships tolls as U.S. blockade takes effect",
-        "url": "https://www.perplexity.ai/page/iran-says-it-hasn-t-charged-in-.oA_kn5_SMqWLAzjQZw1Tw",
-        "description": "Tehran's ambassador to New Delhi denied toll charges on Indian tankers transiting the Strait of Hormuz as a U.S. naval blockade of Iranian ports began Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T16:35:13Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump warns Iran 'fast-attack' ships near blockade will be 'eliminated'",
-        "url": "https://www.perplexity.ai/page/trump-warns-iran-fast-attack-s-IBPUs95nTDeEwvpSlar5Nw",
-        "description": "The U.S. naval blockade of Iranian ports took effect Monday as failed peace talks in Pakistan gave way to intensifying military confrontation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T15:53:22Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
