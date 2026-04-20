@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "LHC experiment finds high-significance crack in the Standard Model",
-      "url": "https://www.perplexity.ai/page/lhc-experiment-finds-high-sign-.Ma8XbwERiCxFEQn1g1rRA",
-      "description": "A rare particle decay measured at CERN deviates from the Standard Model by four sigma, suggesting undiscovered physics may be at play.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T22:19:26Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Saildrone unveils 170-foot unmanned warship for Navy sub-hunting",
-      "url": "https://www.perplexity.ai/page/saildrone-unveils-170-foot-unm-mdsZsQutRVGmyvYJuVg_.w",
-      "description": "Fincantieri will build the Spectre at its Wisconsin shipyards, with sea trials planned for early 2027.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T22:18:53Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Labor Secretary Chavez-DeRemer resigns amid misconduct probe",
       "url": "https://www.perplexity.ai/page/labor-secretary-chavez-deremer-z7Il6aQUSva2N.OkWfXE1g",
       "description": "She is the third Cabinet secretary to leave Trump's second term, following months of inspector general scrutiny over alleged personal misconduct.",
@@ -1340,38 +1322,11 @@
       "topic": "top",
       "pubDate": "2026-04-13T18:59:57Z",
       "sourceCount": "89 sources"
-    },
-    {
-      "title": "Pride flag to return to Stonewall after settlement with Trump administration",
-      "url": "https://www.perplexity.ai/page/pride-flag-to-return-to-stonew-bNBuo4DPQ32zL6ZJWkrvvQ",
-      "description": "The National Park Service must rehang the rainbow flag within seven days under a court-enforceable agreement filed Monday in Manhattan federal court.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T18:43:17Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-20T22:25:37Z",
+  "cached_at": "2026-04-20T23:11:09Z",
   "topics": {
     "top": [
-      {
-        "title": "LHC experiment finds high-significance crack in the Standard Model",
-        "url": "https://www.perplexity.ai/page/lhc-experiment-finds-high-sign-.Ma8XbwERiCxFEQn1g1rRA",
-        "description": "A rare particle decay measured at CERN deviates from the Standard Model by four sigma, suggesting undiscovered physics may be at play.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T22:19:26Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Saildrone unveils 170-foot unmanned warship for Navy sub-hunting",
-        "url": "https://www.perplexity.ai/page/saildrone-unveils-170-foot-unm-mdsZsQutRVGmyvYJuVg_.w",
-        "description": "Fincantieri will build the Spectre at its Wisconsin shipyards, with sea trials planned for early 2027.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T22:18:53Z",
-        "sourceCount": "15 sources"
-      },
       {
         "title": "Labor Secretary Chavez-DeRemer resigns amid misconduct probe",
         "url": "https://www.perplexity.ai/page/labor-secretary-chavez-deremer-z7Il6aQUSva2N.OkWfXE1g",
@@ -2694,15 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-04-13T18:59:57Z",
         "sourceCount": "89 sources"
-      },
-      {
-        "title": "Pride flag to return to Stonewall after settlement with Trump administration",
-        "url": "https://www.perplexity.ai/page/pride-flag-to-return-to-stonew-bNBuo4DPQ32zL6ZJWkrvvQ",
-        "description": "The National Park Service must rehang the rainbow flag within seven days under a court-enforceable agreement filed Monday in Manhattan federal court.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T18:43:17Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
