@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
+      "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
+      "description": "The multi-year agreement will supply high-nickel batteries for Mercedes-Benz's next-generation compact and mid-size electric SUVs and coupes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T08:04:15Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "UniCredit unveils plan to transform Commerzbank",
       "url": "https://www.perplexity.ai/page/unicredit-unveils-plan-to-tran-0f6akE1STUqKDfbL5_utcw",
       "description": "CEO Andrea Orcel is presenting a \"value creation\" strategy for the German lender, arguing it is too focused on short-term results.",
@@ -1241,29 +1250,20 @@
       "topic": "top",
       "pubDate": "2026-04-13T10:45:26Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Two arrested after drive-by shooting at Sam Altman's home",
-      "url": "https://www.perplexity.ai/page/two-arrested-after-drive-by-sh-GRpi75GHQjShv3i5Ix3Abg",
-      "description": "Police say suspects fired at the OpenAI CEO's San Francisco residence early Sunday, two days after a Molotov cocktail attack on the same property.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T02:04:57Z",
-      "sourceCount": "63 sources"
-    },
-    {
-      "title": "White House economic report claims DEI programs hurt GDP",
-      "url": "https://www.perplexity.ai/page/white-house-economic-report-cl-dGqowBi7QN2iTBA9IXOypA",
-      "description": "The Council of Economic Advisers released a chapter arguing that \"non-merit-based\" DEI hiring carries measurable economic costs, backing the administration's wider crackdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T17:48:12Z",
-      "sourceCount": "59 sources"
     }
   ],
-  "cached_at": "2026-04-20T06:07:18Z",
+  "cached_at": "2026-04-20T08:27:02Z",
   "topics": {
     "top": [
+      {
+        "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
+        "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
+        "description": "The multi-year agreement will supply high-nickel batteries for Mercedes-Benz's next-generation compact and mid-size electric SUVs and coupes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T08:04:15Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "UniCredit unveils plan to transform Commerzbank",
         "url": "https://www.perplexity.ai/page/unicredit-unveils-plan-to-tran-0f6akE1STUqKDfbL5_utcw",
@@ -2505,24 +2505,6 @@
         "topic": "top",
         "pubDate": "2026-04-13T10:45:26Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Two arrested after drive-by shooting at Sam Altman's home",
-        "url": "https://www.perplexity.ai/page/two-arrested-after-drive-by-sh-GRpi75GHQjShv3i5Ix3Abg",
-        "description": "Police say suspects fired at the OpenAI CEO's San Francisco residence early Sunday, two days after a Molotov cocktail attack on the same property.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T02:04:57Z",
-        "sourceCount": "63 sources"
-      },
-      {
-        "title": "White House economic report claims DEI programs hurt GDP",
-        "url": "https://www.perplexity.ai/page/white-house-economic-report-cl-dGqowBi7QN2iTBA9IXOypA",
-        "description": "The Council of Economic Advisers released a chapter arguing that \"non-merit-based\" DEI hiring carries measurable economic costs, backing the administration's wider crackdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T17:48:12Z",
-        "sourceCount": "59 sources"
       }
     ],
     "tech": [],
