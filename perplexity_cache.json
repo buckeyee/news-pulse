@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Apple names John Ternus CEO as Tim Cook shifts to chairman role",
+      "url": "https://www.perplexity.ai/page/apple-names-john-ternus-ceo-as-tRROdwfYTG.3B1RZJ0Auug",
+      "description": "Cook, who led Apple since 2011, will become executive chairman on Sept. 1 after a unanimous board vote.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T21:03:06Z",
+      "sourceCount": "79 sources"
+    },
+    {
       "title": "White House convenes GOP strategists as Trump's approval hits second-term low",
       "url": "https://www.perplexity.ai/page/white-house-convenes-gop-strat-yzH2XwB3SgSNtYZ8wgwG9w",
       "description": "Susie Wiles and James Blair gathered Republican operatives at the Waldorf Astoria to align midterm messaging as new polling shows 37% approval.",
@@ -1304,20 +1313,20 @@
       "topic": "top",
       "pubDate": "2026-04-13T18:43:17Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "White House report pegs U.S. housing shortage at 10M homes",
-      "url": "https://www.perplexity.ai/page/white-house-report-pegs-u-s-ho-qa9YHJuhSUm0TRawXrjAog",
-      "description": "The Council of Economic Advisers says cutting regulations could spur construction of up to 13.2 million homes over the next decade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-13T17:16:15Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-04-20T19:46:07Z",
+  "cached_at": "2026-04-20T21:29:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Apple names John Ternus CEO as Tim Cook shifts to chairman role",
+        "url": "https://www.perplexity.ai/page/apple-names-john-ternus-ceo-as-tRROdwfYTG.3B1RZJ0Auug",
+        "description": "Cook, who led Apple since 2011, will become executive chairman on Sept. 1 after a unanimous board vote.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T21:03:06Z",
+        "sourceCount": "79 sources"
+      },
       {
         "title": "White House convenes GOP strategists as Trump's approval hits second-term low",
         "url": "https://www.perplexity.ai/page/white-house-convenes-gop-strat-yzH2XwB3SgSNtYZ8wgwG9w",
@@ -2622,15 +2631,6 @@
         "topic": "top",
         "pubDate": "2026-04-13T18:43:17Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "White House report pegs U.S. housing shortage at 10M homes",
-        "url": "https://www.perplexity.ai/page/white-house-report-pegs-u-s-ho-qa9YHJuhSUm0TRawXrjAog",
-        "description": "The Council of Economic Advisers says cutting regulations could spur construction of up to 13.2 million homes over the next decade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-13T17:16:15Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
