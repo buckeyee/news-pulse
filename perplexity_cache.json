@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Second round of US-Iran talks set to begin amid uranium standoff",
+      "url": "https://www.perplexity.ai/page/second-round-of-us-iran-talks-2eyjb638Q_25lAyeiUBkog",
+      "description": "A ceasefire expiration on April 22 looms as Tehran has not confirmed participation in Monday's Islamabad negotiations over its nuclear stockpile.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T10:04:08Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "7.5-magnitude earthquake off Japan triggers tsunami warnings",
+      "url": "https://www.perplexity.ai/page/7-5-magnitude-earthquake-off-j-MP17VDWaS_iJqDfZTb2qcA",
+      "description": "The quake struck Monday off Iwate prefecture at a shallow depth, with waves detected at coastal ports and evacuation advisories issued across multiple prefectures.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T09:47:19Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Comer launches probe into deaths of 11 US scientists",
+      "url": "https://www.perplexity.ai/page/comer-launches-probe-into-deat-D3vNRmrHRem_Xqud6VctmQ",
+      "description": "The House Oversight chairman sent letters to the DOD, FBI, NASA, and DOE demanding information on researchers tied to nuclear and space programs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T08:32:32Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
       "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
       "description": "The multi-year agreement will supply high-nickel batteries for Mercedes-Benz's next-generation compact and mid-size electric SUVs and coupes.",
@@ -44,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-04-20T01:44:38Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Oil prices surge as US Navy seizes Iranian ship near Hormuz",
-      "url": "https://www.perplexity.ai/page/oil-prices-surge-as-us-navy-se-tAXlPRXIQ1uirYHZUlmzUQ",
-      "description": "The USS Spruance fired on and captured the vessel Touska after its crew ignored warnings for six hours, capping a chaotic weekend.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T01:36:06Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Over 200 immigration judges replaced with 'deportation judges'",
@@ -1252,9 +1270,36 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-04-20T08:27:02Z",
+  "cached_at": "2026-04-20T10:18:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Second round of US-Iran talks set to begin amid uranium standoff",
+        "url": "https://www.perplexity.ai/page/second-round-of-us-iran-talks-2eyjb638Q_25lAyeiUBkog",
+        "description": "A ceasefire expiration on April 22 looms as Tehran has not confirmed participation in Monday's Islamabad negotiations over its nuclear stockpile.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T10:04:08Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "7.5-magnitude earthquake off Japan triggers tsunami warnings",
+        "url": "https://www.perplexity.ai/page/7-5-magnitude-earthquake-off-j-MP17VDWaS_iJqDfZTb2qcA",
+        "description": "The quake struck Monday off Iwate prefecture at a shallow depth, with waves detected at coastal ports and evacuation advisories issued across multiple prefectures.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T09:47:19Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Comer launches probe into deaths of 11 US scientists",
+        "url": "https://www.perplexity.ai/page/comer-launches-probe-into-deat-D3vNRmrHRem_Xqud6VctmQ",
+        "description": "The House Oversight chairman sent letters to the DOD, FBI, NASA, and DOE demanding information on researchers tied to nuclear and space programs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T08:32:32Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
         "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
@@ -1299,15 +1344,6 @@
         "topic": "top",
         "pubDate": "2026-04-20T01:44:38Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Oil prices surge as US Navy seizes Iranian ship near Hormuz",
-        "url": "https://www.perplexity.ai/page/oil-prices-surge-as-us-navy-se-tAXlPRXIQ1uirYHZUlmzUQ",
-        "description": "The USS Spruance fired on and captured the vessel Touska after its crew ignored warnings for six hours, capping a chaotic weekend.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T01:36:06Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Over 200 immigration judges replaced with 'deportation judges'",
