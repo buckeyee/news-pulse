@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Airbus agrees to acquire French cybersecurity firm Quarkslab",
+      "url": "https://www.perplexity.ai/page/airbus-agrees-to-acquire-frenc-u1G9WjDaQFC7xwEm95Dw_A",
+      "description": "The deal is the third cyber acquisition by the aerospace giant as it builds a pan-European sovereign security portfolio.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T08:38:22Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump's Board of Peace in talks with DP World on Gaza rebuild",
+      "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-in-talk-VMxx9uhSSwar987xNsKspQ",
+      "description": "A draft proposal envisions a \"port-centric economic ecosystem\" and supply chain system, as part of US efforts to privatise Gaza's reconstruction.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T08:15:08Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
       "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
       "description": "The miner reported a 2.4% rise in Pilbara iron ore shipments but said the ongoing Iran conflict clouds its second-half outlook.",
@@ -1315,9 +1333,27 @@
       "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-04-21T07:52:26Z",
+  "cached_at": "2026-04-21T09:24:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Airbus agrees to acquire French cybersecurity firm Quarkslab",
+        "url": "https://www.perplexity.ai/page/airbus-agrees-to-acquire-frenc-u1G9WjDaQFC7xwEm95Dw_A",
+        "description": "The deal is the third cyber acquisition by the aerospace giant as it builds a pan-European sovereign security portfolio.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T08:38:22Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump's Board of Peace in talks with DP World on Gaza rebuild",
+        "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-in-talk-VMxx9uhSSwar987xNsKspQ",
+        "description": "A draft proposal envisions a \"port-centric economic ecosystem\" and supply chain system, as part of US efforts to privatise Gaza's reconstruction.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T08:15:08Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
         "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
