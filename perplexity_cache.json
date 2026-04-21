@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Feds cut water releases amid historic Western drought",
+      "url": "https://www.perplexity.ai/page/feds-cut-water-releases-amid-h-HtPd7ee5SE6CgXDrLDcp_Q",
+      "description": "Colorado River system reservoirs hold just 36% of capacity as record-low snowpack and extreme heat compound the crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T13:06:59Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Seized Iranian ship Touska likely carried dual-use cargo",
+      "url": "https://www.perplexity.ai/page/seized-iranian-ship-touska-lik-wty43xGGTyG0OuDGcJXwsA",
+      "description": "U.S. forces seized the sanctioned cargo vessel on April 19 after a six-hour standoff, the first enforcement of the Hormuz blockade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T11:00:15Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Curiosity rover detects 'origin-of-life' molecules on Mars",
       "url": "https://www.perplexity.ai/page/curiosity-rover-detects-origin-N6nhcShgSMOTl1eGFcuQzA",
       "description": "A first-of-its-kind chemical experiment on the Red Planet found over 20 organic compounds, including a possible DNA precursor never before seen on Mars.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-04-21T09:34:39Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Airbus agrees to acquire French cybersecurity firm Quarkslab",
-      "url": "https://www.perplexity.ai/page/airbus-agrees-to-acquire-frenc-u1G9WjDaQFC7xwEm95Dw_A",
-      "description": "The deal is the third cyber acquisition by the aerospace giant as it builds a pan-European sovereign security portfolio.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T08:38:22Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Trump's Board of Peace in talks with DP World on Gaza rebuild",
@@ -28,15 +37,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
-      "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
-      "description": "The miner reported a 2.4% rise in Pilbara iron ore shipments but said the ongoing Iran conflict clouds its second-half outlook.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T07:27:23Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Japan scraps postwar ban on lethal weapons exports",
       "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
       "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
@@ -44,24 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-21T06:53:32Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "SpaceX begins Wall Street analyst briefings ahead of record $75B IPO",
-      "url": "https://www.perplexity.ai/page/spacex-begins-wall-street-anal-xtjphpE2Sryld7DZR2Xb.Q",
-      "description": "The three-day meetings at Starbase in Texas kicked off Monday as the company targets a late June listing that could value it at over $1.75 trillion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T06:17:48Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Oil dips as Iran agrees to join U.S. peace talks in Islamabad",
-      "url": "https://www.perplexity.ai/page/oil-dips-as-iran-agrees-to-joi-h0eLDAtbSpqJBlHT4WFsmQ",
-      "description": "Iran reversed course late Monday, saying it would send a delegation to Pakistan for a second round of negotiations as the ceasefire nears expiration Wednesday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T05:18:59Z",
-      "sourceCount": "41 sources"
     },
     {
       "title": "Bezos's AI lab nears $10B round at $38B valuation",
@@ -1295,47 +1277,29 @@
       "topic": "top",
       "pubDate": "2026-04-14T16:37:00Z",
       "sourceCount": "82 sources"
-    },
-    {
-      "title": "Von der Leyen calls for ending EU foreign policy vetoes after Orbán's defeat",
-      "url": "https://www.perplexity.ai/page/von-der-leyen-calls-for-ending-hG.XJPD9T4.R8aTjgOTtvw",
-      "description": "The European Commission president wants to replace unanimity with majority voting, seizing on Hungary's landmark election results.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T10:08:40Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Xi warns of world 'crumbling into disarray' as Spain PM seeks China's help on Iran",
-      "url": "https://www.perplexity.ai/page/xi-warns-of-world-crumbling-in-vFmN1B62SzCAQCCDJ5OoZw",
-      "description": "Spain's PM pressed Beijing to mediate the Iran war during a Tuesday summit where both leaders pledged to defend multilateralism.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T10:03:42Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "China lifts restrictions on some BHP iron ore purchases",
-      "url": "https://www.perplexity.ai/page/china-lifts-restrictions-on-so-QHXCRAO.SzaYlb8DHuGQUw",
-      "description": "Steel mills can resume bidding on certain BHP cargoes, easing a months-long dispute that disrupted global iron ore trade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T09:02:46Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "US Hormuz blockade could cost Iran $435 million a day",
-      "url": "https://www.perplexity.ai/page/us-hormuz-blockade-could-cost-aby9TgGlRuqRoQX5vAg4mQ",
-      "description": "The naval blockade of Iranian ports took effect on Monday after peace talks in Islamabad collapsed over the weekend, with oil prices surging sharply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T08:51:45Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-21T11:55:05Z",
+  "cached_at": "2026-04-21T13:56:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Feds cut water releases amid historic Western drought",
+        "url": "https://www.perplexity.ai/page/feds-cut-water-releases-amid-h-HtPd7ee5SE6CgXDrLDcp_Q",
+        "description": "Colorado River system reservoirs hold just 36% of capacity as record-low snowpack and extreme heat compound the crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T13:06:59Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Seized Iranian ship Touska likely carried dual-use cargo",
+        "url": "https://www.perplexity.ai/page/seized-iranian-ship-touska-lik-wty43xGGTyG0OuDGcJXwsA",
+        "description": "U.S. forces seized the sanctioned cargo vessel on April 19 after a six-hour standoff, the first enforcement of the Hormuz blockade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T11:00:15Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Curiosity rover detects 'origin-of-life' molecules on Mars",
         "url": "https://www.perplexity.ai/page/curiosity-rover-detects-origin-N6nhcShgSMOTl1eGFcuQzA",
@@ -1344,15 +1308,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T09:34:39Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Airbus agrees to acquire French cybersecurity firm Quarkslab",
-        "url": "https://www.perplexity.ai/page/airbus-agrees-to-acquire-frenc-u1G9WjDaQFC7xwEm95Dw_A",
-        "description": "The deal is the third cyber acquisition by the aerospace giant as it builds a pan-European sovereign security portfolio.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T08:38:22Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Trump's Board of Peace in talks with DP World on Gaza rebuild",
@@ -1364,15 +1319,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
-        "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
-        "description": "The miner reported a 2.4% rise in Pilbara iron ore shipments but said the ongoing Iran conflict clouds its second-half outlook.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T07:27:23Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Japan scraps postwar ban on lethal weapons exports",
         "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
         "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
@@ -1380,24 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T06:53:32Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "SpaceX begins Wall Street analyst briefings ahead of record $75B IPO",
-        "url": "https://www.perplexity.ai/page/spacex-begins-wall-street-anal-xtjphpE2Sryld7DZR2Xb.Q",
-        "description": "The three-day meetings at Starbase in Texas kicked off Monday as the company targets a late June listing that could value it at over $1.75 trillion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T06:17:48Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Oil dips as Iran agrees to join U.S. peace talks in Islamabad",
-        "url": "https://www.perplexity.ai/page/oil-dips-as-iran-agrees-to-joi-h0eLDAtbSpqJBlHT4WFsmQ",
-        "description": "Iran reversed course late Monday, saying it would send a delegation to Pakistan for a second round of negotiations as the ceasefire nears expiration Wednesday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T05:18:59Z",
-        "sourceCount": "41 sources"
       },
       {
         "title": "Bezos's AI lab nears $10B round at $38B valuation",
@@ -2631,42 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-04-14T16:37:00Z",
         "sourceCount": "82 sources"
-      },
-      {
-        "title": "Von der Leyen calls for ending EU foreign policy vetoes after Orbán's defeat",
-        "url": "https://www.perplexity.ai/page/von-der-leyen-calls-for-ending-hG.XJPD9T4.R8aTjgOTtvw",
-        "description": "The European Commission president wants to replace unanimity with majority voting, seizing on Hungary's landmark election results.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T10:08:40Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Xi warns of world 'crumbling into disarray' as Spain PM seeks China's help on Iran",
-        "url": "https://www.perplexity.ai/page/xi-warns-of-world-crumbling-in-vFmN1B62SzCAQCCDJ5OoZw",
-        "description": "Spain's PM pressed Beijing to mediate the Iran war during a Tuesday summit where both leaders pledged to defend multilateralism.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T10:03:42Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "China lifts restrictions on some BHP iron ore purchases",
-        "url": "https://www.perplexity.ai/page/china-lifts-restrictions-on-so-QHXCRAO.SzaYlb8DHuGQUw",
-        "description": "Steel mills can resume bidding on certain BHP cargoes, easing a months-long dispute that disrupted global iron ore trade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T09:02:46Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "US Hormuz blockade could cost Iran $435 million a day",
-        "url": "https://www.perplexity.ai/page/us-hormuz-blockade-could-cost-aby9TgGlRuqRoQX5vAg4mQ",
-        "description": "The naval blockade of Iranian ports took effect on Monday after peace talks in Islamabad collapsed over the weekend, with oil prices surging sharply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T08:51:45Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
