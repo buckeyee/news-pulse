@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
+      "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
+      "description": "The miner reported a 2.4% rise in Pilbara iron ore shipments but said the ongoing Iran conflict clouds its second-half outlook.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T07:27:23Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Japan scraps postwar ban on lethal weapons exports",
+      "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
+      "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T06:53:32Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "SpaceX begins Wall Street analyst briefings ahead of record $75B IPO",
+      "url": "https://www.perplexity.ai/page/spacex-begins-wall-street-anal-xtjphpE2Sryld7DZR2Xb.Q",
+      "description": "The three-day meetings at Starbase in Texas kicked off Monday as the company targets a late June listing that could value it at over $1.75 trillion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T06:17:48Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Oil dips as Iran agrees to join U.S. peace talks in Islamabad",
       "url": "https://www.perplexity.ai/page/oil-dips-as-iran-agrees-to-joi-h0eLDAtbSpqJBlHT4WFsmQ",
       "description": "Iran reversed course late Monday, saying it would send a delegation to Pakistan for a second round of negotiations as the ceasefire nears expiration Wednesday.",
@@ -205,15 +232,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-20T10:09:31Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "7.5-magnitude earthquake off Japan triggers tsunami warnings",
-      "url": "https://www.perplexity.ai/page/7-5-magnitude-earthquake-off-j-MP17VDWaS_iJqDfZTb2qcA",
-      "description": "The quake struck Monday off Iwate prefecture at a shallow depth, with waves detected at coastal ports and evacuation advisories issued across multiple prefectures.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T09:47:19Z",
       "sourceCount": "15 sources"
     },
     {
@@ -1297,9 +1315,36 @@
       "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-04-21T05:53:25Z",
+  "cached_at": "2026-04-21T07:52:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
+        "url": "https://www.perplexity.ai/page/rio-tinto-posts-higher-q1-iron-aFa7kySrQ.mEYvMt7CD_2w",
+        "description": "The miner reported a 2.4% rise in Pilbara iron ore shipments but said the ongoing Iran conflict clouds its second-half outlook.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T07:27:23Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Japan scraps postwar ban on lethal weapons exports",
+        "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
+        "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T06:53:32Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "SpaceX begins Wall Street analyst briefings ahead of record $75B IPO",
+        "url": "https://www.perplexity.ai/page/spacex-begins-wall-street-anal-xtjphpE2Sryld7DZR2Xb.Q",
+        "description": "The three-day meetings at Starbase in Texas kicked off Monday as the company targets a late June listing that could value it at over $1.75 trillion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T06:17:48Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Oil dips as Iran agrees to join U.S. peace talks in Islamabad",
         "url": "https://www.perplexity.ai/page/oil-dips-as-iran-agrees-to-joi-h0eLDAtbSpqJBlHT4WFsmQ",
@@ -1505,15 +1550,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-20T10:09:31Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "7.5-magnitude earthquake off Japan triggers tsunami warnings",
-        "url": "https://www.perplexity.ai/page/7-5-magnitude-earthquake-off-j-MP17VDWaS_iJqDfZTb2qcA",
-        "description": "The quake struck Monday off Iwate prefecture at a shallow depth, with waves detected at coastal ports and evacuation advisories issued across multiple prefectures.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T09:47:19Z",
         "sourceCount": "15 sources"
       },
       {
