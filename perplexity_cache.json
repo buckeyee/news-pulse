@@ -1,6 +1,60 @@
 {
   "stories": [
     {
+      "title": "Macron pledges support for Lebanon ahead of Israel talks",
+      "url": "https://www.perplexity.ai/page/macron-pledges-support-for-leb-gmADK1LwQmixhpgP7Px11Q",
+      "description": "France's president met Lebanese PM Nawaf Salam in Paris to bolster Beirut's position before Thursday's U.S.-hosted negotiations with Israel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T18:12:37Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump rejects cease-fire extension as Iran vows ‘no talks under threat’",
+      "url": "https://www.perplexity.ai/page/trump-rejects-cease-fire-exten-Z_CaxLpmTB6PO6E8dNx51w",
+      "description": "Tehran publicly rejected negotiations under pressure, though officials privately signal readiness to resume talks if Vance travels to Pakistan.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T17:03:16Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "NATO revives Cold War-era sub hunting as Russia pushes into Arctic",
+      "url": "https://www.perplexity.ai/page/nato-revives-cold-war-era-sub-BwIvOXK2QlyTofOQ_VX7VA",
+      "description": "Bloomberg reports that Russia's upgraded nuclear submarines are forcing NATO to overhaul anti-submarine warfare across the Arctic and North Atlantic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T16:41:37Z",
+      "sourceCount": "32 sources"
+    },
+    {
+      "title": "Dutch intelligence warns Chinese cyberattacks on West will intensify",
+      "url": "https://www.perplexity.ai/page/dutch-intelligence-warns-chine-Tz6UcVUwTV.8AKmETaPQAw",
+      "description": "The MIVD's 2025 annual report called on Europe to take greater responsibility for its own security as the rules-based international order erodes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T16:30:53Z",
+      "sourceCount": "50 sources"
+    },
+    {
+      "title": "Warsh assures senators Trump won’t dictate Fed policy on rates",
+      "url": "https://www.perplexity.ai/page/warsh-assures-senators-trump-w-7tI41q.eRWebmcwwjVMT_Q",
+      "description": "Trump's Fed chair nominee testified he was never asked to commit to rate cuts, but a GOP senator's hold over the Powell probe clouds his path.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T16:38:39Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Russia's oil output drops most in six years after Ukraine drone strikes",
+      "url": "https://www.perplexity.ai/page/russia-s-oil-output-drops-most-CilcKvkrTeGVIGpRmZ31.Q",
+      "description": "Ukrainian attacks on Baltic and Black Sea ports and refineries forced a production cut of 300,000-400,000 barrels per day in April, according to Reuters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T15:04:03Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "UNESCO report finds its sites sheltering 60% of mapped species",
       "url": "https://www.perplexity.ai/page/unesco-report-finds-its-sites-q3x1rCj2QW.utDaNmlcvYQ",
       "description": "The first comprehensive assessment of all 2,260-plus UNESCO-designated sites found wildlife populations there held steady despite a 73% global decline.",
@@ -8,6 +62,24 @@
       "topic": "top",
       "pubDate": "2026-04-21T14:32:05Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Trump says Iran ceasefire extension 'highly unlikely' as deadline looms",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-ceasefire-exte-77y.fJ9UTeuulSd0QgiL1w",
+      "description": "VP Vance is heading to Pakistan for a second round of talks, but Iran's participation remains uncertain with the truce set to expire Wednesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T14:14:38Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "SPLC says DOJ opened criminal probe over paid informants",
+      "url": "https://www.perplexity.ai/page/splc-says-doj-opened-criminal-pJNMl8wcSK6WtAeo1ZgYLA",
+      "description": "The civil rights organization disclosed Tuesday it faces possible charges tied to its use of confidential informants to infiltrate extremist groups.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-21T14:09:16Z",
+      "sourceCount": "99 sources"
     },
     {
       "title": "FBI, House Oversight launch parallel probes into missing and dead scientists",
@@ -208,15 +280,6 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "White House says US ready to back UAE financially amid Iran war",
-      "url": "https://www.perplexity.ai/page/white-house-says-us-ready-to-b-.HlKjdB1QTK0oxJIjyWKRw",
-      "description": "The UAE has discussed a currency swap line with the Fed and Treasury, warning it may shift oil sales to yuan if dollars dry up.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T15:26:27Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "FBI Director Patel sues The Atlantic for $250M over report on drinking",
       "url": "https://www.perplexity.ai/page/fbi-director-patel-sues-the-at-Y.buIYVkSROfxFPWEIOJFQ",
       "description": "The defamation lawsuit, filed Monday in D.C. federal court, alleges the magazine published false claims about his conduct with \"actual malice.\"",
@@ -235,13 +298,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump to consider lifting Hormuz blockade after Pakistan army chief's call",
-      "url": "https://www.perplexity.ai/page/trump-to-consider-lifting-horm-zUWRo3z_RvOIEqcLKdFdyg",
-      "description": "Pakistan's Munir told Trump the U.S. naval blockade of Iranian ports was blocking peace talks, as a ceasefire nears expiration Wednesday.",
+      "title": "Expert says Trump's Iran nuclear claim is 'just not true'",
+      "url": "https://www.perplexity.ai/page/expert-says-trump-s-iran-nucle-3_ixj42bSGi1qD3C0pcU_w",
+      "description": "Harvard nuclear adviser told 60 Minutes that Iran still has enough enriched uranium for 10 to 11 bombs despite U.S. and Israeli strikes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-20T14:53:22Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-20T13:30:46Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Supreme Court to hear Catholic preschools' challenge to Colorado LGBTQ nondiscrimination rules",
@@ -253,21 +316,12 @@
       "sourceCount": "47 sources"
     },
     {
-      "title": "Eni announces giant gas discovery offshore Indonesia",
-      "url": "https://www.perplexity.ai/page/eni-announces-giant-gas-discov-5pMnucm0TaOYq07EnfkDeA",
-      "description": "The Geliga-1 well in the Kutei Basin holds an estimated 5 trillion cubic feet of gas and 300 million barrels of condensate.",
+      "title": "UAE warns it may settle oil trades in yuan without US dollar backstop",
+      "url": "https://www.perplexity.ai/page/uae-warns-it-may-settle-oil-tr-Wof1A6vbScKEjj305O7jHg",
+      "description": "Abu Dhabi told Washington the Iran war has strained its reserves, and without a Fed swap line, it could pivot energy sales to Chinese currency.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-20T10:09:31Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Expert says Trump's Iran nuclear claim is 'just not true'",
-      "url": "https://www.perplexity.ai/page/expert-says-trump-s-iran-nucle-3_ixj42bSGi1qD3C0pcU_w",
-      "description": "Harvard nuclear adviser told 60 Minutes that Iran still has enough enriched uranium for 10 to 11 bombs despite U.S. and Israeli strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T13:30:46Z",
+      "pubDate": "2026-04-20T12:43:22Z",
       "sourceCount": "15 sources"
     },
     {
@@ -278,6 +332,15 @@
       "topic": "top",
       "pubDate": "2026-04-20T12:29:39Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Eni announces giant gas discovery offshore Indonesia",
+      "url": "https://www.perplexity.ai/page/eni-announces-giant-gas-discov-5pMnucm0TaOYq07EnfkDeA",
+      "description": "The Geliga-1 well in the Kutei Basin holds an estimated 5 trillion cubic feet of gas and 300 million barrels of condensate.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-20T10:09:31Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
@@ -296,15 +359,6 @@
       "topic": "top",
       "pubDate": "2026-04-20T05:47:41Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Second round of US-Iran talks set to begin amid uranium standoff",
-      "url": "https://www.perplexity.ai/page/second-round-of-us-iran-talks-2eyjb638Q_25lAyeiUBkog",
-      "description": "A ceasefire expiration on April 22 looms as Tehran has not confirmed participation in Monday's Islamabad negotiations over its nuclear stockpile.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T10:04:08Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "U.S. strike on alleged drug boat kills 3, raising toll to 181",
@@ -1259,20 +1313,65 @@
       "topic": "top",
       "pubDate": "2026-04-14T22:11:51Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Greenpeace warns of 'catastrophic' collapse risk at Chernobyl",
-      "url": "https://www.perplexity.ai/page/greenpeace-warns-of-catastroph-cgKuIex5TyeEYya5KY9NZg",
-      "description": "A new report says the aging inner sarcophagus holds four tons of radioactive dust that could scatter if the unstable structure fails.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-14T11:51:32Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-21T15:20:12Z",
+  "cached_at": "2026-04-21T18:45:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Macron pledges support for Lebanon ahead of Israel talks",
+        "url": "https://www.perplexity.ai/page/macron-pledges-support-for-leb-gmADK1LwQmixhpgP7Px11Q",
+        "description": "France's president met Lebanese PM Nawaf Salam in Paris to bolster Beirut's position before Thursday's U.S.-hosted negotiations with Israel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T18:12:37Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump rejects cease-fire extension as Iran vows ‘no talks under threat’",
+        "url": "https://www.perplexity.ai/page/trump-rejects-cease-fire-exten-Z_CaxLpmTB6PO6E8dNx51w",
+        "description": "Tehran publicly rejected negotiations under pressure, though officials privately signal readiness to resume talks if Vance travels to Pakistan.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T17:03:16Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "NATO revives Cold War-era sub hunting as Russia pushes into Arctic",
+        "url": "https://www.perplexity.ai/page/nato-revives-cold-war-era-sub-BwIvOXK2QlyTofOQ_VX7VA",
+        "description": "Bloomberg reports that Russia's upgraded nuclear submarines are forcing NATO to overhaul anti-submarine warfare across the Arctic and North Atlantic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T16:41:37Z",
+        "sourceCount": "32 sources"
+      },
+      {
+        "title": "Dutch intelligence warns Chinese cyberattacks on West will intensify",
+        "url": "https://www.perplexity.ai/page/dutch-intelligence-warns-chine-Tz6UcVUwTV.8AKmETaPQAw",
+        "description": "The MIVD's 2025 annual report called on Europe to take greater responsibility for its own security as the rules-based international order erodes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T16:30:53Z",
+        "sourceCount": "50 sources"
+      },
+      {
+        "title": "Warsh assures senators Trump won’t dictate Fed policy on rates",
+        "url": "https://www.perplexity.ai/page/warsh-assures-senators-trump-w-7tI41q.eRWebmcwwjVMT_Q",
+        "description": "Trump's Fed chair nominee testified he was never asked to commit to rate cuts, but a GOP senator's hold over the Powell probe clouds his path.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T16:38:39Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Russia's oil output drops most in six years after Ukraine drone strikes",
+        "url": "https://www.perplexity.ai/page/russia-s-oil-output-drops-most-CilcKvkrTeGVIGpRmZ31.Q",
+        "description": "Ukrainian attacks on Baltic and Black Sea ports and refineries forced a production cut of 300,000-400,000 barrels per day in April, according to Reuters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T15:04:03Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "UNESCO report finds its sites sheltering 60% of mapped species",
         "url": "https://www.perplexity.ai/page/unesco-report-finds-its-sites-q3x1rCj2QW.utDaNmlcvYQ",
@@ -1281,6 +1380,24 @@
         "topic": "top",
         "pubDate": "2026-04-21T14:32:05Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Trump says Iran ceasefire extension 'highly unlikely' as deadline looms",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-ceasefire-exte-77y.fJ9UTeuulSd0QgiL1w",
+        "description": "VP Vance is heading to Pakistan for a second round of talks, but Iran's participation remains uncertain with the truce set to expire Wednesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T14:14:38Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "SPLC says DOJ opened criminal probe over paid informants",
+        "url": "https://www.perplexity.ai/page/splc-says-doj-opened-criminal-pJNMl8wcSK6WtAeo1ZgYLA",
+        "description": "The civil rights organization disclosed Tuesday it faces possible charges tied to its use of confidential informants to infiltrate extremist groups.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-21T14:09:16Z",
+        "sourceCount": "99 sources"
       },
       {
         "title": "FBI, House Oversight launch parallel probes into missing and dead scientists",
@@ -1481,15 +1598,6 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "White House says US ready to back UAE financially amid Iran war",
-        "url": "https://www.perplexity.ai/page/white-house-says-us-ready-to-b-.HlKjdB1QTK0oxJIjyWKRw",
-        "description": "The UAE has discussed a currency swap line with the Fed and Treasury, warning it may shift oil sales to yuan if dollars dry up.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T15:26:27Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "FBI Director Patel sues The Atlantic for $250M over report on drinking",
         "url": "https://www.perplexity.ai/page/fbi-director-patel-sues-the-at-Y.buIYVkSROfxFPWEIOJFQ",
         "description": "The defamation lawsuit, filed Monday in D.C. federal court, alleges the magazine published false claims about his conduct with \"actual malice.\"",
@@ -1508,13 +1616,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump to consider lifting Hormuz blockade after Pakistan army chief's call",
-        "url": "https://www.perplexity.ai/page/trump-to-consider-lifting-horm-zUWRo3z_RvOIEqcLKdFdyg",
-        "description": "Pakistan's Munir told Trump the U.S. naval blockade of Iranian ports was blocking peace talks, as a ceasefire nears expiration Wednesday.",
+        "title": "Expert says Trump's Iran nuclear claim is 'just not true'",
+        "url": "https://www.perplexity.ai/page/expert-says-trump-s-iran-nucle-3_ixj42bSGi1qD3C0pcU_w",
+        "description": "Harvard nuclear adviser told 60 Minutes that Iran still has enough enriched uranium for 10 to 11 bombs despite U.S. and Israeli strikes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-20T14:53:22Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-20T13:30:46Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Supreme Court to hear Catholic preschools' challenge to Colorado LGBTQ nondiscrimination rules",
@@ -1526,21 +1634,12 @@
         "sourceCount": "47 sources"
       },
       {
-        "title": "Eni announces giant gas discovery offshore Indonesia",
-        "url": "https://www.perplexity.ai/page/eni-announces-giant-gas-discov-5pMnucm0TaOYq07EnfkDeA",
-        "description": "The Geliga-1 well in the Kutei Basin holds an estimated 5 trillion cubic feet of gas and 300 million barrels of condensate.",
+        "title": "UAE warns it may settle oil trades in yuan without US dollar backstop",
+        "url": "https://www.perplexity.ai/page/uae-warns-it-may-settle-oil-tr-Wof1A6vbScKEjj305O7jHg",
+        "description": "Abu Dhabi told Washington the Iran war has strained its reserves, and without a Fed swap line, it could pivot energy sales to Chinese currency.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-20T10:09:31Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Expert says Trump's Iran nuclear claim is 'just not true'",
-        "url": "https://www.perplexity.ai/page/expert-says-trump-s-iran-nucle-3_ixj42bSGi1qD3C0pcU_w",
-        "description": "Harvard nuclear adviser told 60 Minutes that Iran still has enough enriched uranium for 10 to 11 bombs despite U.S. and Israeli strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T13:30:46Z",
+        "pubDate": "2026-04-20T12:43:22Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1551,6 +1650,15 @@
         "topic": "top",
         "pubDate": "2026-04-20T12:29:39Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Eni announces giant gas discovery offshore Indonesia",
+        "url": "https://www.perplexity.ai/page/eni-announces-giant-gas-discov-5pMnucm0TaOYq07EnfkDeA",
+        "description": "The Geliga-1 well in the Kutei Basin holds an estimated 5 trillion cubic feet of gas and 300 million barrels of condensate.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-20T10:09:31Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
@@ -1569,15 +1677,6 @@
         "topic": "top",
         "pubDate": "2026-04-20T05:47:41Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Second round of US-Iran talks set to begin amid uranium standoff",
-        "url": "https://www.perplexity.ai/page/second-round-of-us-iran-talks-2eyjb638Q_25lAyeiUBkog",
-        "description": "A ceasefire expiration on April 22 looms as Tehran has not confirmed participation in Monday's Islamabad negotiations over its nuclear stockpile.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T10:04:08Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "U.S. strike on alleged drug boat kills 3, raising toll to 181",
@@ -2532,15 +2631,6 @@
         "topic": "top",
         "pubDate": "2026-04-14T22:11:51Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Greenpeace warns of 'catastrophic' collapse risk at Chernobyl",
-        "url": "https://www.perplexity.ai/page/greenpeace-warns-of-catastroph-cgKuIex5TyeEYya5KY9NZg",
-        "description": "A new report says the aging inner sarcophagus holds four tons of radioactive dust that could scatter if the unstable structure fails.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-14T11:51:32Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
