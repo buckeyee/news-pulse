@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Virginia voters narrowly approve redistricting amendment",
+      "url": "https://www.perplexity.ai/page/virginia-voters-narrowly-appro-CVSyAO1zSRSRNWSpTdnfEw",
+      "description": "The Democrat-backed measure lets the General Assembly bypass the bipartisan redistricting commission and redraw congressional maps before November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T02:09:03Z",
+      "sourceCount": "16 sources"
+    },
+    {
+      "title": "Trump's White House ballroom contract reveals anonymous donor protections",
+      "url": "https://www.perplexity.ai/page/trump-s-white-house-ballroom-c-v4UlNHhNTPCWAW3AjfXlYA",
+      "description": "The agreement, released after a court-ordered FOIA disclosure, exempts the White House from conflict of interest reviews governing the $400 million project.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T01:50:28Z",
+      "sourceCount": "64 sources"
+    },
+    {
+      "title": "US burned through half its missile stocks in Iran war, analysis finds",
+      "url": "https://www.perplexity.ai/page/us-burned-through-half-its-mis-jCNYOIB4QVOkUEJqAou5Vg",
+      "description": "A new report warns rebuilding depleted inventories will take years, leaving the U.S. vulnerable in the Western Pacific against China.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T01:09:37Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Fifth Circuit upholds Texas Ten Commandments classroom law",
+      "url": "https://www.perplexity.ai/page/fifth-circuit-upholds-texas-te-.d8TTEicQX6mz.VH9pBEcA",
+      "description": "The 9-8 en banc ruling reverses a lower court injunction, and civil rights groups say they will ask the Supreme Court to intervene.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T00:13:49Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Trump's economic approval drops to 30% as Iran war fuels inflation",
       "url": "https://www.perplexity.ai/page/trump-s-economic-approval-drop-oVoqivRBT1271UvdOcdNVw",
       "description": "An AP-NORC poll found only 33% of adults approve of his overall job performance, with Republican support also declining sharply.",
@@ -142,15 +178,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-21T14:06:50Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Virginians vote on redistricting amendment that could flip House seats",
-      "url": "https://www.perplexity.ai/page/virginians-vote-on-redistricti-3JNY8Fl5RWi36M_YQEtG9Q",
-      "description": "The nearly $100 million special election will decide whether Democrats can redraw congressional maps to favor their party in 10 of 11 districts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T13:46:03Z",
       "sourceCount": "29 sources"
     },
     {
@@ -1279,9 +1306,45 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-22T00:00:23Z",
+  "cached_at": "2026-04-22T03:36:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Virginia voters narrowly approve redistricting amendment",
+        "url": "https://www.perplexity.ai/page/virginia-voters-narrowly-appro-CVSyAO1zSRSRNWSpTdnfEw",
+        "description": "The Democrat-backed measure lets the General Assembly bypass the bipartisan redistricting commission and redraw congressional maps before November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T02:09:03Z",
+        "sourceCount": "16 sources"
+      },
+      {
+        "title": "Trump's White House ballroom contract reveals anonymous donor protections",
+        "url": "https://www.perplexity.ai/page/trump-s-white-house-ballroom-c-v4UlNHhNTPCWAW3AjfXlYA",
+        "description": "The agreement, released after a court-ordered FOIA disclosure, exempts the White House from conflict of interest reviews governing the $400 million project.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T01:50:28Z",
+        "sourceCount": "64 sources"
+      },
+      {
+        "title": "US burned through half its missile stocks in Iran war, analysis finds",
+        "url": "https://www.perplexity.ai/page/us-burned-through-half-its-mis-jCNYOIB4QVOkUEJqAou5Vg",
+        "description": "A new report warns rebuilding depleted inventories will take years, leaving the U.S. vulnerable in the Western Pacific against China.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T01:09:37Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Fifth Circuit upholds Texas Ten Commandments classroom law",
+        "url": "https://www.perplexity.ai/page/fifth-circuit-upholds-texas-te-.d8TTEicQX6mz.VH9pBEcA",
+        "description": "The 9-8 en banc ruling reverses a lower court injunction, and civil rights groups say they will ask the Supreme Court to intervene.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T00:13:49Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Trump's economic approval drops to 30% as Iran war fuels inflation",
         "url": "https://www.perplexity.ai/page/trump-s-economic-approval-drop-oVoqivRBT1271UvdOcdNVw",
@@ -1424,15 +1487,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-21T14:06:50Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Virginians vote on redistricting amendment that could flip House seats",
-        "url": "https://www.perplexity.ai/page/virginians-vote-on-redistricti-3JNY8Fl5RWi36M_YQEtG9Q",
-        "description": "The nearly $100 million special election will decide whether Democrats can redraw congressional maps to favor their party in 10 of 11 districts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T13:46:03Z",
         "sourceCount": "29 sources"
       },
       {
