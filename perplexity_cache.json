@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Georgia Rep. David Scott dies at 80 after 50 years in office",
+      "url": "https://www.perplexity.ai/page/georgia-rep-david-scott-dies-a-klJSJFpPS6uCy7.6OC87Lg",
+      "description": "Scott, a 12-term Democrat representing the Atlanta area, becomes the fifth House member to die during the 119th Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T17:10:35Z",
+      "sourceCount": "52 sources"
+    },
+    {
       "title": "NASA marks Earth Day with Artemis II lunar photos",
       "url": "https://www.perplexity.ai/page/nasa-marks-earth-day-with-arte-cHIcgn9yROi5rZqFp.mGHQ",
       "description": "The agency released posters featuring the crew's \"Earthset\" image, captured as Orion passed behind the Moon's far side on April 6.",
@@ -505,15 +514,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Bessent pushes allies on Iran sanctions at IMF Spring Meetings",
-      "url": "https://www.perplexity.ai/page/bessent-pushes-allies-on-iran-zwxR2QkNR8mXx5kp6SNxSA",
-      "description": "The Treasury secretary held back-to-back talks with Canadian, South Korean, and Qatari finance officials while escalating financial pressure on Tehran's proxy networks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-19T22:23:08Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "FBI's Patel vows imminent arrests over 2020 election",
       "url": "https://www.perplexity.ai/page/fbi-s-patel-vows-imminent-arre-wRxfhGc4Q8CTog829mQfwQ",
       "description": "Michigan officials issued a joint statement Sunday rejecting DOJ demands for 2024 ballots, calling the effort election interference.",
@@ -523,15 +523,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Hamas signals readiness to hand over some weapons in Gaza",
-      "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
-      "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-19T21:18:19Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Blue Origin reuses New Glenn booster but puts satellite in wrong orbit",
       "url": "https://www.perplexity.ai/page/blue-origin-reuses-new-glenn-b-FBjnGj5oSmmYO9XreQz_DA",
       "description": "The NG-3 mission marked New Glenn's first booster reuse, but an upper stage issue left AST SpaceMobile's BlueBird 7 satellite off course.",
@@ -539,6 +530,15 @@
       "topic": "top",
       "pubDate": "2026-04-19T19:36:28Z",
       "sourceCount": "32 sources"
+    },
+    {
+      "title": "Hamas signals readiness to hand over some weapons in Gaza",
+      "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
+      "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-19T21:18:19Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Syrian billionaires invoked Trump name to help kill Caesar Act sanctions, NYT reports",
@@ -1259,29 +1259,20 @@
       "topic": "top",
       "pubDate": "2026-04-15T15:42:24Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "BBC to cut up to 2,000 jobs in sweeping overhaul",
-      "url": "https://www.perplexity.ai/page/bbc-to-cut-up-to-2000-jobs-in-wCLiFIUdRyGmqEZPbubC9w",
-      "description": "Staff are expected to be told that one in 10 roles face the axe as the corporation pushes to save roughly £500 million over three years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T15:01:35Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Pentagon sending 10,000 more troops to Middle East",
-      "url": "https://www.perplexity.ai/page/pentagon-sending-10000-more-tr-4SS0PYKDQomNHJse.N3XAQ",
-      "description": "The buildup will bring roughly 60,000 U.S. personnel to the region as the two-week Iran ceasefire nears its April 22 expiration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T16:54:12Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-22T17:01:13Z",
+  "cached_at": "2026-04-22T18:10:46Z",
   "topics": {
     "top": [
+      {
+        "title": "Georgia Rep. David Scott dies at 80 after 50 years in office",
+        "url": "https://www.perplexity.ai/page/georgia-rep-david-scott-dies-a-klJSJFpPS6uCy7.6OC87Lg",
+        "description": "Scott, a 12-term Democrat representing the Atlanta area, becomes the fifth House member to die during the 119th Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T17:10:35Z",
+        "sourceCount": "52 sources"
+      },
       {
         "title": "NASA marks Earth Day with Artemis II lunar photos",
         "url": "https://www.perplexity.ai/page/nasa-marks-earth-day-with-arte-cHIcgn9yROi5rZqFp.mGHQ",
@@ -1787,15 +1778,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Bessent pushes allies on Iran sanctions at IMF Spring Meetings",
-        "url": "https://www.perplexity.ai/page/bessent-pushes-allies-on-iran-zwxR2QkNR8mXx5kp6SNxSA",
-        "description": "The Treasury secretary held back-to-back talks with Canadian, South Korean, and Qatari finance officials while escalating financial pressure on Tehran's proxy networks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-19T22:23:08Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "FBI's Patel vows imminent arrests over 2020 election",
         "url": "https://www.perplexity.ai/page/fbi-s-patel-vows-imminent-arre-wRxfhGc4Q8CTog829mQfwQ",
         "description": "Michigan officials issued a joint statement Sunday rejecting DOJ demands for 2024 ballots, calling the effort election interference.",
@@ -1805,15 +1787,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Hamas signals readiness to hand over some weapons in Gaza",
-        "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
-        "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-19T21:18:19Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Blue Origin reuses New Glenn booster but puts satellite in wrong orbit",
         "url": "https://www.perplexity.ai/page/blue-origin-reuses-new-glenn-b-FBjnGj5oSmmYO9XreQz_DA",
         "description": "The NG-3 mission marked New Glenn's first booster reuse, but an upper stage issue left AST SpaceMobile's BlueBird 7 satellite off course.",
@@ -1821,6 +1794,15 @@
         "topic": "top",
         "pubDate": "2026-04-19T19:36:28Z",
         "sourceCount": "32 sources"
+      },
+      {
+        "title": "Hamas signals readiness to hand over some weapons in Gaza",
+        "url": "https://www.perplexity.ai/page/hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
+        "description": "Two officials told The New York Times the group would surrender police and security weapons, but its military wing's arsenal remains untouched.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-19T21:18:19Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Syrian billionaires invoked Trump name to help kill Caesar Act sanctions, NYT reports",
@@ -2541,24 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-04-15T15:42:24Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "BBC to cut up to 2,000 jobs in sweeping overhaul",
-        "url": "https://www.perplexity.ai/page/bbc-to-cut-up-to-2000-jobs-in-wCLiFIUdRyGmqEZPbubC9w",
-        "description": "Staff are expected to be told that one in 10 roles face the axe as the corporation pushes to save roughly £500 million over three years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T15:01:35Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Pentagon sending 10,000 more troops to Middle East",
-        "url": "https://www.perplexity.ai/page/pentagon-sending-10000-more-tr-4SS0PYKDQomNHJse.N3XAQ",
-        "description": "The buildup will bring roughly 60,000 U.S. personnel to the region as the two-week Iran ceasefire nears its April 22 expiration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T16:54:12Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
