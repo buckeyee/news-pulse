@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "EU ambassadors set to approve €90bn loan for Ukraine",
+      "url": "https://www.perplexity.ai/page/eu-ambassadors-set-to-approve-Fe4XQ6n9T3SotWyzRgLBug",
+      "description": "The vote Wednesday in Brussels follows Hungary's withdrawal of its veto after the Druzhba pipeline's restoration cleared the final obstacle.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T12:14:23Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "JWST detects water ice clouds on Jupiter-like exoplanet",
       "url": "https://www.perplexity.ai/page/jwst-detects-water-ice-clouds-d9WVqEoyT1WcPVQrJ8fpeQ",
       "description": "Thick, patchy clouds resembling Earth's cirrus were found on Epsilon Indi Ab, just 12 light-years away, challenging standard exoplanet atmosphere models.",
@@ -1306,9 +1315,18 @@
       "sourceCount": "136 sources"
     }
   ],
-  "cached_at": "2026-04-22T11:45:05Z",
+  "cached_at": "2026-04-22T12:50:09Z",
   "topics": {
     "top": [
+      {
+        "title": "EU ambassadors set to approve €90bn loan for Ukraine",
+        "url": "https://www.perplexity.ai/page/eu-ambassadors-set-to-approve-Fe4XQ6n9T3SotWyzRgLBug",
+        "description": "The vote Wednesday in Brussels follows Hungary's withdrawal of its veto after the Druzhba pipeline's restoration cleared the final obstacle.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T12:14:23Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "JWST detects water ice clouds on Jupiter-like exoplanet",
         "url": "https://www.perplexity.ai/page/jwst-detects-water-ice-clouds-d9WVqEoyT1WcPVQrJ8fpeQ",
