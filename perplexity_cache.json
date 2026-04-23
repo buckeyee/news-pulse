@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "IDF removes 40 Israeli settlers who crossed into Syria",
+      "url": "https://www.perplexity.ai/page/idf-removes-40-israeli-settler-0lNJaMmQT7eSkM8jN6aDPw",
+      "description": "The far-right Pioneers of Bashan group barricaded themselves on a rooftop in a Syrian village, demanding approval for Jewish settlements.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T01:22:10Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "White House says Iran ship seizures don't breach ceasefire",
+      "url": "https://www.perplexity.ai/page/white-house-says-iran-ship-sei-Cr47uIxvQaWp5fjPoAExHg",
+      "description": "Iran's IRGC seized two commercial vessels in the Strait of Hormuz on Wednesday, but the White House insisted the incident does not violate the extended U.S.-Iran truce.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T01:17:11Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Study links 988 hotline to 4,400 fewer youth suicides",
+      "url": "https://www.perplexity.ai/page/study-links-988-hotline-to-440-lRXygsqqRc.fA56nB.p7pg",
+      "description": "Harvard researchers found suicide deaths among young Americans fell 11% below projections in the first two and a half years after the crisis line launched.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T01:17:00Z",
+      "sourceCount": "54 sources"
+    },
+    {
       "title": "Israeli airstrike kills journalist in southern Lebanon",
       "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
       "description": "Lebanese PM Nawaf Salam called the killing of Al-Akhbar reporter Amal Khalil a \"blatant war crime\" and vowed to pursue legal action.",
@@ -1295,65 +1322,38 @@
       "topic": "top",
       "pubDate": "2026-04-16T02:07:49Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Brazil's ex-spy chief freed from ICE custody in US",
-      "url": "https://www.perplexity.ai/page/brazil-s-ex-spy-chief-freed-fr-TsI976KGTyaLcN40r9a47g",
-      "description": "Alexandre Ramagem, a fugitive convicted in Brazil's coup plot, was released Wednesday just two days after ICE detained him in Orlando.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T01:03:12Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
-      "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
-      "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T18:03:43Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Pentagon asks automakers, manufacturers to help produce weapons",
-      "url": "https://www.perplexity.ai/page/pentagon-asks-automakers-manuf-tuNh060DTI2AQj7EnWhPiA",
-      "description": "Defense officials are exploring whether automakers and other commercial manufacturers can help scale munitions output, the WSJ reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T00:03:28Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Attorney says ICE detainee faces death risk after denied medical care in Texas",
-      "url": "https://www.perplexity.ai/page/attorney-says-ice-detainee-fac-50RdpzySTyORwUX5Muwsiw",
-      "description": "Hayam El Gamal, a mother of five held at a Dilley, Texas, facility for over 300 days, was rushed to an ER after a CT scan found a mass near her heart.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T02:44:54Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
-      "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
-      "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T13:54:31Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Bukele enacts life sentences for minors as young as 12",
-      "url": "https://www.perplexity.ai/page/bukele-enacts-life-sentences-f-VrzQbsP1TkGDbm3Y8EIIzA",
-      "description": "The reforms, set to take effect April 26, eliminate special juvenile legal procedures and mandate life imprisonment for homicide, terrorism, and rape.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T23:49:50Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-04-23T01:10:44Z",
+  "cached_at": "2026-04-23T04:23:15Z",
   "topics": {
     "top": [
+      {
+        "title": "IDF removes 40 Israeli settlers who crossed into Syria",
+        "url": "https://www.perplexity.ai/page/idf-removes-40-israeli-settler-0lNJaMmQT7eSkM8jN6aDPw",
+        "description": "The far-right Pioneers of Bashan group barricaded themselves on a rooftop in a Syrian village, demanding approval for Jewish settlements.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T01:22:10Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "White House says Iran ship seizures don't breach ceasefire",
+        "url": "https://www.perplexity.ai/page/white-house-says-iran-ship-sei-Cr47uIxvQaWp5fjPoAExHg",
+        "description": "Iran's IRGC seized two commercial vessels in the Strait of Hormuz on Wednesday, but the White House insisted the incident does not violate the extended U.S.-Iran truce.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T01:17:11Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Study links 988 hotline to 4,400 fewer youth suicides",
+        "url": "https://www.perplexity.ai/page/study-links-988-hotline-to-440-lRXygsqqRc.fA56nB.p7pg",
+        "description": "Harvard researchers found suicide deaths among young Americans fell 11% below projections in the first two and a half years after the crisis line launched.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T01:17:00Z",
+        "sourceCount": "54 sources"
+      },
       {
         "title": "Israeli airstrike kills journalist in southern Lebanon",
         "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
@@ -2649,60 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-04-16T02:07:49Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Brazil's ex-spy chief freed from ICE custody in US",
-        "url": "https://www.perplexity.ai/page/brazil-s-ex-spy-chief-freed-fr-TsI976KGTyaLcN40r9a47g",
-        "description": "Alexandre Ramagem, a fugitive convicted in Brazil's coup plot, was released Wednesday just two days after ICE detained him in Orlando.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T01:03:12Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Cuba's Diaz-Canel vows to fight any US attack as Pentagon ramps up planning",
-        "url": "https://www.perplexity.ai/page/cuba-s-diaz-canel-vows-to-figh-K2_t0YkTTFeZU2J_XZdkMg",
-        "description": "The Cuban president urged his nation to prepare for possible military aggression, days after Trump suggested the U.S. could turn to Cuba after the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T18:03:43Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Pentagon asks automakers, manufacturers to help produce weapons",
-        "url": "https://www.perplexity.ai/page/pentagon-asks-automakers-manuf-tuNh060DTI2AQj7EnWhPiA",
-        "description": "Defense officials are exploring whether automakers and other commercial manufacturers can help scale munitions output, the WSJ reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T00:03:28Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Attorney says ICE detainee faces death risk after denied medical care in Texas",
-        "url": "https://www.perplexity.ai/page/attorney-says-ice-detainee-fac-50RdpzySTyORwUX5Muwsiw",
-        "description": "Hayam El Gamal, a mother of five held at a Dilley, Texas, facility for over 300 days, was rushed to an ER after a CT scan found a mass near her heart.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T02:44:54Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "Pope Leo decries world 'ravaged by tyrants' amid feud with Trump",
-        "url": "https://www.perplexity.ai/page/pope-leo-decries-world-ravaged-OYOxQ4LPTf.RlFEL6ta4eg",
-        "description": "Speaking in conflict-scarred Bamenda, Cameroon, the first American pope condemned leaders who exploit religion to justify wars.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T13:54:31Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Bukele enacts life sentences for minors as young as 12",
-        "url": "https://www.perplexity.ai/page/bukele-enacts-life-sentences-f-VrzQbsP1TkGDbm3Y8EIIzA",
-        "description": "The reforms, set to take effect April 26, eliminate special juvenile legal procedures and mandate life imprisonment for homicide, terrorism, and rape.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T23:49:50Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
