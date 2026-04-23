@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "USDA begins decommissioning flagship research center, shifts food safety hub to Iowa",
-      "url": "https://www.perplexity.ai/page/usda-begins-decommissioning-fl-XREQKgsGRgOKgOZVHS0Tyg",
-      "description": "The department announced two major restructurings Wednesday, relocating researchers to land-grant universities and establishing a new food safety center.",
+      "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
+      "url": "https://www.perplexity.ai/page/doj-targets-384-citizens-for-d-cWAlLWl7SPGSAkviP6QxTg",
+      "description": "Prosecutors in 39 regional offices will pursue citizenship revocation cases, a sharp escalation from the historical average of 11 cases per year.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-23T17:31:53Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-04-23T18:11:40Z",
+      "sourceCount": "21 sources"
+    },
+    {
+      "title": "Meta to cut 8,000 jobs starting May 20, more layoffs planned for 2026",
+      "url": "https://www.perplexity.ai/page/meta-to-cut-8000-jobs-starting-D5ducnKDSqi1he3vU8IBmA",
+      "description": "The first wave targets about 10% of Meta's global workforce as the company pivots toward AI and away from divisions like Reality Labs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T18:00:45Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Wall Street slips from record highs as oil tops $103",
+      "url": "https://www.perplexity.ai/page/wall-street-slips-from-record-Ct3MPta8Rd6eLQ1WGusWAg",
+      "description": "The S&P 500 and Nasdaq pulled back Thursday as Strait of Hormuz disruptions pushed Brent crude higher and U.S.-Iran peace talks stalled.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T17:58:51Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "DOJ inspector general opens audit of Epstein files compliance",
@@ -44,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-04-23T16:13:53Z",
       "sourceCount": "22 sources"
+    },
+    {
+      "title": "Microsoft offers first voluntary buyout in its 51-year history",
+      "url": "https://www.perplexity.ai/page/microsoft-offers-first-volunta-m1cKWzBhRgS.1RxsQoe2mw",
+      "description": "About 7% of U.S. employees are eligible for the retirement packages as the company continues reshaping its workforce around AI.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T15:39:39Z",
+      "sourceCount": "104 sources"
     },
     {
       "title": "France probes weather sensor tampering tied to Polymarket bets",
@@ -323,15 +350,6 @@
       "topic": "top",
       "pubDate": "2026-04-22T19:26:24Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Pentagon says clearing Hormuz mines could take 6 months",
-      "url": "https://www.perplexity.ai/page/pentagon-says-clearing-hormuz-SmGBbWF_RjiC.PmcFcVtIA",
-      "description": "The assessment, shared in a classified briefing to Congress on Monday, undercuts weeks of optimistic rhetoric from the White House about reopening the strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T19:09:02Z",
-      "sourceCount": "51 sources"
     },
     {
       "title": "Google commits $750M to agentic AI, unveils new chips",
@@ -1234,17 +1252,35 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-23T17:48:47Z",
+  "cached_at": "2026-04-23T18:52:20Z",
   "topics": {
     "top": [
       {
-        "title": "USDA begins decommissioning flagship research center, shifts food safety hub to Iowa",
-        "url": "https://www.perplexity.ai/page/usda-begins-decommissioning-fl-XREQKgsGRgOKgOZVHS0Tyg",
-        "description": "The department announced two major restructurings Wednesday, relocating researchers to land-grant universities and establishing a new food safety center.",
+        "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
+        "url": "https://www.perplexity.ai/page/doj-targets-384-citizens-for-d-cWAlLWl7SPGSAkviP6QxTg",
+        "description": "Prosecutors in 39 regional offices will pursue citizenship revocation cases, a sharp escalation from the historical average of 11 cases per year.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-23T17:31:53Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-04-23T18:11:40Z",
+        "sourceCount": "21 sources"
+      },
+      {
+        "title": "Meta to cut 8,000 jobs starting May 20, more layoffs planned for 2026",
+        "url": "https://www.perplexity.ai/page/meta-to-cut-8000-jobs-starting-D5ducnKDSqi1he3vU8IBmA",
+        "description": "The first wave targets about 10% of Meta's global workforce as the company pivots toward AI and away from divisions like Reality Labs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T18:00:45Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Wall Street slips from record highs as oil tops $103",
+        "url": "https://www.perplexity.ai/page/wall-street-slips-from-record-Ct3MPta8Rd6eLQ1WGusWAg",
+        "description": "The S&P 500 and Nasdaq pulled back Thursday as Strait of Hormuz disruptions pushed Brent crude higher and U.S.-Iran peace talks stalled.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T17:58:51Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "DOJ inspector general opens audit of Epstein files compliance",
@@ -1281,6 +1317,15 @@
         "topic": "top",
         "pubDate": "2026-04-23T16:13:53Z",
         "sourceCount": "22 sources"
+      },
+      {
+        "title": "Microsoft offers first voluntary buyout in its 51-year history",
+        "url": "https://www.perplexity.ai/page/microsoft-offers-first-volunta-m1cKWzBhRgS.1RxsQoe2mw",
+        "description": "About 7% of U.S. employees are eligible for the retirement packages as the company continues reshaping its workforce around AI.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T15:39:39Z",
+        "sourceCount": "104 sources"
       },
       {
         "title": "France probes weather sensor tampering tied to Polymarket bets",
@@ -1560,15 +1605,6 @@
         "topic": "top",
         "pubDate": "2026-04-22T19:26:24Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Pentagon says clearing Hormuz mines could take 6 months",
-        "url": "https://www.perplexity.ai/page/pentagon-says-clearing-hormuz-SmGBbWF_RjiC.PmcFcVtIA",
-        "description": "The assessment, shared in a classified briefing to Congress on Monday, undercuts weeks of optimistic rhetoric from the White House about reopening the strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T19:09:02Z",
-        "sourceCount": "51 sources"
       },
       {
         "title": "Google commits $750M to agentic AI, unveils new chips",
