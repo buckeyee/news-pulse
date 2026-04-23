@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "FDA clears first gene therapy for inherited hearing loss",
+      "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
+      "description": "Regeneron says it will provide Otarmeni, which restored hearing in children born deaf, for free to eligible U.S. patients.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T19:32:41Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Iran war strains US ability to arm and defend Taiwan",
+      "url": "https://www.perplexity.ai/page/iran-war-strains-us-ability-to-jtJySKpgQKySpNHGhn40AQ",
+      "description": "A naval blockade, depleted munitions, and a stalled $14 billion arms deal are stretching Pentagon resources as China watches closely.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T18:58:57Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
       "url": "https://www.perplexity.ai/page/doj-targets-384-citizens-for-d-cWAlLWl7SPGSAkviP6QxTg",
       "description": "Prosecutors in 39 regional offices will pursue citizenship revocation cases, a sharp escalation from the historical average of 11 cases per year.",
@@ -557,15 +575,6 @@
       "topic": "top",
       "pubDate": "2026-04-21T16:30:53Z",
       "sourceCount": "50 sources"
-    },
-    {
-      "title": "Russia's oil output drops most in six years after Ukraine drone strikes",
-      "url": "https://www.perplexity.ai/page/russia-s-oil-output-drops-most-CilcKvkrTeGVIGpRmZ31.Q",
-      "description": "Ukrainian attacks on Baltic and Black Sea ports and refineries forced a production cut of 300,000-400,000 barrels per day in April, according to Reuters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T15:04:03Z",
-      "sourceCount": "41 sources"
     },
     {
       "title": "UNESCO report finds its sites sheltering 60% of mapped species",
@@ -1252,9 +1261,27 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-23T18:52:20Z",
+  "cached_at": "2026-04-23T20:09:25Z",
   "topics": {
     "top": [
+      {
+        "title": "FDA clears first gene therapy for inherited hearing loss",
+        "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
+        "description": "Regeneron says it will provide Otarmeni, which restored hearing in children born deaf, for free to eligible U.S. patients.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T19:32:41Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Iran war strains US ability to arm and defend Taiwan",
+        "url": "https://www.perplexity.ai/page/iran-war-strains-us-ability-to-jtJySKpgQKySpNHGhn40AQ",
+        "description": "A naval blockade, depleted munitions, and a stalled $14 billion arms deal are stretching Pentagon resources as China watches closely.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T18:58:57Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
         "url": "https://www.perplexity.ai/page/doj-targets-384-citizens-for-d-cWAlLWl7SPGSAkviP6QxTg",
@@ -1812,15 +1839,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T16:30:53Z",
         "sourceCount": "50 sources"
-      },
-      {
-        "title": "Russia's oil output drops most in six years after Ukraine drone strikes",
-        "url": "https://www.perplexity.ai/page/russia-s-oil-output-drops-most-CilcKvkrTeGVIGpRmZ31.Q",
-        "description": "Ukrainian attacks on Baltic and Black Sea ports and refineries forced a production cut of 300,000-400,000 barrels per day in April, according to Reuters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T15:04:03Z",
-        "sourceCount": "41 sources"
       },
       {
         "title": "UNESCO report finds its sites sheltering 60% of mapped species",
