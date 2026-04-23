@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "SpaceX reveals in-house GPU plans in pre-IPO filing",
+      "url": "https://www.perplexity.ai/page/spacex-reveals-in-house-gpu-pl-ghuuaMUvRJi2YgohXrUvLw",
+      "description": "The company flagged chip supply risks and \"substantial capital expenditures\" for AI hardware as it prepares for a potential record-setting public offering.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T07:56:56Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Nuclear leaders convene in Busan, framing reactors as AI-era infrastructure",
       "url": "https://www.perplexity.ai/page/nuclear-leaders-convene-in-bus-NeBHc8v7RC6qyGqEVi4faA",
       "description": "Some 19,000 participants from 19 countries gathered in South Korea this week to discuss nuclear power's role in meeting surging AI electricity demand.",
@@ -1288,9 +1297,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-23T06:23:13Z",
+  "cached_at": "2026-04-23T08:19:11Z",
   "topics": {
     "top": [
+      {
+        "title": "SpaceX reveals in-house GPU plans in pre-IPO filing",
+        "url": "https://www.perplexity.ai/page/spacex-reveals-in-house-gpu-pl-ghuuaMUvRJi2YgohXrUvLw",
+        "description": "The company flagged chip supply risks and \"substantial capital expenditures\" for AI hardware as it prepares for a potential record-setting public offering.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T07:56:56Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Nuclear leaders convene in Busan, framing reactors as AI-era infrastructure",
         "url": "https://www.perplexity.ai/page/nuclear-leaders-convene-in-bus-NeBHc8v7RC6qyGqEVi4faA",
