@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Israeli airstrike kills journalist in southern Lebanon",
+      "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
+      "description": "Lebanese PM Nawaf Salam called the killing of Al-Akhbar reporter Amal Khalil a \"blatant war crime\" and vowed to pursue legal action.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T00:31:47Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "House panel split over pardoning Maxwell for Epstein testimony",
+      "url": "https://www.perplexity.ai/page/house-panel-split-over-pardoni-LouvBgvSQDGgOu7CGAQQBw",
+      "description": "Chairman Comer said some Republicans favor a clemency deal, but he opposes it, calling Maxwell \"the worst person\" after Epstein.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T23:58:51Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Senate defeats fifth bid to curb Trump's war powers on Iran",
       "url": "https://www.perplexity.ai/page/senate-defeats-fifth-bid-to-cu-uO4yyK.fRf6.Jo_N5lMqMA",
       "description": "Democrats vowed weekly votes as the conflict's 60-day War Powers Act deadline nears May 1, raising pressure on Republicans to act.",
@@ -8,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-22T23:16:06Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Israeli airstrike kills 5 near mosque in northern Gaza",
+      "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-5-near-7aNC7N29Q0KIv1jGOthFjQ",
+      "description": "Three children were among those killed in Beit Lahia, Gaza's civil defense said, as violence persists despite the October ceasefire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T00:06:49Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "US military seizes three Iranian oil tankers in Asian waters",
@@ -19,15 +46,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Virginia judge blocks certification of redistricting vote",
-      "url": "https://www.perplexity.ai/page/virginia-judge-blocks-certific-TQ8_1g08RmWJ1aw1RfwHHg",
-      "description": "A circuit court ruled the voter-approved referendum unconstitutional. Attorney General Jay Jones says the state will appeal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T22:13:11Z",
-      "sourceCount": "33 sources"
-    },
-    {
       "title": "Iran denies Trump's claim he stopped execution of eight women",
       "url": "https://www.perplexity.ai/page/iran-denies-trump-s-claim-he-s-rUgnuJr3SXaH_oI.1O566Q",
       "description": "Trump said Iran halted plans to execute eight female protesters at his request, but Tehran's judiciary called the assertion \"fake news.\"",
@@ -35,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-04-22T23:05:14Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Virginia judge blocks certification of redistricting vote",
+      "url": "https://www.perplexity.ai/page/virginia-judge-blocks-certific-TQ8_1g08RmWJ1aw1RfwHHg",
+      "description": "A circuit court ruled the voter-approved referendum unconstitutional. Attorney General Jay Jones says the state will appeal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T22:13:11Z",
+      "sourceCount": "33 sources"
     },
     {
       "title": "UK to pay France £660M in new deal to curb Channel crossings",
@@ -46,15 +73,6 @@
       "sourceCount": "85 sources"
     },
     {
-      "title": "Navy Secretary Phelan resigns amid Hormuz blockade",
-      "url": "https://www.perplexity.ai/page/navy-secretary-phelan-resigns-pRinXVqTRMy5fu_opZcRjg",
-      "description": "The Pentagon announced the abrupt departure Wednesday with no explanation, as the Navy oversees its largest deployment in years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T21:51:03Z",
-      "sourceCount": "63 sources"
-    },
-    {
       "title": "FBI investigated NYT reporter who covered Patel's girlfriend",
       "url": "https://www.perplexity.ai/page/fbi-investigated-nyt-reporter-nJQhcxYaRiuDjPdJIk0VVA",
       "description": "The probe into reporter Elizabeth Williamson began after she detailed how FBI Director Kash Patel used bureau personnel to escort his girlfriend to events and errands.",
@@ -62,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-04-22T21:41:55Z",
       "sourceCount": "160 sources"
+    },
+    {
+      "title": "Navy Secretary Phelan resigns amid Hormuz blockade",
+      "url": "https://www.perplexity.ai/page/navy-secretary-phelan-resigns-pRinXVqTRMy5fu_opZcRjg",
+      "description": "The Pentagon announced the abrupt departure Wednesday with no explanation, as the Navy oversees its largest deployment in years.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-22T21:51:03Z",
+      "sourceCount": "63 sources"
     },
     {
       "title": "Chemical leak at West Virginia plant kills 2, sends 19 to hospital",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-15T23:49:50Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "IDF chief approves new battle plans for Iran and Lebanon",
-      "url": "https://www.perplexity.ai/page/idf-chief-approves-new-battle-kwhXfji0Qoi7RfqLdt0QDw",
-      "description": "Lt. Gen. Eyal Zamir declared forces at \"very high readiness\" during a visit to southern Lebanon, saying targets are loaded for immediate strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T21:06:24Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Artemis II crew returns to Houston after historic moon mission",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-returns-to-hou-R6NqKG9YTFWiFLsIQo0Gqw",
-      "description": "The four astronauts are back at Johnson Space Center as NASA reviews heat shield data and faces proposed budget cuts of nearly 23%.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T20:27:24Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Student kills 9 in Turkey's deadliest school shooting",
-      "url": "https://www.perplexity.ai/page/student-kills-9-in-turkey-s-de-rBMEW2EPQCGxRrnWWT.Ecw",
-      "description": "The attack at a middle school in Kahramanmaraş came just a day after a separate school shooting wounded 16 people in nearby Şanlıurfa province.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-15T19:45:31Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-04-22T23:29:15Z",
+  "cached_at": "2026-04-23T01:10:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Israeli airstrike kills journalist in southern Lebanon",
+        "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
+        "description": "Lebanese PM Nawaf Salam called the killing of Al-Akhbar reporter Amal Khalil a \"blatant war crime\" and vowed to pursue legal action.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T00:31:47Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "House panel split over pardoning Maxwell for Epstein testimony",
+        "url": "https://www.perplexity.ai/page/house-panel-split-over-pardoni-LouvBgvSQDGgOu7CGAQQBw",
+        "description": "Chairman Comer said some Republicans favor a clemency deal, but he opposes it, calling Maxwell \"the worst person\" after Epstein.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T23:58:51Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Senate defeats fifth bid to curb Trump's war powers on Iran",
         "url": "https://www.perplexity.ai/page/senate-defeats-fifth-bid-to-cu-uO4yyK.fRf6.Jo_N5lMqMA",
@@ -1362,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-04-22T23:16:06Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Israeli airstrike kills 5 near mosque in northern Gaza",
+        "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-5-near-7aNC7N29Q0KIv1jGOthFjQ",
+        "description": "Three children were among those killed in Beit Lahia, Gaza's civil defense said, as violence persists despite the October ceasefire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T00:06:49Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "US military seizes three Iranian oil tankers in Asian waters",
@@ -1373,15 +1400,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Virginia judge blocks certification of redistricting vote",
-        "url": "https://www.perplexity.ai/page/virginia-judge-blocks-certific-TQ8_1g08RmWJ1aw1RfwHHg",
-        "description": "A circuit court ruled the voter-approved referendum unconstitutional. Attorney General Jay Jones says the state will appeal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T22:13:11Z",
-        "sourceCount": "33 sources"
-      },
-      {
         "title": "Iran denies Trump's claim he stopped execution of eight women",
         "url": "https://www.perplexity.ai/page/iran-denies-trump-s-claim-he-s-rUgnuJr3SXaH_oI.1O566Q",
         "description": "Trump said Iran halted plans to execute eight female protesters at his request, but Tehran's judiciary called the assertion \"fake news.\"",
@@ -1389,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-04-22T23:05:14Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Virginia judge blocks certification of redistricting vote",
+        "url": "https://www.perplexity.ai/page/virginia-judge-blocks-certific-TQ8_1g08RmWJ1aw1RfwHHg",
+        "description": "A circuit court ruled the voter-approved referendum unconstitutional. Attorney General Jay Jones says the state will appeal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T22:13:11Z",
+        "sourceCount": "33 sources"
       },
       {
         "title": "UK to pay France £660M in new deal to curb Channel crossings",
@@ -1400,15 +1427,6 @@
         "sourceCount": "85 sources"
       },
       {
-        "title": "Navy Secretary Phelan resigns amid Hormuz blockade",
-        "url": "https://www.perplexity.ai/page/navy-secretary-phelan-resigns-pRinXVqTRMy5fu_opZcRjg",
-        "description": "The Pentagon announced the abrupt departure Wednesday with no explanation, as the Navy oversees its largest deployment in years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T21:51:03Z",
-        "sourceCount": "63 sources"
-      },
-      {
         "title": "FBI investigated NYT reporter who covered Patel's girlfriend",
         "url": "https://www.perplexity.ai/page/fbi-investigated-nyt-reporter-nJQhcxYaRiuDjPdJIk0VVA",
         "description": "The probe into reporter Elizabeth Williamson began after she detailed how FBI Director Kash Patel used bureau personnel to escort his girlfriend to events and errands.",
@@ -1416,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-04-22T21:41:55Z",
         "sourceCount": "160 sources"
+      },
+      {
+        "title": "Navy Secretary Phelan resigns amid Hormuz blockade",
+        "url": "https://www.perplexity.ai/page/navy-secretary-phelan-resigns-pRinXVqTRMy5fu_opZcRjg",
+        "description": "The Pentagon announced the abrupt departure Wednesday with no explanation, as the Navy oversees its largest deployment in years.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-22T21:51:03Z",
+        "sourceCount": "63 sources"
       },
       {
         "title": "Chemical leak at West Virginia plant kills 2, sends 19 to hospital",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-15T23:49:50Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "IDF chief approves new battle plans for Iran and Lebanon",
-        "url": "https://www.perplexity.ai/page/idf-chief-approves-new-battle-kwhXfji0Qoi7RfqLdt0QDw",
-        "description": "Lt. Gen. Eyal Zamir declared forces at \"very high readiness\" during a visit to southern Lebanon, saying targets are loaded for immediate strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T21:06:24Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Artemis II crew returns to Houston after historic moon mission",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-returns-to-hou-R6NqKG9YTFWiFLsIQo0Gqw",
-        "description": "The four astronauts are back at Johnson Space Center as NASA reviews heat shield data and faces proposed budget cuts of nearly 23%.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T20:27:24Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Student kills 9 in Turkey's deadliest school shooting",
-        "url": "https://www.perplexity.ai/page/student-kills-9-in-turkey-s-de-rBMEW2EPQCGxRrnWWT.Ecw",
-        "description": "The attack at a middle school in Kahramanmaraş came just a day after a separate school shooting wounded 16 people in nearby Şanlıurfa province.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-15T19:45:31Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
