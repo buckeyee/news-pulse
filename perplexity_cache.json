@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
-      "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
-      "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+      "title": "U.S. soldier charged with using classified intel to win $400K on Polymarket",
+      "url": "https://www.perplexity.ai/page/u-s-soldier-charged-with-using-4_QnmgF_S8.PxoSL4BJ4SA",
+      "description": "Gannon Ken Van Dyke allegedly used knowledge of the Maduro capture operation to place bets on prediction markets, prosecutors say.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-23T21:32:35Z",
-      "sourceCount": "57 sources"
+      "pubDate": "2026-04-23T22:26:59Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump taps personal pool contractor to renovate Reflecting Pool",
+      "url": "https://www.perplexity.ai/page/trump-taps-personal-pool-contr-LwLm9uC2SaylVGdiuL2AbA",
+      "description": "The president said his hotel contractor could complete the work in about a week for $1.5 million, bypassing a $301 million government bid.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T21:38:54Z",
+      "sourceCount": "87 sources"
     },
     {
       "title": "FDA clears first gene therapy for inherited hearing loss",
@@ -26,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-04-23T18:58:57Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
+      "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
+      "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T21:32:35Z",
+      "sourceCount": "57 sources"
     },
     {
       "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
@@ -1241,37 +1259,28 @@
       "topic": "top",
       "pubDate": "2026-04-17T01:52:52Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "Democrat Mejia wins New Jersey special House election",
-      "url": "https://www.perplexity.ai/page/democrat-mejia-wins-new-jersey-RYV2InXwQsSIw4P6NeTq1g",
-      "description": "The progressive activist defeated Republican Joe Hathaway in a closely watched race that further narrows the GOP's slim House majority.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T00:28:18Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
-      "url": "https://www.perplexity.ai/page/trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
-      "description": "The declaration came as a 10-day ceasefire entered its first full day Friday, following six weeks of conflict that killed over 2,000 people.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-17T15:12:53Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-23T22:00:14Z",
+  "cached_at": "2026-04-23T23:00:37Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
-        "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
-        "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+        "title": "U.S. soldier charged with using classified intel to win $400K on Polymarket",
+        "url": "https://www.perplexity.ai/page/u-s-soldier-charged-with-using-4_QnmgF_S8.PxoSL4BJ4SA",
+        "description": "Gannon Ken Van Dyke allegedly used knowledge of the Maduro capture operation to place bets on prediction markets, prosecutors say.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-23T21:32:35Z",
-        "sourceCount": "57 sources"
+        "pubDate": "2026-04-23T22:26:59Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump taps personal pool contractor to renovate Reflecting Pool",
+        "url": "https://www.perplexity.ai/page/trump-taps-personal-pool-contr-LwLm9uC2SaylVGdiuL2AbA",
+        "description": "The president said his hotel contractor could complete the work in about a week for $1.5 million, bypassing a $301 million government bid.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T21:38:54Z",
+        "sourceCount": "87 sources"
       },
       {
         "title": "FDA clears first gene therapy for inherited hearing loss",
@@ -1290,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-04-23T18:58:57Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
+        "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
+        "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T21:32:35Z",
+        "sourceCount": "57 sources"
       },
       {
         "title": "DOJ targets 384 citizens for denaturalization in 'first wave'",
@@ -2505,24 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T01:52:52Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Democrat Mejia wins New Jersey special House election",
-        "url": "https://www.perplexity.ai/page/democrat-mejia-wins-new-jersey-RYV2InXwQsSIw4P6NeTq1g",
-        "description": "The progressive activist defeated Republican Joe Hathaway in a closely watched race that further narrows the GOP's slim House majority.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T00:28:18Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
-        "url": "https://www.perplexity.ai/page/trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
-        "description": "The declaration came as a 10-day ceasefire entered its first full day Friday, following six weeks of conflict that killed over 2,000 people.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-17T15:12:53Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
