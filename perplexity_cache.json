@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
+      "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
+      "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-23T21:32:35Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "FDA clears first gene therapy for inherited hearing loss",
       "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
       "description": "Regeneron says it will provide Otarmeni, which restored hearing in children born deaf, for free to eligible U.S. patients.",
@@ -1250,20 +1259,20 @@
       "topic": "top",
       "pubDate": "2026-04-17T15:12:53Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Sanctioned vessels breach US naval blockade of Iran",
-      "url": "https://www.perplexity.ai/page/sanctioned-vessels-breach-us-n-4ZBOcWPmTkOLexAi4sDO_A",
-      "description": "Multiple ships reached Iranian waters despite the four-day-old blockade, with analysts saying \"confusion reigns\" over enforcement.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-16T23:23:57Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-23T21:05:30Z",
+  "cached_at": "2026-04-23T22:00:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
+        "url": "https://www.perplexity.ai/page/trump-says-israel-lebanon-ceas-Mn.LIfX7Q.unQnoU_VStGQ",
+        "description": "The announcement came after Israeli and Lebanese diplomats held a second round of rare direct talks in Washington, days before the truce was set to expire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-23T21:32:35Z",
+        "sourceCount": "57 sources"
+      },
       {
         "title": "FDA clears first gene therapy for inherited hearing loss",
         "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
@@ -2514,15 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-04-17T15:12:53Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Sanctioned vessels breach US naval blockade of Iran",
-        "url": "https://www.perplexity.ai/page/sanctioned-vessels-breach-us-n-4ZBOcWPmTkOLexAi4sDO_A",
-        "description": "Multiple ships reached Iranian waters despite the four-day-old blockade, with analysts saying \"confusion reigns\" over enforcement.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-16T23:23:57Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
