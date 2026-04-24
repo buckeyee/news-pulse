@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "G7 wraps Paris talks with seven deals but no climate discussion",
+      "url": "https://www.perplexity.ai/page/g7-wraps-paris-talks-with-seve-fMM3mc1sTxq7oUWFk2hbtw",
+      "description": "France called the two-day meeting a success after adopting declarations on oceans, biodiversity and pollution — but deliberately excluded climate to avoid a clash with the U.S.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-24T23:45:18Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Trump administration moves to again revoke parole for CBP One migrants",
       "url": "https://www.perplexity.ai/page/trump-administration-moves-to-TG3ymlrWRBG9QaUwRqCOrw",
       "description": "Court filings show new termination notices are being issued weeks after a judge ruled the first mass revocation was unlawful.",
@@ -1180,9 +1189,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-04-24T23:07:33Z",
+  "cached_at": "2026-04-24T23:55:18Z",
   "topics": {
     "top": [
+      {
+        "title": "G7 wraps Paris talks with seven deals but no climate discussion",
+        "url": "https://www.perplexity.ai/page/g7-wraps-paris-talks-with-seve-fMM3mc1sTxq7oUWFk2hbtw",
+        "description": "France called the two-day meeting a success after adopting declarations on oceans, biodiversity and pollution — but deliberately excluded climate to avoid a clash with the U.S.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-24T23:45:18Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Trump administration moves to again revoke parole for CBP One migrants",
         "url": "https://www.perplexity.ai/page/trump-administration-moves-to-TG3ymlrWRBG9QaUwRqCOrw",
