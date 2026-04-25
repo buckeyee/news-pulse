@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Trump fires all members of National Science Board",
+      "url": "https://www.perplexity.ai/page/trump-fires-all-members-of-nat-6bsNB15SRaC.pLpsBgiL2A",
+      "description": "The 25-member body governs the NSF and advises Congress on science policy. It was created by a 1950 federal law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T20:33:53Z",
+      "sourceCount": "114 sources"
+    },
+    {
+      "title": "Thousands gather on National Mall to honor Virginia Giuffre",
+      "url": "https://www.perplexity.ai/page/thousands-gather-on-national-m-YJ3K8GFTS0GeZNj4rPenUQ",
+      "description": "The \"Butterfly Vigil\" marks one year since the prominent Epstein accuser died by suicide at age 41 in Australia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:56:08Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Macron calls EU defense clause 'stronger' than NATO's",
+      "url": "https://www.perplexity.ai/page/macron-calls-eu-defense-clause-faeSqWjZRG.IsvdO_tGrwg",
+      "description": "The French president used an Athens visit to push European self-reliance while insisting the EU's defense buildup is not meant to replace NATO.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:32:53Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "U.S. strike on alleged drug boat kills 2 in Pacific",
+      "url": "https://www.perplexity.ai/page/u-s-strike-on-alleged-drug-boa-Rb.yN9KgSuO._0cZ.k6rmw",
+      "description": "The campaign of strikes on suspected narco-trafficking vessels has now killed at least 183 people since September, according to Southern Command.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:32:32Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Chernobyl anniversary marked as IAEA warns damaged shield needs repair",
       "url": "https://www.perplexity.ai/page/chernobyl-anniversary-marked-a-paAUE1ixS3aajkc2NOJUhg",
       "description": "Ukraine commemorates the 1986 disaster on Sunday with the facility's protective shield still damaged from a 2025 Russian drone strike.",
@@ -1135,27 +1171,54 @@
       "sourceCount": "56 sources"
     },
     {
-      "title": "French peacekeeper killed as Lebanon ceasefire frays",
-      "url": "https://www.perplexity.ai/page/french-peacekeeper-killed-as-l-HcxCqDNyQB6bD7_nQ9iS1g",
-      "description": "A French UN soldier was killed in southern Lebanon on Saturday as Israel continued shelling despite Trump declaring strikes \"prohibited.\"",
+      "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
+      "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
+      "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
       "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-18T23:18:41Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
-      "url": "https://www.perplexity.ai/page/iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
-      "description": "Tehran asserted its right to control the strait, a day after 40-plus nations met in Paris to plan a multinational force to restore shipping access.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-19T01:34:25Z",
-      "sourceCount": "29 sources"
+      "topic": "tech",
+      "pubDate": "2026-04-25T19:34:10Z",
+      "sourceCount": "51 sources"
     }
   ],
-  "cached_at": "2026-04-25T20:23:17Z",
+  "cached_at": "2026-04-25T21:04:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump fires all members of National Science Board",
+        "url": "https://www.perplexity.ai/page/trump-fires-all-members-of-nat-6bsNB15SRaC.pLpsBgiL2A",
+        "description": "The 25-member body governs the NSF and advises Congress on science policy. It was created by a 1950 federal law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T20:33:53Z",
+        "sourceCount": "114 sources"
+      },
+      {
+        "title": "Thousands gather on National Mall to honor Virginia Giuffre",
+        "url": "https://www.perplexity.ai/page/thousands-gather-on-national-m-YJ3K8GFTS0GeZNj4rPenUQ",
+        "description": "The \"Butterfly Vigil\" marks one year since the prominent Epstein accuser died by suicide at age 41 in Australia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:56:08Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Macron calls EU defense clause 'stronger' than NATO's",
+        "url": "https://www.perplexity.ai/page/macron-calls-eu-defense-clause-faeSqWjZRG.IsvdO_tGrwg",
+        "description": "The French president used an Athens visit to push European self-reliance while insisting the EU's defense buildup is not meant to replace NATO.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:32:53Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "U.S. strike on alleged drug boat kills 2 in Pacific",
+        "url": "https://www.perplexity.ai/page/u-s-strike-on-alleged-drug-boa-Rb.yN9KgSuO._0cZ.k6rmw",
+        "description": "The campaign of strikes on suspected narco-trafficking vessels has now killed at least 183 people since September, according to Southern Command.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:32:32Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Chernobyl anniversary marked as IAEA warns damaged shield needs repair",
         "url": "https://www.perplexity.ai/page/chernobyl-anniversary-marked-a-paAUE1ixS3aajkc2NOJUhg",
@@ -2289,27 +2352,19 @@
         "topic": "top",
         "pubDate": "2026-04-19T01:42:56Z",
         "sourceCount": "56 sources"
-      },
-      {
-        "title": "French peacekeeper killed as Lebanon ceasefire frays",
-        "url": "https://www.perplexity.ai/page/french-peacekeeper-killed-as-l-HcxCqDNyQB6bD7_nQ9iS1g",
-        "description": "A French UN soldier was killed in southern Lebanon on Saturday as Israel continued shelling despite Trump declaring strikes \"prohibited.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-18T23:18:41Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
-        "url": "https://www.perplexity.ai/page/iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
-        "description": "Tehran asserted its right to control the strait, a day after 40-plus nations met in Paris to plan a multinational force to restore shipping access.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-19T01:34:25Z",
-        "sourceCount": "29 sources"
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
+        "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
+        "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-04-25T19:34:10Z",
+        "sourceCount": "51 sources"
+      }
+    ],
     "finance": []
   }
 }
