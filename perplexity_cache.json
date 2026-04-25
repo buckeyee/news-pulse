@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Chornobyl marks 40th anniversary under threat of war",
+      "url": "https://www.perplexity.ai/page/chornobyl-marks-40th-anniversa-g8WxVoDgSsaOZksyxoC4sQ",
+      "description": "Ukraine's decommissioned nuclear plant faces ongoing risks from Russia's invasion as Sunday marks four decades since the world's worst nuclear disaster.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T06:19:36Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Georgia wildfires destroy over 120 homes in worst blazes in state history",
+      "url": "https://www.perplexity.ai/page/georgia-wildfires-destroy-over-PEuzz_AITriEx1Yfkt35AQ",
+      "description": "Gov. Kemp said Friday the fires threaten 1,000 more homes as drought and Hurricane Helene debris fuel rapid spread across southeast Georgia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T06:19:22Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Judge questions jurisdiction over Trump's $10B IRS suit",
       "url": "https://www.perplexity.ai/page/judge-questions-jurisdiction-o-2rTTXIdORx6Ud77.RaBLWw",
       "description": "Judge Kathleen Williams ordered briefings on whether the case can proceed when the president controls both sides of the litigation.",
@@ -1169,20 +1187,29 @@
       "topic": "top",
       "pubDate": "2026-04-18T20:47:49Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Egypt, Pakistan building framework for lasting US-Iran peace",
-      "url": "https://www.perplexity.ai/page/egypt-pakistan-building-framew-1kiXxvcmQoKcSnJrhU7Mxw",
-      "description": "Four regional powers are intensifying diplomacy at the Antalya forum as a fragile ceasefire nears its April 22 expiration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-18T10:02:55Z",
-      "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-04-25T03:15:07Z",
+  "cached_at": "2026-04-25T06:50:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Chornobyl marks 40th anniversary under threat of war",
+        "url": "https://www.perplexity.ai/page/chornobyl-marks-40th-anniversa-g8WxVoDgSsaOZksyxoC4sQ",
+        "description": "Ukraine's decommissioned nuclear plant faces ongoing risks from Russia's invasion as Sunday marks four decades since the world's worst nuclear disaster.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T06:19:36Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Georgia wildfires destroy over 120 homes in worst blazes in state history",
+        "url": "https://www.perplexity.ai/page/georgia-wildfires-destroy-over-PEuzz_AITriEx1Yfkt35AQ",
+        "description": "Gov. Kemp said Friday the fires threaten 1,000 more homes as drought and Hurricane Helene debris fuel rapid spread across southeast Georgia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T06:19:22Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Judge questions jurisdiction over Trump's $10B IRS suit",
         "url": "https://www.perplexity.ai/page/judge-questions-jurisdiction-o-2rTTXIdORx6Ud77.RaBLWw",
@@ -2352,15 +2379,6 @@
         "topic": "top",
         "pubDate": "2026-04-18T20:47:49Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Egypt, Pakistan building framework for lasting US-Iran peace",
-        "url": "https://www.perplexity.ai/page/egypt-pakistan-building-framew-1kiXxvcmQoKcSnJrhU7Mxw",
-        "description": "Four regional powers are intensifying diplomacy at the Antalya forum as a fragile ceasefire nears its April 22 expiration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-18T10:02:55Z",
-        "sourceCount": "43 sources"
       }
     ],
     "tech": [],
