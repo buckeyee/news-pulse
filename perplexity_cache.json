@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Chernobyl anniversary marked as IAEA warns damaged shield needs repair",
+      "url": "https://www.perplexity.ai/page/chernobyl-anniversary-marked-a-paAUE1ixS3aajkc2NOJUhg",
+      "description": "Ukraine commemorates the 1986 disaster on Sunday with the facility's protective shield still damaged from a 2025 Russian drone strike.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:10:40Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "UK and Finland condemn Israeli killing of journalist in Lebanon as 'intolerable'",
       "url": "https://www.perplexity.ai/page/uk-and-finland-condemn-israeli-m4WRFLo.R2.cCyf_8TU.DQ",
       "description": "The joint statement from the Media Freedom Coalition co-chairs follows the death of Al-Akhbar reporter Amal Khalil in an April 22 airstrike.",
@@ -1142,20 +1151,20 @@
       "topic": "top",
       "pubDate": "2026-04-19T01:34:25Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "North Korea fires ballistic missile into East Sea",
-      "url": "https://www.perplexity.ai/page/north-korea-fires-ballistic-mi-pt59RBGFQTKHntH9o190ag",
-      "description": "South Korea's JCS detected at least one missile launched eastward on Sunday, the sixth known ballistic missile test by Pyongyang this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-18T23:07:38Z",
-      "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-04-25T19:46:18Z",
+  "cached_at": "2026-04-25T20:23:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Chernobyl anniversary marked as IAEA warns damaged shield needs repair",
+        "url": "https://www.perplexity.ai/page/chernobyl-anniversary-marked-a-paAUE1ixS3aajkc2NOJUhg",
+        "description": "Ukraine commemorates the 1986 disaster on Sunday with the facility's protective shield still damaged from a 2025 Russian drone strike.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:10:40Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "UK and Finland condemn Israeli killing of journalist in Lebanon as 'intolerable'",
         "url": "https://www.perplexity.ai/page/uk-and-finland-condemn-israeli-m4WRFLo.R2.cCyf_8TU.DQ",
@@ -2298,15 +2307,6 @@
         "topic": "top",
         "pubDate": "2026-04-19T01:34:25Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "North Korea fires ballistic missile into East Sea",
-        "url": "https://www.perplexity.ai/page/north-korea-fires-ballistic-mi-pt59RBGFQTKHntH9o190ag",
-        "description": "South Korea's JCS detected at least one missile launched eastward on Sunday, the sixth known ballistic missile test by Pyongyang this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-18T23:07:38Z",
-        "sourceCount": "61 sources"
       }
     ],
     "tech": [],
