@@ -19,6 +19,24 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Iran threatens 'decisive' military response to US Hormuz blockade",
+      "url": "https://www.perplexity.ai/page/iran-threatens-decisive-milita-UOzNHBnWShKwK4iP0i969g",
+      "description": "Tehran's top military command said forces are at their \"highest level of readiness\" as three US carrier strike groups converge on the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:50:21Z",
+      "sourceCount": "41 sources"
+    },
+    {
+      "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
+      "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
+      "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T19:34:10Z",
+      "sourceCount": "51 sources"
+    },
+    {
       "title": "Macron calls EU defense clause 'stronger' than NATO's",
       "url": "https://www.perplexity.ai/page/macron-calls-eu-defense-clause-faeSqWjZRG.IsvdO_tGrwg",
       "description": "The French president used an Athens visit to push European self-reliance while insisting the EU's defense buildup is not meant to replace NATO.",
@@ -1169,18 +1187,9 @@
       "topic": "top",
       "pubDate": "2026-04-19T01:42:56Z",
       "sourceCount": "56 sources"
-    },
-    {
-      "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
-      "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
-      "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-04-25T19:34:10Z",
-      "sourceCount": "51 sources"
     }
   ],
-  "cached_at": "2026-04-25T21:04:36Z",
+  "cached_at": "2026-04-25T21:51:56Z",
   "topics": {
     "top": [
       {
@@ -1200,6 +1209,24 @@
         "topic": "top",
         "pubDate": "2026-04-25T19:56:08Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Iran threatens 'decisive' military response to US Hormuz blockade",
+        "url": "https://www.perplexity.ai/page/iran-threatens-decisive-milita-UOzNHBnWShKwK4iP0i969g",
+        "description": "Tehran's top military command said forces are at their \"highest level of readiness\" as three US carrier strike groups converge on the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:50:21Z",
+        "sourceCount": "41 sources"
+      },
+      {
+        "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
+        "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
+        "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T19:34:10Z",
+        "sourceCount": "51 sources"
       },
       {
         "title": "Macron calls EU defense clause 'stronger' than NATO's",
@@ -2354,17 +2381,7 @@
         "sourceCount": "56 sources"
       }
     ],
-    "tech": [
-      {
-        "title": "Trump warns of GOP 'death wish' over SAVE Act stall",
-        "url": "https://www.perplexity.ai/page/trump-warns-of-gop-death-wish-spQIt1QaR3yvUsn6I32mbw",
-        "description": "Days after the Senate rejected a bid to attach the voter ID bill to reconciliation, Trump renewed demands to eliminate the filibuster.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-04-25T19:34:10Z",
-        "sourceCount": "51 sources"
-      }
-    ],
+    "tech": [],
     "finance": []
   }
 }
