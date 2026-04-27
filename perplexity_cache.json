@@ -1,12 +1,30 @@
 {
   "stories": [
     {
-      "title": "China races to build 2,800-satellite AI network in orbit",
-      "url": "https://www.perplexity.ai/page/china-races-to-build-2800-sate-3vshyhAUQsirRma9PHwSBw",
-      "description": "Adaspace Technology says it will deploy computing satellites capable of running AI models in space, with commercial operations targeted by 2030.",
+      "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
+      "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
+      "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-27T09:12:43Z",
+      "pubDate": "2026-04-27T13:25:13Z",
+      "sourceCount": "70 sources"
+    },
+    {
+      "title": "Iran's Araghchi meets Putin as US peace talks stall",
+      "url": "https://www.perplexity.ai/page/iran-s-araghchi-meets-putin-as-cYGBHzkcSfCSTIFJxS29fw",
+      "description": "Iran's foreign minister blamed Washington's \"excessive demands\" for the collapse of negotiations after arriving in St. Petersburg for talks with Putin.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T10:17:51Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+      "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
+      "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T10:08:12Z",
       "sourceCount": "15 sources"
     },
     {
@@ -26,24 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-27T08:49:28Z",
       "sourceCount": "51 sources"
-    },
-    {
-      "title": "Iran war sends PCB prices surging, squeezing tech firms",
-      "url": "https://www.perplexity.ai/page/iran-war-sends-pcb-prices-surg-mnoLG0LsSKy7zLxUQI3Tvg",
-      "description": "SABIC's inability to resume PPE resin output after the Jubail attack has driven circuit board prices up sharply, compounding costs across electronics.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T08:33:17Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran war pushes African, South Asian homes back to charcoal and firewood",
-      "url": "https://www.perplexity.ai/page/iran-war-pushes-african-south-DM9YUdlDT_yXkfnV..TgsQ",
-      "description": "Rising energy costs from the Strait of Hormuz disruption are reversing years of clean-cooking progress, threatening public health and conservation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T08:23:49Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
@@ -217,13 +217,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Trump says agent saved by vest as suspect identified after dinner shooting",
-      "url": "https://www.perplexity.ai/page/trump-says-agent-saved-by-vest-zM311byQQXSP.IZ4dqJF_A",
-      "description": "A Secret Service agent was shot but saved by a bulletproof vest after a gunman fired near the security checkpoint at the Washington Hilton.",
+      "title": "Suspect in custody as Trump plans news conference after incident",
+      "url": "https://www.perplexity.ai/page/suspect-in-custody-as-trump-pl-Dif6.hzpQSu_tMRM3y7_RQ",
+      "description": "A suspect was apprehended and no injuries were reported after gunfire erupted at the Washington Hilton during the annual event Saturday night.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-26T03:26:42Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-04-26T01:50:12Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Iran threatens 'decisive' military response to US Hormuz blockade",
@@ -1160,45 +1160,36 @@
       "topic": "top",
       "pubDate": "2026-04-20T17:47:34Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "UK pushes for toll-free Hormuz as ceasefire nears expiry",
-      "url": "https://www.perplexity.ai/page/uk-pushes-for-toll-free-hormuz-ZF7cjY0LQiCBVfsCbPj3FA",
-      "description": "Cooper warns that the wrong precedent on navigation freedom in the strait would be \"deeply damaging\" for global economy and security.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T14:06:30Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Supreme Court to hear Catholic preschools' challenge to Colorado LGBTQ nondiscrimination rules",
-      "url": "https://www.perplexity.ai/page/supreme-court-to-hear-catholic-VlDo1eCZSMKABbkCu.X0uQ",
-      "description": "The case tests whether religious schools can receive public funding while declining to enroll children from same-sex families.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T14:02:25Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "CBP launches portal to refund $166B in tariffs struck down by Supreme Court",
-      "url": "https://www.perplexity.ai/page/cbp-launches-portal-to-refund-JB4xoAXWTT6xgQsBCbKrHQ",
-      "description": "The CAPE system went live Monday at 8 a.m. ET, letting importers file claims in what could be the largest tariff repayment in U.S. history.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T13:50:51Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-27T12:15:59Z",
+  "cached_at": "2026-04-27T14:30:49Z",
   "topics": {
     "top": [
       {
-        "title": "China races to build 2,800-satellite AI network in orbit",
-        "url": "https://www.perplexity.ai/page/china-races-to-build-2800-sate-3vshyhAUQsirRma9PHwSBw",
-        "description": "Adaspace Technology says it will deploy computing satellites capable of running AI models in space, with commercial operations targeted by 2030.",
+        "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
+        "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
+        "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-27T09:12:43Z",
+        "pubDate": "2026-04-27T13:25:13Z",
+        "sourceCount": "70 sources"
+      },
+      {
+        "title": "Iran's Araghchi meets Putin as US peace talks stall",
+        "url": "https://www.perplexity.ai/page/iran-s-araghchi-meets-putin-as-cYGBHzkcSfCSTIFJxS29fw",
+        "description": "Iran's foreign minister blamed Washington's \"excessive demands\" for the collapse of negotiations after arriving in St. Petersburg for talks with Putin.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T10:17:51Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+        "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
+        "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T10:08:12Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1218,24 +1209,6 @@
         "topic": "top",
         "pubDate": "2026-04-27T08:49:28Z",
         "sourceCount": "51 sources"
-      },
-      {
-        "title": "Iran war sends PCB prices surging, squeezing tech firms",
-        "url": "https://www.perplexity.ai/page/iran-war-sends-pcb-prices-surg-mnoLG0LsSKy7zLxUQI3Tvg",
-        "description": "SABIC's inability to resume PPE resin output after the Jubail attack has driven circuit board prices up sharply, compounding costs across electronics.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T08:33:17Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran war pushes African, South Asian homes back to charcoal and firewood",
-        "url": "https://www.perplexity.ai/page/iran-war-pushes-african-south-DM9YUdlDT_yXkfnV..TgsQ",
-        "description": "Rising energy costs from the Strait of Hormuz disruption are reversing years of clean-cooking progress, threatening public health and conservation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T08:23:49Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
@@ -1409,13 +1382,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Trump says agent saved by vest as suspect identified after dinner shooting",
-        "url": "https://www.perplexity.ai/page/trump-says-agent-saved-by-vest-zM311byQQXSP.IZ4dqJF_A",
-        "description": "A Secret Service agent was shot but saved by a bulletproof vest after a gunman fired near the security checkpoint at the Washington Hilton.",
+        "title": "Suspect in custody as Trump plans news conference after incident",
+        "url": "https://www.perplexity.ai/page/suspect-in-custody-as-trump-pl-Dif6.hzpQSu_tMRM3y7_RQ",
+        "description": "A suspect was apprehended and no injuries were reported after gunfire erupted at the Washington Hilton during the annual event Saturday night.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-26T03:26:42Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-04-26T01:50:12Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Iran threatens 'decisive' military response to US Hormuz blockade",
@@ -2352,33 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-04-20T17:47:34Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "UK pushes for toll-free Hormuz as ceasefire nears expiry",
-        "url": "https://www.perplexity.ai/page/uk-pushes-for-toll-free-hormuz-ZF7cjY0LQiCBVfsCbPj3FA",
-        "description": "Cooper warns that the wrong precedent on navigation freedom in the strait would be \"deeply damaging\" for global economy and security.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T14:06:30Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Supreme Court to hear Catholic preschools' challenge to Colorado LGBTQ nondiscrimination rules",
-        "url": "https://www.perplexity.ai/page/supreme-court-to-hear-catholic-VlDo1eCZSMKABbkCu.X0uQ",
-        "description": "The case tests whether religious schools can receive public funding while declining to enroll children from same-sex families.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T14:02:25Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "CBP launches portal to refund $166B in tariffs struck down by Supreme Court",
-        "url": "https://www.perplexity.ai/page/cbp-launches-portal-to-refund-JB4xoAXWTT6xgQsBCbKrHQ",
-        "description": "The CAPE system went live Monday at 8 a.m. ET, letting importers file claims in what could be the largest tariff repayment in U.S. history.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T13:50:51Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
