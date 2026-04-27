@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Reuters uncovers Trump push for federal election control in 8 states",
+      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T14:23:32Z",
+      "sourceCount": "62 sources"
+    },
+    {
       "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
       "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
       "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
@@ -1162,9 +1171,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-27T14:30:49Z",
+  "cached_at": "2026-04-27T16:11:38Z",
   "topics": {
     "top": [
+      {
+        "title": "Reuters uncovers Trump push for federal election control in 8 states",
+        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T14:23:32Z",
+        "sourceCount": "62 sources"
+      },
       {
         "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
         "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
