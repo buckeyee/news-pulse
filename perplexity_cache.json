@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "DeSantis unveils Florida map that would add 4 GOP seats",
-      "url": "https://www.perplexity.ai/page/desantis-unveils-florida-map-t-t6oRNQ5SQnOOeqzFzun9Qw",
-      "description": "The proposed congressional map heads to a special legislative session starting Tuesday, with Democrats vowing legal challenges under the state's Fair Districts Amendment.",
+      "title": "WHCD shooter charged with attempting to assassinate Trump",
+      "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+      "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-27T16:34:55Z",
-      "sourceCount": "52 sources"
+      "pubDate": "2026-04-27T18:37:34Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Seized Iran-linked supertankers sail west under US control",
@@ -19,15 +19,6 @@
       "sourceCount": "105 sources"
     },
     {
-      "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
-      "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
-      "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T13:25:13Z",
-      "sourceCount": "70 sources"
-    },
-    {
       "title": "Supreme Court permanently upholds Texas congressional map",
       "url": "https://www.perplexity.ai/page/supreme-court-permanently-upho-aaOH7rfzSSaHrhw5YMnsrw",
       "description": "The summary reversal in Abbott v. LULAC cements a contested GOP-friendly map for 2026 and beyond, with three liberal justices dissenting.",
@@ -35,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-27T16:21:39Z",
       "sourceCount": "47 sources"
+    },
+    {
+      "title": "Trump demands ABC fire Kimmel over Melania 'widow' joke",
+      "url": "https://www.perplexity.ai/page/trump-demands-abc-fire-kimmel-3yD7QjlISUyUpDh78q74HA",
+      "description": "The president joined First Lady Melania Trump in condemning a sketch that took on darker meaning after the Correspondents' Dinner shooting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T18:14:11Z",
+      "sourceCount": "57 sources"
     },
     {
       "title": "Merz says US is being 'humiliated' by Iran as talks stall",
@@ -46,22 +46,22 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
-      "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
-      "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+      "title": "DeSantis unveils Florida map that would add 4 GOP seats",
+      "url": "https://www.perplexity.ai/page/desantis-unveils-florida-map-t-t6oRNQ5SQnOOeqzFzun9Qw",
+      "description": "The proposed congressional map heads to a special legislative session starting Tuesday, with Democrats vowing legal challenges under the state's Fair Districts Amendment.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-27T10:08:12Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-04-27T16:34:55Z",
+      "sourceCount": "52 sources"
     },
     {
-      "title": "Reuters uncovers Trump push for federal election control in 8 states",
-      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+      "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
+      "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
+      "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-27T14:23:32Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-04-27T13:25:13Z",
+      "sourceCount": "70 sources"
     },
     {
       "title": "Iran's Araghchi meets Putin as US peace talks stall",
@@ -73,6 +73,24 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "Reuters uncovers Trump push for federal election control in 8 states",
+      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T14:23:32Z",
+      "sourceCount": "62 sources"
+    },
+    {
+      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+      "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
+      "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T10:08:12Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Musk v. Altman trial begins with jury selection in Oakland",
       "url": "https://www.perplexity.ai/page/musk-v-altman-trial-begins-wit-zgRYbGtKTluJ0g6aibzjHA",
       "description": "The $134 billion lawsuit over OpenAI's shift from nonprofit to for-profit goes to trial after Musk dropped fraud claims last week.",
@@ -80,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-04-27T09:12:29Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "WHCD shooting suspect arraigned in federal court",
-      "url": "https://www.perplexity.ai/page/whcd-shooting-suspect-arraigne-fyS_iMCBS3CrkAzeDxaDYQ",
-      "description": "Cole Tomas Allen, 31, faces charges of using a firearm during a crime of violence and assaulting a federal officer after Saturday's attack at the Washington Hilton.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T12:38:58Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
@@ -1160,28 +1169,19 @@
       "topic": "top",
       "pubDate": "2026-04-20T21:44:09Z",
       "sourceCount": "74 sources"
-    },
-    {
-      "title": "Vaccine-hesitant parents shift course as measles surges across the Americas",
-      "url": "https://www.perplexity.ai/page/vaccine-hesitant-parents-shift-cVndbwOERR2gSO41AbeVNw",
-      "description": "PAHO reports over 15,000 confirmed cases in the first 14 weeks of 2026, with two-thirds of patients unvaccinated.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T18:58:52Z",
-      "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-04-27T17:43:34Z",
+  "cached_at": "2026-04-27T18:58:47Z",
   "topics": {
     "top": [
       {
-        "title": "DeSantis unveils Florida map that would add 4 GOP seats",
-        "url": "https://www.perplexity.ai/page/desantis-unveils-florida-map-t-t6oRNQ5SQnOOeqzFzun9Qw",
-        "description": "The proposed congressional map heads to a special legislative session starting Tuesday, with Democrats vowing legal challenges under the state's Fair Districts Amendment.",
+        "title": "WHCD shooter charged with attempting to assassinate Trump",
+        "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+        "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-27T16:34:55Z",
-        "sourceCount": "52 sources"
+        "pubDate": "2026-04-27T18:37:34Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Seized Iran-linked supertankers sail west under US control",
@@ -1193,15 +1193,6 @@
         "sourceCount": "105 sources"
       },
       {
-        "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
-        "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
-        "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T13:25:13Z",
-        "sourceCount": "70 sources"
-      },
-      {
         "title": "Supreme Court permanently upholds Texas congressional map",
         "url": "https://www.perplexity.ai/page/supreme-court-permanently-upho-aaOH7rfzSSaHrhw5YMnsrw",
         "description": "The summary reversal in Abbott v. LULAC cements a contested GOP-friendly map for 2026 and beyond, with three liberal justices dissenting.",
@@ -1209,6 +1200,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T16:21:39Z",
         "sourceCount": "47 sources"
+      },
+      {
+        "title": "Trump demands ABC fire Kimmel over Melania 'widow' joke",
+        "url": "https://www.perplexity.ai/page/trump-demands-abc-fire-kimmel-3yD7QjlISUyUpDh78q74HA",
+        "description": "The president joined First Lady Melania Trump in condemning a sketch that took on darker meaning after the Correspondents' Dinner shooting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T18:14:11Z",
+        "sourceCount": "57 sources"
       },
       {
         "title": "Merz says US is being 'humiliated' by Iran as talks stall",
@@ -1220,22 +1220,22 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "China blocks Meta's $2B acquisition of AI startup Manus",
-        "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
-        "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+        "title": "DeSantis unveils Florida map that would add 4 GOP seats",
+        "url": "https://www.perplexity.ai/page/desantis-unveils-florida-map-t-t6oRNQ5SQnOOeqzFzun9Qw",
+        "description": "The proposed congressional map heads to a special legislative session starting Tuesday, with Democrats vowing legal challenges under the state's Fair Districts Amendment.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-27T10:08:12Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-04-27T16:34:55Z",
+        "sourceCount": "52 sources"
       },
       {
-        "title": "Reuters uncovers Trump push for federal election control in 8 states",
-        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+        "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
+        "url": "https://www.perplexity.ai/page/openai-microsoft-end-exclusive-y7kjExvOSvuXmAwS.ambow",
+        "description": "The amended agreement lets OpenAI serve customers on any cloud platform and caps the revenue share it must pay Microsoft through 2030.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-27T14:23:32Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-04-27T13:25:13Z",
+        "sourceCount": "70 sources"
       },
       {
         "title": "Iran's Araghchi meets Putin as US peace talks stall",
@@ -1247,6 +1247,24 @@
         "sourceCount": "30 sources"
       },
       {
+        "title": "Reuters uncovers Trump push for federal election control in 8 states",
+        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T14:23:32Z",
+        "sourceCount": "62 sources"
+      },
+      {
+        "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+        "url": "https://www.perplexity.ai/page/china-blocks-meta-s-2b-acquisi-B74deTlTRrWhMFJbYxMt3Q",
+        "description": "The NDRC ordered the deal's cancellation Monday, citing laws on technology exports, as Beijing cracks down on \"Singapore washing\" strategies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T10:08:12Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "Musk v. Altman trial begins with jury selection in Oakland",
         "url": "https://www.perplexity.ai/page/musk-v-altman-trial-begins-wit-zgRYbGtKTluJ0g6aibzjHA",
         "description": "The $134 billion lawsuit over OpenAI's shift from nonprofit to for-profit goes to trial after Musk dropped fraud claims last week.",
@@ -1254,15 +1272,6 @@
         "topic": "top",
         "pubDate": "2026-04-27T09:12:29Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "WHCD shooting suspect arraigned in federal court",
-        "url": "https://www.perplexity.ai/page/whcd-shooting-suspect-arraigne-fyS_iMCBS3CrkAzeDxaDYQ",
-        "description": "Cole Tomas Allen, 31, faces charges of using a firearm during a crime of violence and assaulting a federal officer after Saturday's attack at the Washington Hilton.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T12:38:58Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
@@ -2334,15 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-04-20T21:44:09Z",
         "sourceCount": "74 sources"
-      },
-      {
-        "title": "Vaccine-hesitant parents shift course as measles surges across the Americas",
-        "url": "https://www.perplexity.ai/page/vaccine-hesitant-parents-shift-cVndbwOERR2gSO41AbeVNw",
-        "description": "PAHO reports over 15,000 confirmed cases in the first 14 weeks of 2026, with two-thirds of patients unvaccinated.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T18:58:52Z",
-        "sourceCount": "35 sources"
       }
     ],
     "tech": [],
