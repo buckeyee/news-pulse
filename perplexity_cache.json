@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran war sends PCB prices surging, squeezing tech firms",
+      "url": "https://www.perplexity.ai/page/iran-war-sends-pcb-prices-surg-mnoLG0LsSKy7zLxUQI3Tvg",
+      "description": "SABIC's inability to resume PPE resin output after the Jubail attack has driven circuit board prices up sharply, compounding costs across electronics.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T08:33:17Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran war pushes African, South Asian homes back to charcoal and firewood",
+      "url": "https://www.perplexity.ai/page/iran-war-pushes-african-south-DM9YUdlDT_yXkfnV..TgsQ",
+      "description": "Rising energy costs from the Strait of Hormuz disruption are reversing years of clean-cooking progress, threatening public health and conservation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T08:23:49Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
       "url": "https://www.perplexity.ai/page/budget-airlines-seek-2-5b-in-w-NTq9akLsRqi78kgeRHjkLQ",
       "description": "A coalition including Frontier and Avelo is offering convertible equity stakes in exchange for relief from soaring jet fuel prices driven by the Iran war.",
@@ -1196,20 +1214,29 @@
       "topic": "top",
       "pubDate": "2026-04-20T10:09:31Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
-      "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
-      "description": "The multi-year agreement will supply high-nickel batteries for Mercedes-Benz's next-generation compact and mid-size electric SUVs and coupes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-20T08:04:15Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-04-27T06:13:30Z",
+  "cached_at": "2026-04-27T08:42:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war sends PCB prices surging, squeezing tech firms",
+        "url": "https://www.perplexity.ai/page/iran-war-sends-pcb-prices-surg-mnoLG0LsSKy7zLxUQI3Tvg",
+        "description": "SABIC's inability to resume PPE resin output after the Jubail attack has driven circuit board prices up sharply, compounding costs across electronics.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T08:33:17Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran war pushes African, South Asian homes back to charcoal and firewood",
+        "url": "https://www.perplexity.ai/page/iran-war-pushes-african-south-DM9YUdlDT_yXkfnV..TgsQ",
+        "description": "Rising energy costs from the Strait of Hormuz disruption are reversing years of clean-cooking progress, threatening public health and conservation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T08:23:49Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Budget airlines seek $2.5B in White House aid for fuel costs",
         "url": "https://www.perplexity.ai/page/budget-airlines-seek-2-5b-in-w-NTq9akLsRqi78kgeRHjkLQ",
@@ -2406,15 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-04-20T10:09:31Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
-        "url": "https://www.perplexity.ai/page/samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
-        "description": "The multi-year agreement will supply high-nickel batteries for Mercedes-Benz's next-generation compact and mid-size electric SUVs and coupes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-20T08:04:15Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
