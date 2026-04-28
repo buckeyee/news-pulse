@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
+      "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
+      "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T12:56:43Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+      "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+      "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T11:46:52Z",
+      "sourceCount": "47 sources"
+    },
+    {
       "title": "CATL shares drop after $5 billion Hong Kong placement",
       "url": "https://www.perplexity.ai/page/catl-shares-drop-after-5-billi-YyqBjBxpQ7GhTHoo0NXDUQ",
       "description": "The world's largest EV battery maker priced the city's biggest share sale of 2026 at a 7% discount, drawing over 150 institutional investors.",
@@ -89,6 +107,15 @@
       "topic": "top",
       "pubDate": "2026-04-28T03:43:08Z",
       "sourceCount": "61 sources"
+    },
+    {
+      "title": "OpenAI misses revenue and user targets ahead of IPO",
+      "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
+      "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T02:09:33Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
@@ -1142,47 +1169,29 @@
       "topic": "top",
       "pubDate": "2026-04-21T15:21:39Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "UNESCO report finds its sites sheltering 60% of mapped species",
-      "url": "https://www.perplexity.ai/page/unesco-report-finds-its-sites-q3x1rCj2QW.utDaNmlcvYQ",
-      "description": "The first comprehensive assessment of all 2,260-plus UNESCO-designated sites found wildlife populations there held steady despite a 73% global decline.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T14:32:05Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "FBI, House Oversight launch parallel probes into missing and dead scientists",
-      "url": "https://www.perplexity.ai/page/fbi-house-oversight-launch-par-zPR1Jr8wTDaU4oNDyGmLoQ",
-      "description": "At least 11 researchers linked to nuclear, aerospace, and defense work have died or vanished since 2022, prompting dual federal and congressional investigations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T14:06:50Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump praises 'very good talks' with Anthropic after months-long feud",
-      "url": "https://www.perplexity.ai/page/trump-praises-very-good-talks-fwJKvEWMSEOPf.LnOHHuxw",
-      "description": "The president's remarks Tuesday mark a sharp reversal from ordering agencies to cut ties with the AI company in February.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T13:24:40Z",
-      "sourceCount": "117 sources"
-    },
-    {
-      "title": "Feds cut water releases amid historic Western drought",
-      "url": "https://www.perplexity.ai/page/feds-cut-water-releases-amid-h-HtPd7ee5SE6CgXDrLDcp_Q",
-      "description": "Colorado River system reservoirs hold just 36% of capacity as record-low snowpack and extreme heat compound the crisis.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T13:06:59Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-28T11:28:10Z",
+  "cached_at": "2026-04-28T13:17:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
+        "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
+        "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T12:56:43Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+        "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+        "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T11:46:52Z",
+        "sourceCount": "47 sources"
+      },
       {
         "title": "CATL shares drop after $5 billion Hong Kong placement",
         "url": "https://www.perplexity.ai/page/catl-shares-drop-after-5-billi-YyqBjBxpQ7GhTHoo0NXDUQ",
@@ -1272,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-04-28T03:43:08Z",
         "sourceCount": "61 sources"
+      },
+      {
+        "title": "OpenAI misses revenue and user targets ahead of IPO",
+        "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
+        "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T02:09:33Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
@@ -2325,42 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T15:21:39Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "UNESCO report finds its sites sheltering 60% of mapped species",
-        "url": "https://www.perplexity.ai/page/unesco-report-finds-its-sites-q3x1rCj2QW.utDaNmlcvYQ",
-        "description": "The first comprehensive assessment of all 2,260-plus UNESCO-designated sites found wildlife populations there held steady despite a 73% global decline.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T14:32:05Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "FBI, House Oversight launch parallel probes into missing and dead scientists",
-        "url": "https://www.perplexity.ai/page/fbi-house-oversight-launch-par-zPR1Jr8wTDaU4oNDyGmLoQ",
-        "description": "At least 11 researchers linked to nuclear, aerospace, and defense work have died or vanished since 2022, prompting dual federal and congressional investigations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T14:06:50Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump praises 'very good talks' with Anthropic after months-long feud",
-        "url": "https://www.perplexity.ai/page/trump-praises-very-good-talks-fwJKvEWMSEOPf.LnOHHuxw",
-        "description": "The president's remarks Tuesday mark a sharp reversal from ordering agencies to cut ties with the AI company in February.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T13:24:40Z",
-        "sourceCount": "117 sources"
-      },
-      {
-        "title": "Feds cut water releases amid historic Western drought",
-        "url": "https://www.perplexity.ai/page/feds-cut-water-releases-amid-h-HtPd7ee5SE6CgXDrLDcp_Q",
-        "description": "Colorado River system reservoirs hold just 36% of capacity as record-low snowpack and extreme heat compound the crisis.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T13:06:59Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
