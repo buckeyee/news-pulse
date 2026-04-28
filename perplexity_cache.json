@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
+      "url": "https://www.perplexity.ai/page/u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
+      "description": "CENTCOM says 39 vessels have now been redirected as the U.S. naval blockade of Iranian ports enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T21:26:50Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "House Rules Committee shelves FISA and DHS votes amid GOP revolt",
       "url": "https://www.perplexity.ai/page/house-rules-committee-shelves-nbYUemrJTlGsec2mThuRRQ",
       "description": "Republican infighting forced the House Rules Committee to indefinitely postpone action on the FISA extension and DHS funding with key deadlines days away.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T19:48:25Z",
       "sourceCount": "111 sources"
-    },
-    {
-      "title": "Trump claims Iran in 'state of collapse,' wants Hormuz reopened",
-      "url": "https://www.perplexity.ai/page/trump-claims-iran-in-state-of-_8ymHp2DQA6V5_ApRCn1nw",
-      "description": "The president's Truth Social post came as the White House weighed an Iranian proposal to reopen the strait in exchange for lifting the U.S. blockade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T18:41:27Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Soldier pleads not guilty to betting on Maduro raid with classified intel",
@@ -1135,9 +1135,18 @@
       "sourceCount": "67 sources"
     }
   ],
-  "cached_at": "2026-04-28T20:40:46Z",
+  "cached_at": "2026-04-28T21:44:15Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
+        "url": "https://www.perplexity.ai/page/u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
+        "description": "CENTCOM says 39 vessels have now been redirected as the U.S. naval blockade of Iranian ports enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T21:26:50Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "House Rules Committee shelves FISA and DHS votes amid GOP revolt",
         "url": "https://www.perplexity.ai/page/house-rules-committee-shelves-nbYUemrJTlGsec2mThuRRQ",
@@ -1173,15 +1182,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T19:48:25Z",
         "sourceCount": "111 sources"
-      },
-      {
-        "title": "Trump claims Iran in 'state of collapse,' wants Hormuz reopened",
-        "url": "https://www.perplexity.ai/page/trump-claims-iran-in-state-of-_8ymHp2DQA6V5_ApRCn1nw",
-        "description": "The president's Truth Social post came as the White House weighed an Iranian proposal to reopen the strait in exchange for lifting the U.S. blockade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T18:41:27Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Soldier pleads not guilty to betting on Maduro raid with classified intel",
