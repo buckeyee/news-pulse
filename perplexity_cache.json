@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA's Artemis III core stage arrives at Kennedy Space Center",
+      "url": "https://www.perplexity.ai/page/nasa-s-artemis-iii-core-stage-KUQjiEdDTvaOM1IrTIB7Mw",
+      "description": "The largest section of the SLS rocket completed a 900-mile barge journey from New Orleans, advancing preparations for a mid-2027 crewed launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T13:59:15Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
       "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
       "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
@@ -10,6 +19,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
+      "url": "https://www.perplexity.ai/page/uae-exits-opec-and-opec-effect-OARZX5BYSzWPOU0262NekQ",
+      "description": "The withdrawal, announced Tuesday, ends over five decades of membership and deals a major blow to the cartel amid the Iran war's historic supply disruption.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T12:43:23Z",
+      "sourceCount": "69 sources"
+    },
+    {
       "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
       "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
       "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
@@ -17,42 +35,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T11:46:52Z",
       "sourceCount": "47 sources"
-    },
-    {
-      "title": "CATL shares drop after $5 billion Hong Kong placement",
-      "url": "https://www.perplexity.ai/page/catl-shares-drop-after-5-billi-YyqBjBxpQ7GhTHoo0NXDUQ",
-      "description": "The world's largest EV battery maker priced the city's biggest share sale of 2026 at a 7% discount, drawing over 150 institutional investors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T09:42:34Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Longi tops Trina Solar with 28.13% silicon solar cell record",
-      "url": "https://www.perplexity.ai/page/longi-tops-trina-solar-with-28-jb9kFQ62Rbaf1YpRhEQBlQ",
-      "description": "Hours after Trina Solar announced a 28% efficiency milestone, Longi reclaimed the silicon solar cell record with a certified 28.13% result.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T09:40:36Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Colombia summit yields mandate for fossil fuel treaty talks",
-      "url": "https://www.perplexity.ai/page/colombia-summit-yields-mandate-.4vK43e2T1.dAiMoYJeFRg",
-      "description": "Around 60 nations meeting in Santa Marta agreed to launch formal negotiations for a binding fossil fuel phase-out treaty within a year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T09:22:53Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "India's power demand hits record as heatwave and Iran war strain global energy markets",
-      "url": "https://www.perplexity.ai/page/india-s-power-demand-hits-reco-iwu9UwGBTtywGjH2Jvpk5w",
-      "description": "China's clean tech exports surged 70% in March as countries scramble for alternatives to oil disrupted by the Strait of Hormuz closure.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T08:54:21Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -1142,38 +1124,20 @@
       "topic": "top",
       "pubDate": "2026-04-21T22:36:06Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "NATO revives Cold War-era sub hunting as Russia pushes into Arctic",
-      "url": "https://www.perplexity.ai/page/nato-revives-cold-war-era-sub-BwIvOXK2QlyTofOQ_VX7VA",
-      "description": "Bloomberg reports that Russia's upgraded nuclear submarines are forcing NATO to overhaul anti-submarine warfare across the Arctic and North Atlantic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T16:41:37Z",
-      "sourceCount": "32 sources"
-    },
-    {
-      "title": "Dutch intelligence warns Chinese cyberattacks on West will intensify",
-      "url": "https://www.perplexity.ai/page/dutch-intelligence-warns-chine-Tz6UcVUwTV.8AKmETaPQAw",
-      "description": "The MIVD's 2025 annual report called on Europe to take greater responsibility for its own security as the rules-based international order erodes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T16:30:53Z",
-      "sourceCount": "50 sources"
-    },
-    {
-      "title": "Warsh faces Senate grilling over Fed independence, finances",
-      "url": "https://www.perplexity.ai/page/warsh-faces-senate-grilling-ov-2_iyN84pSWynk2j1JhBAPA",
-      "description": "Trump's pick for Fed chair pledged \"strictly independent\" monetary policy while a GOP senator's blockade threatens to stall the nomination.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T15:21:39Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-04-28T13:17:03Z",
+  "cached_at": "2026-04-28T15:41:28Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA's Artemis III core stage arrives at Kennedy Space Center",
+        "url": "https://www.perplexity.ai/page/nasa-s-artemis-iii-core-stage-KUQjiEdDTvaOM1IrTIB7Mw",
+        "description": "The largest section of the SLS rocket completed a 900-mile barge journey from New Orleans, advancing preparations for a mid-2027 crewed launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T13:59:15Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
         "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
@@ -1184,6 +1148,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
+        "url": "https://www.perplexity.ai/page/uae-exits-opec-and-opec-effect-OARZX5BYSzWPOU0262NekQ",
+        "description": "The withdrawal, announced Tuesday, ends over five decades of membership and deals a major blow to the cartel amid the Iran war's historic supply disruption.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T12:43:23Z",
+        "sourceCount": "69 sources"
+      },
+      {
         "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
         "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
         "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
@@ -1191,42 +1164,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T11:46:52Z",
         "sourceCount": "47 sources"
-      },
-      {
-        "title": "CATL shares drop after $5 billion Hong Kong placement",
-        "url": "https://www.perplexity.ai/page/catl-shares-drop-after-5-billi-YyqBjBxpQ7GhTHoo0NXDUQ",
-        "description": "The world's largest EV battery maker priced the city's biggest share sale of 2026 at a 7% discount, drawing over 150 institutional investors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T09:42:34Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Longi tops Trina Solar with 28.13% silicon solar cell record",
-        "url": "https://www.perplexity.ai/page/longi-tops-trina-solar-with-28-jb9kFQ62Rbaf1YpRhEQBlQ",
-        "description": "Hours after Trina Solar announced a 28% efficiency milestone, Longi reclaimed the silicon solar cell record with a certified 28.13% result.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T09:40:36Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Colombia summit yields mandate for fossil fuel treaty talks",
-        "url": "https://www.perplexity.ai/page/colombia-summit-yields-mandate-.4vK43e2T1.dAiMoYJeFRg",
-        "description": "Around 60 nations meeting in Santa Marta agreed to launch formal negotiations for a binding fossil fuel phase-out treaty within a year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T09:22:53Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "India's power demand hits record as heatwave and Iran war strain global energy markets",
-        "url": "https://www.perplexity.ai/page/india-s-power-demand-hits-reco-iwu9UwGBTtywGjH2Jvpk5w",
-        "description": "China's clean tech exports surged 70% in March as countries scramble for alternatives to oil disrupted by the Strait of Hormuz closure.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T08:54:21Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -2316,33 +2253,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T22:36:06Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "NATO revives Cold War-era sub hunting as Russia pushes into Arctic",
-        "url": "https://www.perplexity.ai/page/nato-revives-cold-war-era-sub-BwIvOXK2QlyTofOQ_VX7VA",
-        "description": "Bloomberg reports that Russia's upgraded nuclear submarines are forcing NATO to overhaul anti-submarine warfare across the Arctic and North Atlantic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T16:41:37Z",
-        "sourceCount": "32 sources"
-      },
-      {
-        "title": "Dutch intelligence warns Chinese cyberattacks on West will intensify",
-        "url": "https://www.perplexity.ai/page/dutch-intelligence-warns-chine-Tz6UcVUwTV.8AKmETaPQAw",
-        "description": "The MIVD's 2025 annual report called on Europe to take greater responsibility for its own security as the rules-based international order erodes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T16:30:53Z",
-        "sourceCount": "50 sources"
-      },
-      {
-        "title": "Warsh faces Senate grilling over Fed independence, finances",
-        "url": "https://www.perplexity.ai/page/warsh-faces-senate-grilling-ov-2_iyN84pSWynk2j1JhBAPA",
-        "description": "Trump's pick for Fed chair pledged \"strictly independent\" monetary policy while a GOP senator's blockade threatens to stall the nomination.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T15:21:39Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
