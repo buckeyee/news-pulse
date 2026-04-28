@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Google signs classified AI deal with Pentagon despite employee protests",
+      "url": "https://www.perplexity.ai/page/google-signs-classified-ai-dea-SE3oYrKrS.m9Mn.2FLKyxg",
+      "description": "The agreement, reported Tuesday by The Information, came one day after more than 600 workers urged CEO Sundar Pichai to reject the contract.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T06:17:57Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "BOJ holds rates but 6-3 split signals June hike",
+      "url": "https://www.perplexity.ai/page/boj-holds-rates-but-6-3-split-DfKXt1CiQSCvvEdj83vHaQ",
+      "description": "Three dissenters pushed for a rate increase, the widest board divide under Governor Ueda, as the central bank raised its inflation forecast.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T05:32:35Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran war energy shock pushes millions back to charcoal and firewood",
+      "url": "https://www.perplexity.ai/page/iran-war-energy-shock-pushes-m-RCXOQG.oR8OeOyTV_3W__w",
+      "description": "Soaring fuel costs from the Strait of Hormuz closure are forcing families across Africa and South Asia to abandon cleaner cooking fuels, accelerating deforestation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T05:18:28Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Iraq taps political newcomer al-Zaidi as prime minister-designate",
+      "url": "https://www.perplexity.ai/page/iraq-taps-political-newcomer-a-bgAUvTP.TMGTMshb6.Arrw",
+      "description": "President Amedi designated 40-year-old businessman Ali al-Zaidi to form a government after U.S. pressure blocked a pro-Iran candidate.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T04:04:43Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "Iran offers to reopen Strait of Hormuz, but Trump is dissatisfied with proposal",
       "url": "https://www.perplexity.ai/page/iran-offers-to-reopen-strait-o-f1wuLcJZQ4i6.OZkWCkMCg",
       "description": "Tehran's plan would end the two-month war and lift the dual blockade but postpone nuclear talks, a nonstarter for the White House.",
@@ -1133,20 +1169,47 @@
       "topic": "top",
       "pubDate": "2026-04-21T08:15:08Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Japan scraps postwar ban on lethal weapons exports",
-      "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
-      "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-21T06:53:32Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-28T04:47:28Z",
+  "cached_at": "2026-04-28T07:24:00Z",
   "topics": {
     "top": [
+      {
+        "title": "Google signs classified AI deal with Pentagon despite employee protests",
+        "url": "https://www.perplexity.ai/page/google-signs-classified-ai-dea-SE3oYrKrS.m9Mn.2FLKyxg",
+        "description": "The agreement, reported Tuesday by The Information, came one day after more than 600 workers urged CEO Sundar Pichai to reject the contract.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T06:17:57Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "BOJ holds rates but 6-3 split signals June hike",
+        "url": "https://www.perplexity.ai/page/boj-holds-rates-but-6-3-split-DfKXt1CiQSCvvEdj83vHaQ",
+        "description": "Three dissenters pushed for a rate increase, the widest board divide under Governor Ueda, as the central bank raised its inflation forecast.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T05:32:35Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran war energy shock pushes millions back to charcoal and firewood",
+        "url": "https://www.perplexity.ai/page/iran-war-energy-shock-pushes-m-RCXOQG.oR8OeOyTV_3W__w",
+        "description": "Soaring fuel costs from the Strait of Hormuz closure are forcing families across Africa and South Asia to abandon cleaner cooking fuels, accelerating deforestation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T05:18:28Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Iraq taps political newcomer al-Zaidi as prime minister-designate",
+        "url": "https://www.perplexity.ai/page/iraq-taps-political-newcomer-a-bgAUvTP.TMGTMshb6.Arrw",
+        "description": "President Amedi designated 40-year-old businessman Ali al-Zaidi to form a government after U.S. pressure blocked a pro-Iran candidate.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T04:04:43Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "Iran offers to reopen Strait of Hormuz, but Trump is dissatisfied with proposal",
         "url": "https://www.perplexity.ai/page/iran-offers-to-reopen-strait-o-f1wuLcJZQ4i6.OZkWCkMCg",
@@ -2280,15 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-04-21T08:15:08Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Japan scraps postwar ban on lethal weapons exports",
-        "url": "https://www.perplexity.ai/page/japan-scraps-postwar-ban-on-le-LObMPDOCRU.iXdtZXwQBFg",
-        "description": "Prime Minister Takaichi's Cabinet approved the sale of fighter jets, missiles, and warships to 17 partner nations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-21T06:53:32Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
