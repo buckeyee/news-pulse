@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "U.S. clean power hit $150B economic impact in 2025, ACP report finds",
+      "url": "https://www.perplexity.ai/page/u-s-clean-power-hit-150b-econo-NnzDQyPcRb2YaYj75uCzzg",
+      "description": "The industry installed a record 50 GW of new capacity and supported 1.4 million jobs, with projections for 2026 even higher.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T09:13:39Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Asian stocks rise, oil falls after UAE quits OPEC",
+      "url": "https://www.perplexity.ai/page/asian-stocks-rise-oil-falls-af-ghgU7c1bSvyVk8TgqHPFYQ",
+      "description": "The UAE announced it will leave OPEC and OPEC+ on May 1, ending 59 years of membership as the Iran war roils energy markets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T08:50:16Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Adelaide researchers map path to turning plastic into hydrogen fuel",
+      "url": "https://www.perplexity.ai/page/adelaide-researchers-map-path-NpivAm7wSMCv3wp1fFDLLQ",
+      "description": "A new roadmap details how sunlight-powered photoreforming could convert waste plastics into clean hydrogen and industrial chemicals.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T08:40:11Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "EU finds Meta failed to block under-13s from Instagram, Facebook",
+      "url": "https://www.perplexity.ai/page/eu-finds-meta-failed-to-block-ru6LdQAcS1qR5je9pW47mw",
+      "description": "The European Commission issued preliminary findings that Meta violated the Digital Services Act by not preventing children under 13 from accessing its platforms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T07:54:19Z",
+      "sourceCount": "93 sources"
+    },
+    {
       "title": "Europe hit record wildfires and Arctic heatwaves in 2025, new climate report finds",
       "url": "https://www.perplexity.ai/page/europe-hit-record-wildfires-an-xVoobtX2RHaXeIZN532BEA",
       "description": "The European State of the Climate report found 95% of the continent saw above-average temperatures, with drought affecting over half of Europe.",
@@ -136,13 +172,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
-      "url": "https://www.perplexity.ai/page/uae-exits-opec-and-opec-effect-OARZX5BYSzWPOU0262NekQ",
-      "description": "The withdrawal, announced Tuesday, ends over five decades of membership and deals a major blow to the cartel amid the Iran war's historic supply disruption.",
+      "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+      "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+      "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T12:43:23Z",
-      "sourceCount": "69 sources"
+      "pubDate": "2026-04-28T11:46:52Z",
+      "sourceCount": "47 sources"
     },
     {
       "title": "FCC moves toward early review of Disney's ABC licenses",
@@ -154,15 +190,6 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
-      "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
-      "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T11:46:52Z",
-      "sourceCount": "47 sources"
-    },
-    {
       "title": "Google signs classified AI deal with Pentagon despite employee protests",
       "url": "https://www.perplexity.ai/page/google-signs-classified-ai-dea-SE3oYrKrS.m9Mn.2FLKyxg",
       "description": "The agreement, reported Tuesday by The Information, came one day after more than 600 workers urged CEO Sundar Pichai to reject the contract.",
@@ -170,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T06:17:57Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T15:53:36Z",
-      "sourceCount": "53 sources"
     },
     {
       "title": "BOJ holds rates but 6-3 split signals June hike",
@@ -190,6 +208,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T15:53:36Z",
+      "sourceCount": "53 sources"
+    },
+    {
       "title": "Iran war energy shock pushes millions back to charcoal and firewood",
       "url": "https://www.perplexity.ai/page/iran-war-energy-shock-pushes-m-RCXOQG.oR8OeOyTV_3W__w",
       "description": "Soaring fuel costs from the Strait of Hormuz closure are forcing families across Africa and South Asia to abandon cleaner cooking fuels, accelerating deforestation.",
@@ -197,15 +224,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T05:18:28Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T15:36:40Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Iraq taps political newcomer al-Zaidi as prime minister-designate",
@@ -217,6 +235,15 @@
       "sourceCount": "23 sources"
     },
     {
+      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T15:36:40Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "OpenAI misses revenue and user targets ahead of IPO",
       "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
       "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
@@ -226,15 +253,6 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
-      "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
-      "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T03:43:08Z",
-      "sourceCount": "61 sources"
-    },
-    {
       "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
       "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
       "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
@@ -242,6 +260,15 @@
       "topic": "top",
       "pubDate": "2026-04-28T01:57:45Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
+      "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
+      "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T03:43:08Z",
+      "sourceCount": "61 sources"
     },
     {
       "title": "Trump signs law lifting mining ban near Boundary Waters",
@@ -1097,20 +1124,47 @@
       "topic": "top",
       "pubDate": "2026-04-22T09:52:07Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "OpenAI plans $1.5B investment in PE joint venture",
-      "url": "https://www.perplexity.ai/page/openai-plans-1-5b-investment-i-InSp.zbJT_Sl21rfI21Usw",
-      "description": "The AI firm would embed its tools across portfolio companies through a $10 billion venture dubbed \"DeployCo,\" the Financial Times reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T07:09:07Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-04-29T07:28:57Z",
+  "cached_at": "2026-04-29T09:36:16Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. clean power hit $150B economic impact in 2025, ACP report finds",
+        "url": "https://www.perplexity.ai/page/u-s-clean-power-hit-150b-econo-NnzDQyPcRb2YaYj75uCzzg",
+        "description": "The industry installed a record 50 GW of new capacity and supported 1.4 million jobs, with projections for 2026 even higher.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T09:13:39Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Asian stocks rise, oil falls after UAE quits OPEC",
+        "url": "https://www.perplexity.ai/page/asian-stocks-rise-oil-falls-af-ghgU7c1bSvyVk8TgqHPFYQ",
+        "description": "The UAE announced it will leave OPEC and OPEC+ on May 1, ending 59 years of membership as the Iran war roils energy markets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T08:50:16Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Adelaide researchers map path to turning plastic into hydrogen fuel",
+        "url": "https://www.perplexity.ai/page/adelaide-researchers-map-path-NpivAm7wSMCv3wp1fFDLLQ",
+        "description": "A new roadmap details how sunlight-powered photoreforming could convert waste plastics into clean hydrogen and industrial chemicals.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T08:40:11Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "EU finds Meta failed to block under-13s from Instagram, Facebook",
+        "url": "https://www.perplexity.ai/page/eu-finds-meta-failed-to-block-ru6LdQAcS1qR5je9pW47mw",
+        "description": "The European Commission issued preliminary findings that Meta violated the Digital Services Act by not preventing children under 13 from accessing its platforms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T07:54:19Z",
+        "sourceCount": "93 sources"
+      },
       {
         "title": "Europe hit record wildfires and Arctic heatwaves in 2025, new climate report finds",
         "url": "https://www.perplexity.ai/page/europe-hit-record-wildfires-an-xVoobtX2RHaXeIZN532BEA",
@@ -1247,13 +1301,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
-        "url": "https://www.perplexity.ai/page/uae-exits-opec-and-opec-effect-OARZX5BYSzWPOU0262NekQ",
-        "description": "The withdrawal, announced Tuesday, ends over five decades of membership and deals a major blow to the cartel amid the Iran war's historic supply disruption.",
+        "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+        "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+        "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T12:43:23Z",
-        "sourceCount": "69 sources"
+        "pubDate": "2026-04-28T11:46:52Z",
+        "sourceCount": "47 sources"
       },
       {
         "title": "FCC moves toward early review of Disney's ABC licenses",
@@ -1265,15 +1319,6 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
-        "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
-        "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T11:46:52Z",
-        "sourceCount": "47 sources"
-      },
-      {
         "title": "Google signs classified AI deal with Pentagon despite employee protests",
         "url": "https://www.perplexity.ai/page/google-signs-classified-ai-dea-SE3oYrKrS.m9Mn.2FLKyxg",
         "description": "The agreement, reported Tuesday by The Information, came one day after more than 600 workers urged CEO Sundar Pichai to reject the contract.",
@@ -1281,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T06:17:57Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T15:53:36Z",
-        "sourceCount": "53 sources"
       },
       {
         "title": "BOJ holds rates but 6-3 split signals June hike",
@@ -1301,6 +1337,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T15:53:36Z",
+        "sourceCount": "53 sources"
+      },
+      {
         "title": "Iran war energy shock pushes millions back to charcoal and firewood",
         "url": "https://www.perplexity.ai/page/iran-war-energy-shock-pushes-m-RCXOQG.oR8OeOyTV_3W__w",
         "description": "Soaring fuel costs from the Strait of Hormuz closure are forcing families across Africa and South Asia to abandon cleaner cooking fuels, accelerating deforestation.",
@@ -1308,15 +1353,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T05:18:28Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T15:36:40Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Iraq taps political newcomer al-Zaidi as prime minister-designate",
@@ -1328,6 +1364,15 @@
         "sourceCount": "23 sources"
       },
       {
+        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T15:36:40Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "OpenAI misses revenue and user targets ahead of IPO",
         "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
         "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
@@ -1337,15 +1382,6 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
-        "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
-        "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T03:43:08Z",
-        "sourceCount": "61 sources"
-      },
-      {
         "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
         "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
         "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
@@ -1353,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-04-28T01:57:45Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
+        "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
+        "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T03:43:08Z",
+        "sourceCount": "61 sources"
       },
       {
         "title": "Trump signs law lifting mining ban near Boundary Waters",
@@ -2208,15 +2253,6 @@
         "topic": "top",
         "pubDate": "2026-04-22T09:52:07Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "OpenAI plans $1.5B investment in PE joint venture",
-        "url": "https://www.perplexity.ai/page/openai-plans-1-5b-investment-i-InSp.zbJT_Sl21rfI21Usw",
-        "description": "The AI firm would embed its tools across portfolio companies through a $10 billion venture dubbed \"DeployCo,\" the Financial Times reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T07:09:07Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
