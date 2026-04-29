@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
+      "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
+      "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T23:57:07Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
       "url": "https://www.perplexity.ai/page/u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
       "description": "CENTCOM says 39 vessels have now been redirected as the U.S. naval blockade of Iranian ports enters its third week.",
@@ -109,13 +118,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "FCC moves toward early review of Disney's ABC licenses",
-      "url": "https://www.perplexity.ai/page/fcc-moves-toward-early-review-bTqG9DVyR46ACCHowSd5mA",
-      "description": "The agency could challenge **Walt Disney** Co.'s eight ABC station licenses, escalating regulatory pressure amid the Jimmy Kimmel controversy.",
+      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T16:08:00Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-04-28T15:53:36Z",
+      "sourceCount": "53 sources"
     },
     {
       "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
@@ -136,13 +145,13 @@
       "sourceCount": "47 sources"
     },
     {
-      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T15:53:36Z",
-      "sourceCount": "53 sources"
+      "pubDate": "2026-04-28T15:36:40Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -161,15 +170,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T05:32:35Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T15:36:40Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Iran war energy shock pushes millions back to charcoal and firewood",
@@ -1117,9 +1117,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-04-28T23:39:53Z",
+  "cached_at": "2026-04-29T01:25:23Z",
   "topics": {
     "top": [
+      {
+        "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
+        "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
+        "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T23:57:07Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
         "url": "https://www.perplexity.ai/page/u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
@@ -1229,13 +1238,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "FCC moves toward early review of Disney's ABC licenses",
-        "url": "https://www.perplexity.ai/page/fcc-moves-toward-early-review-bTqG9DVyR46ACCHowSd5mA",
-        "description": "The agency could challenge **Walt Disney** Co.'s eight ABC station licenses, escalating regulatory pressure amid the Jimmy Kimmel controversy.",
+        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T16:08:00Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-04-28T15:53:36Z",
+        "sourceCount": "53 sources"
       },
       {
         "title": "UAE exits OPEC and OPEC+ effective May 1, fracturing oil alliance",
@@ -1256,13 +1265,13 @@
         "sourceCount": "47 sources"
       },
       {
-        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T15:53:36Z",
-        "sourceCount": "53 sources"
+        "pubDate": "2026-04-28T15:36:40Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -1281,15 +1290,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T05:32:35Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T15:36:40Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Iran war energy shock pushes millions back to charcoal and firewood",
