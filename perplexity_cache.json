@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Europe hit record wildfires and Arctic heatwaves in 2025, new climate report finds",
+      "url": "https://www.perplexity.ai/page/europe-hit-record-wildfires-an-xVoobtX2RHaXeIZN532BEA",
+      "description": "The European State of the Climate report found 95% of the continent saw above-average temperatures, with drought affecting over half of Europe.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T07:10:14Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Artemis II capsule returns to Kennedy as Artemis III rocket assembly begins",
       "url": "https://www.perplexity.ai/page/artemis-ii-capsule-returns-to-_AKmY7LRTD2R7T4nitbPsg",
       "description": "NASA's Orion crew module arrived back at its launch site Tuesday while the next moon rocket's core stage entered the Vehicle Assembly Building.",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-04-28T23:57:07Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Tropical forest loss fell 36% in 2025, but fires threaten gains",
+      "url": "https://www.perplexity.ai/page/tropical-forest-loss-fell-36-i-_vvxexgKSLOZbTAUBXVFXA",
+      "description": "New data from WRI's Global Forest Watch shows 4.3 million hectares of primary rainforest were still lost, leaving the world far off its 2030 deforestation goal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T05:54:20Z",
+      "sourceCount": "31 sources"
     },
     {
       "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
@@ -1090,9 +1108,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-04-29T04:56:44Z",
+  "cached_at": "2026-04-29T07:28:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Europe hit record wildfires and Arctic heatwaves in 2025, new climate report finds",
+        "url": "https://www.perplexity.ai/page/europe-hit-record-wildfires-an-xVoobtX2RHaXeIZN532BEA",
+        "description": "The European State of the Climate report found 95% of the continent saw above-average temperatures, with drought affecting over half of Europe.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T07:10:14Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Artemis II capsule returns to Kennedy as Artemis III rocket assembly begins",
         "url": "https://www.perplexity.ai/page/artemis-ii-capsule-returns-to-_AKmY7LRTD2R7T4nitbPsg",
@@ -1110,6 +1137,15 @@
         "topic": "top",
         "pubDate": "2026-04-28T23:57:07Z",
         "sourceCount": "35 sources"
+      },
+      {
+        "title": "Tropical forest loss fell 36% in 2025, but fires threaten gains",
+        "url": "https://www.perplexity.ai/page/tropical-forest-loss-fell-36-i-_vvxexgKSLOZbTAUBXVFXA",
+        "description": "New data from WRI's Global Forest Watch shows 4.3 million hectares of primary rainforest were still lost, leaving the world far off its 2030 deforestation goal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T05:54:20Z",
+        "sourceCount": "31 sources"
       },
       {
         "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
