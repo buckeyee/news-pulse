@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump says US reviewing troop reduction in Germany",
+      "url": "https://www.perplexity.ai/page/trump-says-us-reviewing-troop-BxTxEOSdQiikpHSFvq5iYA",
+      "description": "The announcement escalates pressure on NATO allies amid a deepening rift over the U.S.-led war in Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-30T01:59:17Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "House passes 3-year FISA extension as Senate scrambles before Thursday deadline",
       "url": "https://www.perplexity.ai/page/house-passes-3-year-fisa-exten-KtMDyrXDQnCOsjjmFFIUKw",
       "description": "The warrantless surveillance program expires at midnight Thursday, but a poison-pill ban on digital currency threatens the bill's Senate prospects.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-04-29T22:43:17Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "DOJ unveils sweeping rollback of gun regulations",
-      "url": "https://www.perplexity.ai/page/doj-unveils-sweeping-rollback-dMzG_CjGS9KOQNlo6K447w",
-      "description": "Acting Attorney General Todd Blanche called the 34 proposed and final rule changes the most comprehensive reform package in ATF history.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-29T22:18:31Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "CENTCOM seeks first-ever Dark Eagle hypersonic missile use against Iran",
@@ -28,6 +28,15 @@
       "sourceCount": "45 sources"
     },
     {
+      "title": "Israel sets two-week deadline for Lebanon deal, warns of escalation",
+      "url": "https://www.perplexity.ai/page/israel-sets-two-week-deadline-H7JqCUHTSemCUqzjMyS88Q",
+      "description": "Trump urged Netanyahu to conduct \"surgical\" strikes as Israel threatens to resume intensive operations if no permanent agreement is reached by mid-May.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-30T01:17:50Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "King Charles honors 9/11 victims in first royal NYC visit in 16 years",
       "url": "https://www.perplexity.ai/page/king-charles-honors-9-11-victi-pIqP3DObQ2maz.EwRAwDFQ",
       "description": "The King and Queen laid a wreath at the National September 11 Memorial on Wednesday, meeting families and first responders ahead of the attacks' 25th anniversary.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-29T20:56:33Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Trump calls UAE's exit from OPEC 'great' for fuel prices",
-      "url": "https://www.perplexity.ai/page/trump-calls-uae-s-exit-from-op-6qzuVeoxRd6O6AaSLdrTFQ",
-      "description": "The president praised the move as the White House met with oil executives to discuss sustaining the Iran blockade while shielding consumers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-29T22:13:20Z",
-      "sourceCount": "38 sources"
     },
     {
       "title": "Pentagon releases $400M in Ukraine aid after McConnell pressure campaign",
@@ -55,6 +55,15 @@
       "sourceCount": "52 sources"
     },
     {
+      "title": "Appeals court rejects Trump bid to revisit E. Jean Carroll verdict",
+      "url": "https://www.perplexity.ai/page/appeals-court-rejects-trump-bi-Gd.0RmGoR2qZROtNlXhngQ",
+      "description": "The divided 2nd Circuit ruling leaves the Supreme Court as Trump's last option to challenge two jury verdicts totaling more than $88 million.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T23:23:15Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "London stabbing of 2 Jewish men declared terrorist attack",
       "url": "https://www.perplexity.ai/page/london-stabbing-of-2-jewish-me-kv8poZBWROe6YBFycUvlEw",
       "description": "Police arrested a 45-year-old suspect after two men were knifed in Golders Green, prompting PM Starmer to convene a COBRA meeting.",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-04-29T19:50:00Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Fed holds rates steady with most dissent since 1992",
-      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-with-mo-2En0hX7dSUGZ7GaEE5m13w",
-      "description": "The 8-4 vote split came at what is likely Chair Powell's final meeting, as oil-driven inflation clouds the rate outlook.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-29T18:33:16Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "USS Gerald R. Ford to leave Middle East after 10-month deployment",
@@ -82,6 +82,15 @@
       "sourceCount": "46 sources"
     },
     {
+      "title": "DOJ unveils sweeping rollback of gun regulations",
+      "url": "https://www.perplexity.ai/page/doj-unveils-sweeping-rollback-dMzG_CjGS9KOQNlo6K447w",
+      "description": "Acting Attorney General Todd Blanche called the 34 proposed and final rule changes the most comprehensive reform package in ATF history.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T22:18:31Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "US indicts Sinaloa governor on cartel drug charges",
       "url": "https://www.perplexity.ai/page/us-indicts-sinaloa-governor-on-TxrvkAfPR0mJqZNU7Gq9sw",
       "description": "Federal prosecutors charged Rubén Rocha Moya and nine other Mexican officials with conspiring with the Sinaloa Cartel to traffic fentanyl and other drugs into the US.",
@@ -91,12 +100,21 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump and Putin discuss Iran, Ukraine in 90-minute call",
-      "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-u-Dm3rJnXUR4.fox91XJEQtQ",
-      "description": "The 90-minute conversation also covered the Iran conflict and the White House Correspondents' Dinner shooting, the Kremlin said.",
+      "title": "Fed holds rates steady with most dissent since 1992",
+      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-with-mo-2En0hX7dSUGZ7GaEE5m13w",
+      "description": "The 8-4 vote split came at what is likely Chair Powell's final meeting, as oil-driven inflation clouds the rate outlook.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-29T17:51:00Z",
+      "pubDate": "2026-04-29T18:33:16Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump calls UAE's exit from OPEC 'great' for fuel prices",
+      "url": "https://www.perplexity.ai/page/trump-calls-uae-s-exit-from-op-6qzuVeoxRd6O6AaSLdrTFQ",
+      "description": "The president praised the move as the White House met with oil executives to discuss sustaining the Iran blockade while shielding consumers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-29T22:13:20Z",
       "sourceCount": "38 sources"
     },
     {
@@ -118,13 +136,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump orders extended Iran blockade after rejecting Tehran's proposal",
-      "url": "https://www.perplexity.ai/page/trump-orders-extended-iran-blo-N2XKglzWSK6.OvHSrqtUkA",
-      "description": "The president dismissed Iran's offer to reopen the Strait of Hormuz, calling the country \"collapsing\" while opting to sustain economic pressure.",
+      "title": "Trump and Putin discuss Iran, Ukraine in 90-minute call",
+      "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-u-Dm3rJnXUR4.fox91XJEQtQ",
+      "description": "The 90-minute conversation also covered the Iran conflict and the White House Correspondents' Dinner shooting, the Kremlin said.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-29T17:39:39Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-04-29T17:51:00Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Supreme Court limits Voting Rights Act in 6-3 ruling",
@@ -145,12 +163,12 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Warsh clears Senate committee, heads to full vote",
-      "url": "https://www.perplexity.ai/page/warsh-clears-senate-committee-_71ntMYfT.yNFtEJ4ahEMw",
-      "description": "The Senate Banking Committee voted 13-11 along party lines to advance Trump's Fed chair nominee, putting him on track to succeed Powell before May 15.",
+      "title": "Trump orders extended Iran blockade after rejecting Tehran's proposal",
+      "url": "https://www.perplexity.ai/page/trump-orders-extended-iran-blo-N2XKglzWSK6.OvHSrqtUkA",
+      "description": "The president dismissed Iran's offer to reopen the Strait of Hormuz, calling the country \"collapsing\" while opting to sustain economic pressure.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-29T14:25:22Z",
+      "pubDate": "2026-04-29T17:39:39Z",
       "sourceCount": "27 sources"
     },
     {
@@ -199,13 +217,13 @@
       "sourceCount": "93 sources"
     },
     {
-      "title": "Trump meets with oil execs as Iran blockade stalemate drags on",
-      "url": "https://www.perplexity.ai/page/trump-meets-with-oil-execs-as-RZVzTJafQW6SRfNGkNCz7w",
-      "description": "The White House session with Chevron's CEO and other energy leaders came as Trump directed aides to prepare for a prolonged Strait of Hormuz naval blockade.",
+      "title": "Warsh clears Senate committee, heads to full vote",
+      "url": "https://www.perplexity.ai/page/warsh-clears-senate-committee-_71ntMYfT.yNFtEJ4ahEMw",
+      "description": "The Senate Banking Committee voted 13-11 along party lines to advance Trump's Fed chair nominee, putting him on track to succeed Powell before May 15.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-29T13:41:15Z",
-      "sourceCount": "59 sources"
+      "pubDate": "2026-04-29T14:25:22Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Artemis II capsule returns to Kennedy as Artemis III rocket assembly begins",
@@ -226,13 +244,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran tensions shadow White House state dinner for British royals",
-      "url": "https://www.perplexity.ai/page/iran-tensions-shadow-white-hou-KheGa6PuQNOvPqXGP_EunA",
-      "description": "During Tuesday's state dinner, Trump said King Charles \"agrees\" Iran must never have a nuclear weapon, prompting a Palace response over the king's political neutrality.",
+      "title": "Trump meets with oil execs as Iran blockade stalemate drags on",
+      "url": "https://www.perplexity.ai/page/trump-meets-with-oil-execs-as-RZVzTJafQW6SRfNGkNCz7w",
+      "description": "The White House session with Chevron's CEO and other energy leaders came as Trump directed aides to prepare for a prolonged Strait of Hormuz naval blockade.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-29T10:13:38Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-29T13:41:15Z",
+      "sourceCount": "59 sources"
     },
     {
       "title": "Pentagon asks Congress to formally rename DOD the Department of War",
@@ -253,13 +271,13 @@
       "sourceCount": "56 sources"
     },
     {
-      "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
-      "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
-      "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
+      "title": "Iran tensions shadow White House state dinner for British royals",
+      "url": "https://www.perplexity.ai/page/iran-tensions-shadow-white-hou-KheGa6PuQNOvPqXGP_EunA",
+      "description": "During Tuesday's state dinner, Trump said King Charles \"agrees\" Iran must never have a nuclear weapon, prompting a Palace response over the king's political neutrality.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T23:57:07Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-04-29T10:13:38Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Japanese supertanker becomes first to exit Gulf since Iran war began",
@@ -271,13 +289,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
-      "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
-      "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
+      "title": "GAO agrees to review DOJ's handling of Epstein files",
+      "url": "https://www.perplexity.ai/page/gao-agrees-to-review-doj-s-han-94x_qZ1_S6u1c0trnKok9Q",
+      "description": "The independent watchdog's probe joins a DOJ inspector general audit and a new federal lawsuit over alleged noncompliance with the transparency law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T12:56:43Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-28T16:14:50Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Supreme Court to hear challenge to Trump's TPS termination for Haitians, Syrians",
@@ -289,22 +307,22 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "GAO agrees to review DOJ's handling of Epstein files",
-      "url": "https://www.perplexity.ai/page/gao-agrees-to-review-doj-s-han-94x_qZ1_S6u1c0trnKok9Q",
-      "description": "The independent watchdog's probe joins a DOJ inspector general audit and a new federal lawsuit over alleged noncompliance with the transparency law.",
+      "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
+      "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
+      "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T16:14:50Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-04-28T12:56:43Z",
+      "sourceCount": "28 sources"
     },
     {
-      "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
-      "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
-      "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
+      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T11:46:52Z",
-      "sourceCount": "47 sources"
+      "pubDate": "2026-04-28T15:53:36Z",
+      "sourceCount": "53 sources"
     },
     {
       "title": "Trump approval hits record low as voter regret mounts",
@@ -316,13 +334,22 @@
       "sourceCount": "61 sources"
     },
     {
-      "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-      "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-      "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+      "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+      "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+      "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T15:53:36Z",
-      "sourceCount": "53 sources"
+      "pubDate": "2026-04-28T11:46:52Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T15:36:40Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -343,13 +370,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-      "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-      "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+      "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
+      "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
+      "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T15:36:40Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-04-28T23:57:07Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Iran war energy shock pushes millions back to charcoal and firewood",
@@ -1225,9 +1252,18 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-30T00:10:49Z",
+  "cached_at": "2026-04-30T04:05:55Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump says US reviewing troop reduction in Germany",
+        "url": "https://www.perplexity.ai/page/trump-says-us-reviewing-troop-BxTxEOSdQiikpHSFvq5iYA",
+        "description": "The announcement escalates pressure on NATO allies amid a deepening rift over the U.S.-led war in Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-30T01:59:17Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "House passes 3-year FISA extension as Senate scrambles before Thursday deadline",
         "url": "https://www.perplexity.ai/page/house-passes-3-year-fisa-exten-KtMDyrXDQnCOsjjmFFIUKw",
@@ -1236,15 +1272,6 @@
         "topic": "top",
         "pubDate": "2026-04-29T22:43:17Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "DOJ unveils sweeping rollback of gun regulations",
-        "url": "https://www.perplexity.ai/page/doj-unveils-sweeping-rollback-dMzG_CjGS9KOQNlo6K447w",
-        "description": "Acting Attorney General Todd Blanche called the 34 proposed and final rule changes the most comprehensive reform package in ATF history.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-29T22:18:31Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "CENTCOM seeks first-ever Dark Eagle hypersonic missile use against Iran",
@@ -1256,6 +1283,15 @@
         "sourceCount": "45 sources"
       },
       {
+        "title": "Israel sets two-week deadline for Lebanon deal, warns of escalation",
+        "url": "https://www.perplexity.ai/page/israel-sets-two-week-deadline-H7JqCUHTSemCUqzjMyS88Q",
+        "description": "Trump urged Netanyahu to conduct \"surgical\" strikes as Israel threatens to resume intensive operations if no permanent agreement is reached by mid-May.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-30T01:17:50Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "King Charles honors 9/11 victims in first royal NYC visit in 16 years",
         "url": "https://www.perplexity.ai/page/king-charles-honors-9-11-victi-pIqP3DObQ2maz.EwRAwDFQ",
         "description": "The King and Queen laid a wreath at the National September 11 Memorial on Wednesday, meeting families and first responders ahead of the attacks' 25th anniversary.",
@@ -1263,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-04-29T20:56:33Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Trump calls UAE's exit from OPEC 'great' for fuel prices",
-        "url": "https://www.perplexity.ai/page/trump-calls-uae-s-exit-from-op-6qzuVeoxRd6O6AaSLdrTFQ",
-        "description": "The president praised the move as the White House met with oil executives to discuss sustaining the Iran blockade while shielding consumers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-29T22:13:20Z",
-        "sourceCount": "38 sources"
       },
       {
         "title": "Pentagon releases $400M in Ukraine aid after McConnell pressure campaign",
@@ -1283,6 +1310,15 @@
         "sourceCount": "52 sources"
       },
       {
+        "title": "Appeals court rejects Trump bid to revisit E. Jean Carroll verdict",
+        "url": "https://www.perplexity.ai/page/appeals-court-rejects-trump-bi-Gd.0RmGoR2qZROtNlXhngQ",
+        "description": "The divided 2nd Circuit ruling leaves the Supreme Court as Trump's last option to challenge two jury verdicts totaling more than $88 million.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T23:23:15Z",
+        "sourceCount": "25 sources"
+      },
+      {
         "title": "London stabbing of 2 Jewish men declared terrorist attack",
         "url": "https://www.perplexity.ai/page/london-stabbing-of-2-jewish-me-kv8poZBWROe6YBFycUvlEw",
         "description": "Police arrested a 45-year-old suspect after two men were knifed in Golders Green, prompting PM Starmer to convene a COBRA meeting.",
@@ -1290,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-04-29T19:50:00Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Fed holds rates steady with most dissent since 1992",
-        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-with-mo-2En0hX7dSUGZ7GaEE5m13w",
-        "description": "The 8-4 vote split came at what is likely Chair Powell's final meeting, as oil-driven inflation clouds the rate outlook.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-29T18:33:16Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "USS Gerald R. Ford to leave Middle East after 10-month deployment",
@@ -1310,6 +1337,15 @@
         "sourceCount": "46 sources"
       },
       {
+        "title": "DOJ unveils sweeping rollback of gun regulations",
+        "url": "https://www.perplexity.ai/page/doj-unveils-sweeping-rollback-dMzG_CjGS9KOQNlo6K447w",
+        "description": "Acting Attorney General Todd Blanche called the 34 proposed and final rule changes the most comprehensive reform package in ATF history.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T22:18:31Z",
+        "sourceCount": "36 sources"
+      },
+      {
         "title": "US indicts Sinaloa governor on cartel drug charges",
         "url": "https://www.perplexity.ai/page/us-indicts-sinaloa-governor-on-TxrvkAfPR0mJqZNU7Gq9sw",
         "description": "Federal prosecutors charged Rubén Rocha Moya and nine other Mexican officials with conspiring with the Sinaloa Cartel to traffic fentanyl and other drugs into the US.",
@@ -1319,12 +1355,21 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump and Putin discuss Iran, Ukraine in 90-minute call",
-        "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-u-Dm3rJnXUR4.fox91XJEQtQ",
-        "description": "The 90-minute conversation also covered the Iran conflict and the White House Correspondents' Dinner shooting, the Kremlin said.",
+        "title": "Fed holds rates steady with most dissent since 1992",
+        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-with-mo-2En0hX7dSUGZ7GaEE5m13w",
+        "description": "The 8-4 vote split came at what is likely Chair Powell's final meeting, as oil-driven inflation clouds the rate outlook.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-29T17:51:00Z",
+        "pubDate": "2026-04-29T18:33:16Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump calls UAE's exit from OPEC 'great' for fuel prices",
+        "url": "https://www.perplexity.ai/page/trump-calls-uae-s-exit-from-op-6qzuVeoxRd6O6AaSLdrTFQ",
+        "description": "The president praised the move as the White House met with oil executives to discuss sustaining the Iran blockade while shielding consumers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-29T22:13:20Z",
         "sourceCount": "38 sources"
       },
       {
@@ -1346,13 +1391,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump orders extended Iran blockade after rejecting Tehran's proposal",
-        "url": "https://www.perplexity.ai/page/trump-orders-extended-iran-blo-N2XKglzWSK6.OvHSrqtUkA",
-        "description": "The president dismissed Iran's offer to reopen the Strait of Hormuz, calling the country \"collapsing\" while opting to sustain economic pressure.",
+        "title": "Trump and Putin discuss Iran, Ukraine in 90-minute call",
+        "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-u-Dm3rJnXUR4.fox91XJEQtQ",
+        "description": "The 90-minute conversation also covered the Iran conflict and the White House Correspondents' Dinner shooting, the Kremlin said.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-29T17:39:39Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-04-29T17:51:00Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Supreme Court limits Voting Rights Act in 6-3 ruling",
@@ -1373,12 +1418,12 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Warsh clears Senate committee, heads to full vote",
-        "url": "https://www.perplexity.ai/page/warsh-clears-senate-committee-_71ntMYfT.yNFtEJ4ahEMw",
-        "description": "The Senate Banking Committee voted 13-11 along party lines to advance Trump's Fed chair nominee, putting him on track to succeed Powell before May 15.",
+        "title": "Trump orders extended Iran blockade after rejecting Tehran's proposal",
+        "url": "https://www.perplexity.ai/page/trump-orders-extended-iran-blo-N2XKglzWSK6.OvHSrqtUkA",
+        "description": "The president dismissed Iran's offer to reopen the Strait of Hormuz, calling the country \"collapsing\" while opting to sustain economic pressure.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-29T14:25:22Z",
+        "pubDate": "2026-04-29T17:39:39Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1427,13 +1472,13 @@
         "sourceCount": "93 sources"
       },
       {
-        "title": "Trump meets with oil execs as Iran blockade stalemate drags on",
-        "url": "https://www.perplexity.ai/page/trump-meets-with-oil-execs-as-RZVzTJafQW6SRfNGkNCz7w",
-        "description": "The White House session with Chevron's CEO and other energy leaders came as Trump directed aides to prepare for a prolonged Strait of Hormuz naval blockade.",
+        "title": "Warsh clears Senate committee, heads to full vote",
+        "url": "https://www.perplexity.ai/page/warsh-clears-senate-committee-_71ntMYfT.yNFtEJ4ahEMw",
+        "description": "The Senate Banking Committee voted 13-11 along party lines to advance Trump's Fed chair nominee, putting him on track to succeed Powell before May 15.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-29T13:41:15Z",
-        "sourceCount": "59 sources"
+        "pubDate": "2026-04-29T14:25:22Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Artemis II capsule returns to Kennedy as Artemis III rocket assembly begins",
@@ -1454,13 +1499,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran tensions shadow White House state dinner for British royals",
-        "url": "https://www.perplexity.ai/page/iran-tensions-shadow-white-hou-KheGa6PuQNOvPqXGP_EunA",
-        "description": "During Tuesday's state dinner, Trump said King Charles \"agrees\" Iran must never have a nuclear weapon, prompting a Palace response over the king's political neutrality.",
+        "title": "Trump meets with oil execs as Iran blockade stalemate drags on",
+        "url": "https://www.perplexity.ai/page/trump-meets-with-oil-execs-as-RZVzTJafQW6SRfNGkNCz7w",
+        "description": "The White House session with Chevron's CEO and other energy leaders came as Trump directed aides to prepare for a prolonged Strait of Hormuz naval blockade.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-29T10:13:38Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-29T13:41:15Z",
+        "sourceCount": "59 sources"
       },
       {
         "title": "Pentagon asks Congress to formally rename DOD the Department of War",
@@ -1481,13 +1526,13 @@
         "sourceCount": "56 sources"
       },
       {
-        "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
-        "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
-        "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
+        "title": "Iran tensions shadow White House state dinner for British royals",
+        "url": "https://www.perplexity.ai/page/iran-tensions-shadow-white-hou-KheGa6PuQNOvPqXGP_EunA",
+        "description": "During Tuesday's state dinner, Trump said King Charles \"agrees\" Iran must never have a nuclear weapon, prompting a Palace response over the king's political neutrality.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T23:57:07Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-04-29T10:13:38Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Japanese supertanker becomes first to exit Gulf since Iran war began",
@@ -1499,13 +1544,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
-        "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
-        "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
+        "title": "GAO agrees to review DOJ's handling of Epstein files",
+        "url": "https://www.perplexity.ai/page/gao-agrees-to-review-doj-s-han-94x_qZ1_S6u1c0trnKok9Q",
+        "description": "The independent watchdog's probe joins a DOJ inspector general audit and a new federal lawsuit over alleged noncompliance with the transparency law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T12:56:43Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-28T16:14:50Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Supreme Court to hear challenge to Trump's TPS termination for Haitians, Syrians",
@@ -1517,22 +1562,22 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "GAO agrees to review DOJ's handling of Epstein files",
-        "url": "https://www.perplexity.ai/page/gao-agrees-to-review-doj-s-han-94x_qZ1_S6u1c0trnKok9Q",
-        "description": "The independent watchdog's probe joins a DOJ inspector general audit and a new federal lawsuit over alleged noncompliance with the transparency law.",
+        "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
+        "url": "https://www.perplexity.ai/page/over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
+        "description": "Two million jobs have already been lost, with half of Iran's workforce at risk as airstrikes devastate industry and inflation hits 72%.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T16:14:50Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-04-28T12:56:43Z",
+        "sourceCount": "28 sources"
       },
       {
-        "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
-        "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
-        "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
+        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
+        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
+        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T11:46:52Z",
-        "sourceCount": "47 sources"
+        "pubDate": "2026-04-28T15:53:36Z",
+        "sourceCount": "53 sources"
       },
       {
         "title": "Trump approval hits record low as voter regret mounts",
@@ -1544,13 +1589,22 @@
         "sourceCount": "61 sources"
       },
       {
-        "title": "FBI raids 22 Minneapolis childcare centers in fraud probe",
-        "url": "https://www.perplexity.ai/page/fbi-raids-22-minneapolis-child-EL6zS5ZNS1uZhOQVvXcY3Q",
-        "description": "No arrests were made, but agents executed search warrants at facilities tied to alleged COVID-era social services fraud totaling billions.",
+        "title": "SpaceX ties Musk's pay to Mars colony, $7.5T valuation",
+        "url": "https://www.perplexity.ai/page/spacex-ties-musk-s-pay-to-mars-Dl27x8RqSpiO66Z7KJNv.w",
+        "description": "A Reuters analysis reveals the compensation plan, disclosed in SpaceX's draft IPO prospectus, would award Musk 200 million super-voting shares.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T15:53:36Z",
-        "sourceCount": "53 sources"
+        "pubDate": "2026-04-28T11:46:52Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
+        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
+        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T15:36:40Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Google signs classified AI deal with Pentagon despite employee protests",
@@ -1571,13 +1625,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "SPLC files motions challenging DOJ fraud case, seeks grand jury transcripts",
-        "url": "https://www.perplexity.ai/page/splc-files-motions-challenging-6Gs2R3N2Q9iu8QT2twyKPQ",
-        "description": "The civil rights group says its informant program was known to law enforcement and accuses acting AG Blanche of making false public statements.",
+        "title": "State Dept. to issue passports with Trump's portrait for America's 250th birthday",
+        "url": "https://www.perplexity.ai/page/state-dept-to-issue-passports-vUtxrjH8SFWWhH.fgNdaqg",
+        "description": "The limited-edition design makes Trump the first sitting president featured in a U.S. passport, available by request in Washington.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T15:36:40Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-04-28T23:57:07Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Iran war energy shock pushes millions back to charcoal and firewood",
