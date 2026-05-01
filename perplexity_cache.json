@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Tennessee rushes to redraw maps after SCOTUS voting rights ruling",
+      "url": "https://www.perplexity.ai/page/tennessee-rushes-to-redraw-map-1_WSd_MzRIWAue2tdajTwg",
+      "description": "The president said Gov. Bill Lee agreed to work on eliminating the state's last Democratic House seat after the court weakened the Voting Rights Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-01T13:58:24Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Exxon and Chevron refuse to boost output despite White House pressure",
+      "url": "https://www.perplexity.ai/page/exxon-and-chevron-refuse-to-bo-tbE49uyURBSg2i_m7WR3RQ",
+      "description": "Both oil supermajors reported sharp profit declines but beat adjusted estimates, doubling down on cash flow over production growth amid the Iran war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-01T13:45:00Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Iran accelerates weapons recovery as ceasefire talks stall, NBC News reports",
+      "url": "https://www.perplexity.ai/page/iran-accelerates-weapons-recov-sxi7M6g0TvKKh5XeBKM31w",
+      "description": "U.S. officials say Tehran is exploiting the truce to dig out hidden missiles and drones as the prospect of renewed conflict grows.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-01T12:52:56Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Pentagon strikes AI deals with Nvidia, Microsoft, and four other tech firms for classified work",
+      "url": "https://www.perplexity.ai/page/pentagon-strikes-ai-deals-with-kMjnJbWNSjqIQKXR34asVw",
+      "description": "The Defense Department now has six major AI partnerships for classified military networks, following its bitter split with Anthropic earlier this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-01T11:38:30Z",
+      "sourceCount": "103 sources"
+    },
+    {
       "title": "Louisiana suspends House primaries after Supreme Court strikes down map",
       "url": "https://www.perplexity.ai/page/louisiana-suspends-house-prima-dGZBnpZYS3Wlz7bfDj5x9Q",
       "description": "Gov. Landry issued an executive order halting the state's congressional races after the court ruled its district map unconstitutional.",
@@ -496,24 +532,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
-      "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
-      "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T03:43:08Z",
-      "sourceCount": "61 sources"
-    },
-    {
-      "title": "Trump approval hits record low as voter regret mounts",
-      "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
-      "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T16:58:55Z",
-      "sourceCount": "61 sources"
-    },
-    {
       "title": "OpenAI misses revenue and user targets ahead of IPO",
       "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
       "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
@@ -521,15 +539,6 @@
       "topic": "top",
       "pubDate": "2026-04-28T02:09:33Z",
       "sourceCount": "44 sources"
-    },
-    {
-      "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
-      "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
-      "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T01:57:45Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Supreme Court to hear challenge to Trump's TPS termination for Haitians, Syrians",
@@ -541,6 +550,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
+      "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
+      "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T01:57:45Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "Appeals court lets Pentagon require escorts for journalists",
       "url": "https://www.perplexity.ai/page/appeals-court-lets-pentagon-re-MsWd6_ouRIm1_k28oOblsg",
       "description": "A divided D.C. Circuit panel stayed a lower court order, allowing the Defense Department to mandate journalist escorts while it appeals.",
@@ -548,6 +566,15 @@
       "topic": "top",
       "pubDate": "2026-04-28T01:14:12Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Trump approval hits record low as voter regret mounts",
+      "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
+      "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T16:58:55Z",
+      "sourceCount": "61 sources"
     },
     {
       "title": "First LNG tanker crosses Hormuz since Iran war began",
@@ -559,15 +586,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Trump signs law lifting mining ban near Boundary Waters",
-      "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
-      "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-28T01:39:04Z",
-      "sourceCount": "49 sources"
-    },
-    {
       "title": "Judge pauses order requiring UPenn to share Jewish staff data with EEOC",
       "url": "https://www.perplexity.ai/page/judge-pauses-order-requiring-u-nK_VVzWdQ2W3oRPtf3rqBg",
       "description": "Penn will not have to turn over names of employees in Jewish organizations while it appeals to the Third Circuit.",
@@ -575,6 +593,15 @@
       "topic": "top",
       "pubDate": "2026-04-27T21:28:27Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump signs law lifting mining ban near Boundary Waters",
+      "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
+      "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-28T01:39:04Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
@@ -586,24 +613,6 @@
       "sourceCount": "70 sources"
     },
     {
-      "title": "WHCD shooter charged with attempting to assassinate Trump",
-      "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
-      "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T18:37:34Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Supreme Court permanently upholds Texas congressional map",
-      "url": "https://www.perplexity.ai/page/supreme-court-permanently-upho-aaOH7rfzSSaHrhw5YMnsrw",
-      "description": "The summary reversal in Abbott v. LULAC cements a contested GOP-friendly map for 2026 and beyond, with three liberal justices dissenting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T16:21:39Z",
-      "sourceCount": "47 sources"
-    },
-    {
       "title": "Iran's Araghchi meets Putin as US peace talks stall",
       "url": "https://www.perplexity.ai/page/iran-s-araghchi-meets-putin-as-cYGBHzkcSfCSTIFJxS29fw",
       "description": "Iran's foreign minister blamed Washington's \"excessive demands\" for the collapse of negotiations after arriving in St. Petersburg for talks with Putin.",
@@ -611,6 +620,15 @@
       "topic": "top",
       "pubDate": "2026-04-27T10:17:51Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "WHCD shooter charged with attempting to assassinate Trump",
+      "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+      "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T18:37:34Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "China blocks Meta's $2B acquisition of AI startup Manus",
@@ -622,15 +640,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Reuters uncovers Trump push for federal election control in 8 states",
-      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T14:23:32Z",
-      "sourceCount": "62 sources"
-    },
-    {
       "title": "China quietly expands economic pressure toolkit during trade truce",
       "url": "https://www.perplexity.ai/page/china-quietly-expands-economic-sm0ytG.aS6K14kWyS4KtRQ",
       "description": "Beijing has enacted new laws, tightened export controls, and banned foreign tech from key sectors even as it prepares for a mid-May summit with Washington.",
@@ -638,6 +647,15 @@
       "topic": "top",
       "pubDate": "2026-04-27T02:47:57Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Reuters uncovers Trump push for federal election control in 8 states",
+      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T14:23:32Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Hardliner set to replace Ghalibaf in Iran nuclear talks",
@@ -1331,29 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-04-22T16:30:17Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "$430M oil bet placed minutes before Trump's Iran ceasefire extension",
-      "url": "https://www.perplexity.ai/page/430m-oil-bet-placed-minutes-be-U_VK5wymTReSIv3wLeKqFw",
-      "description": "Traders wagered $430 million on falling crude prices just 15 minutes before the announcement, the fourth such suspiciously timed trade this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T14:42:05Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "US deploys Ukrainian counter-drone system at Saudi base",
-      "url": "https://www.perplexity.ai/page/us-deploys-ukrainian-counter-d-JuhZ6IQlRZC261UOogLkLg",
-      "description": "Sky Map, a battle-tested Ukrainian command-and-control platform, is now operational at Prince Sultan Air Base to counter Iranian drone attacks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T13:05:13Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-05-01T13:45:37Z",
+  "cached_at": "2026-05-01T14:42:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Tennessee rushes to redraw maps after SCOTUS voting rights ruling",
+        "url": "https://www.perplexity.ai/page/tennessee-rushes-to-redraw-map-1_WSd_MzRIWAue2tdajTwg",
+        "description": "The president said Gov. Bill Lee agreed to work on eliminating the state's last Democratic House seat after the court weakened the Voting Rights Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-01T13:58:24Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Exxon and Chevron refuse to boost output despite White House pressure",
+        "url": "https://www.perplexity.ai/page/exxon-and-chevron-refuse-to-bo-tbE49uyURBSg2i_m7WR3RQ",
+        "description": "Both oil supermajors reported sharp profit declines but beat adjusted estimates, doubling down on cash flow over production growth amid the Iran war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-01T13:45:00Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Iran accelerates weapons recovery as ceasefire talks stall, NBC News reports",
+        "url": "https://www.perplexity.ai/page/iran-accelerates-weapons-recov-sxi7M6g0TvKKh5XeBKM31w",
+        "description": "U.S. officials say Tehran is exploiting the truce to dig out hidden missiles and drones as the prospect of renewed conflict grows.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-01T12:52:56Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Pentagon strikes AI deals with Nvidia, Microsoft, and four other tech firms for classified work",
+        "url": "https://www.perplexity.ai/page/pentagon-strikes-ai-deals-with-kMjnJbWNSjqIQKXR34asVw",
+        "description": "The Defense Department now has six major AI partnerships for classified military networks, following its bitter split with Anthropic earlier this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-01T11:38:30Z",
+        "sourceCount": "103 sources"
+      },
       {
         "title": "Louisiana suspends House primaries after Supreme Court strikes down map",
         "url": "https://www.perplexity.ai/page/louisiana-suspends-house-prima-dGZBnpZYS3Wlz7bfDj5x9Q",
@@ -1850,24 +1886,6 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Federal judge orders USCIS to resume green card processing for 83 immigrants",
-        "url": "https://www.perplexity.ai/page/federal-judge-orders-uscis-to-DWPBw6vrRhGK3Qa8ieUqtw",
-        "description": "A Maryland judge found the agency's blanket freeze on applications from 39 travel ban countries was unlawful under the Immigration and Nationality Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T03:43:08Z",
-        "sourceCount": "61 sources"
-      },
-      {
-        "title": "Trump approval hits record low as voter regret mounts",
-        "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
-        "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T16:58:55Z",
-        "sourceCount": "61 sources"
-      },
-      {
         "title": "OpenAI misses revenue and user targets ahead of IPO",
         "url": "https://www.perplexity.ai/page/openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
         "description": "The shortfalls intensify doubts about the AI company's ability to sustain massive infrastructure spending as it prepares for a planned Q4 listing.",
@@ -1875,15 +1893,6 @@
         "topic": "top",
         "pubDate": "2026-04-28T02:09:33Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
-        "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
-        "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T01:57:45Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Supreme Court to hear challenge to Trump's TPS termination for Haitians, Syrians",
@@ -1895,6 +1904,15 @@
         "sourceCount": "39 sources"
       },
       {
+        "title": "Airbnb.org offers free housing to Oklahomans displaced by tornadoes",
+        "url": "https://www.perplexity.ai/page/airbnb-org-offers-free-housing-wCPl8x6pSymwGg_Wys77lA",
+        "description": "The initiative, announced Saturday in partnership with Heartline 211, follows a week of severe storms that damaged dozens of homes across the state.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T01:57:45Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "Appeals court lets Pentagon require escorts for journalists",
         "url": "https://www.perplexity.ai/page/appeals-court-lets-pentagon-re-MsWd6_ouRIm1_k28oOblsg",
         "description": "A divided D.C. Circuit panel stayed a lower court order, allowing the Defense Department to mandate journalist escorts while it appeals.",
@@ -1902,6 +1920,15 @@
         "topic": "top",
         "pubDate": "2026-04-28T01:14:12Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Trump approval hits record low as voter regret mounts",
+        "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
+        "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T16:58:55Z",
+        "sourceCount": "61 sources"
       },
       {
         "title": "First LNG tanker crosses Hormuz since Iran war began",
@@ -1913,15 +1940,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Trump signs law lifting mining ban near Boundary Waters",
-        "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
-        "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-28T01:39:04Z",
-        "sourceCount": "49 sources"
-      },
-      {
         "title": "Judge pauses order requiring UPenn to share Jewish staff data with EEOC",
         "url": "https://www.perplexity.ai/page/judge-pauses-order-requiring-u-nK_VVzWdQ2W3oRPtf3rqBg",
         "description": "Penn will not have to turn over names of employees in Jewish organizations while it appeals to the Third Circuit.",
@@ -1929,6 +1947,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T21:28:27Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump signs law lifting mining ban near Boundary Waters",
+        "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
+        "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-28T01:39:04Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
@@ -1940,24 +1967,6 @@
         "sourceCount": "70 sources"
       },
       {
-        "title": "WHCD shooter charged with attempting to assassinate Trump",
-        "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
-        "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T18:37:34Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Supreme Court permanently upholds Texas congressional map",
-        "url": "https://www.perplexity.ai/page/supreme-court-permanently-upho-aaOH7rfzSSaHrhw5YMnsrw",
-        "description": "The summary reversal in Abbott v. LULAC cements a contested GOP-friendly map for 2026 and beyond, with three liberal justices dissenting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T16:21:39Z",
-        "sourceCount": "47 sources"
-      },
-      {
         "title": "Iran's Araghchi meets Putin as US peace talks stall",
         "url": "https://www.perplexity.ai/page/iran-s-araghchi-meets-putin-as-cYGBHzkcSfCSTIFJxS29fw",
         "description": "Iran's foreign minister blamed Washington's \"excessive demands\" for the collapse of negotiations after arriving in St. Petersburg for talks with Putin.",
@@ -1965,6 +1974,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T10:17:51Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "WHCD shooter charged with attempting to assassinate Trump",
+        "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+        "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T18:37:34Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "China blocks Meta's $2B acquisition of AI startup Manus",
@@ -1976,15 +1994,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Reuters uncovers Trump push for federal election control in 8 states",
-        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T14:23:32Z",
-        "sourceCount": "62 sources"
-      },
-      {
         "title": "China quietly expands economic pressure toolkit during trade truce",
         "url": "https://www.perplexity.ai/page/china-quietly-expands-economic-sm0ytG.aS6K14kWyS4KtRQ",
         "description": "Beijing has enacted new laws, tightened export controls, and banned foreign tech from key sectors even as it prepares for a mid-May summit with Washington.",
@@ -1992,6 +2001,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T02:47:57Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Reuters uncovers Trump push for federal election control in 8 states",
+        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T14:23:32Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Hardliner set to replace Ghalibaf in Iran nuclear talks",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-22T16:30:17Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "$430M oil bet placed minutes before Trump's Iran ceasefire extension",
-        "url": "https://www.perplexity.ai/page/430m-oil-bet-placed-minutes-be-U_VK5wymTReSIv3wLeKqFw",
-        "description": "Traders wagered $430 million on falling crude prices just 15 minutes before the announcement, the fourth such suspiciously timed trade this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T14:42:05Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "US deploys Ukrainian counter-drone system at Saudi base",
-        "url": "https://www.perplexity.ai/page/us-deploys-ukrainian-counter-d-JuhZ6IQlRZC261UOogLkLg",
-        "description": "Sky Map, a battle-tested Ukrainian command-and-control platform, is now operational at Prince Sultan Air Base to counter Iranian drone attacks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T13:05:13Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
