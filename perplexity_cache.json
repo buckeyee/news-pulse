@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Ex-Rep. Rivera convicted in secret Venezuela lobbying case",
+      "url": "https://www.perplexity.ai/page/ex-rep-rivera-convicted-in-sec-1.JjFL4ZRomQC019RH_LJQ",
+      "description": "A Miami federal jury found Rivera and associate Esther Nuhfer guilty on all counts, including failing to register as foreign agents for the Maduro government.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-01T19:27:42Z",
+      "sourceCount": "22 sources"
+    },
+    {
       "title": "Trump signs order expanding Cuba sanctions",
       "url": "https://www.perplexity.ai/page/trump-signs-order-expanding-cu-SyocxoGFRQCwUrsfJVVfMA",
       "description": "The executive order targets individuals and entities supporting Cuba's security apparatus amid an escalating maximum pressure campaign.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-22T19:43:55Z",
       "sourceCount": "65 sources"
-    },
-    {
-      "title": "Zelensky distances himself from 'Donnyland' Donbas proposal, pushes to restart talks",
-      "url": "https://www.perplexity.ai/page/zelensky-distances-himself-fro-XcHUBwaSRw2tjiAZ.PWhGw",
-      "description": "Ukraine's president insisted he uses only official names for Donetsk and Luhansk, while calling for resumed U.S.-mediated peace negotiations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-22T19:27:42Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-05-01T19:57:17Z",
+  "cached_at": "2026-05-01T21:03:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Ex-Rep. Rivera convicted in secret Venezuela lobbying case",
+        "url": "https://www.perplexity.ai/page/ex-rep-rivera-convicted-in-sec-1.JjFL4ZRomQC019RH_LJQ",
+        "description": "A Miami federal jury found Rivera and associate Esther Nuhfer guilty on all counts, including failing to register as foreign agents for the Maduro government.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-01T19:27:42Z",
+        "sourceCount": "22 sources"
+      },
       {
         "title": "Trump signs order expanding Cuba sanctions",
         "url": "https://www.perplexity.ai/page/trump-signs-order-expanding-cu-SyocxoGFRQCwUrsfJVVfMA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-22T19:43:55Z",
         "sourceCount": "65 sources"
-      },
-      {
-        "title": "Zelensky distances himself from 'Donnyland' Donbas proposal, pushes to restart talks",
-        "url": "https://www.perplexity.ai/page/zelensky-distances-himself-fro-XcHUBwaSRw2tjiAZ.PWhGw",
-        "description": "Ukraine's president insisted he uses only official names for Donetsk and Luhansk, while calling for resumed U.S.-mediated peace negotiations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-22T19:27:42Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
