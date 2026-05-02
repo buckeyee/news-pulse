@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump's 'Garden of Heroes' plans expand with pools, amphitheater, dining venues",
+      "url": "https://www.perplexity.ai/page/trump-s-garden-of-heroes-plans-XZvTnL49RzyZ.QRCUtmjPA",
+      "description": "The latest blueprints could require a major redevelopment of West Potomac Park near the National Mall, the New York Times reports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-02T18:35:37Z",
+      "sourceCount": "46 sources"
+    },
+    {
+      "title": "Israeli strikes kill dozens in Lebanon despite ceasefire",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-dozens-in-yWNrohwLSkKNonYSRl_rbQ",
+      "description": "At least 44 people have been killed by Israeli airstrikes in southern Lebanon over the past two days, with both sides violating the April 17 truce.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-02T18:18:05Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "FEMA offers jobs back to workers cut under Noem",
       "url": "https://www.perplexity.ai/page/fema-offers-jobs-back-to-worke-IeIX4McKTNOS9ym9evE32w",
       "description": "The agency told a federal court it is reaching out to disaster workers whose contracts were not renewed in January, reversing cuts that sparked a lawsuit.",
@@ -8,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-05-02T11:50:02Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Danco, DOJ ask Supreme Court to block abortion pill mail ban",
+      "url": "https://www.perplexity.ai/page/danco-doj-ask-supreme-court-to-DE_txYc2SyyJsPT7BIKR0w",
+      "description": "The emergency filings seek to pause a Fifth Circuit ruling that took effect Friday, requiring mifepristone to be dispensed only in person at clinics nationwide.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-02T17:48:13Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "Trump calls US Navy 'like pirates' enforcing Iran blockade",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-23T10:26:14Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "RFK Jr. tells Senate his department advises all children get measles vaccine",
-      "url": "https://www.perplexity.ai/page/rfk-jr-tells-senate-his-depart-jmjgeumgRD21pCLVPI3clw",
-      "description": "The former anti-vaccine activist offered a firm defense of the MMR shot amid nearly 1,750 confirmed U.S. measles cases this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T04:29:41Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Study links 988 hotline to 4,400 fewer youth suicides",
-      "url": "https://www.perplexity.ai/page/study-links-988-hotline-to-440-lRXygsqqRc.fA56nB.p7pg",
-      "description": "Harvard researchers found suicide deaths among young Americans fell 11% below projections in the first two and a half years after the crisis line launched.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T01:17:00Z",
-      "sourceCount": "54 sources"
-    },
-    {
-      "title": "Israeli airstrike kills journalist in southern Lebanon",
-      "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
-      "description": "Lebanese PM Nawaf Salam called the killing of Al-Akhbar reporter Amal Khalil a \"blatant war crime\" and vowed to pursue legal action.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T00:31:47Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-02T18:30:31Z",
+  "cached_at": "2026-05-02T19:38:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump's 'Garden of Heroes' plans expand with pools, amphitheater, dining venues",
+        "url": "https://www.perplexity.ai/page/trump-s-garden-of-heroes-plans-XZvTnL49RzyZ.QRCUtmjPA",
+        "description": "The latest blueprints could require a major redevelopment of West Potomac Park near the National Mall, the New York Times reports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-02T18:35:37Z",
+        "sourceCount": "46 sources"
+      },
+      {
+        "title": "Israeli strikes kill dozens in Lebanon despite ceasefire",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-dozens-in-yWNrohwLSkKNonYSRl_rbQ",
+        "description": "At least 44 people have been killed by Israeli airstrikes in southern Lebanon over the past two days, with both sides violating the April 17 truce.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-02T18:18:05Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "FEMA offers jobs back to workers cut under Noem",
         "url": "https://www.perplexity.ai/page/fema-offers-jobs-back-to-worke-IeIX4McKTNOS9ym9evE32w",
@@ -1362,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-05-02T11:50:02Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Danco, DOJ ask Supreme Court to block abortion pill mail ban",
+        "url": "https://www.perplexity.ai/page/danco-doj-ask-supreme-court-to-DE_txYc2SyyJsPT7BIKR0w",
+        "description": "The emergency filings seek to pause a Fifth Circuit ruling that took effect Friday, requiring mifepristone to be dispensed only in person at clinics nationwide.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-02T17:48:13Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "Trump calls US Navy 'like pirates' enforcing Iran blockade",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-23T10:26:14Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "RFK Jr. tells Senate his department advises all children get measles vaccine",
-        "url": "https://www.perplexity.ai/page/rfk-jr-tells-senate-his-depart-jmjgeumgRD21pCLVPI3clw",
-        "description": "The former anti-vaccine activist offered a firm defense of the MMR shot amid nearly 1,750 confirmed U.S. measles cases this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T04:29:41Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Study links 988 hotline to 4,400 fewer youth suicides",
-        "url": "https://www.perplexity.ai/page/study-links-988-hotline-to-440-lRXygsqqRc.fA56nB.p7pg",
-        "description": "Harvard researchers found suicide deaths among young Americans fell 11% below projections in the first two and a half years after the crisis line launched.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T01:17:00Z",
-        "sourceCount": "54 sources"
-      },
-      {
-        "title": "Israeli airstrike kills journalist in southern Lebanon",
-        "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-journa-WUmNP.fQQnOXm9Q4hZBCMQ",
-        "description": "Lebanese PM Nawaf Salam called the killing of Al-Akhbar reporter Amal Khalil a \"blatant war crime\" and vowed to pursue legal action.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T00:31:47Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
