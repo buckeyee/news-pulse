@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pew poll: Trump approval hits second-term low of 34%",
+      "url": "https://www.perplexity.ai/page/pew-poll-trump-approval-hits-s-JfoYaJIaRs.x0UI1DFRk0g",
+      "description": "A new Pew Research Center survey finds sharp declines among Hispanic and young voters who helped power Trump's 2024 win.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-02T01:58:17Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "NYPD arrests protesters who blockaded NYSE on May Day",
       "url": "https://www.perplexity.ai/page/nypd-arrests-protesters-who-bl-_O9jYx16TK.ak4wOjyX3XA",
       "description": "More than 100 demonstrators tried to shut down every entrance to the exchange as part of nationwide \"Workers Over Billionaires\" actions.",
@@ -703,13 +712,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Trump approval hits record low as voter regret mounts",
-      "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
-      "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
+      "title": "Trump signs law lifting mining ban near Boundary Waters",
+      "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
+      "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T16:58:55Z",
-      "sourceCount": "61 sources"
+      "pubDate": "2026-04-28T01:39:04Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
@@ -730,13 +739,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump signs law lifting mining ban near Boundary Waters",
-      "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
-      "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
+      "title": "WHCD shooter charged with attempting to assassinate Trump",
+      "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+      "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-28T01:39:04Z",
-      "sourceCount": "49 sources"
+      "pubDate": "2026-04-27T18:37:34Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "China blocks Meta's $2B acquisition of AI startup Manus",
@@ -757,13 +766,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "WHCD shooter charged with attempting to assassinate Trump",
-      "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
-      "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
+      "title": "Reuters uncovers Trump push for federal election control in 8 states",
+      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-27T18:37:34Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-04-27T14:23:32Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Hardliner set to replace Ghalibaf in Iran nuclear talks",
@@ -782,15 +791,6 @@
       "topic": "top",
       "pubDate": "2026-04-27T01:52:12Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Reuters uncovers Trump push for federal election control in 8 states",
-      "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-      "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T14:23:32Z",
-      "sourceCount": "62 sources"
     },
     {
       "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
@@ -1351,9 +1351,18 @@
       "sourceCount": "54 sources"
     }
   ],
-  "cached_at": "2026-05-02T03:46:48Z",
+  "cached_at": "2026-05-02T05:57:48Z",
   "topics": {
     "top": [
+      {
+        "title": "Pew poll: Trump approval hits second-term low of 34%",
+        "url": "https://www.perplexity.ai/page/pew-poll-trump-approval-hits-s-JfoYaJIaRs.x0UI1DFRk0g",
+        "description": "A new Pew Research Center survey finds sharp declines among Hispanic and young voters who helped power Trump's 2024 win.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-02T01:58:17Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "NYPD arrests protesters who blockaded NYSE on May Day",
         "url": "https://www.perplexity.ai/page/nypd-arrests-protesters-who-bl-_O9jYx16TK.ak4wOjyX3XA",
@@ -2057,13 +2066,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Trump approval hits record low as voter regret mounts",
-        "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-vXO26qbXR2mhogSFcBfAAA",
-        "description": "Only 18% of Americans strongly approve of Trump's job performance, roughly half the level recorded at the start of his second term.",
+        "title": "Trump signs law lifting mining ban near Boundary Waters",
+        "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
+        "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T16:58:55Z",
-        "sourceCount": "61 sources"
+        "pubDate": "2026-04-28T01:39:04Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "OpenAI, Microsoft end exclusive IP deal in revised pact",
@@ -2084,13 +2093,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump signs law lifting mining ban near Boundary Waters",
-        "url": "https://www.perplexity.ai/page/trump-signs-law-lifting-mining-UMGnPD8LQX2Ps65ZtFN5GA",
-        "description": "The legislation reverses Biden-era protections on 225,000 acres of Minnesota's Superior National Forest, benefiting Chilean-owned Twin Metals.",
+        "title": "WHCD shooter charged with attempting to assassinate Trump",
+        "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
+        "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-28T01:39:04Z",
-        "sourceCount": "49 sources"
+        "pubDate": "2026-04-27T18:37:34Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "China blocks Meta's $2B acquisition of AI startup Manus",
@@ -2111,13 +2120,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "WHCD shooter charged with attempting to assassinate Trump",
-        "url": "https://www.perplexity.ai/page/whcd-shooter-charged-with-atte-bxXFH08.ShWZ0Ll5R7Y0Xg",
-        "description": "Cole Tomas Allen was arraigned Monday on three federal counts, including attempted assassination, after Saturday's attack at the Washington Hilton.",
+        "title": "Reuters uncovers Trump push for federal election control in 8 states",
+        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
+        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-27T18:37:34Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-04-27T14:23:32Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Hardliner set to replace Ghalibaf in Iran nuclear talks",
@@ -2136,15 +2145,6 @@
         "topic": "top",
         "pubDate": "2026-04-27T01:52:12Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Reuters uncovers Trump push for federal election control in 8 states",
-        "url": "https://www.perplexity.ai/page/reuters-uncovers-trump-push-fo-z_v79K4jS8GwaugWi2g93g",
-        "description": "The investigation found the administration using FBI raids, DOJ lawsuits, and demands for voter data to assert control ahead of November's midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T14:23:32Z",
-        "sourceCount": "62 sources"
       },
       {
         "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
