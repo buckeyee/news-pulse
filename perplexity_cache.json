@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Competitive House seats hit historic low amid map wars",
+      "url": "https://www.perplexity.ai/page/competitive-house-seats-hit-hi-lMynlBZxRsK07coeGvBgTg",
+      "description": "Just 16 tossup districts will likely decide control of the House, the fewest since Cook Political Report began ratings in 1984.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-03T19:34:40Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Bulk carrier attacked near Strait of Hormuz amid IRGC buildup",
       "url": "https://www.perplexity.ai/page/bulk-carrier-attacked-near-str-d5tGBkRaSSmxvtvzN7_PWA",
       "description": "A bulk carrier reported explosions near Fujairah, UAE, as satellite images showed nearly 40 IRGC fast attack boats patrolling the strait.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-23T10:03:42Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "SpaceX reveals in-house GPU plans in pre-IPO filing",
-      "url": "https://www.perplexity.ai/page/spacex-reveals-in-house-gpu-pl-ghuuaMUvRJi2YgohXrUvLw",
-      "description": "The company flagged chip supply risks and \"substantial capital expenditures\" for AI hardware as it prepares for a potential record-setting public offering.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T07:56:56Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-03T19:38:24Z",
+  "cached_at": "2026-05-03T20:24:50Z",
   "topics": {
     "top": [
+      {
+        "title": "Competitive House seats hit historic low amid map wars",
+        "url": "https://www.perplexity.ai/page/competitive-house-seats-hit-hi-lMynlBZxRsK07coeGvBgTg",
+        "description": "Just 16 tossup districts will likely decide control of the House, the fewest since Cook Political Report began ratings in 1984.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-03T19:34:40Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Bulk carrier attacked near Strait of Hormuz amid IRGC buildup",
         "url": "https://www.perplexity.ai/page/bulk-carrier-attacked-near-str-d5tGBkRaSSmxvtvzN7_PWA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-23T10:03:42Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "SpaceX reveals in-house GPU plans in pre-IPO filing",
-        "url": "https://www.perplexity.ai/page/spacex-reveals-in-house-gpu-pl-ghuuaMUvRJi2YgohXrUvLw",
-        "description": "The company flagged chip supply risks and \"substantial capital expenditures\" for AI hardware as it prepares for a potential record-setting public offering.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T07:56:56Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
