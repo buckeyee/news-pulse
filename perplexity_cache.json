@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "GameStop launches $56 billion bid to acquire eBay",
+      "url": "https://www.perplexity.ai/page/gamestop-launches-56-billion-b-L_V9QdmMQLmCF.1Z4Hc43Q",
+      "description": "CEO Ryan Cohen told The Wall Street Journal that GameStop has built a 5% stake in eBay and secured $20 billion in debt financing from TD Bank.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-03T23:42:44Z",
+      "sourceCount": "90 sources"
+    },
+    {
+      "title": "Rudy Giuliani hospitalized in critical condition",
+      "url": "https://www.perplexity.ai/page/rudy-giuliani-hospitalized-in-9NnL9A3rSQa6QGBq1AtP6Q",
+      "description": "His spokesman called for prayers for \"America's Mayor\" but did not disclose the cause or the Florida hospital where Giuliani is being treated.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-03T23:33:14Z",
+      "sourceCount": "62 sources"
+    },
+    {
       "title": "Starmer, Zelenskyy meet in Yerevan as UK seeks to join EU's Ukraine loan program",
       "url": "https://www.perplexity.ai/page/starmer-zelenskyy-meet-in-yere-BXcHqa1DS3ezSTeaq4esOw",
       "description": "The British prime minister is pushing for UK defense firms to compete for contracts under the EU's newly approved €90 billion loan for Kyiv.",
@@ -19,13 +37,13 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Witkoff says U.S. in direct talks with Iran as war hits day 65",
-      "url": "https://www.perplexity.ai/page/witkoff-says-u-s-in-direct-tal-xXu84GjAQrqLFiS7VMT9Xg",
-      "description": "Washington is reviewing a 14-point Iranian peace proposal as Trump faces War Powers Act pressure to seek congressional approval for continued operations.",
+      "title": "DHS lifts visa processing hold for foreign doctors under travel ban",
+      "url": "https://www.perplexity.ai/page/dhs-lifts-visa-processing-hold-XsdmnwDOTUWyu52RjHdNxQ",
+      "description": "USCIS updated its website to restore visa processing for physicians from 39 banned countries after hospitals placed doctors on leave.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-03T20:18:20Z",
-      "sourceCount": "69 sources"
+      "pubDate": "2026-05-03T22:32:56Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Three dead in hantavirus outbreak on Atlantic cruise ship",
@@ -44,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-05-03T19:34:40Z",
       "sourceCount": "45 sources"
+    },
+    {
+      "title": "Witkoff says U.S. in direct talks with Iran as war hits day 65",
+      "url": "https://www.perplexity.ai/page/witkoff-says-u-s-in-direct-tal-xXu84GjAQrqLFiS7VMT9Xg",
+      "description": "Washington is reviewing a 14-point Iranian peace proposal as Trump faces War Powers Act pressure to seek congressional approval for continued operations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-03T20:18:20Z",
+      "sourceCount": "69 sources"
     },
     {
       "title": "Pirro says IG findings will decide fate of Powell probe",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-23T16:23:58Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Interstellar comet 3I/ATLAS traced to cold, ancient corner of the Milky Way",
-      "url": "https://www.perplexity.ai/page/interstellar-comet-3i-atlas-tr-MA.LriH7Sx6_lTvE.KH.OA",
-      "description": "Scientists say the third confirmed interstellar visitor likely formed up to 11 billion years ago in a frigid, isolated region before its host star's planetary system took shape.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T10:12:28Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Senate adopts GOP budget plan to fund ICE, Border Patrol",
-      "url": "https://www.perplexity.ai/page/senate-adopts-gop-budget-plan-DsNiFjM.QKSdz986gzgrmg",
-      "description": "The 50-48 vote early Thursday advances a partisan $70 billion plan to reopen DHS, bypassing Democrats through budget reconciliation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T10:03:42Z",
-      "sourceCount": "53 sources"
-    },
-    {
-      "title": "China warns of 'critical juncture' as Iran ceasefire talks falter",
-      "url": "https://www.perplexity.ai/page/china-warns-of-critical-junctu-WrgoOHzjQCO4UCSsVS89mw",
-      "description": "Beijing urged all parties to prevent a return to war after scheduled U.S.-Iran peace talks in Pakistan stalled and Trump extended the ceasefire while maintaining a naval blockade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T14:48:12Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-03T23:58:54Z",
+  "cached_at": "2026-05-04T04:02:04Z",
   "topics": {
     "top": [
+      {
+        "title": "GameStop launches $56 billion bid to acquire eBay",
+        "url": "https://www.perplexity.ai/page/gamestop-launches-56-billion-b-L_V9QdmMQLmCF.1Z4Hc43Q",
+        "description": "CEO Ryan Cohen told The Wall Street Journal that GameStop has built a 5% stake in eBay and secured $20 billion in debt financing from TD Bank.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-03T23:42:44Z",
+        "sourceCount": "90 sources"
+      },
+      {
+        "title": "Rudy Giuliani hospitalized in critical condition",
+        "url": "https://www.perplexity.ai/page/rudy-giuliani-hospitalized-in-9NnL9A3rSQa6QGBq1AtP6Q",
+        "description": "His spokesman called for prayers for \"America's Mayor\" but did not disclose the cause or the Florida hospital where Giuliani is being treated.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-03T23:33:14Z",
+        "sourceCount": "62 sources"
+      },
       {
         "title": "Starmer, Zelenskyy meet in Yerevan as UK seeks to join EU's Ukraine loan program",
         "url": "https://www.perplexity.ai/page/starmer-zelenskyy-meet-in-yere-BXcHqa1DS3ezSTeaq4esOw",
@@ -1373,13 +1391,13 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Witkoff says U.S. in direct talks with Iran as war hits day 65",
-        "url": "https://www.perplexity.ai/page/witkoff-says-u-s-in-direct-tal-xXu84GjAQrqLFiS7VMT9Xg",
-        "description": "Washington is reviewing a 14-point Iranian peace proposal as Trump faces War Powers Act pressure to seek congressional approval for continued operations.",
+        "title": "DHS lifts visa processing hold for foreign doctors under travel ban",
+        "url": "https://www.perplexity.ai/page/dhs-lifts-visa-processing-hold-XsdmnwDOTUWyu52RjHdNxQ",
+        "description": "USCIS updated its website to restore visa processing for physicians from 39 banned countries after hospitals placed doctors on leave.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-03T20:18:20Z",
-        "sourceCount": "69 sources"
+        "pubDate": "2026-05-03T22:32:56Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Three dead in hantavirus outbreak on Atlantic cruise ship",
@@ -1398,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-05-03T19:34:40Z",
         "sourceCount": "45 sources"
+      },
+      {
+        "title": "Witkoff says U.S. in direct talks with Iran as war hits day 65",
+        "url": "https://www.perplexity.ai/page/witkoff-says-u-s-in-direct-tal-xXu84GjAQrqLFiS7VMT9Xg",
+        "description": "Washington is reviewing a 14-point Iranian peace proposal as Trump faces War Powers Act pressure to seek congressional approval for continued operations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-03T20:18:20Z",
+        "sourceCount": "69 sources"
       },
       {
         "title": "Pirro says IG findings will decide fate of Powell probe",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-23T16:23:58Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Interstellar comet 3I/ATLAS traced to cold, ancient corner of the Milky Way",
-        "url": "https://www.perplexity.ai/page/interstellar-comet-3i-atlas-tr-MA.LriH7Sx6_lTvE.KH.OA",
-        "description": "Scientists say the third confirmed interstellar visitor likely formed up to 11 billion years ago in a frigid, isolated region before its host star's planetary system took shape.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T10:12:28Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Senate adopts GOP budget plan to fund ICE, Border Patrol",
-        "url": "https://www.perplexity.ai/page/senate-adopts-gop-budget-plan-DsNiFjM.QKSdz986gzgrmg",
-        "description": "The 50-48 vote early Thursday advances a partisan $70 billion plan to reopen DHS, bypassing Democrats through budget reconciliation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T10:03:42Z",
-        "sourceCount": "53 sources"
-      },
-      {
-        "title": "China warns of 'critical juncture' as Iran ceasefire talks falter",
-        "url": "https://www.perplexity.ai/page/china-warns-of-critical-junctu-WrgoOHzjQCO4UCSsVS89mw",
-        "description": "Beijing urged all parties to prevent a return to war after scheduled U.S.-Iran peace talks in Pakistan stalled and Trump extended the ceasefire while maintaining a naval blockade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T14:48:12Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
