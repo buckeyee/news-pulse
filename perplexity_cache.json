@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Apple in talks with Intel, Samsung to make device chips in the U.S.",
+      "url": "https://www.perplexity.ai/page/apple-in-talks-with-intel-sams-oyYDAJwgRNyVLmptoEzQfQ",
+      "description": "The discussions could end a decade-long exclusive chipmaking partnership with TSMC as AI-driven supply constraints squeeze Apple's access to fabrication capacity.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-05T03:37:05Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "NYC Mayor Mamdani skips Met Gala, spotlights garment workers instead",
+      "url": "https://www.perplexity.ai/page/nyc-mayor-mamdani-skips-met-ga-APnxoSPFR0SMDC9NgWIT.w",
+      "description": "Rather than attending fashion's biggest night, New York's mayor published portraits of garment district workers whose labor makes the industry possible.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-05T02:35:53Z",
+      "sourceCount": "22 sources"
+    },
+    {
       "title": "Supreme Court fast-tracks Louisiana redistricting mandate amid justice clash",
       "url": "https://www.perplexity.ai/page/supreme-court-fast-tracks-loui-j.9u9_2aR1mstFOdItcI.Q",
       "description": "The unsigned Monday order bypasses the standard 32-day waiting period, clearing the way for new congressional maps before the 2026 midterms.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-23T18:00:45Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump threatens UK with tariffs over digital services tax",
-      "url": "https://www.perplexity.ai/page/trump-threatens-uk-with-tariff-B4wx.LyXTlyMFrodpE3nvQ",
-      "description": "The warning came as new data showed the UK collected £944 million from the levy in 2025-26, a 17% increase from the prior year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-24T01:25:13Z",
-      "sourceCount": "52 sources"
-    },
-    {
-      "title": "Wall Street slips from record highs as oil tops $103",
-      "url": "https://www.perplexity.ai/page/wall-street-slips-from-record-Ct3MPta8Rd6eLQ1WGusWAg",
-      "description": "The S&P 500 and Nasdaq pulled back Thursday as Strait of Hormuz disruptions pushed Brent crude higher and U.S.-Iran peace talks stalled.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T17:58:51Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-05-05T01:17:35Z",
+  "cached_at": "2026-05-05T04:30:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Apple in talks with Intel, Samsung to make device chips in the U.S.",
+        "url": "https://www.perplexity.ai/page/apple-in-talks-with-intel-sams-oyYDAJwgRNyVLmptoEzQfQ",
+        "description": "The discussions could end a decade-long exclusive chipmaking partnership with TSMC as AI-driven supply constraints squeeze Apple's access to fabrication capacity.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-05T03:37:05Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "NYC Mayor Mamdani skips Met Gala, spotlights garment workers instead",
+        "url": "https://www.perplexity.ai/page/nyc-mayor-mamdani-skips-met-ga-APnxoSPFR0SMDC9NgWIT.w",
+        "description": "Rather than attending fashion's biggest night, New York's mayor published portraits of garment district workers whose labor makes the industry possible.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-05T02:35:53Z",
+        "sourceCount": "22 sources"
+      },
       {
         "title": "Supreme Court fast-tracks Louisiana redistricting mandate amid justice clash",
         "url": "https://www.perplexity.ai/page/supreme-court-fast-tracks-loui-j.9u9_2aR1mstFOdItcI.Q",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-23T18:00:45Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump threatens UK with tariffs over digital services tax",
-        "url": "https://www.perplexity.ai/page/trump-threatens-uk-with-tariff-B4wx.LyXTlyMFrodpE3nvQ",
-        "description": "The warning came as new data showed the UK collected £944 million from the levy in 2025-26, a 17% increase from the prior year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-24T01:25:13Z",
-        "sourceCount": "52 sources"
-      },
-      {
-        "title": "Wall Street slips from record highs as oil tops $103",
-        "url": "https://www.perplexity.ai/page/wall-street-slips-from-record-Ct3MPta8Rd6eLQ1WGusWAg",
-        "description": "The S&P 500 and Nasdaq pulled back Thursday as Strait of Hormuz disruptions pushed Brent crude higher and U.S.-Iran peace talks stalled.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T17:58:51Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
