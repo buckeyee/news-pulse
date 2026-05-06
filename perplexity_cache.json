@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump pauses Iran strikes, warns of escalation if no deal",
-      "url": "https://www.perplexity.ai/page/trump-pauses-iran-strikes-warn-d_WnloJdSQuWmgHnj7ESdg",
-      "description": "Secretary of State Rubio announced the end of major military operations as Trump halted \"Project Freedom\" to allow negotiations through Pakistan.",
+      "title": "US, Iran near 14-point memo to end Gulf war, awaiting Tehran's response",
+      "url": "https://www.perplexity.ai/page/us-iran-near-14-point-memo-to-p.FFCZePTdi0.51nbcLmng",
+      "description": "Iran says it is evaluating the proposed one-page memorandum as the US expects a formal response within 48 hours.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-06T13:03:40Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-05-06T15:52:45Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Ted Turner, CNN founder and media mogul, dies at 87",
+      "url": "https://www.perplexity.ai/page/ted-turner-cnn-founder-and-med-cj4PqHgSR7i97vzZnjJujA",
+      "description": "Turner, who had been living with Lewy body dementia since 2018, died Wednesday at his home near Tallahassee, Florida.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-06T14:46:05Z",
+      "sourceCount": "67 sources"
     },
     {
       "title": "Spain to repatriate all passengers from hantavirus cruise ship",
@@ -19,6 +28,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "North Korea drops reunification from constitution, codifies Kim's nuclear authority",
+      "url": "https://www.perplexity.ai/page/north-korea-drops-reunificatio-CAHCs6qbR9uDyH6faAxIfA",
+      "description": "The revised charter defines North Korean territory as bordering South Korea and formally places command of the nuclear arsenal in Kim Jong Un's hands.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-06T10:22:27Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "China's Big Fund in talks to lead DeepSeek round at $45B valuation",
       "url": "https://www.perplexity.ai/page/china-s-big-fund-in-talks-to-l-2QrHt53MR9W4As6C8nsGeQ",
       "description": "The state-backed semiconductor fund's potential investment in the AI lab signals Beijing now views model capability as a strategic priority.",
@@ -26,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-05-06T08:22:47Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Ukraine says Russia violated ceasefire with overnight strikes",
+      "url": "https://www.perplexity.ai/page/ukraine-says-russia-violated-c-pIP7wExiTLeYspLYPTAQig",
+      "description": "Foreign Minister Sybiha said Russian forces launched 108 drones and three missiles after Ukraine's unilateral ceasefire took effect at midnight.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-06T07:44:20Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Democrat Greene wins Michigan Senate special election",
@@ -1322,46 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-04-24T01:40:34Z",
       "sourceCount": "70 sources"
-    },
-    {
-      "title": "DOJ expands federal execution methods to include firing squads",
-      "url": "https://www.perplexity.ai/page/doj-expands-federal-execution-C_quAISYSq.pu5C0hwV3iQ",
-      "description": "Acting AG Todd Blanche directed the Bureau of Prisons to add firing squads and reinstate the lethal injection protocol from Trump's first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-24T16:23:39Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "FDA clears first gene therapy for inherited hearing loss",
-      "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
-      "description": "Regeneron says it will provide Otarmeni, which restored hearing in children born deaf, for free to eligible U.S. patients.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T19:32:41Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Iran war strains US ability to arm and defend Taiwan",
-      "url": "https://www.perplexity.ai/page/iran-war-strains-us-ability-to-jtJySKpgQKySpNHGhn40AQ",
-      "description": "A naval blockade, depleted munitions, and a stalled $14 billion arms deal are stretching Pentagon resources as China watches closely.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-23T18:58:57Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-06T14:40:09Z",
+  "cached_at": "2026-05-06T16:19:06Z",
   "topics": {
     "top": [
       {
-        "title": "Trump pauses Iran strikes, warns of escalation if no deal",
-        "url": "https://www.perplexity.ai/page/trump-pauses-iran-strikes-warn-d_WnloJdSQuWmgHnj7ESdg",
-        "description": "Secretary of State Rubio announced the end of major military operations as Trump halted \"Project Freedom\" to allow negotiations through Pakistan.",
+        "title": "US, Iran near 14-point memo to end Gulf war, awaiting Tehran's response",
+        "url": "https://www.perplexity.ai/page/us-iran-near-14-point-memo-to-p.FFCZePTdi0.51nbcLmng",
+        "description": "Iran says it is evaluating the proposed one-page memorandum as the US expects a formal response within 48 hours.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-06T13:03:40Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-05-06T15:52:45Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Ted Turner, CNN founder and media mogul, dies at 87",
+        "url": "https://www.perplexity.ai/page/ted-turner-cnn-founder-and-med-cj4PqHgSR7i97vzZnjJujA",
+        "description": "Turner, who had been living with Lewy body dementia since 2018, died Wednesday at his home near Tallahassee, Florida.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-06T14:46:05Z",
+        "sourceCount": "67 sources"
       },
       {
         "title": "Spain to repatriate all passengers from hantavirus cruise ship",
@@ -1373,6 +1382,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "North Korea drops reunification from constitution, codifies Kim's nuclear authority",
+        "url": "https://www.perplexity.ai/page/north-korea-drops-reunificatio-CAHCs6qbR9uDyH6faAxIfA",
+        "description": "The revised charter defines North Korean territory as bordering South Korea and formally places command of the nuclear arsenal in Kim Jong Un's hands.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-06T10:22:27Z",
+        "sourceCount": "23 sources"
+      },
+      {
         "title": "China's Big Fund in talks to lead DeepSeek round at $45B valuation",
         "url": "https://www.perplexity.ai/page/china-s-big-fund-in-talks-to-l-2QrHt53MR9W4As6C8nsGeQ",
         "description": "The state-backed semiconductor fund's potential investment in the AI lab signals Beijing now views model capability as a strategic priority.",
@@ -1380,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-05-06T08:22:47Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Ukraine says Russia violated ceasefire with overnight strikes",
+        "url": "https://www.perplexity.ai/page/ukraine-says-russia-violated-c-pIP7wExiTLeYspLYPTAQig",
+        "description": "Foreign Minister Sybiha said Russian forces launched 108 drones and three missiles after Ukraine's unilateral ceasefire took effect at midnight.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-06T07:44:20Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Democrat Greene wins Michigan Senate special election",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-24T01:40:34Z",
         "sourceCount": "70 sources"
-      },
-      {
-        "title": "DOJ expands federal execution methods to include firing squads",
-        "url": "https://www.perplexity.ai/page/doj-expands-federal-execution-C_quAISYSq.pu5C0hwV3iQ",
-        "description": "Acting AG Todd Blanche directed the Bureau of Prisons to add firing squads and reinstate the lethal injection protocol from Trump's first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-24T16:23:39Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "FDA clears first gene therapy for inherited hearing loss",
-        "url": "https://www.perplexity.ai/page/fda-clears-first-gene-therapy-ntxz1N67T_yDZAebAfDqTw",
-        "description": "Regeneron says it will provide Otarmeni, which restored hearing in children born deaf, for free to eligible U.S. patients.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T19:32:41Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Iran war strains US ability to arm and defend Taiwan",
-        "url": "https://www.perplexity.ai/page/iran-war-strains-us-ability-to-jtJySKpgQKySpNHGhn40AQ",
-        "description": "A naval blockade, depleted munitions, and a stalled $14 billion arms deal are stretching Pentagon resources as China watches closely.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-23T18:58:57Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
