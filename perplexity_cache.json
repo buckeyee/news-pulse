@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Iran reviews US peace memo as Trump threatens bombing",
-      "url": "https://www.perplexity.ai/page/iran-reviews-us-peace-memo-as-QSndCcxIROGsbbc8DQbvMw",
-      "description": "Tehran says it is still examining a 14-point framework to end the war, with a formal response expected within 48 hours.",
+      "title": "Trump gives EU until July 4 to ratify trade deal",
+      "url": "https://www.perplexity.ai/page/trump-gives-eu-until-july-4-to-lFv6WHYkT1.Sin4TwmZeDQ",
+      "description": "The president set the deadline after overnight trilogue talks on the Turnberry Agreement collapsed without a breakthrough.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-07T18:32:43Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-05-07T19:33:52Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "New York reaches $268B budget deal with second-home tax",
@@ -559,13 +559,13 @@
       "sourceCount": "55 sources"
     },
     {
-      "title": "US approves $8.6 billion in arms sales to Middle East allies",
-      "url": "https://www.perplexity.ai/page/us-approves-8-6-billion-in-arm-gt9nOdTKRbiGUaT6UwRi_Q",
-      "description": "The State Department on Friday cleared weapons deals with Israel, Qatar, Kuwait, and the UAE as the Iran ceasefire remains fragile.",
+      "title": "Iran demands six Arab states pay reparations over war",
+      "url": "https://www.perplexity.ai/page/iran-demands-six-arab-states-p-pwRpSElrTwClLrQzr2Bvzw",
+      "description": "Tehran's UN envoy rejected Gulf states' self-defense claims, calling their role in the U.S.-Israeli campaign acts of aggression under international law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-01T23:46:38Z",
-      "sourceCount": "75 sources"
+      "pubDate": "2026-05-01T22:43:52Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Trump says Medicare patients to get GLP-1 drugs by July",
@@ -584,15 +584,6 @@
       "topic": "top",
       "pubDate": "2026-05-02T11:50:02Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran demands six Arab states pay reparations over war",
-      "url": "https://www.perplexity.ai/page/iran-demands-six-arab-states-p-pwRpSElrTwClLrQzr2Bvzw",
-      "description": "Tehran's UN envoy rejected Gulf states' self-defense claims, calling their role in the U.S.-Israeli campaign acts of aggression under international law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-01T22:43:52Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "HHS visa delays leave hundreds of foreign doctors facing deportation",
@@ -1349,19 +1340,28 @@
       "topic": "top",
       "pubDate": "2026-04-25T10:03:05Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "Judge questions jurisdiction over Trump's $10B IRS suit",
+      "url": "https://www.perplexity.ai/page/judge-questions-jurisdiction-o-2rTTXIdORx6Ud77.RaBLWw",
+      "description": "Judge Kathleen Williams ordered briefings on whether the case can proceed when the president controls both sides of the litigation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-25T01:07:33Z",
+      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-05-07T19:15:49Z",
+  "cached_at": "2026-05-07T20:42:16Z",
   "topics": {
     "top": [
       {
-        "title": "Iran reviews US peace memo as Trump threatens bombing",
-        "url": "https://www.perplexity.ai/page/iran-reviews-us-peace-memo-as-QSndCcxIROGsbbc8DQbvMw",
-        "description": "Tehran says it is still examining a 14-point framework to end the war, with a formal response expected within 48 hours.",
+        "title": "Trump gives EU until July 4 to ratify trade deal",
+        "url": "https://www.perplexity.ai/page/trump-gives-eu-until-july-4-to-lFv6WHYkT1.Sin4TwmZeDQ",
+        "description": "The president set the deadline after overnight trilogue talks on the Turnberry Agreement collapsed without a breakthrough.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-07T18:32:43Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-05-07T19:33:52Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "New York reaches $268B budget deal with second-home tax",
@@ -1913,13 +1913,13 @@
         "sourceCount": "55 sources"
       },
       {
-        "title": "US approves $8.6 billion in arms sales to Middle East allies",
-        "url": "https://www.perplexity.ai/page/us-approves-8-6-billion-in-arm-gt9nOdTKRbiGUaT6UwRi_Q",
-        "description": "The State Department on Friday cleared weapons deals with Israel, Qatar, Kuwait, and the UAE as the Iran ceasefire remains fragile.",
+        "title": "Iran demands six Arab states pay reparations over war",
+        "url": "https://www.perplexity.ai/page/iran-demands-six-arab-states-p-pwRpSElrTwClLrQzr2Bvzw",
+        "description": "Tehran's UN envoy rejected Gulf states' self-defense claims, calling their role in the U.S.-Israeli campaign acts of aggression under international law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-01T23:46:38Z",
-        "sourceCount": "75 sources"
+        "pubDate": "2026-05-01T22:43:52Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Trump says Medicare patients to get GLP-1 drugs by July",
@@ -1938,15 +1938,6 @@
         "topic": "top",
         "pubDate": "2026-05-02T11:50:02Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran demands six Arab states pay reparations over war",
-        "url": "https://www.perplexity.ai/page/iran-demands-six-arab-states-p-pwRpSElrTwClLrQzr2Bvzw",
-        "description": "Tehran's UN envoy rejected Gulf states' self-defense claims, calling their role in the U.S.-Israeli campaign acts of aggression under international law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-01T22:43:52Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "HHS visa delays leave hundreds of foreign doctors facing deportation",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-25T10:03:05Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "Judge questions jurisdiction over Trump's $10B IRS suit",
+        "url": "https://www.perplexity.ai/page/judge-questions-jurisdiction-o-2rTTXIdORx6Ud77.RaBLWw",
+        "description": "Judge Kathleen Williams ordered briefings on whether the case can proceed when the president controls both sides of the litigation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-25T01:07:33Z",
+        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
