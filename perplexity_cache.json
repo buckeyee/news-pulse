@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Russian drone kills civilian hours into US-brokered ceasefire",
+      "url": "https://www.perplexity.ai/page/russian-drone-kills-civilian-h-RbEPA.fcTO.4Nz19YarIgw",
+      "description": "A strike on a car in Zaporizhzhia Oblast killed a 67-year-old driver on the first day of a three-day truce meant to halt all fighting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-09T19:58:19Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "U.S. strikes third alleged drug boat in five days, killing 2",
+      "url": "https://www.perplexity.ai/page/u-s-strikes-third-alleged-drug-CctGPuoxTZ6ZDJX941kieQ",
+      "description": "The campaign known as Operation Southern Spear has now killed at least 193 people since September, according to the AP.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-09T18:33:38Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "WHO chief arrives in Spain ahead of hantavirus ship docking",
       "url": "https://www.perplexity.ai/page/who-chief-arrives-in-spain-ahe-zsugPT0lR2i9pXX0SRsnww",
       "description": "Tedros Adhanom Ghebreyesus flew to Tenerife Saturday to oversee the disembarkation of 140-plus passengers and crew from the MV Hondius.",
@@ -109,13 +127,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Satellite images reveal massive oil spill near Iran's Kharg Island",
-      "url": "https://www.perplexity.ai/page/satellite-images-reveal-massiv-aeCcbVMzQU.U71nKFgmpRA",
-      "description": "The slick, covering more than 120 square kilometers, was detected as Iran's oil storage nears capacity under the U.S. naval blockade.",
+      "title": "Consumer sentiment hits all-time low as Iran war weighs on Americans",
+      "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-all-ti-XxXNOhguQKik._HRmfeuwQ",
+      "description": "The University of Michigan's preliminary May reading of 48.2 is the worst in the survey's 74-year history, driven by surging fuel costs.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-08T16:35:31Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-05-08T15:47:42Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Trump threatens 'Project Freedom Plus' if Iran won't sign deal",
@@ -127,15 +145,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Consumer sentiment hits all-time low as Iran war weighs on Americans",
-      "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-all-ti-XxXNOhguQKik._HRmfeuwQ",
-      "description": "The University of Michigan's preliminary May reading of 48.2 is the worst in the survey's 74-year history, driven by surging fuel costs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T15:47:42Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Virginia Supreme Court strikes down voter-backed redistricting plan",
       "url": "https://www.perplexity.ai/page/virginia-supreme-court-strikes-iBOWvABXRJeIKFB0LUecHA",
       "description": "The ruling voids an April 21 referendum and preserves the current congressional map, blocking Democrats from gaining up to four House seats.",
@@ -145,15 +154,6 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
-      "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
-      "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T21:29:35Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Pentagon releases 162 declassified UFO files to public",
       "url": "https://www.perplexity.ai/page/pentagon-releases-162-declassi-4Z75.9kaRyOflzQSJpQstQ",
       "description": "The first batch includes unresolved cases, Apollo mission photos, and infrared imagery, all accessible without security clearance at war.gov/UFO.",
@@ -161,6 +161,15 @@
       "topic": "top",
       "pubDate": "2026-05-08T14:10:13Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
+      "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
+      "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-08T21:29:35Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Iran's FM says missile arsenal grew despite US strikes",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-27T01:22:27Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Iran refuses talks unless US lifts naval blockade",
-      "url": "https://www.perplexity.ai/page/iran-refuses-talks-unless-us-l-MSjKxkQzRRW1GMwzVko2mA",
-      "description": "Tehran demands removal of the port blockade before resuming negotiations, as the U.S. Navy intercepts another sanctioned vessel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-26T23:37:40Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-09T19:33:38Z",
+  "cached_at": "2026-05-09T20:24:04Z",
   "topics": {
     "top": [
+      {
+        "title": "Russian drone kills civilian hours into US-brokered ceasefire",
+        "url": "https://www.perplexity.ai/page/russian-drone-kills-civilian-h-RbEPA.fcTO.4Nz19YarIgw",
+        "description": "A strike on a car in Zaporizhzhia Oblast killed a 67-year-old driver on the first day of a three-day truce meant to halt all fighting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-09T19:58:19Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "U.S. strikes third alleged drug boat in five days, killing 2",
+        "url": "https://www.perplexity.ai/page/u-s-strikes-third-alleged-drug-CctGPuoxTZ6ZDJX941kieQ",
+        "description": "The campaign known as Operation Southern Spear has now killed at least 193 people since September, according to the AP.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-09T18:33:38Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "WHO chief arrives in Spain ahead of hantavirus ship docking",
         "url": "https://www.perplexity.ai/page/who-chief-arrives-in-spain-ahe-zsugPT0lR2i9pXX0SRsnww",
@@ -1463,13 +1481,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Satellite images reveal massive oil spill near Iran's Kharg Island",
-        "url": "https://www.perplexity.ai/page/satellite-images-reveal-massiv-aeCcbVMzQU.U71nKFgmpRA",
-        "description": "The slick, covering more than 120 square kilometers, was detected as Iran's oil storage nears capacity under the U.S. naval blockade.",
+        "title": "Consumer sentiment hits all-time low as Iran war weighs on Americans",
+        "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-all-ti-XxXNOhguQKik._HRmfeuwQ",
+        "description": "The University of Michigan's preliminary May reading of 48.2 is the worst in the survey's 74-year history, driven by surging fuel costs.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-08T16:35:31Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-05-08T15:47:42Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Trump threatens 'Project Freedom Plus' if Iran won't sign deal",
@@ -1481,15 +1499,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Consumer sentiment hits all-time low as Iran war weighs on Americans",
-        "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-all-ti-XxXNOhguQKik._HRmfeuwQ",
-        "description": "The University of Michigan's preliminary May reading of 48.2 is the worst in the survey's 74-year history, driven by surging fuel costs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T15:47:42Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Virginia Supreme Court strikes down voter-backed redistricting plan",
         "url": "https://www.perplexity.ai/page/virginia-supreme-court-strikes-iBOWvABXRJeIKFB0LUecHA",
         "description": "The ruling voids an April 21 referendum and preserves the current congressional map, blocking Democrats from gaining up to four House seats.",
@@ -1499,15 +1508,6 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
-        "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
-        "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T21:29:35Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Pentagon releases 162 declassified UFO files to public",
         "url": "https://www.perplexity.ai/page/pentagon-releases-162-declassi-4Z75.9kaRyOflzQSJpQstQ",
         "description": "The first batch includes unresolved cases, Apollo mission photos, and infrared imagery, all accessible without security clearance at war.gov/UFO.",
@@ -1515,6 +1515,15 @@
         "topic": "top",
         "pubDate": "2026-05-08T14:10:13Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
+        "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
+        "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-08T21:29:35Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Iran's FM says missile arsenal grew despite US strikes",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-27T01:22:27Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Iran refuses talks unless US lifts naval blockade",
-        "url": "https://www.perplexity.ai/page/iran-refuses-talks-unless-us-l-MSjKxkQzRRW1GMwzVko2mA",
-        "description": "Tehran demands removal of the port blockade before resuming negotiations, as the U.S. Navy intercepts another sanctioned vessel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-26T23:37:40Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
