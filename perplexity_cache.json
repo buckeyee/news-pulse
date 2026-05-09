@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Alito relied on misleading DOJ data to gut Voting Rights Act, analysis finds",
+      "url": "https://www.perplexity.ai/page/alito-relied-on-misleading-doj-BE8cj0gGQ7CP7Ala4kYtWg",
+      "description": "The Guardian found the voter turnout statistics in the Supreme Court's landmark Section 2 ruling used a methodology experts call deliberately deceptive.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-09T10:22:23Z",
+      "sourceCount": "19 sources"
+    },
+    {
       "title": "Trump threatens 'Project Freedom Plus' if Iran won't sign deal",
       "url": "https://www.perplexity.ai/page/trump-threatens-project-freedo-QyLPbp5RQi6JwsTgFI5nig",
       "description": "The warning came a day after U.S. and Iranian forces exchanged fire in the Strait of Hormuz, the most serious clash since the April ceasefire.",
@@ -10,15 +19,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "US eyes $400M TikTok child privacy settlement for DC 'beautification'",
-      "url": "https://www.perplexity.ai/page/us-eyes-400m-tiktok-child-priv-bxQhPWroTlubr1x6pMDdlg",
-      "description": "Rather than compensating young victims, the proposed deal would direct funds toward beautification initiatives including a triumphal arch.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T22:27:32Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Four men found guilty in assassination of Haitian President Moïse",
       "url": "https://www.perplexity.ai/page/four-men-found-guilty-in-assas-34qLuTG8Tp.IOr54V4ReYQ",
       "description": "A Miami federal jury convicted four men on all counts for conspiring to kill the Haitian leader, who was gunned down in 2021.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-05-08T16:47:23Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "US eyes $400M TikTok child privacy settlement for DC 'beautification'",
+      "url": "https://www.perplexity.ai/page/us-eyes-400m-tiktok-child-priv-bxQhPWroTlubr1x6pMDdlg",
+      "description": "Rather than compensating young victims, the proposed deal would direct funds toward beautification initiatives including a triumphal arch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-08T22:27:32Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "US intel says Iran's Khamenei shaping war strategy",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-04-25T19:32:53Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "White House official says Patel firing 'only a matter of time'",
-      "url": "https://www.perplexity.ai/page/white-house-official-says-pate-rKQPXSsJRQy.HqXXyoab_A",
-      "description": "A top White House official told Politico that FBI Director Kash Patel is likely the next Cabinet member to be removed amid mounting scandals.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-25T22:09:44Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-05-09T17:14:35Z",
+  "cached_at": "2026-05-09T18:08:38Z",
   "topics": {
     "top": [
+      {
+        "title": "Alito relied on misleading DOJ data to gut Voting Rights Act, analysis finds",
+        "url": "https://www.perplexity.ai/page/alito-relied-on-misleading-doj-BE8cj0gGQ7CP7Ala4kYtWg",
+        "description": "The Guardian found the voter turnout statistics in the Supreme Court's landmark Section 2 ruling used a methodology experts call deliberately deceptive.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-09T10:22:23Z",
+        "sourceCount": "19 sources"
+      },
       {
         "title": "Trump threatens 'Project Freedom Plus' if Iran won't sign deal",
         "url": "https://www.perplexity.ai/page/trump-threatens-project-freedo-QyLPbp5RQi6JwsTgFI5nig",
@@ -1364,15 +1373,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "US eyes $400M TikTok child privacy settlement for DC 'beautification'",
-        "url": "https://www.perplexity.ai/page/us-eyes-400m-tiktok-child-priv-bxQhPWroTlubr1x6pMDdlg",
-        "description": "Rather than compensating young victims, the proposed deal would direct funds toward beautification initiatives including a triumphal arch.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T22:27:32Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Four men found guilty in assassination of Haitian President Moïse",
         "url": "https://www.perplexity.ai/page/four-men-found-guilty-in-assas-34qLuTG8Tp.IOr54V4ReYQ",
         "description": "A Miami federal jury convicted four men on all counts for conspiring to kill the Haitian leader, who was gunned down in 2021.",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-05-08T16:47:23Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "US eyes $400M TikTok child privacy settlement for DC 'beautification'",
+        "url": "https://www.perplexity.ai/page/us-eyes-400m-tiktok-child-priv-bxQhPWroTlubr1x6pMDdlg",
+        "description": "Rather than compensating young victims, the proposed deal would direct funds toward beautification initiatives including a triumphal arch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-08T22:27:32Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "US intel says Iran's Khamenei shaping war strategy",
@@ -2693,15 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-25T19:32:53Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "White House official says Patel firing 'only a matter of time'",
-        "url": "https://www.perplexity.ai/page/white-house-official-says-pate-rKQPXSsJRQy.HqXXyoab_A",
-        "description": "A top White House official told Politico that FBI Director Kash Patel is likely the next Cabinet member to be removed amid mounting scandals.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-25T22:09:44Z",
         "sourceCount": "39 sources"
       }
     ],
