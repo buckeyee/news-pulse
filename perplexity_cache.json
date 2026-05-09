@@ -163,15 +163,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
-      "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
-      "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T21:29:35Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Iran's FM says missile arsenal grew despite US strikes",
       "url": "https://www.perplexity.ai/page/iran-s-fm-says-missile-arsenal-wPD5Cw1lRUeAUpujpreRXA",
       "description": "Foreign Minister Araghchi rejected CIA findings that Iran retained 75% of prewar missile capacity, claiming the figure is actually 120%.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-04-27T01:22:27Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "Iran refuses talks unless US lifts naval blockade",
+      "url": "https://www.perplexity.ai/page/iran-refuses-talks-unless-us-l-MSjKxkQzRRW1GMwzVko2mA",
+      "description": "Tehran demands removal of the port blockade before resuming negotiations, as the U.S. Navy intercepts another sanctioned vessel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-26T23:37:40Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-09T20:24:04Z",
+  "cached_at": "2026-05-09T21:10:38Z",
   "topics": {
     "top": [
       {
@@ -1515,15 +1515,6 @@
         "topic": "top",
         "pubDate": "2026-05-08T14:10:13Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Vance hosts Qatari PM as US awaits Iran's response to peace framework",
-        "url": "https://www.perplexity.ai/page/vance-hosts-qatari-pm-as-us-aw-bw7kFGY0TXOfPROmSZxVcA",
-        "description": "Secretary of State Rubio said Friday that Washington expects Tehran's answer to a 14-point draft agreement \"at some point today.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T21:29:35Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Iran's FM says missile arsenal grew despite US strikes",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T01:22:27Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "Iran refuses talks unless US lifts naval blockade",
+        "url": "https://www.perplexity.ai/page/iran-refuses-talks-unless-us-l-MSjKxkQzRRW1GMwzVko2mA",
+        "description": "Tehran demands removal of the port blockade before resuming negotiations, as the U.S. Navy intercepts another sanctioned vessel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-26T23:37:40Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
