@@ -199,15 +199,6 @@
       "sourceCount": "59 sources"
     },
     {
-      "title": "Iran's FM says missile arsenal grew despite US strikes",
-      "url": "https://www.perplexity.ai/page/iran-s-fm-says-missile-arsenal-wPD5Cw1lRUeAUpujpreRXA",
-      "description": "Foreign Minister Araghchi rejected CIA findings that Iran retained 75% of prewar missile capacity, claiming the figure is actually 120%.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T13:08:08Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "US adds 115,000 jobs in April, nearly doubling forecasts",
       "url": "https://www.perplexity.ai/page/us-adds-115000-jobs-in-april-n-yCth7gcWS.SfhcVlQw9T4g",
       "description": "The unemployment rate held at 4.3% as the economy posted back-to-back solid gains after months of volatile swings between job losses and gains.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-04-27T01:52:12Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
+      "url": "https://www.perplexity.ai/page/global-military-spending-hit-r-cziUT21ITWqRlzK3.HIrYg",
+      "description": "Europe's 14% surge and Asia's fastest growth since 2009 drove the 11th straight annual increase, even as U.S. spending fell.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T01:48:05Z",
+      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-05-10T10:00:59Z",
+  "cached_at": "2026-05-10T11:10:15Z",
   "topics": {
     "top": [
       {
@@ -1551,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-05-08T17:13:24Z",
         "sourceCount": "59 sources"
-      },
-      {
-        "title": "Iran's FM says missile arsenal grew despite US strikes",
-        "url": "https://www.perplexity.ai/page/iran-s-fm-says-missile-arsenal-wPD5Cw1lRUeAUpujpreRXA",
-        "description": "Foreign Minister Araghchi rejected CIA findings that Iran retained 75% of prewar missile capacity, claiming the figure is actually 120%.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T13:08:08Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "US adds 115,000 jobs in April, nearly doubling forecasts",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T01:52:12Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
+        "url": "https://www.perplexity.ai/page/global-military-spending-hit-r-cziUT21ITWqRlzK3.HIrYg",
+        "description": "Europe's 14% surge and Asia's fastest growth since 2009 drove the 11th straight annual increase, even as U.S. spending fell.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T01:48:05Z",
+        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
