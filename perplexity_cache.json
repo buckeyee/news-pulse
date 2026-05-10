@@ -82,15 +82,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "WHO chief arrives in Spain ahead of hantavirus ship docking",
-      "url": "https://www.perplexity.ai/page/who-chief-arrives-in-spain-ahe-zsugPT0lR2i9pXX0SRsnww",
-      "description": "Tedros Adhanom Ghebreyesus flew to Tenerife Saturday to oversee the disembarkation of 140-plus passengers and crew from the MV Hondius.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-09T18:28:37Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Bahrain arrests 41 over alleged links to Iran's IRGC",
       "url": "https://www.perplexity.ai/page/bahrain-arrests-41-over-allege-z9eWYqMBR.6um03mLGtXeQ",
       "description": "The detainees are accused of espionage and sympathy with Iranian aggression, part of a broader crackdown since the U.S.-Israel-Iran war began.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-04-27T02:33:17Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "NYT traces U.S. Mint gold to Colombian drug cartel",
+      "url": "https://www.perplexity.ai/page/nyt-traces-u-s-mint-gold-to-co-AMqXFdZGTo20vdohcpnDmg",
+      "description": "An investigation found the Mint buys gold from cartel-controlled mines and foreign pawn shops, violating a 1985 law requiring domestic sourcing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-27T01:52:12Z",
+      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-05-10T06:44:18Z",
+  "cached_at": "2026-05-10T08:32:31Z",
   "topics": {
     "top": [
       {
@@ -1434,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-05-09T19:28:13Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "WHO chief arrives in Spain ahead of hantavirus ship docking",
-        "url": "https://www.perplexity.ai/page/who-chief-arrives-in-spain-ahe-zsugPT0lR2i9pXX0SRsnww",
-        "description": "Tedros Adhanom Ghebreyesus flew to Tenerife Saturday to oversee the disembarkation of 140-plus passengers and crew from the MV Hondius.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-09T18:28:37Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Bahrain arrests 41 over alleged links to Iran's IRGC",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-04-27T02:33:17Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "NYT traces U.S. Mint gold to Colombian drug cartel",
+        "url": "https://www.perplexity.ai/page/nyt-traces-u-s-mint-gold-to-co-AMqXFdZGTo20vdohcpnDmg",
+        "description": "An investigation found the Mint buys gold from cartel-controlled mines and foreign pawn shops, violating a 1985 law requiring domestic sourcing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-27T01:52:12Z",
+        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
