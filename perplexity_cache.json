@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Netanyahu says Iran war 'not over,' demands uranium removal",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-iran-war-not-ov-2nnkgraoTZ2ul.ftQt3fgw",
+      "description": "Iran sent its formal response to the latest U.S. ceasefire proposal via Pakistani mediators on Sunday as fighting continues across the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-10T16:57:00Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Wright says U.S. will resume Project Freedom if Iran talks fail within days",
+      "url": "https://www.perplexity.ai/page/wright-says-u-s-will-resume-pr-px7dMqA5RWuUGGeMblLKpg",
+      "description": "Energy Secretary Chris Wright said the U.S. paused Project Freedom at Iran's request and warned the military option would return if diplomacy stalls.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-10T16:33:45Z",
+      "sourceCount": "51 sources"
+    },
+    {
       "title": "Iran's record internet blackout threatens mass layoffs as economic toll mounts",
       "url": "https://www.perplexity.ai/page/iran-s-record-internet-blackou-5noPosAiRSCXkinQK.2JSg",
       "description": "Bloomberg reports the 70-day-plus shutdown, the longest ever recorded in a connected society, is devastating private businesses alongside war damage.",
@@ -197,15 +215,6 @@
       "topic": "top",
       "pubDate": "2026-05-08T14:34:52Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "US fires on two more Iranian tankers breaching blockade",
-      "url": "https://www.perplexity.ai/page/us-fires-on-two-more-iranian-t-3iF6MkOYSPyvlNY7Uz_hgg",
-      "description": "Washington says over 70 tankers worth $13 billion in oil are now blocked as clashes intensify in the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T14:58:09Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Pentagon releases 162 declassified UFO files to public",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-04-27T01:52:12Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
-      "url": "https://www.perplexity.ai/page/global-military-spending-hit-r-cziUT21ITWqRlzK3.HIrYg",
-      "description": "Europe's 14% surge and Asia's fastest growth since 2009 drove the 11th straight annual increase, even as U.S. spending fell.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-27T01:48:05Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-05-10T17:37:05Z",
+  "cached_at": "2026-05-10T18:38:58Z",
   "topics": {
     "top": [
+      {
+        "title": "Netanyahu says Iran war 'not over,' demands uranium removal",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-iran-war-not-ov-2nnkgraoTZ2ul.ftQt3fgw",
+        "description": "Iran sent its formal response to the latest U.S. ceasefire proposal via Pakistani mediators on Sunday as fighting continues across the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-10T16:57:00Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Wright says U.S. will resume Project Freedom if Iran talks fail within days",
+        "url": "https://www.perplexity.ai/page/wright-says-u-s-will-resume-pr-px7dMqA5RWuUGGeMblLKpg",
+        "description": "Energy Secretary Chris Wright said the U.S. paused Project Freedom at Iran's request and warned the military option would return if diplomacy stalls.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-10T16:33:45Z",
+        "sourceCount": "51 sources"
+      },
       {
         "title": "Iran's record internet blackout threatens mass layoffs as economic toll mounts",
         "url": "https://www.perplexity.ai/page/iran-s-record-internet-blackou-5noPosAiRSCXkinQK.2JSg",
@@ -1551,15 +1569,6 @@
         "topic": "top",
         "pubDate": "2026-05-08T14:34:52Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "US fires on two more Iranian tankers breaching blockade",
-        "url": "https://www.perplexity.ai/page/us-fires-on-two-more-iranian-t-3iF6MkOYSPyvlNY7Uz_hgg",
-        "description": "Washington says over 70 tankers worth $13 billion in oil are now blocked as clashes intensify in the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T14:58:09Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Pentagon releases 162 declassified UFO files to public",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-04-27T01:52:12Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Global military spending hit record $2.89 trillion in 2025, SIPRI reports",
-        "url": "https://www.perplexity.ai/page/global-military-spending-hit-r-cziUT21ITWqRlzK3.HIrYg",
-        "description": "Europe's 14% surge and Asia's fastest growth since 2009 drove the 11th straight annual increase, even as U.S. spending fell.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-27T01:48:05Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
