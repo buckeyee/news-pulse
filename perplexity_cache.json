@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump nominates fired FEMA chief Hamilton to lead agency again",
+      "url": "https://www.perplexity.ai/page/trump-nominates-fired-fema-chi-sJ2rp6WUS6WIPO5sR2GTwA",
+      "description": "The former Navy SEAL was dismissed a year ago after telling Congress that abolishing FEMA was not in the country's best interests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-11T22:04:38Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Virginia Democrats ask Supreme Court to restore voter-approved congressional map",
       "url": "https://www.perplexity.ai/page/virginia-democrats-ask-supreme-Cs0c82hzQBiHJjlv5phmIg",
       "description": "The emergency appeal seeks to reverse a state court ruling that voided an April redistricting referendum projected to give Democrats four additional House seats.",
@@ -224,15 +233,6 @@
       "topic": "top",
       "pubDate": "2026-05-09T22:22:44Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Russian drone kills civilian hours into US-brokered ceasefire",
-      "url": "https://www.perplexity.ai/page/russian-drone-kills-civilian-h-RbEPA.fcTO.4Nz19YarIgw",
-      "description": "A strike on a car in Zaporizhzhia Oblast killed a 67-year-old driver on the first day of a three-day truce meant to halt all fighting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-09T19:58:19Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "U.S. strikes third alleged drug boat in five days, killing 2",
@@ -1351,9 +1351,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-05-11T22:13:50Z",
+  "cached_at": "2026-05-11T23:14:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump nominates fired FEMA chief Hamilton to lead agency again",
+        "url": "https://www.perplexity.ai/page/trump-nominates-fired-fema-chi-sJ2rp6WUS6WIPO5sR2GTwA",
+        "description": "The former Navy SEAL was dismissed a year ago after telling Congress that abolishing FEMA was not in the country's best interests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-11T22:04:38Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Virginia Democrats ask Supreme Court to restore voter-approved congressional map",
         "url": "https://www.perplexity.ai/page/virginia-democrats-ask-supreme-Cs0c82hzQBiHJjlv5phmIg",
@@ -1578,15 +1587,6 @@
         "topic": "top",
         "pubDate": "2026-05-09T22:22:44Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Russian drone kills civilian hours into US-brokered ceasefire",
-        "url": "https://www.perplexity.ai/page/russian-drone-kills-civilian-h-RbEPA.fcTO.4Nz19YarIgw",
-        "description": "A strike on a car in Zaporizhzhia Oblast killed a 67-year-old driver on the first day of a three-day truce meant to halt all fighting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-09T19:58:19Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "U.S. strikes third alleged drug boat in five days, killing 2",
