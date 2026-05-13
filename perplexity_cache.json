@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Rutte proposes NATO allies spend 0.25% of GDP on Ukraine aid annually",
+      "url": "https://www.perplexity.ai/page/rutte-proposes-nato-allies-spe-Bn1eGP58SBqpLUhmcDbnlQ",
+      "description": "The plan could nearly triple collective support to about $143 billion a year, but France and the U.K. are already pushing back.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-13T22:48:00Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Memphis residents sue Trump crime task force over alleged First Amendment abuses",
       "url": "https://www.perplexity.ai/page/memphis-residents-sue-trump-cr-49.kzJnKRla1dPfE9P14eg",
       "description": "Four plaintiffs backed by the ACLU of Tennessee say they were harassed, arrested, and mistreated for recording law enforcement in public.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-02T00:08:07Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Bard College president resigns after review of Epstein ties",
-      "url": "https://www.perplexity.ai/page/bard-college-president-resigns-.IQ9rCTKSMOyPdcQ3cthCw",
-      "description": "Leon Botstein, who led the college for 51 years, stepped down after investigators found he minimized his relationship with convicted sex offender Jeffrey Epstein.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-01T23:29:24Z",
-      "sourceCount": "49 sources"
     }
   ],
-  "cached_at": "2026-05-13T22:53:02Z",
+  "cached_at": "2026-05-13T23:57:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Rutte proposes NATO allies spend 0.25% of GDP on Ukraine aid annually",
+        "url": "https://www.perplexity.ai/page/rutte-proposes-nato-allies-spe-Bn1eGP58SBqpLUhmcDbnlQ",
+        "description": "The plan could nearly triple collective support to about $143 billion a year, but France and the U.K. are already pushing back.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-13T22:48:00Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Memphis residents sue Trump crime task force over alleged First Amendment abuses",
         "url": "https://www.perplexity.ai/page/memphis-residents-sue-trump-cr-49.kzJnKRla1dPfE9P14eg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-02T00:08:07Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Bard College president resigns after review of Epstein ties",
-        "url": "https://www.perplexity.ai/page/bard-college-president-resigns-.IQ9rCTKSMOyPdcQ3cthCw",
-        "description": "Leon Botstein, who led the college for 51 years, stepped down after investigators found he minimized his relationship with convicted sex offender Jeffrey Epstein.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-01T23:29:24Z",
-        "sourceCount": "49 sources"
       }
     ],
     "tech": [],
