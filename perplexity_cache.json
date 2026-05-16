@@ -82,15 +82,6 @@
       "sourceCount": "34 sources"
     },
     {
-      "title": "Weinstein rape retrial ends in mistrial for second time",
-      "url": "https://www.perplexity.ai/page/weinstein-rape-retrial-ends-in-X.72pmU0TsGUl9qoC3T.ww",
-      "description": "Manhattan DA Bragg says he is \"ready to go forward to trial again\" after jurors deadlocked on charges Weinstein raped Jessica Mann in 2013.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-15T17:49:11Z",
-      "sourceCount": "82 sources"
-    },
-    {
       "title": "Trump calls Takaichi from Air Force One after China summit",
       "url": "https://www.perplexity.ai/page/trump-calls-takaichi-from-air-LctOOCrERY2FGkr7djmUjg",
       "description": "The 15-minute call reaffirmed the U.S.-Japan alliance as questions mount over Trump's handling of Taiwan during talks with Xi.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-05-06T03:48:43Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Rubio calls Israel-Lebanon peace 'imminently achievable'",
+      "url": "https://www.perplexity.ai/page/rubio-calls-israel-lebanon-pea-ABqo7zMKSa2475y_1mcwQA",
+      "description": "The secretary of state identified Hezbollah as the sole obstacle to a deal, speaking at a White House briefing on Tuesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-05T21:22:28Z",
+      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-16T06:31:40Z",
+  "cached_at": "2026-05-16T08:26:18Z",
   "topics": {
     "top": [
       {
@@ -1434,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-05-15T20:48:33Z",
         "sourceCount": "34 sources"
-      },
-      {
-        "title": "Weinstein rape retrial ends in mistrial for second time",
-        "url": "https://www.perplexity.ai/page/weinstein-rape-retrial-ends-in-X.72pmU0TsGUl9qoC3T.ww",
-        "description": "Manhattan DA Bragg says he is \"ready to go forward to trial again\" after jurors deadlocked on charges Weinstein raped Jessica Mann in 2013.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-15T17:49:11Z",
-        "sourceCount": "82 sources"
       },
       {
         "title": "Trump calls Takaichi from Air Force One after China summit",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-06T03:48:43Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Rubio calls Israel-Lebanon peace 'imminently achievable'",
+        "url": "https://www.perplexity.ai/page/rubio-calls-israel-lebanon-pea-ABqo7zMKSa2475y_1mcwQA",
+        "description": "The secretary of state identified Hezbollah as the sole obstacle to a deal, speaking at a White House briefing on Tuesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-05T21:22:28Z",
+        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
