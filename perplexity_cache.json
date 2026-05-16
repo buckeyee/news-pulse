@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
-      "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
-      "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+      "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
+      "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
+      "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-16T00:47:57Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-05-16T05:33:25Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Supreme Court rejects Virginia Democrats' bid to revive congressional map",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-05-15T22:48:27Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+      "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+      "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-16T00:47:57Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "DHS forms unit targeting green card holders for deportation",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-05-05T21:22:28Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Ramaswamy wins Ohio GOP primary, setting up costly governor's race",
-      "url": "https://www.perplexity.ai/page/ramaswamy-wins-ohio-gop-primar-XQwB4I_4T9GKKigTVGy1rg",
-      "description": "The Trump-backed entrepreneur will face Democrat Amy Acton in November after cruising past longshot challenger Casey Putsch on Tuesday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-06T00:14:27Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-05-16T20:25:50Z",
+  "cached_at": "2026-05-16T21:26:06Z",
   "topics": {
     "top": [
       {
-        "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
-        "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
-        "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+        "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
+        "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
+        "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-16T00:47:57Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-05-16T05:33:25Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Supreme Court rejects Virginia Democrats' bid to revive congressional map",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-05-15T22:48:27Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+        "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+        "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-16T00:47:57Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "DHS forms unit targeting green card holders for deportation",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-05T21:22:28Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Ramaswamy wins Ohio GOP primary, setting up costly governor's race",
-        "url": "https://www.perplexity.ai/page/ramaswamy-wins-ohio-gop-primar-XQwB4I_4T9GKKigTVGy1rg",
-        "description": "The Trump-backed entrepreneur will face Democrat Amy Acton in November after cruising past longshot challenger Casey Putsch on Tuesday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-06T00:14:27Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
