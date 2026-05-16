@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+      "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+      "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-16T00:47:57Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Supreme Court rejects Virginia Democrats' bid to revive congressional map",
       "url": "https://www.perplexity.ai/page/supreme-court-rejects-virginia-mDkKbGsNT9ulQDikqPMQHA",
       "description": "The brief order ends a months-long redistricting fight and locks in 2021 district lines for the 2026 midterms, bolstering Republican House prospects.",
@@ -82,13 +91,13 @@
       "sourceCount": "82 sources"
     },
     {
-      "title": "China declines Nvidia H200 chips despite US clearance, Trump says",
-      "url": "https://www.perplexity.ai/page/china-declines-nvidia-h200-chi-9d89bp2BSxSAvGTS73GQIg",
-      "description": "Trump said Beijing \"chose not to\" buy approved AI chips, preferring to develop domestic alternatives amid a complex web of export conditions.",
+      "title": "Trump calls Takaichi from Air Force One after China summit",
+      "url": "https://www.perplexity.ai/page/trump-calls-takaichi-from-air-LctOOCrERY2FGkr7djmUjg",
+      "description": "The 15-minute call reaffirmed the U.S.-Japan alliance as questions mount over Trump's handling of Taiwan during talks with Xi.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-15T16:18:37Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-05-15T16:28:04Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Anthropic agrees to $30B round at $900B valuation",
@@ -109,13 +118,13 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Trump departs Beijing without committing on Taiwan arms deal",
-      "url": "https://www.perplexity.ai/page/trump-departs-beijing-without-7APgCjV5SaewWxKJ11c1SQ",
-      "description": "The president said he made no promise to Xi on Taiwan \"either way\" after China's leader warned the issue could push both nations toward conflict.",
+      "title": "China declines Nvidia H200 chips despite US clearance, Trump says",
+      "url": "https://www.perplexity.ai/page/china-declines-nvidia-h200-chi-9d89bp2BSxSAvGTS73GQIg",
+      "description": "Trump said Beijing \"chose not to\" buy approved AI chips, preferring to develop domestic alternatives amid a complex web of export conditions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-15T11:33:26Z",
-      "sourceCount": "84 sources"
+      "pubDate": "2026-05-15T16:18:37Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Pentagon not probing reports of US strikes on Iran schools, hospitals",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-06T03:48:43Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Rubio calls Israel-Lebanon peace 'imminently achievable'",
-      "url": "https://www.perplexity.ai/page/rubio-calls-israel-lebanon-pea-ABqo7zMKSa2475y_1mcwQA",
-      "description": "The secretary of state identified Hezbollah as the sole obstacle to a deal, speaking at a White House briefing on Tuesday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-05T21:22:28Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-16T00:09:13Z",
+  "cached_at": "2026-05-16T04:03:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+        "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+        "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-16T00:47:57Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Supreme Court rejects Virginia Democrats' bid to revive congressional map",
         "url": "https://www.perplexity.ai/page/supreme-court-rejects-virginia-mDkKbGsNT9ulQDikqPMQHA",
@@ -1436,13 +1445,13 @@
         "sourceCount": "82 sources"
       },
       {
-        "title": "China declines Nvidia H200 chips despite US clearance, Trump says",
-        "url": "https://www.perplexity.ai/page/china-declines-nvidia-h200-chi-9d89bp2BSxSAvGTS73GQIg",
-        "description": "Trump said Beijing \"chose not to\" buy approved AI chips, preferring to develop domestic alternatives amid a complex web of export conditions.",
+        "title": "Trump calls Takaichi from Air Force One after China summit",
+        "url": "https://www.perplexity.ai/page/trump-calls-takaichi-from-air-LctOOCrERY2FGkr7djmUjg",
+        "description": "The 15-minute call reaffirmed the U.S.-Japan alliance as questions mount over Trump's handling of Taiwan during talks with Xi.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-15T16:18:37Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-05-15T16:28:04Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Anthropic agrees to $30B round at $900B valuation",
@@ -1463,13 +1472,13 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Trump departs Beijing without committing on Taiwan arms deal",
-        "url": "https://www.perplexity.ai/page/trump-departs-beijing-without-7APgCjV5SaewWxKJ11c1SQ",
-        "description": "The president said he made no promise to Xi on Taiwan \"either way\" after China's leader warned the issue could push both nations toward conflict.",
+        "title": "China declines Nvidia H200 chips despite US clearance, Trump says",
+        "url": "https://www.perplexity.ai/page/china-declines-nvidia-h200-chi-9d89bp2BSxSAvGTS73GQIg",
+        "description": "Trump said Beijing \"chose not to\" buy approved AI chips, preferring to develop domestic alternatives amid a complex web of export conditions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-15T11:33:26Z",
-        "sourceCount": "84 sources"
+        "pubDate": "2026-05-15T16:18:37Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Pentagon not probing reports of US strikes on Iran schools, hospitals",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-06T03:48:43Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Rubio calls Israel-Lebanon peace 'imminently achievable'",
-        "url": "https://www.perplexity.ai/page/rubio-calls-israel-lebanon-pea-ABqo7zMKSa2475y_1mcwQA",
-        "description": "The secretary of state identified Hezbollah as the sole obstacle to a deal, speaking at a White House briefing on Tuesday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-05T21:22:28Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
