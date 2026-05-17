@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
+      "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-17T21:17:47Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Two Navy Growlers collide mid-air at Idaho air show",
       "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
       "description": "All four crew members ejected safely after two EA-18G Growler jets crashed during the Gunfighter Skies Air Show at Mountain Home Air Force Base.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-10T19:23:14Z",
       "sourceCount": "48 sources"
-    },
-    {
-      "title": "North Korea drops reunification from constitution, codifies Kim's nuclear authority",
-      "url": "https://www.perplexity.ai/page/north-korea-drops-reunificatio-CAHCs6qbR9uDyH6faAxIfA",
-      "description": "The revised charter defines North Korean territory as bordering South Korea and formally places command of the nuclear arsenal in Kim Jong Un's hands.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-06T10:22:27Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-05-17T21:34:22Z",
+  "cached_at": "2026-05-17T22:33:23Z",
   "topics": {
     "top": [
+      {
+        "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
+        "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-17T21:17:47Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Two Navy Growlers collide mid-air at Idaho air show",
         "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-10T19:23:14Z",
         "sourceCount": "48 sources"
-      },
-      {
-        "title": "North Korea drops reunification from constitution, codifies Kim's nuclear authority",
-        "url": "https://www.perplexity.ai/page/north-korea-drops-reunificatio-CAHCs6qbR9uDyH6faAxIfA",
-        "description": "The revised charter defines North Korean territory as bordering South Korea and formally places command of the nuclear arsenal in Kim Jong Un's hands.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-06T10:22:27Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
