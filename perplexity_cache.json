@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump orders DOJ probe into Maryland mail ballot error",
+      "url": "https://www.perplexity.ai/page/trump-orders-doj-probe-into-ma-QDSV1K9vQNGFlxfXXMn1Lw",
+      "description": "The president called the ballots \"illegal,\" but state officials say a vendor printing mistake caused some voters to receive the wrong party's ballot.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T22:43:34Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "Supreme Court to decide if employees can sue under Title IX",
       "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
       "description": "The justices agreed Monday to hear a case testing whether college coaches and professors can bring sex discrimination claims under the federal law.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-07T22:13:41Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump calls on Supreme Court justices to be 'loyal' to him on key rulings",
-      "url": "https://www.perplexity.ai/page/trump-calls-on-supreme-court-j-c6VuyWrVRjOjXkqUnxB6UQ",
-      "description": "The president singled out his own appointees Gorsuch and Barrett after a string of court defeats on tariffs and ahead of a birthright citizenship ruling.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-11T10:03:06Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-18T22:39:16Z",
+  "cached_at": "2026-05-18T23:08:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump orders DOJ probe into Maryland mail ballot error",
+        "url": "https://www.perplexity.ai/page/trump-orders-doj-probe-into-ma-QDSV1K9vQNGFlxfXXMn1Lw",
+        "description": "The president called the ballots \"illegal,\" but state officials say a vendor printing mistake caused some voters to receive the wrong party's ballot.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T22:43:34Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "Supreme Court to decide if employees can sue under Title IX",
         "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-07T22:13:41Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump calls on Supreme Court justices to be 'loyal' to him on key rulings",
-        "url": "https://www.perplexity.ai/page/trump-calls-on-supreme-court-j-c6VuyWrVRjOjXkqUnxB6UQ",
-        "description": "The president singled out his own appointees Gorsuch and Barrett after a string of court defeats on tariffs and ahead of a birthright citizenship ruling.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-11T10:03:06Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
