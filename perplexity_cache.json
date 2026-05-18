@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
+      "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
+      "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T19:59:49Z",
+      "sourceCount": "77 sources"
+    },
+    {
+      "title": "ICE agent charged in shooting during Minnesota immigration crackdown",
+      "url": "https://www.perplexity.ai/page/ice-agent-charged-in-shooting-defDC0LlQsWJz3qlIZZrow",
+      "description": "Hennepin County Attorney Mary Moriarty announced charges Monday against the officer who shot a Venezuelan man during Operation Metro Surge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T19:52:59Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Jury sides with OpenAI, rejects Musk's lawsuit",
       "url": "https://www.perplexity.ai/page/jury-sides-with-openai-rejects-Wp_xV0WuTJ2Ijaz4Ubz5WQ",
       "description": "The nine-member federal jury in Oakland found Musk's case was filed too late, removing a major legal threat to OpenAI's for-profit future.",
@@ -17,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-05-18T17:33:20Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "CDC imposes first-ever Ebola travel ban as U.S. doctor tests positive in Congo",
+      "url": "https://www.perplexity.ai/page/cdc-imposes-first-ever-ebola-t-NUktR5FYQoauxnToaCUpdw",
+      "description": "The 30-day entry restriction bars non-U.S. citizens who have been in Congo, Uganda, or South Sudan in the past 21 days.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T19:12:23Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-05-07T17:50:47Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "8 in 10 Americans back age caps for Congress, poll finds",
-      "url": "https://www.perplexity.ai/page/8-in-10-americans-back-age-cap-dISmcTJKRka8p3BdMcYF4A",
-      "description": "The NPR/PBS News/Marist poll found bipartisan support for both age limits and term limits, with Gen X expressing the strongest backing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-07T16:03:34Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "US sanctions Chinese satellite firms over Iran war",
-      "url": "https://www.perplexity.ai/page/us-sanctions-chinese-satellite-fdk68y6NSRSqmbYgtZ7F.Q",
-      "description": "Washington targeted three companies accused of providing imagery that enabled Iranian strikes on American forces, days before Trump's Beijing summit.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-09T10:27:29Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Three U.S. states monitor residents from hantavirus cruise ship",
-      "url": "https://www.perplexity.ai/page/three-u-s-states-monitor-resid-6h8dTBXmQI6_PS_4UCzoPQ",
-      "description": "The WHO confirmed the Andes strain aboard the MV Hondius, which departed Cape Verde on Wednesday for Spain's Canary Islands after evacuating three patients.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-07T01:32:55Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-05-18T19:03:15Z",
+  "cached_at": "2026-05-18T20:42:47Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
+        "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
+        "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T19:59:49Z",
+        "sourceCount": "77 sources"
+      },
+      {
+        "title": "ICE agent charged in shooting during Minnesota immigration crackdown",
+        "url": "https://www.perplexity.ai/page/ice-agent-charged-in-shooting-defDC0LlQsWJz3qlIZZrow",
+        "description": "Hennepin County Attorney Mary Moriarty announced charges Monday against the officer who shot a Venezuelan man during Operation Metro Surge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T19:52:59Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Jury sides with OpenAI, rejects Musk's lawsuit",
         "url": "https://www.perplexity.ai/page/jury-sides-with-openai-rejects-Wp_xV0WuTJ2Ijaz4Ubz5WQ",
@@ -1371,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-05-18T17:33:20Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "CDC imposes first-ever Ebola travel ban as U.S. doctor tests positive in Congo",
+        "url": "https://www.perplexity.ai/page/cdc-imposes-first-ever-ebola-t-NUktR5FYQoauxnToaCUpdw",
+        "description": "The 30-day entry restriction bars non-U.S. citizens who have been in Congo, Uganda, or South Sudan in the past 21 days.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T19:12:23Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
@@ -2675,33 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-05-07T17:50:47Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "8 in 10 Americans back age caps for Congress, poll finds",
-        "url": "https://www.perplexity.ai/page/8-in-10-americans-back-age-cap-dISmcTJKRka8p3BdMcYF4A",
-        "description": "The NPR/PBS News/Marist poll found bipartisan support for both age limits and term limits, with Gen X expressing the strongest backing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-07T16:03:34Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "US sanctions Chinese satellite firms over Iran war",
-        "url": "https://www.perplexity.ai/page/us-sanctions-chinese-satellite-fdk68y6NSRSqmbYgtZ7F.Q",
-        "description": "Washington targeted three companies accused of providing imagery that enabled Iranian strikes on American forces, days before Trump's Beijing summit.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-09T10:27:29Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Three U.S. states monitor residents from hantavirus cruise ship",
-        "url": "https://www.perplexity.ai/page/three-u-s-states-monitor-resid-6h8dTBXmQI6_PS_4UCzoPQ",
-        "description": "The WHO confirmed the Andes strain aboard the MV Hondius, which departed Cape Verde on Wednesday for Spain's Canary Islands after evacuating three patients.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-07T01:32:55Z",
         "sourceCount": "24 sources"
       }
     ],
