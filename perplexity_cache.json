@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Mexico, Uruguay aid ship docks in Havana amid Cuba crisis",
+      "url": "https://www.perplexity.ai/page/mexico-uruguay-aid-ship-docks-I1GsRYv7SCK7_IjaqZFBtA",
+      "description": "The Asian Katra cargo vessel arrived Monday carrying food and hygiene supplies as blackouts exceed 20 hours daily in parts of Havana.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T22:53:11Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Deputy Secretary Landau helped secure visa for fugitive Polish minister",
+      "url": "https://www.perplexity.ai/page/deputy-secretary-landau-helped-.jsa_yq6QiSMWvEt0pxS2Q",
+      "description": "Reuters reports that Christopher Landau directed State Department officials to issue a visa enabling Zbigniew Ziobro to flee Hungary before extradition.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T22:48:30Z",
+      "sourceCount": "47 sources"
+    },
+    {
       "title": "Trump orders DOJ probe into Maryland mail ballot error",
       "url": "https://www.perplexity.ai/page/trump-orders-doj-probe-into-ma-QDSV1K9vQNGFlxfXXMn1Lw",
       "description": "The president called the ballots \"illegal,\" but state officials say a vendor printing mistake caused some voters to receive the wrong party's ballot.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-05-11T13:35:58Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran warns UAE will 'pay the price' after Qeshm blasts",
-      "url": "https://www.perplexity.ai/page/iran-warns-uae-will-pay-the-pr-ysA3CalCTeGGpVy.mZtxNg",
-      "description": "IRGC-linked media accused Abu Dhabi of hostile action after explosions hit Iran's southern coast, while Tehran also alleged U.S. ceasefire violations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-08T01:58:32Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "US to start revoking passports of parents over unpaid child support",
-      "url": "https://www.perplexity.ai/page/us-to-start-revoking-passports-DS.bR_58RrCu9Xw7h0E24Q",
-      "description": "The State Department will begin revoking passports Friday for parents owing $100,000 or more, with plans to expand to a $2,500 threshold.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-07T22:13:41Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-05-18T23:08:41Z",
+  "cached_at": "2026-05-18T23:37:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Mexico, Uruguay aid ship docks in Havana amid Cuba crisis",
+        "url": "https://www.perplexity.ai/page/mexico-uruguay-aid-ship-docks-I1GsRYv7SCK7_IjaqZFBtA",
+        "description": "The Asian Katra cargo vessel arrived Monday carrying food and hygiene supplies as blackouts exceed 20 hours daily in parts of Havana.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T22:53:11Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Deputy Secretary Landau helped secure visa for fugitive Polish minister",
+        "url": "https://www.perplexity.ai/page/deputy-secretary-landau-helped-.jsa_yq6QiSMWvEt0pxS2Q",
+        "description": "Reuters reports that Christopher Landau directed State Department officials to issue a visa enabling Zbigniew Ziobro to flee Hungary before extradition.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T22:48:30Z",
+        "sourceCount": "47 sources"
+      },
       {
         "title": "Trump orders DOJ probe into Maryland mail ballot error",
         "url": "https://www.perplexity.ai/page/trump-orders-doj-probe-into-ma-QDSV1K9vQNGFlxfXXMn1Lw",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-11T13:35:58Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran warns UAE will 'pay the price' after Qeshm blasts",
-        "url": "https://www.perplexity.ai/page/iran-warns-uae-will-pay-the-pr-ysA3CalCTeGGpVy.mZtxNg",
-        "description": "IRGC-linked media accused Abu Dhabi of hostile action after explosions hit Iran's southern coast, while Tehran also alleged U.S. ceasefire violations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-08T01:58:32Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "US to start revoking passports of parents over unpaid child support",
-        "url": "https://www.perplexity.ai/page/us-to-start-revoking-passports-DS.bR_58RrCu9Xw7h0E24Q",
-        "description": "The State Department will begin revoking passports Friday for parents owing $100,000 or more, with plans to expand to a $2,500 threshold.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-07T22:13:41Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
