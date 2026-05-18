@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Supreme Court to decide if employees can sue under Title IX",
+      "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
+      "description": "The justices agreed Monday to hear a case testing whether college coaches and professors can bring sex discrimination claims under the federal law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T22:13:36Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "3 killed in shooting at San Diego mosque investigated as hate crime",
+      "url": "https://www.perplexity.ai/page/3-killed-in-shooting-at-san-di-VAdZVI1PSwWrdp2cBIKeAA",
+      "description": "Two teenage gunmen opened fire at the Islamic Center of San Diego on Monday, killing three adult men before dying of apparent self-inflicted wounds.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T22:01:42Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
       "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
       "description": "President Díaz-Canel said Monday that U.S. military action against Cuba would have \"incalculable consequences,\" denying Havana poses any threat.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-05-11T10:03:06Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "CIA says Iran can withstand U.S. blockade for months",
-      "url": "https://www.perplexity.ai/page/cia-says-iran-can-withstand-u-1h6IwEusTxyZqzzsMzEdBQ",
-      "description": "A classified assessment finds Iran retains enough economic buffers and military capability to endure the naval blockade for 90 to 120 days, the Washington Post reports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-07T17:01:04Z",
-      "sourceCount": "74 sources"
-    },
-    {
-      "title": "New York reaches $268B budget deal with second-home tax",
-      "url": "https://www.perplexity.ai/page/new-york-reaches-268b-budget-d-i4sMhR2iSXWK1O6gHAwr1A",
-      "description": "The agreement, announced five weeks past its April 1 deadline, includes a pied-à-terre levy on luxury homes and limits on ICE cooperation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-07T17:50:47Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-05-18T22:13:54Z",
+  "cached_at": "2026-05-18T22:39:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Supreme Court to decide if employees can sue under Title IX",
+        "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
+        "description": "The justices agreed Monday to hear a case testing whether college coaches and professors can bring sex discrimination claims under the federal law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T22:13:36Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "3 killed in shooting at San Diego mosque investigated as hate crime",
+        "url": "https://www.perplexity.ai/page/3-killed-in-shooting-at-san-di-VAdZVI1PSwWrdp2cBIKeAA",
+        "description": "Two teenage gunmen opened fire at the Islamic Center of San Diego on Monday, killing three adult men before dying of apparent self-inflicted wounds.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T22:01:42Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
         "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-11T10:03:06Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "CIA says Iran can withstand U.S. blockade for months",
-        "url": "https://www.perplexity.ai/page/cia-says-iran-can-withstand-u-1h6IwEusTxyZqzzsMzEdBQ",
-        "description": "A classified assessment finds Iran retains enough economic buffers and military capability to endure the naval blockade for 90 to 120 days, the Washington Post reports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-07T17:01:04Z",
-        "sourceCount": "74 sources"
-      },
-      {
-        "title": "New York reaches $268B budget deal with second-home tax",
-        "url": "https://www.perplexity.ai/page/new-york-reaches-268b-budget-d-i4sMhR2iSXWK1O6gHAwr1A",
-        "description": "The agreement, announced five weeks past its April 1 deadline, includes a pied-à-terre levy on luxury homes and limits on ICE cooperation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-07T17:50:47Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
