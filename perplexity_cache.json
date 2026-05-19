@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "China secretly trained 200 Russian troops now fighting in Ukraine, Reuters reports",
+      "url": "https://www.perplexity.ai/page/china-secretly-trained-200-rus-76emfYTORCKapYg2ayCPmA",
+      "description": "The revelation emerged as Putin arrived in Beijing for a two-day summit with Xi, marking a new threshold in the two nations' military ties.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T11:54:26Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Iran details peace proposal demanding reparations, end of blockade",
+      "url": "https://www.perplexity.ai/page/iran-details-peace-proposal-de-G3c4cmuVTCOqanw.0vuM1g",
+      "description": "Tehran's terms appear largely unchanged from the offer Trump rejected last week as \"garbage,\" according to Reuters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T10:38:54Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Pentagon watchdog to investigate US boat strikes in Caribbean",
       "url": "https://www.perplexity.ai/page/pentagon-watchdog-to-investiga-B88jmmfjRpG3X7c32RoDQA",
       "description": "The Inspector General's probe is the first formal internal review of Operation Southern Spear, which has killed nearly 200 people since September 2025.",
@@ -181,15 +199,6 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "US offers temporary Iran oil sanctions waiver in new draft text",
-      "url": "https://www.perplexity.ai/page/us-offers-temporary-iran-oil-s-EAY2czFKR8iboKWNUQQO.Q",
-      "description": "Iran's Tasnim agency reports Washington proposed lifting oil sanctions during negotiations, but Tehran rejected the offer as inadequate.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T13:39:51Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Trump approval hits record low of 37% in Times/Siena poll",
       "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
       "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
@@ -197,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-05-18T13:22:36Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
-      "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
-      "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T12:37:42Z",
-      "sourceCount": "19 sources"
     },
     {
       "title": "Iran launches Strait of Hormuz transit authority as US reinsurance program draws zero takers",
@@ -217,6 +217,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
+      "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
+      "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T12:37:42Z",
+      "sourceCount": "19 sources"
+    },
+    {
       "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
       "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
       "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
@@ -224,15 +233,6 @@
       "topic": "top",
       "pubDate": "2026-05-17T21:17:47Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Two Navy Growlers collide mid-air at Idaho air show",
-      "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
-      "description": "All four crew members ejected safely after two EA-18G Growler jets crashed during the Gunfighter Skies Air Show at Mountain Home Air Force Base.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-17T19:33:43Z",
-      "sourceCount": "99 sources"
     },
     {
       "title": "Pakistan shares revised Iran peace proposal with US amid stalled talks",
@@ -244,6 +244,15 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "Two Navy Growlers collide mid-air at Idaho air show",
+      "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
+      "description": "All four crew members ejected safely after two EA-18G Growler jets crashed during the Gunfighter Skies Air Show at Mountain Home Air Force Base.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-17T19:33:43Z",
+      "sourceCount": "99 sources"
+    },
+    {
       "title": "Trump warns Iran 'the clock is ticking' as strike preparations intensify",
       "url": "https://www.perplexity.ai/page/trump-warns-iran-the-clock-is-0KV8MCUCRVCiH6zKO1LtHQ",
       "description": "A drone hit near the UAE's Barakah nuclear plant on Sunday as the U.S. and Israel reportedly advance plans for possible renewed military action against Iran.",
@@ -251,15 +260,6 @@
       "topic": "top",
       "pubDate": "2026-05-17T17:39:39Z",
       "sourceCount": "71 sources"
-    },
-    {
-      "title": "WHO declares Congo-Uganda Ebola outbreak a global health emergency",
-      "url": "https://www.perplexity.ai/page/who-declares-congo-uganda-ebol-_Ap3t7rnRxe4iruKZ1MM2A",
-      "description": "The rare Bundibugyo strain has no approved vaccines or treatments, with over 300 suspected cases and 88 deaths reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-17T17:13:12Z",
-      "sourceCount": "20 sources"
     },
     {
       "title": "Thousands rally in Alabama to defend voting rights after Supreme Court ruling",
@@ -271,15 +271,6 @@
       "sourceCount": "34 sources"
     },
     {
-      "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
-      "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
-      "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-16T05:33:25Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "All 46 Council of Europe nations adopt migration declaration",
       "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
       "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
@@ -287,6 +278,15 @@
       "topic": "top",
       "pubDate": "2026-05-15T22:48:27Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
+      "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
+      "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-16T05:33:25Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "DHS forms unit targeting green card holders for deportation",
@@ -298,15 +298,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
-      "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
-      "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-16T00:47:57Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "US suspects Iran hacked fuel tank monitors at gas stations",
       "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
       "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
@@ -314,6 +305,15 @@
       "topic": "top",
       "pubDate": "2026-05-15T21:03:21Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+      "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+      "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-16T00:47:57Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Kataib Hezbollah commander charged in plot against U.S. synagogue, Jewish centers",
@@ -1351,9 +1351,27 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-19T12:29:46Z",
+  "cached_at": "2026-05-19T13:40:30Z",
   "topics": {
     "top": [
+      {
+        "title": "China secretly trained 200 Russian troops now fighting in Ukraine, Reuters reports",
+        "url": "https://www.perplexity.ai/page/china-secretly-trained-200-rus-76emfYTORCKapYg2ayCPmA",
+        "description": "The revelation emerged as Putin arrived in Beijing for a two-day summit with Xi, marking a new threshold in the two nations' military ties.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T11:54:26Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Iran details peace proposal demanding reparations, end of blockade",
+        "url": "https://www.perplexity.ai/page/iran-details-peace-proposal-de-G3c4cmuVTCOqanw.0vuM1g",
+        "description": "Tehran's terms appear largely unchanged from the offer Trump rejected last week as \"garbage,\" according to Reuters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T10:38:54Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Pentagon watchdog to investigate US boat strikes in Caribbean",
         "url": "https://www.perplexity.ai/page/pentagon-watchdog-to-investiga-B88jmmfjRpG3X7c32RoDQA",
@@ -1535,15 +1553,6 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "US offers temporary Iran oil sanctions waiver in new draft text",
-        "url": "https://www.perplexity.ai/page/us-offers-temporary-iran-oil-s-EAY2czFKR8iboKWNUQQO.Q",
-        "description": "Iran's Tasnim agency reports Washington proposed lifting oil sanctions during negotiations, but Tehran rejected the offer as inadequate.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T13:39:51Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Trump approval hits record low of 37% in Times/Siena poll",
         "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
         "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
@@ -1551,15 +1560,6 @@
         "topic": "top",
         "pubDate": "2026-05-18T13:22:36Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
-        "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
-        "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T12:37:42Z",
-        "sourceCount": "19 sources"
       },
       {
         "title": "Iran launches Strait of Hormuz transit authority as US reinsurance program draws zero takers",
@@ -1571,6 +1571,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
+        "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
+        "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T12:37:42Z",
+        "sourceCount": "19 sources"
+      },
+      {
         "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
         "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
         "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
@@ -1578,15 +1587,6 @@
         "topic": "top",
         "pubDate": "2026-05-17T21:17:47Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Two Navy Growlers collide mid-air at Idaho air show",
-        "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
-        "description": "All four crew members ejected safely after two EA-18G Growler jets crashed during the Gunfighter Skies Air Show at Mountain Home Air Force Base.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-17T19:33:43Z",
-        "sourceCount": "99 sources"
       },
       {
         "title": "Pakistan shares revised Iran peace proposal with US amid stalled talks",
@@ -1598,6 +1598,15 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "Two Navy Growlers collide mid-air at Idaho air show",
+        "url": "https://www.perplexity.ai/page/two-navy-growlers-collide-mid-WWBUO_QiS4u_f0NOpfhvMw",
+        "description": "All four crew members ejected safely after two EA-18G Growler jets crashed during the Gunfighter Skies Air Show at Mountain Home Air Force Base.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-17T19:33:43Z",
+        "sourceCount": "99 sources"
+      },
+      {
         "title": "Trump warns Iran 'the clock is ticking' as strike preparations intensify",
         "url": "https://www.perplexity.ai/page/trump-warns-iran-the-clock-is-0KV8MCUCRVCiH6zKO1LtHQ",
         "description": "A drone hit near the UAE's Barakah nuclear plant on Sunday as the U.S. and Israel reportedly advance plans for possible renewed military action against Iran.",
@@ -1605,15 +1614,6 @@
         "topic": "top",
         "pubDate": "2026-05-17T17:39:39Z",
         "sourceCount": "71 sources"
-      },
-      {
-        "title": "WHO declares Congo-Uganda Ebola outbreak a global health emergency",
-        "url": "https://www.perplexity.ai/page/who-declares-congo-uganda-ebol-_Ap3t7rnRxe4iruKZ1MM2A",
-        "description": "The rare Bundibugyo strain has no approved vaccines or treatments, with over 300 suspected cases and 88 deaths reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-17T17:13:12Z",
-        "sourceCount": "20 sources"
       },
       {
         "title": "Thousands rally in Alabama to defend voting rights after Supreme Court ruling",
@@ -1625,15 +1625,6 @@
         "sourceCount": "34 sources"
       },
       {
-        "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
-        "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
-        "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-16T05:33:25Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "All 46 Council of Europe nations adopt migration declaration",
         "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
         "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
@@ -1641,6 +1632,15 @@
         "topic": "top",
         "pubDate": "2026-05-15T22:48:27Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
+        "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
+        "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-16T05:33:25Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "DHS forms unit targeting green card holders for deportation",
@@ -1652,15 +1652,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
-        "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
-        "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-16T00:47:57Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "US suspects Iran hacked fuel tank monitors at gas stations",
         "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
         "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
@@ -1668,6 +1659,15 @@
         "topic": "top",
         "pubDate": "2026-05-15T21:03:21Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
+        "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
+        "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-16T00:47:57Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Kataib Hezbollah commander charged in plot against U.S. synagogue, Jewish centers",
