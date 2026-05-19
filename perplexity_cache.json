@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump says US may strike Iran again within days",
+      "url": "https://www.perplexity.ai/page/trump-says-us-may-strike-iran-4JfOg1nBQ0iFRh.6SMMZtA",
+      "description": "The president said Tuesday he was an hour from ordering a new attack and gave Tehran until as early as Friday to reach a nuclear deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T16:24:26Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Blanche won't rule out Jan. 6 payouts from $1.8B fund",
       "url": "https://www.perplexity.ai/page/blanche-won-t-rule-out-jan-6-p-eDQYZVyJQO.re_FndMclJw",
       "description": "The acting attorney general told senators that \"anybody can apply\" to the Anti-Weaponization Fund, including Capitol rioters.",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-05-19T14:34:41Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "NATO weighs naval mission in Hormuz as strait nears four months of closure",
+      "url": "https://www.perplexity.ai/page/nato-weighs-naval-mission-in-h-i6Wyd2djTiiX_BRGBeTmYw",
+      "description": "The alliance's top commander called a potential deployment a \"political decision,\" with a formal debate expected at the July summit in Ankara.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T16:07:45Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Meta's Louisiana AI data center could cost $200B",
@@ -172,15 +190,6 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "White House calls Iran's latest war proposal insufficient",
-      "url": "https://www.perplexity.ai/page/white-house-calls-iran-s-lates-qxuzKUEsTkuDyyU5cFXLMA",
-      "description": "A senior U.S. official said Iran's revised offer lacks concrete nuclear commitments, warning that military options are back on the table.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T17:33:20Z",
-      "sourceCount": "43 sources"
-    },
-    {
       "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
       "url": "https://www.perplexity.ai/page/doj-drops-criminal-charges-aga-XdqXiBkaTl6uWUCNzTrDgg",
       "description": "The dismissal, a $275 million Treasury settlement, and an SEC deal resolve all U.S. legal proceedings against the Indian billionaire.",
@@ -271,15 +280,6 @@
       "sourceCount": "99 sources"
     },
     {
-      "title": "Trump warns Iran 'the clock is ticking' as strike preparations intensify",
-      "url": "https://www.perplexity.ai/page/trump-warns-iran-the-clock-is-0KV8MCUCRVCiH6zKO1LtHQ",
-      "description": "A drone hit near the UAE's Barakah nuclear plant on Sunday as the U.S. and Israel reportedly advance plans for possible renewed military action against Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-17T17:39:39Z",
-      "sourceCount": "71 sources"
-    },
-    {
       "title": "Thousands rally in Alabama to defend voting rights after Supreme Court ruling",
       "url": "https://www.perplexity.ai/page/thousands-rally-in-alabama-to-jTEanx5mRFqn4yE3tjRrUA",
       "description": "The \"All Roads Lead to the South\" march retraced the 1965 Selma-to-Montgomery route in protest of a ruling that gutted the Voting Rights Act.",
@@ -287,15 +287,6 @@
       "topic": "top",
       "pubDate": "2026-05-17T06:53:29Z",
       "sourceCount": "34 sources"
-    },
-    {
-      "title": "All 46 Council of Europe nations adopt migration declaration",
-      "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
-      "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-15T22:48:27Z",
-      "sourceCount": "33 sources"
     },
     {
       "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
@@ -307,6 +298,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "All 46 Council of Europe nations adopt migration declaration",
+      "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
+      "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-15T22:48:27Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "DHS forms unit targeting green card holders for deportation",
       "url": "https://www.perplexity.ai/page/dhs-forms-unit-targeting-green-vV5i6c3fTP6knFBXDA_ZSw",
       "description": "A newly created \"Tactical Operations Division\" has reviewed roughly 2,890 cases and is seeking to deport at least 50 lawful permanent residents.",
@@ -316,15 +316,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "US suspects Iran hacked fuel tank monitors at gas stations",
-      "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
-      "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-15T21:03:21Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
       "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
       "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
@@ -332,6 +323,15 @@
       "topic": "top",
       "pubDate": "2026-05-16T00:47:57Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "US suspects Iran hacked fuel tank monitors at gas stations",
+      "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
+      "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-15T21:03:21Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Kataib Hezbollah commander charged in plot against U.S. synagogue, Jewish centers",
@@ -1351,9 +1351,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-19T15:59:29Z",
+  "cached_at": "2026-05-19T17:09:09Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump says US may strike Iran again within days",
+        "url": "https://www.perplexity.ai/page/trump-says-us-may-strike-iran-4JfOg1nBQ0iFRh.6SMMZtA",
+        "description": "The president said Tuesday he was an hour from ordering a new attack and gave Tehran until as early as Friday to reach a nuclear deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T16:24:26Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Blanche won't rule out Jan. 6 payouts from $1.8B fund",
         "url": "https://www.perplexity.ai/page/blanche-won-t-rule-out-jan-6-p-eDQYZVyJQO.re_FndMclJw",
@@ -1371,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-05-19T14:34:41Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "NATO weighs naval mission in Hormuz as strait nears four months of closure",
+        "url": "https://www.perplexity.ai/page/nato-weighs-naval-mission-in-h-i6Wyd2djTiiX_BRGBeTmYw",
+        "description": "The alliance's top commander called a potential deployment a \"political decision,\" with a formal debate expected at the July summit in Ankara.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T16:07:45Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Meta's Louisiana AI data center could cost $200B",
@@ -1526,15 +1544,6 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "White House calls Iran's latest war proposal insufficient",
-        "url": "https://www.perplexity.ai/page/white-house-calls-iran-s-lates-qxuzKUEsTkuDyyU5cFXLMA",
-        "description": "A senior U.S. official said Iran's revised offer lacks concrete nuclear commitments, warning that military options are back on the table.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T17:33:20Z",
-        "sourceCount": "43 sources"
-      },
-      {
         "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
         "url": "https://www.perplexity.ai/page/doj-drops-criminal-charges-aga-XdqXiBkaTl6uWUCNzTrDgg",
         "description": "The dismissal, a $275 million Treasury settlement, and an SEC deal resolve all U.S. legal proceedings against the Indian billionaire.",
@@ -1625,15 +1634,6 @@
         "sourceCount": "99 sources"
       },
       {
-        "title": "Trump warns Iran 'the clock is ticking' as strike preparations intensify",
-        "url": "https://www.perplexity.ai/page/trump-warns-iran-the-clock-is-0KV8MCUCRVCiH6zKO1LtHQ",
-        "description": "A drone hit near the UAE's Barakah nuclear plant on Sunday as the U.S. and Israel reportedly advance plans for possible renewed military action against Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-17T17:39:39Z",
-        "sourceCount": "71 sources"
-      },
-      {
         "title": "Thousands rally in Alabama to defend voting rights after Supreme Court ruling",
         "url": "https://www.perplexity.ai/page/thousands-rally-in-alabama-to-jTEanx5mRFqn4yE3tjRrUA",
         "description": "The \"All Roads Lead to the South\" march retraced the 1965 Selma-to-Montgomery route in protest of a ruling that gutted the Voting Rights Act.",
@@ -1641,15 +1641,6 @@
         "topic": "top",
         "pubDate": "2026-05-17T06:53:29Z",
         "sourceCount": "34 sources"
-      },
-      {
-        "title": "All 46 Council of Europe nations adopt migration declaration",
-        "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
-        "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-15T22:48:27Z",
-        "sourceCount": "33 sources"
       },
       {
         "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
@@ -1661,6 +1652,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "All 46 Council of Europe nations adopt migration declaration",
+        "url": "https://www.perplexity.ai/page/all-46-council-of-europe-natio-y.jZrqDmTCqeCh2Cttv1dw",
+        "description": "The non-binding declaration reinterprets the European Convention on Human Rights to ease deportations, including to third-country \"return hubs.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-15T22:48:27Z",
+        "sourceCount": "33 sources"
+      },
+      {
         "title": "DHS forms unit targeting green card holders for deportation",
         "url": "https://www.perplexity.ai/page/dhs-forms-unit-targeting-green-vV5i6c3fTP6knFBXDA_ZSw",
         "description": "A newly created \"Tactical Operations Division\" has reviewed roughly 2,890 cases and is seeking to deport at least 50 lawful permanent residents.",
@@ -1670,15 +1670,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "US suspects Iran hacked fuel tank monitors at gas stations",
-        "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
-        "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-15T21:03:21Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Senate Democrats slam Trump's silence on Taiwan arms sale at Beijing summit",
         "url": "https://www.perplexity.ai/page/senate-democrats-slam-trump-s-e4JvBLAdSoCSeuB5yEO8QA",
         "description": "Lawmakers called Trump's refusal to raise a $14 billion pre-approved arms package with Xi Jinping \"a critical step backwards\" for U.S. interests.",
@@ -1686,6 +1677,15 @@
         "topic": "top",
         "pubDate": "2026-05-16T00:47:57Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "US suspects Iran hacked fuel tank monitors at gas stations",
+        "url": "https://www.perplexity.ai/page/us-suspects-iran-hacked-fuel-t-PFzp.zFYQkSMxN1XzDGx5g",
+        "description": "Hackers exploited unprotected automatic tank gauges across multiple states, manipulating display readings but not actual fuel levels, CNN reports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-15T21:03:21Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Kataib Hezbollah commander charged in plot against U.S. synagogue, Jewish centers",
