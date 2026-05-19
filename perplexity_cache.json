@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Meta's Louisiana AI data center could cost $200B",
+      "url": "https://www.perplexity.ai/page/meta-s-louisiana-ai-data-cente-yA88npyETdq2Tjnq6HGFqw",
+      "description": "Bloomberg reports the Hyperion facility in rural Richland Parish will need 10 new gas plants and up to 7.5 gigawatts of power.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T13:43:24Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "China secretly trained 200 Russian troops now fighting in Ukraine, Reuters reports",
       "url": "https://www.perplexity.ai/page/china-secretly-trained-200-rus-76emfYTORCKapYg2ayCPmA",
       "description": "The revelation emerged as Putin arrived in Beijing for a two-day summit with Xi, marking a new threshold in the two nations' military ties.",
@@ -28,15 +37,6 @@
       "sourceCount": "78 sources"
     },
     {
-      "title": "Wildfire burns over 800 acres in Simi Valley, forcing evacuations",
-      "url": "https://www.perplexity.ai/page/wildfire-burns-over-800-acres-eQkqtneGT1u5bud6x9Ukbw",
-      "description": "More than 550 firefighters are battling the fast-moving Sandy Fire, which has destroyed at least one home and prompted mandatory evacuations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-19T00:20:06Z",
-      "sourceCount": "13 sources"
-    },
-    {
       "title": "Pelosi endorses Connie Chan to succeed her in Congress",
       "url": "https://www.perplexity.ai/page/pelosi-endorses-connie-chan-to-yMjMlRuLR8ijUnA8C09J5w",
       "description": "The retiring former House speaker backed the San Francisco supervisor in a tight race ahead of the June 2 primary.",
@@ -44,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-05-19T00:07:30Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "New York Times files second lawsuit over Pentagon escort rule",
-      "url": "https://www.perplexity.ai/page/new-york-times-files-second-la-egKDwZCaSLmdk6H0NzLMOg",
-      "description": "The newspaper argues the policy requiring journalist escorts inside the Pentagon is \"patently unconstitutional\" and retaliatory.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-19T00:07:24Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Mexico, Uruguay aid ship docks in Havana amid Cuba crisis",
@@ -64,6 +55,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "New York Times files second lawsuit over Pentagon escort rule",
+      "url": "https://www.perplexity.ai/page/new-york-times-files-second-la-egKDwZCaSLmdk6H0NzLMOg",
+      "description": "The newspaper argues the policy requiring journalist escorts inside the Pentagon is \"patently unconstitutional\" and retaliatory.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-19T00:07:24Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Supreme Court to decide if employees can sue under Title IX",
       "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
       "description": "The justices agreed Monday to hear a case testing whether college coaches and professors can bring sex discrimination claims under the federal law.",
@@ -71,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-05-18T22:13:36Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
+      "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
+      "description": "President Díaz-Canel said Monday that U.S. military action against Cuba would have \"incalculable consequences,\" denying Havana poses any threat.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T20:23:19Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Deputy Secretary Landau helped secure visa for fugitive Polish minister",
@@ -91,33 +100,6 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "3 killed in shooting at San Diego mosque investigated as hate crime",
-      "url": "https://www.perplexity.ai/page/3-killed-in-shooting-at-san-di-VAdZVI1PSwWrdp2cBIKeAA",
-      "description": "Two teenage gunmen opened fire at the Islamic Center of San Diego on Monday, killing three adult men before dying of apparent self-inflicted wounds.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T22:01:42Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
-      "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
-      "description": "President Díaz-Canel said Monday that U.S. military action against Cuba would have \"incalculable consequences,\" denying Havana poses any threat.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T20:23:19Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
-      "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
-      "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T19:59:49Z",
-      "sourceCount": "77 sources"
-    },
-    {
       "title": "ICE agent charged in shooting during Minnesota immigration crackdown",
       "url": "https://www.perplexity.ai/page/ice-agent-charged-in-shooting-defDC0LlQsWJz3qlIZZrow",
       "description": "Hennepin County Attorney Mary Moriarty announced charges Monday against the officer who shot a Venezuelan man during Operation Metro Surge.",
@@ -136,13 +118,13 @@
       "sourceCount": "45 sources"
     },
     {
-      "title": "Trump calls off planned Iran strike at Gulf states' request",
-      "url": "https://www.perplexity.ai/page/trump-calls-off-planned-iran-s-PdXQBj.EQYKC35uOXX94Eg",
-      "description": "Gulf allies urged a pause on a Tuesday strike, saying \"serious negotiations\" are underway to end the nearly three-month-old war.",
+      "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
+      "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
+      "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-18T19:23:07Z",
-      "sourceCount": "57 sources"
+      "pubDate": "2026-05-18T19:59:49Z",
+      "sourceCount": "77 sources"
     },
     {
       "title": "CDC imposes first-ever Ebola travel ban as U.S. doctor tests positive in Congo",
@@ -163,6 +145,15 @@
       "sourceCount": "43 sources"
     },
     {
+      "title": "Trump calls off planned Iran strike at Gulf states' request",
+      "url": "https://www.perplexity.ai/page/trump-calls-off-planned-iran-s-PdXQBj.EQYKC35uOXX94Eg",
+      "description": "Gulf allies urged a pause on a Tuesday strike, saying \"serious negotiations\" are underway to end the nearly three-month-old war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T19:23:07Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
       "url": "https://www.perplexity.ai/page/doj-drops-criminal-charges-aga-XdqXiBkaTl6uWUCNzTrDgg",
       "description": "The dismissal, a $275 million Treasury settlement, and an SEC deal resolve all U.S. legal proceedings against the Indian billionaire.",
@@ -170,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-05-18T17:14:38Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "DOJ creates $1.776B fund for Trump allies as president drops IRS suit",
-      "url": "https://www.perplexity.ai/page/doj-creates-1-776b-fund-for-tr-E5JD9Z_nRV.v7OJpJ0393w",
-      "description": "Trump moved Monday to dismiss his $10 billion IRS lawsuit in exchange for a taxpayer-funded commission to compensate allies who claim Biden-era persecution.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T16:42:54Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Pakistan sends 8,000 troops, jets to Saudi Arabia",
@@ -190,6 +172,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "DOJ creates $1.776B fund for Trump allies as president drops IRS suit",
+      "url": "https://www.perplexity.ai/page/doj-creates-1-776b-fund-for-tr-E5JD9Z_nRV.v7OJpJ0393w",
+      "description": "Trump moved Monday to dismiss his $10 billion IRS lawsuit in exchange for a taxpayer-funded commission to compensate allies who claim Biden-era persecution.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T16:42:54Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Judge allows gun, notebook as evidence in Mangione trial",
       "url": "https://www.perplexity.ai/page/judge-allows-gun-notebook-as-e-Ax_9fxg1RWa3S8ouogn_ZA",
       "description": "The ruling is a major win for prosecutors ahead of the September state murder trial for the killing of UnitedHealthcare CEO Brian Thompson.",
@@ -197,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-05-18T15:03:09Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Trump approval hits record low of 37% in Times/Siena poll",
-      "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
-      "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-18T13:22:36Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Iran launches Strait of Hormuz transit authority as US reinsurance program draws zero takers",
@@ -217,6 +199,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Trump approval hits record low of 37% in Times/Siena poll",
+      "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
+      "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-18T13:22:36Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
       "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
       "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
@@ -226,15 +217,6 @@
       "sourceCount": "19 sources"
     },
     {
-      "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
-      "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
-      "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-17T21:17:47Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Pakistan shares revised Iran peace proposal with US amid stalled talks",
       "url": "https://www.perplexity.ai/page/pakistan-shares-revised-iran-p-zGVT2Ex2TRmeTHRYmuFL4Q",
       "description": "A Pakistani source said both sides \"keep changing their goalposts,\" warning \"we don't have much time\" to bridge gaps.",
@@ -242,6 +224,15 @@
       "topic": "top",
       "pubDate": "2026-05-18T10:03:14Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
+      "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-17T21:17:47Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Two Navy Growlers collide mid-air at Idaho air show",
@@ -1349,11 +1340,29 @@
       "topic": "top",
       "pubDate": "2026-05-08T12:07:51Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Kremlin drafts plan to sell peace deal as victory, leaked documents show",
+      "url": "https://www.perplexity.ai/page/kremlin-drafts-plan-to-sell-pe-r.pD56cfRn2uuQzHufrN8A",
+      "description": "Internal strategy documents task Russia's political bloc with reframing the war's end as a triumph amid economic strain and public fatigue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-08T08:41:14Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-19T13:40:30Z",
+  "cached_at": "2026-05-19T14:43:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Meta's Louisiana AI data center could cost $200B",
+        "url": "https://www.perplexity.ai/page/meta-s-louisiana-ai-data-cente-yA88npyETdq2Tjnq6HGFqw",
+        "description": "Bloomberg reports the Hyperion facility in rural Richland Parish will need 10 new gas plants and up to 7.5 gigawatts of power.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T13:43:24Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "China secretly trained 200 Russian troops now fighting in Ukraine, Reuters reports",
         "url": "https://www.perplexity.ai/page/china-secretly-trained-200-rus-76emfYTORCKapYg2ayCPmA",
@@ -1382,15 +1391,6 @@
         "sourceCount": "78 sources"
       },
       {
-        "title": "Wildfire burns over 800 acres in Simi Valley, forcing evacuations",
-        "url": "https://www.perplexity.ai/page/wildfire-burns-over-800-acres-eQkqtneGT1u5bud6x9Ukbw",
-        "description": "More than 550 firefighters are battling the fast-moving Sandy Fire, which has destroyed at least one home and prompted mandatory evacuations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-19T00:20:06Z",
-        "sourceCount": "13 sources"
-      },
-      {
         "title": "Pelosi endorses Connie Chan to succeed her in Congress",
         "url": "https://www.perplexity.ai/page/pelosi-endorses-connie-chan-to-yMjMlRuLR8ijUnA8C09J5w",
         "description": "The retiring former House speaker backed the San Francisco supervisor in a tight race ahead of the June 2 primary.",
@@ -1398,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-05-19T00:07:30Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "New York Times files second lawsuit over Pentagon escort rule",
-        "url": "https://www.perplexity.ai/page/new-york-times-files-second-la-egKDwZCaSLmdk6H0NzLMOg",
-        "description": "The newspaper argues the policy requiring journalist escorts inside the Pentagon is \"patently unconstitutional\" and retaliatory.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-19T00:07:24Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Mexico, Uruguay aid ship docks in Havana amid Cuba crisis",
@@ -1418,6 +1409,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "New York Times files second lawsuit over Pentagon escort rule",
+        "url": "https://www.perplexity.ai/page/new-york-times-files-second-la-egKDwZCaSLmdk6H0NzLMOg",
+        "description": "The newspaper argues the policy requiring journalist escorts inside the Pentagon is \"patently unconstitutional\" and retaliatory.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-19T00:07:24Z",
+        "sourceCount": "25 sources"
+      },
+      {
         "title": "Supreme Court to decide if employees can sue under Title IX",
         "url": "https://www.perplexity.ai/page/supreme-court-to-decide-if-emp-z1pB5Ht5TQa6D.XefXImCw",
         "description": "The justices agreed Monday to hear a case testing whether college coaches and professors can bring sex discrimination claims under the federal law.",
@@ -1425,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-05-18T22:13:36Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
+        "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
+        "description": "President Díaz-Canel said Monday that U.S. military action against Cuba would have \"incalculable consequences,\" denying Havana poses any threat.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T20:23:19Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Deputy Secretary Landau helped secure visa for fugitive Polish minister",
@@ -1445,33 +1454,6 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "3 killed in shooting at San Diego mosque investigated as hate crime",
-        "url": "https://www.perplexity.ai/page/3-killed-in-shooting-at-san-di-VAdZVI1PSwWrdp2cBIKeAA",
-        "description": "Two teenage gunmen opened fire at the Islamic Center of San Diego on Monday, killing three adult men before dying of apparent self-inflicted wounds.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T22:01:42Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Cuba warns of 'bloodbath' after U.S. drone threat report",
-        "url": "https://www.perplexity.ai/page/cuba-warns-of-bloodbath-after-ZA8J35C2RYufgH.CGQKBmw",
-        "description": "President Díaz-Canel said Monday that U.S. military action against Cuba would have \"incalculable consequences,\" denying Havana poses any threat.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T20:23:19Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
-        "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
-        "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T19:59:49Z",
-        "sourceCount": "77 sources"
-      },
-      {
         "title": "ICE agent charged in shooting during Minnesota immigration crackdown",
         "url": "https://www.perplexity.ai/page/ice-agent-charged-in-shooting-defDC0LlQsWJz3qlIZZrow",
         "description": "Hennepin County Attorney Mary Moriarty announced charges Monday against the officer who shot a Venezuelan man during Operation Metro Surge.",
@@ -1490,13 +1472,13 @@
         "sourceCount": "45 sources"
       },
       {
-        "title": "Trump calls off planned Iran strike at Gulf states' request",
-        "url": "https://www.perplexity.ai/page/trump-calls-off-planned-iran-s-PdXQBj.EQYKC35uOXX94Eg",
-        "description": "Gulf allies urged a pause on a Tuesday strike, saying \"serious negotiations\" are underway to end the nearly three-month-old war.",
+        "title": "U.S. sanctions Cuba's intelligence agency and nine officials",
+        "url": "https://www.perplexity.ai/page/u-s-sanctions-cuba-s-intellige-uxX7RmHzRzSXzqNFSlME6g",
+        "description": "The Treasury Department targeted Cuba's spy service and senior government figures, including three cabinet ministers, under Trump's expanded sanctions framework.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-18T19:23:07Z",
-        "sourceCount": "57 sources"
+        "pubDate": "2026-05-18T19:59:49Z",
+        "sourceCount": "77 sources"
       },
       {
         "title": "CDC imposes first-ever Ebola travel ban as U.S. doctor tests positive in Congo",
@@ -1517,6 +1499,15 @@
         "sourceCount": "43 sources"
       },
       {
+        "title": "Trump calls off planned Iran strike at Gulf states' request",
+        "url": "https://www.perplexity.ai/page/trump-calls-off-planned-iran-s-PdXQBj.EQYKC35uOXX94Eg",
+        "description": "Gulf allies urged a pause on a Tuesday strike, saying \"serious negotiations\" are underway to end the nearly three-month-old war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T19:23:07Z",
+        "sourceCount": "57 sources"
+      },
+      {
         "title": "DOJ drops criminal charges against Adani, ending all three U.S. cases",
         "url": "https://www.perplexity.ai/page/doj-drops-criminal-charges-aga-XdqXiBkaTl6uWUCNzTrDgg",
         "description": "The dismissal, a $275 million Treasury settlement, and an SEC deal resolve all U.S. legal proceedings against the Indian billionaire.",
@@ -1524,15 +1515,6 @@
         "topic": "top",
         "pubDate": "2026-05-18T17:14:38Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "DOJ creates $1.776B fund for Trump allies as president drops IRS suit",
-        "url": "https://www.perplexity.ai/page/doj-creates-1-776b-fund-for-tr-E5JD9Z_nRV.v7OJpJ0393w",
-        "description": "Trump moved Monday to dismiss his $10 billion IRS lawsuit in exchange for a taxpayer-funded commission to compensate allies who claim Biden-era persecution.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T16:42:54Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Pakistan sends 8,000 troops, jets to Saudi Arabia",
@@ -1544,6 +1526,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "DOJ creates $1.776B fund for Trump allies as president drops IRS suit",
+        "url": "https://www.perplexity.ai/page/doj-creates-1-776b-fund-for-tr-E5JD9Z_nRV.v7OJpJ0393w",
+        "description": "Trump moved Monday to dismiss his $10 billion IRS lawsuit in exchange for a taxpayer-funded commission to compensate allies who claim Biden-era persecution.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T16:42:54Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Judge allows gun, notebook as evidence in Mangione trial",
         "url": "https://www.perplexity.ai/page/judge-allows-gun-notebook-as-e-Ax_9fxg1RWa3S8ouogn_ZA",
         "description": "The ruling is a major win for prosecutors ahead of the September state murder trial for the killing of UnitedHealthcare CEO Brian Thompson.",
@@ -1551,15 +1542,6 @@
         "topic": "top",
         "pubDate": "2026-05-18T15:03:09Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Trump approval hits record low of 37% in Times/Siena poll",
-        "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
-        "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-18T13:22:36Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Iran launches Strait of Hormuz transit authority as US reinsurance program draws zero takers",
@@ -1571,6 +1553,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Trump approval hits record low of 37% in Times/Siena poll",
+        "url": "https://www.perplexity.ai/page/trump-approval-hits-record-low-1rNRz2lfRJK0QlHLRpawlA",
+        "description": "Democrats hold a double-digit lead on the generic congressional ballot as the Iran war and economic anxiety erode the president's standing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-18T13:22:36Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "NextEra, Dominion agree to $67B merger forming largest U.S. utility",
         "url": "https://www.perplexity.ai/page/nextera-dominion-agree-to-67b-WdzcbyfdSEG5SQ8kNYTZCA",
         "description": "The all-stock deal would unite 10 million customer accounts across four states amid surging power demand from AI data centers.",
@@ -1580,15 +1571,6 @@
         "sourceCount": "19 sources"
       },
       {
-        "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
-        "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
-        "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-17T21:17:47Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Pakistan shares revised Iran peace proposal with US amid stalled talks",
         "url": "https://www.perplexity.ai/page/pakistan-shares-revised-iran-p-zGVT2Ex2TRmeTHRYmuFL4Q",
         "description": "A Pakistani source said both sides \"keep changing their goalposts,\" warning \"we don't have much time\" to bridge gaps.",
@@ -1596,6 +1578,15 @@
         "topic": "top",
         "pubDate": "2026-05-18T10:03:14Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
+        "description": "The kingdom vowed to take \"necessary operational measures\" to defend its sovereignty as drone threats persist despite the April ceasefire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-17T21:17:47Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Two Navy Growlers collide mid-air at Idaho air show",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-08T12:07:51Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Kremlin drafts plan to sell peace deal as victory, leaked documents show",
+        "url": "https://www.perplexity.ai/page/kremlin-drafts-plan-to-sell-pe-r.pD56cfRn2uuQzHufrN8A",
+        "description": "Internal strategy documents task Russia's political bloc with reframing the war's end as a triumph amid economic strain and public fatigue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-08T08:41:14Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
