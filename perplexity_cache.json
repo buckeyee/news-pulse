@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate GOP drops White House ballroom funding from bill",
+      "url": "https://www.perplexity.ai/page/senate-gop-drops-white-house-b-vkSuIly1QVOT6jkX8h1yhg",
+      "description": "Trump demanded the Senate parliamentarian's firing after her ruling blocked the $1 billion provision from a spending package.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-20T23:04:08Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "US removes UN expert Albanese from sanctions list",
       "url": "https://www.perplexity.ai/page/us-removes-un-expert-albanese-JeJD.xizRPei_T5lvZb5iw",
       "description": "The Treasury Department delisted the UN special rapporteur on Palestine a week after a federal judge blocked the sanctions on free speech grounds.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T03:02:10Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Suspect in White House dinner shooting pleads not guilty as poll reveals widespread doubt",
-      "url": "https://www.perplexity.ai/page/suspect-in-white-house-dinner-bMStftsuQpKoY8HNKavaLw",
-      "description": "Cole Allen entered a not guilty plea Monday on charges including attempted assassination of the president, as a new survey found 24% of Americans believe the attack was staged.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-11T19:38:08Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-05-20T23:44:01Z",
+  "cached_at": "2026-05-21T00:14:51Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate GOP drops White House ballroom funding from bill",
+        "url": "https://www.perplexity.ai/page/senate-gop-drops-white-house-b-vkSuIly1QVOT6jkX8h1yhg",
+        "description": "Trump demanded the Senate parliamentarian's firing after her ruling blocked the $1 billion provision from a spending package.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-20T23:04:08Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "US removes UN expert Albanese from sanctions list",
         "url": "https://www.perplexity.ai/page/us-removes-un-expert-albanese-JeJD.xizRPei_T5lvZb5iw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T03:02:10Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Suspect in White House dinner shooting pleads not guilty as poll reveals widespread doubt",
-        "url": "https://www.perplexity.ai/page/suspect-in-white-house-dinner-bMStftsuQpKoY8HNKavaLw",
-        "description": "Cole Allen entered a not guilty plea Monday on charges including attempted assassination of the president, as a new survey found 24% of Americans believe the attack was staged.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-11T19:38:08Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
