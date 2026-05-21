@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump calls birthright citizenship 'a disgrace' ahead of Supreme Court ruling",
+      "url": "https://www.perplexity.ai/page/trump-calls-birthright-citizen-dtbQcYNSTxSkptnGenH4tg",
+      "description": "The president urged justices to \"do what's right\" while criticizing the court over its earlier decision striking down his tariff regime.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-21T18:39:33Z",
+      "sourceCount": "103 sources"
+    },
+    {
       "title": "DNC releases long-delayed 2024 election autopsy report",
       "url": "https://www.perplexity.ai/page/dnc-releases-long-delayed-2024-haxTCkv6S0S2etmSwaIJkw",
       "description": "Chair Ken Martin reversed months of refusals, apologizing for \"creating an even bigger distraction\" by withholding the document.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-11T22:47:47Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump delays plan to suspend beef import tariffs",
-      "url": "https://www.perplexity.ai/page/trump-delays-plan-to-suspend-b-M.KT7jgtSwaXQ4KYFgLOOQ",
-      "description": "The administration postponed executive orders that would have waived tariff-rate quotas on beef for 200 days to help lower record-high prices.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T03:16:38Z",
-      "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-05-21T19:03:49Z",
+  "cached_at": "2026-05-21T20:27:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump calls birthright citizenship 'a disgrace' ahead of Supreme Court ruling",
+        "url": "https://www.perplexity.ai/page/trump-calls-birthright-citizen-dtbQcYNSTxSkptnGenH4tg",
+        "description": "The president urged justices to \"do what's right\" while criticizing the court over its earlier decision striking down his tariff regime.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-21T18:39:33Z",
+        "sourceCount": "103 sources"
+      },
       {
         "title": "DNC releases long-delayed 2024 election autopsy report",
         "url": "https://www.perplexity.ai/page/dnc-releases-long-delayed-2024-haxTCkv6S0S2etmSwaIJkw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-11T22:47:47Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump delays plan to suspend beef import tariffs",
-        "url": "https://www.perplexity.ai/page/trump-delays-plan-to-suspend-b-M.KT7jgtSwaXQ4KYFgLOOQ",
-        "description": "The administration postponed executive orders that would have waived tariff-rate quotas on beef for 200 days to help lower record-high prices.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T03:16:38Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [],
