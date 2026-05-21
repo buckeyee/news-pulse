@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Ukrainian drone strikes bring central Russia's oil refining to a standstill",
+      "url": "https://www.perplexity.ai/page/ukrainian-drone-strikes-bring-Hh4E2vkKRTSz7KJPs.I1Wg",
+      "description": "Virtually all major refineries in central Russia have halted or reduced output, disrupting a quarter of the country's refining capacity, Reuters reported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-21T01:54:10Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Beijing delays Pentagon official's visit over Taiwan arms deal",
       "url": "https://www.perplexity.ai/page/beijing-delays-pentagon-offici-BSgQ5i00TCe4o72zHzBS9A",
       "description": "China is stalling a planned trip by Elbridge Colby, the Pentagon's No. 3 official, to pressure Trump on a $14 billion Taiwan weapons package, the FT reports.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T00:47:52Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Knesset passes law creating military tribunal for Oct. 7 suspects",
-      "url": "https://www.perplexity.ai/page/knesset-passes-law-creating-mi-YAiGuRZGQvCU8RucR7zKZQ",
-      "description": "The bipartisan legislation establishes a special court in Jerusalem to try hundreds of detained Hamas attackers, with genocide convictions carrying a mandatory death sentence.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-11T20:53:34Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-05-21T01:22:41Z",
+  "cached_at": "2026-05-21T02:18:13Z",
   "topics": {
     "top": [
+      {
+        "title": "Ukrainian drone strikes bring central Russia's oil refining to a standstill",
+        "url": "https://www.perplexity.ai/page/ukrainian-drone-strikes-bring-Hh4E2vkKRTSz7KJPs.I1Wg",
+        "description": "Virtually all major refineries in central Russia have halted or reduced output, disrupting a quarter of the country's refining capacity, Reuters reported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-21T01:54:10Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Beijing delays Pentagon official's visit over Taiwan arms deal",
         "url": "https://www.perplexity.ai/page/beijing-delays-pentagon-offici-BSgQ5i00TCe4o72zHzBS9A",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T00:47:52Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Knesset passes law creating military tribunal for Oct. 7 suspects",
-        "url": "https://www.perplexity.ai/page/knesset-passes-law-creating-mi-YAiGuRZGQvCU8RucR7zKZQ",
-        "description": "The bipartisan legislation establishes a special court in Jerusalem to try hundreds of detained Hamas attackers, with genocide convictions carrying a mandatory death sentence.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-11T20:53:34Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
