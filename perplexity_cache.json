@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "3 dead, dozens exposed to unknown substance in New Mexico home",
-      "url": "https://www.perplexity.ai/page/3-dead-dozens-exposed-to-unkno-3sZdpDQEQ4u9RwmXHs_s4g",
-      "description": "Hazmat teams are working to identify a substance that killed three people and sickened 18 first responders in Mountainair, New Mexico.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-22T02:56:44Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "DOJ files emergency motion to restore sanctions on UN rapporteur Albanese",
       "url": "https://www.perplexity.ai/page/doj-files-emergency-motion-to-xjEKhrHOQYy89DiPQo_exQ",
       "description": "After removing UN Special Rapporteur Francesca Albanese from the sanctions list under court order, the Trump administration moved Thursday to reinstate them.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-05-11T23:57:35Z",
       "sourceCount": "48 sources"
+    },
+    {
+      "title": "Knesset passes law creating military tribunal for Oct. 7 suspects",
+      "url": "https://www.perplexity.ai/page/knesset-passes-law-creating-mi-YAiGuRZGQvCU8RucR7zKZQ",
+      "description": "The bipartisan legislation establishes a special court in Jerusalem to try hundreds of detained Hamas attackers, with genocide convictions carrying a mandatory death sentence.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-11T20:53:34Z",
+      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-05-22T03:31:49Z",
+  "cached_at": "2026-05-22T08:59:04Z",
   "topics": {
     "top": [
-      {
-        "title": "3 dead, dozens exposed to unknown substance in New Mexico home",
-        "url": "https://www.perplexity.ai/page/3-dead-dozens-exposed-to-unkno-3sZdpDQEQ4u9RwmXHs_s4g",
-        "description": "Hazmat teams are working to identify a substance that killed three people and sickened 18 first responders in Mountainair, New Mexico.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-22T02:56:44Z",
-        "sourceCount": "14 sources"
-      },
       {
         "title": "DOJ files emergency motion to restore sanctions on UN rapporteur Albanese",
         "url": "https://www.perplexity.ai/page/doj-files-emergency-motion-to-xjEKhrHOQYy89DiPQo_exQ",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-11T23:57:35Z",
         "sourceCount": "48 sources"
+      },
+      {
+        "title": "Knesset passes law creating military tribunal for Oct. 7 suspects",
+        "url": "https://www.perplexity.ai/page/knesset-passes-law-creating-mi-YAiGuRZGQvCU8RucR7zKZQ",
+        "description": "The bipartisan legislation establishes a special court in Jerusalem to try hundreds of detained Hamas attackers, with genocide convictions carrying a mandatory death sentence.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-11T20:53:34Z",
+        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
