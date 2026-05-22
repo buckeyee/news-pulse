@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate GOP scraps ICE funding vote over Trump fund dispute",
+      "url": "https://www.perplexity.ai/page/senate-gop-scraps-ice-funding-OehB4iObSb6y8715e6jGrA",
+      "description": "Republican infighting over the DOJ's $1.776 billion \"anti-weaponization\" fund forced Senate leaders to shelve the $70 billion immigration bill until after Memorial Day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-22T00:00:55Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Russia developing seabed nuclear missiles, German investigation finds",
       "url": "https://www.perplexity.ai/page/russia-developing-seabed-nucle-y_UjB6SrS1qh1ELhQE_0xw",
       "description": "NATO is monitoring a secret Russian program to hide remote-controlled nuclear missiles on the Arctic Ocean floor, as Moscow wraps up its largest nuclear drills in years.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-05-21T22:53:49Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "75% of Democratic voters oppose military aid to Israel, poll finds",
+      "url": "https://www.perplexity.ai/page/75-of-democratic-voters-oppose-ycONL0VyQTeYWxv1Z3zquw",
+      "description": "A New York Times/Siena poll shows opposition nearly doubled from 45% three years ago, reflecting deepening frustration over Gaza and the US-Israel war on Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-21T22:53:16Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Rutte says many NATO allies 'not spending enough' on Ukraine",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T22:17:58Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "California mayor agrees to plead guilty to acting as Chinese agent",
-      "url": "https://www.perplexity.ai/page/california-mayor-agrees-to-ple-S5mGY7uaSwujTn.e_MiqtA",
-      "description": "Eileen Wang resigned and will plead guilty to secretly promoting China's interests through a propaganda website with her then-fiancé.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-11T23:28:51Z",
-      "sourceCount": "33 sources"
-    },
-    {
-      "title": "House Ethics Committee issues 20-plus subpoenas in Rep. Cory Mills probe",
-      "url": "https://www.perplexity.ai/page/house-ethics-committee-issues-mcx7TNhISUeaTfKQN1aFqA",
-      "description": "The panel called allegations of dating violence, campaign finance violations, and military service misrepresentation \"serious and complex.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-11T22:47:47Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-05-21T23:45:06Z",
+  "cached_at": "2026-05-22T00:13:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate GOP scraps ICE funding vote over Trump fund dispute",
+        "url": "https://www.perplexity.ai/page/senate-gop-scraps-ice-funding-OehB4iObSb6y8715e6jGrA",
+        "description": "Republican infighting over the DOJ's $1.776 billion \"anti-weaponization\" fund forced Senate leaders to shelve the $70 billion immigration bill until after Memorial Day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-22T00:00:55Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Russia developing seabed nuclear missiles, German investigation finds",
         "url": "https://www.perplexity.ai/page/russia-developing-seabed-nucle-y_UjB6SrS1qh1ELhQE_0xw",
@@ -1362,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-05-21T22:53:49Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "75% of Democratic voters oppose military aid to Israel, poll finds",
+        "url": "https://www.perplexity.ai/page/75-of-democratic-voters-oppose-ycONL0VyQTeYWxv1Z3zquw",
+        "description": "A New York Times/Siena poll shows opposition nearly doubled from 45% three years ago, reflecting deepening frustration over Gaza and the US-Israel war on Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-21T22:53:16Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Rutte says many NATO allies 'not spending enough' on Ukraine",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T22:17:58Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "California mayor agrees to plead guilty to acting as Chinese agent",
-        "url": "https://www.perplexity.ai/page/california-mayor-agrees-to-ple-S5mGY7uaSwujTn.e_MiqtA",
-        "description": "Eileen Wang resigned and will plead guilty to secretly promoting China's interests through a propaganda website with her then-fiancé.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-11T23:28:51Z",
-        "sourceCount": "33 sources"
-      },
-      {
-        "title": "House Ethics Committee issues 20-plus subpoenas in Rep. Cory Mills probe",
-        "url": "https://www.perplexity.ai/page/house-ethics-committee-issues-mcx7TNhISUeaTfKQN1aFqA",
-        "description": "The panel called allegations of dating violence, campaign finance violations, and military service misrepresentation \"serious and complex.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-11T22:47:47Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
