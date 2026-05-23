@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "4 dead, 90 trapped in China coal mine after CO buildup",
+      "url": "https://www.perplexity.ai/page/4-dead-90-trapped-in-china-coa-pu.rZJRHRZ2duROYKrZ3SQ",
+      "description": "Rescue operations are underway at a Shanxi Province mine where carbon monoxide levels surged while 247 workers were underground.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-22T23:02:20Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Iran condemns US sanctions on its envoy to Lebanon",
+      "url": "https://www.perplexity.ai/page/iran-condemns-us-sanctions-on-ce5ZF982TGSkeNpyCtZopA",
+      "description": "Tehran called the Treasury Department's designation of ambassador Mohammad Reza Sheibani \"illegal,\" accusing Washington of violating international law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-22T22:22:50Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Chemical tank in 'active crisis' forces 40,000 to evacuate in Garden Grove",
+      "url": "https://www.perplexity.ai/page/chemical-tank-in-active-crisis-jH_95X1lRbGPJU2xhckdFw",
+      "description": "Officials warn the damaged tank at a GKN Aerospace facility will either fail or explode, with no way to secure an inoperable valve.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-22T22:19:19Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
       "url": "https://www.perplexity.ai/page/judge-tosses-abrego-garcia-smu-DPtn6TQERnKBeGZOAcDJVw",
       "description": "The ruling ends the criminal case against the Maryland man whose wrongful deportation to El Salvador's CECOT prison reached the Supreme Court.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-05-12T02:17:26Z",
       "sourceCount": "34 sources"
-    },
-    {
-      "title": "Iran says 35 million people face water shortages as crises mount",
-      "url": "https://www.perplexity.ai/page/iran-says-35-million-people-fa-9TNcuY_5QdGCwkKZThV26A",
-      "description": "Officials warned Monday that drought, a U.S. naval blockade, mass layoffs, and an internet blackout are converging into a deepening domestic emergency.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T02:09:05Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "White House weighs 250 pardons to mark America's 250th birthday",
-      "url": "https://www.perplexity.ai/page/white-house-weighs-250-pardons-Oo3vjYujQ3qrXOQRxaWMLg",
-      "description": "The proposed initiative would be one of the largest single clemency acts in modern history, building on Trump's already unprecedented use of pardon power.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-13T17:20:39Z",
-      "sourceCount": "68 sources"
-    },
-    {
-      "title": "Democrats demand Kiggans resign over racial slur response",
-      "url": "https://www.perplexity.ai/page/democrats-demand-kiggans-resig-X7TVZ1BOStOQlTcWv6tjWA",
-      "description": "The Congressional Black Caucus and Democratic lawmakers called for her ouster after she agreed with a host's racist remark about Hakeem Jeffries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T02:03:05Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-05-22T22:58:44Z",
+  "cached_at": "2026-05-23T00:00:34Z",
   "topics": {
     "top": [
+      {
+        "title": "4 dead, 90 trapped in China coal mine after CO buildup",
+        "url": "https://www.perplexity.ai/page/4-dead-90-trapped-in-china-coa-pu.rZJRHRZ2duROYKrZ3SQ",
+        "description": "Rescue operations are underway at a Shanxi Province mine where carbon monoxide levels surged while 247 workers were underground.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-22T23:02:20Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Iran condemns US sanctions on its envoy to Lebanon",
+        "url": "https://www.perplexity.ai/page/iran-condemns-us-sanctions-on-ce5ZF982TGSkeNpyCtZopA",
+        "description": "Tehran called the Treasury Department's designation of ambassador Mohammad Reza Sheibani \"illegal,\" accusing Washington of violating international law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-22T22:22:50Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Chemical tank in 'active crisis' forces 40,000 to evacuate in Garden Grove",
+        "url": "https://www.perplexity.ai/page/chemical-tank-in-active-crisis-jH_95X1lRbGPJU2xhckdFw",
+        "description": "Officials warn the damaged tank at a GKN Aerospace facility will either fail or explode, with no way to secure an inoperable valve.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-22T22:19:19Z",
+        "sourceCount": "21 sources"
+      },
       {
         "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
         "url": "https://www.perplexity.ai/page/judge-tosses-abrego-garcia-smu-DPtn6TQERnKBeGZOAcDJVw",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T02:17:26Z",
         "sourceCount": "34 sources"
-      },
-      {
-        "title": "Iran says 35 million people face water shortages as crises mount",
-        "url": "https://www.perplexity.ai/page/iran-says-35-million-people-fa-9TNcuY_5QdGCwkKZThV26A",
-        "description": "Officials warned Monday that drought, a U.S. naval blockade, mass layoffs, and an internet blackout are converging into a deepening domestic emergency.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T02:09:05Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "White House weighs 250 pardons to mark America's 250th birthday",
-        "url": "https://www.perplexity.ai/page/white-house-weighs-250-pardons-Oo3vjYujQ3qrXOQRxaWMLg",
-        "description": "The proposed initiative would be one of the largest single clemency acts in modern history, building on Trump's already unprecedented use of pardon power.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-13T17:20:39Z",
-        "sourceCount": "68 sources"
-      },
-      {
-        "title": "Democrats demand Kiggans resign over racial slur response",
-        "url": "https://www.perplexity.ai/page/democrats-demand-kiggans-resig-X7TVZ1BOStOQlTcWv6tjWA",
-        "description": "The Congressional Black Caucus and Democratic lawmakers called for her ouster after she agreed with a host's racist remark about Hakeem Jeffries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T02:03:05Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
