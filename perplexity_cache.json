@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "DOJ deletes press releases on Jan. 6 charges from its website",
+      "url": "https://www.perplexity.ai/page/doj-deletes-press-releases-on-Owja4rn7RoSmUYXYDLD22A",
+      "description": "NBC News found the vast majority of news releases about Jan. 6 defendants were removed, as a $1.776 billion compensation fund draws bipartisan scrutiny.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-23T11:06:03Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "SpaceX launches first Starship V3 but loses booster over Gulf of Mexico",
       "url": "https://www.perplexity.ai/page/spacex-launches-first-starship-TRvAUo5TTtK2ncw5.X96lw",
       "description": "The 12th test flight debuted SpaceX's most powerful rocket design, but engine failures sent the Super Heavy booster crashing into the Gulf of Mexico.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T02:03:05Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Pakistan let Iran park warplanes on its airfields",
-      "url": "https://www.perplexity.ai/page/pakistan-let-iran-park-warplan-v5WNWxvMQjqPLIXC_0KuJQ",
-      "description": "Islamabad quietly hosted Iranian military aircraft at Nur Khan Airbase while serving as the central mediator between Washington and Tehran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T01:17:55Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-05-23T17:20:44Z",
+  "cached_at": "2026-05-23T17:47:11Z",
   "topics": {
     "top": [
+      {
+        "title": "DOJ deletes press releases on Jan. 6 charges from its website",
+        "url": "https://www.perplexity.ai/page/doj-deletes-press-releases-on-Owja4rn7RoSmUYXYDLD22A",
+        "description": "NBC News found the vast majority of news releases about Jan. 6 defendants were removed, as a $1.776 billion compensation fund draws bipartisan scrutiny.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-23T11:06:03Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "SpaceX launches first Starship V3 but loses booster over Gulf of Mexico",
         "url": "https://www.perplexity.ai/page/spacex-launches-first-starship-TRvAUo5TTtK2ncw5.X96lw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T02:03:05Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Pakistan let Iran park warplanes on its airfields",
-        "url": "https://www.perplexity.ai/page/pakistan-let-iran-park-warplan-v5WNWxvMQjqPLIXC_0KuJQ",
-        "description": "Islamabad quietly hosted Iranian military aircraft at Nur Khan Airbase while serving as the central mediator between Washington and Tehran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T01:17:55Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
