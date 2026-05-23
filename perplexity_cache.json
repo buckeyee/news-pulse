@@ -28,15 +28,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Chemical tank in 'active crisis' forces 40,000 to evacuate in Garden Grove",
-      "url": "https://www.perplexity.ai/page/chemical-tank-in-active-crisis-jH_95X1lRbGPJU2xhckdFw",
-      "description": "Officials warn the damaged tank at a GKN Aerospace facility will either fail or explode, with no way to secure an inoperable valve.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-22T22:19:19Z",
-      "sourceCount": "21 sources"
-    },
-    {
       "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
       "url": "https://www.perplexity.ai/page/judge-tosses-abrego-garcia-smu-DPtn6TQERnKBeGZOAcDJVw",
       "description": "The ruling ends the criminal case against the Maryland man whose wrongful deportation to El Salvador's CECOT prison reached the Supreme Court.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-05-13T21:37:37Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Japan pushes for New Zealand to choose Mogami-class frigates over UK rival",
+      "url": "https://www.perplexity.ai/page/japan-pushes-for-new-zealand-t-NnYh8oO9RY2kS_zLjOhpGg",
+      "description": "Tokyo voiced hope Monday that New Zealand will select the upgraded Mogami-class frigate, which Australia has already ordered, over Britain's Type 31.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-12T02:17:26Z",
+      "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-05-23T01:59:21Z",
+  "cached_at": "2026-05-23T04:39:25Z",
   "topics": {
     "top": [
       {
@@ -1380,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-05-22T22:22:50Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Chemical tank in 'active crisis' forces 40,000 to evacuate in Garden Grove",
-        "url": "https://www.perplexity.ai/page/chemical-tank-in-active-crisis-jH_95X1lRbGPJU2xhckdFw",
-        "description": "Officials warn the damaged tank at a GKN Aerospace facility will either fail or explode, with no way to secure an inoperable valve.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-22T22:19:19Z",
-        "sourceCount": "21 sources"
       },
       {
         "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-13T21:37:37Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Japan pushes for New Zealand to choose Mogami-class frigates over UK rival",
+        "url": "https://www.perplexity.ai/page/japan-pushes-for-new-zealand-t-NnYh8oO9RY2kS_zLjOhpGg",
+        "description": "Tokyo voiced hope Monday that New Zealand will select the upgraded Mogami-class frigate, which Australia has already ordered, over Britain's Type 31.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-12T02:17:26Z",
+        "sourceCount": "34 sources"
       }
     ],
     "tech": [],
