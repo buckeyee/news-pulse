@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Crack in overheating California chemical tank offers hope of averting explosion",
+      "url": "https://www.perplexity.ai/page/crack-in-overheating-californi-7_PEnmedQf.C9DG0HaHkkQ",
+      "description": "Officials called the discovery \"critically positive\" as more than 50,000 residents remain evacuated across six Orange County cities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-24T20:08:17Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Trump tells negotiators not to rush Iran deal",
       "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
       "description": "The president said the naval blockade of Iranian ports will stay in full force until a final agreement is signed.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-05-24T09:19:46Z",
       "sourceCount": "51 sources"
+    },
+    {
+      "title": "Gunman killed after firing on Secret Service near White House",
+      "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
+      "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-24T03:03:17Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "NATO weighs return to Iraq after wartime evacuation",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T13:37:47Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
-      "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-14T00:22:32Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "US consumer prices jump 3.8% in April, fastest pace since mid-2023",
-      "url": "https://www.perplexity.ai/page/us-consumer-prices-jump-3-8-in-Fr.WbxKFRBm22iP7F8BwJw",
-      "description": "The Bureau of Labor Statistics reported that annual inflation accelerated from 3.3% in March, driven by the Iran war's ongoing energy shock.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T12:39:45Z",
-      "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-05-24T20:08:10Z",
+  "cached_at": "2026-05-24T20:33:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Crack in overheating California chemical tank offers hope of averting explosion",
+        "url": "https://www.perplexity.ai/page/crack-in-overheating-californi-7_PEnmedQf.C9DG0HaHkkQ",
+        "description": "Officials called the discovery \"critically positive\" as more than 50,000 residents remain evacuated across six Orange County cities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-24T20:08:17Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Trump tells negotiators not to rush Iran deal",
         "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
@@ -1389,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-05-24T09:19:46Z",
         "sourceCount": "51 sources"
+      },
+      {
+        "title": "Gunman killed after firing on Secret Service near White House",
+        "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
+        "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-24T03:03:17Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "NATO weighs return to Iraq after wartime evacuation",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T13:37:47Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
-        "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-14T00:22:32Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "US consumer prices jump 3.8% in April, fastest pace since mid-2023",
-        "url": "https://www.perplexity.ai/page/us-consumer-prices-jump-3-8-in-Fr.WbxKFRBm22iP7F8BwJw",
-        "description": "The Bureau of Labor Statistics reported that annual inflation accelerated from 3.3% in March, driven by the Iran war's ongoing energy shock.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T12:39:45Z",
-        "sourceCount": "38 sources"
       }
     ],
     "tech": [],
