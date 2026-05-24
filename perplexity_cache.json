@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump tells negotiators not to rush Iran deal",
+      "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
+      "description": "The president said the naval blockade of Iranian ports will stay in full force until a final agreement is signed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-24T18:05:57Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "Ebola patients flee DRC facility after arson as cases near 800",
       "url": "https://www.perplexity.ai/page/ebola-patients-flee-drc-facili-F2ujBPWcR9CGbU9EhJZWlQ",
       "description": "Eighteen suspected Ebola patients are missing after residents set fire to a treatment tent in Mongbwalu, the outbreak's epicenter in eastern Congo.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T06:07:54Z",
       "sourceCount": "32 sources"
-    },
-    {
-      "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
-      "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-14T00:22:32Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-24T17:32:51Z",
+  "cached_at": "2026-05-24T19:02:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump tells negotiators not to rush Iran deal",
+        "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
+        "description": "The president said the naval blockade of Iranian ports will stay in full force until a final agreement is signed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-24T18:05:57Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "Ebola patients flee DRC facility after arson as cases near 800",
         "url": "https://www.perplexity.ai/page/ebola-patients-flee-drc-facili-F2ujBPWcR9CGbU9EhJZWlQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T06:07:54Z",
         "sourceCount": "32 sources"
-      },
-      {
-        "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
-        "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-14T00:22:32Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
