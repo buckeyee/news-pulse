@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "DRC Ebola outbreak tops 900 cases as violence hampers response",
-      "url": "https://www.perplexity.ai/page/drc-ebola-outbreak-tops-900-ca-6eZDEndhTgKN.p3gjP4eqw",
-      "description": "The WHO warned the fast-moving epidemic is outpacing containment as attacks on health facilities drive patients into communities.",
+      "title": "Russia warns foreigners to leave Kyiv ahead of 'systematic strikes'",
+      "url": "https://www.perplexity.ai/page/russia-warns-foreigners-to-lea-z.O3ahLdT.K78CJ5dZfnvw",
+      "description": "Ukraine's foreign minister called the threat \"blackmail\" after Moscow declared it would begin systematic assaults on the capital's military and command sites.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-05-25T17:58:01Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-05-25T18:51:32Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "AI safety filters on Meta, Google models stripped in minutes, FT finds",
@@ -35,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-05-25T16:15:08Z",
       "sourceCount": "45 sources"
+    },
+    {
+      "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
+      "url": "https://www.perplexity.ai/page/who-chief-warns-ebola-outpacin-t.BMzOLySViJ9bV3EJF_dg",
+      "description": "Tedros Adhanom Ghebreyesus said Monday he will travel to Congo as the Bundibugyo strain outbreak spreads with no approved vaccine available.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-25T15:42:26Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Iran says US deal 'not imminent' as both sides temper expectations",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-05-14T13:03:55Z",
       "sourceCount": "89 sources"
-    },
-    {
-      "title": "Mexico's Sheinbaum rules out US extraction of indicted Sinaloa governor",
-      "url": "https://www.perplexity.ai/page/mexico-s-sheinbaum-rules-out-u-_zSHmiabTDy9mnS0Vj_NYQ",
-      "description": "The president said U.S. authorities will not be allowed to forcibly remove Governor Rocha Moya, who faces federal drug trafficking charges.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T16:08:38Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-05-25T18:49:38Z",
+  "cached_at": "2026-05-25T19:25:53Z",
   "topics": {
     "top": [
       {
-        "title": "DRC Ebola outbreak tops 900 cases as violence hampers response",
-        "url": "https://www.perplexity.ai/page/drc-ebola-outbreak-tops-900-ca-6eZDEndhTgKN.p3gjP4eqw",
-        "description": "The WHO warned the fast-moving epidemic is outpacing containment as attacks on health facilities drive patients into communities.",
+        "title": "Russia warns foreigners to leave Kyiv ahead of 'systematic strikes'",
+        "url": "https://www.perplexity.ai/page/russia-warns-foreigners-to-lea-z.O3ahLdT.K78CJ5dZfnvw",
+        "description": "Ukraine's foreign minister called the threat \"blackmail\" after Moscow declared it would begin systematic assaults on the capital's military and command sites.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-05-25T17:58:01Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-05-25T18:51:32Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "AI safety filters on Meta, Google models stripped in minutes, FT finds",
@@ -1389,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-05-25T16:15:08Z",
         "sourceCount": "45 sources"
+      },
+      {
+        "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
+        "url": "https://www.perplexity.ai/page/who-chief-warns-ebola-outpacin-t.BMzOLySViJ9bV3EJF_dg",
+        "description": "Tedros Adhanom Ghebreyesus said Monday he will travel to Congo as the Bundibugyo strain outbreak spreads with no approved vaccine available.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-25T15:42:26Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Iran says US deal 'not imminent' as both sides temper expectations",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-14T13:03:55Z",
         "sourceCount": "89 sources"
-      },
-      {
-        "title": "Mexico's Sheinbaum rules out US extraction of indicted Sinaloa governor",
-        "url": "https://www.perplexity.ai/page/mexico-s-sheinbaum-rules-out-u-_zSHmiabTDy9mnS0Vj_NYQ",
-        "description": "The president said U.S. authorities will not be allowed to forcibly remove Governor Rocha Moya, who faces federal drug trafficking charges.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T16:08:38Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
