@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Netanyahu orders intensified strikes on Hezbollah in Lebanon",
+      "url": "https://www.perplexity.ai/page/netanyahu-orders-intensified-s-4NnHOUHJTyKpETyAwjydPQ",
+      "description": "Dozens of strikes hit southern Lebanon and the Bekaa Valley on Monday after the Israeli prime minister vowed to \"crush\" Hezbollah despite an April ceasefire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-25T22:03:11Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iran would reopen Strait of Hormuz 30 days after deal, Nikkei reports",
       "url": "https://www.perplexity.ai/page/iran-would-reopen-strait-of-ho-pfjOMBpQSUu.Imru3wWSmQ",
       "description": "Tehran would clear mines from the strategic waterway during the post-agreement window, ending transit fees for all ships, according to the report.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-12T23:07:38Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Trump administration signals frustration as Cuba maintains grip on power",
-      "url": "https://www.perplexity.ai/page/trump-administration-signals-f-GkCWdF49R7a0Pm3Yupuakw",
-      "description": "The White House believes the Cuban regime could collapse by year's end, but officials say the timeline isn't fast enough for the president.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-14T21:33:17Z",
-      "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-05-25T22:16:05Z",
+  "cached_at": "2026-05-25T22:42:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Netanyahu orders intensified strikes on Hezbollah in Lebanon",
+        "url": "https://www.perplexity.ai/page/netanyahu-orders-intensified-s-4NnHOUHJTyKpETyAwjydPQ",
+        "description": "Dozens of strikes hit southern Lebanon and the Bekaa Valley on Monday after the Israeli prime minister vowed to \"crush\" Hezbollah despite an April ceasefire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-25T22:03:11Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Iran would reopen Strait of Hormuz 30 days after deal, Nikkei reports",
         "url": "https://www.perplexity.ai/page/iran-would-reopen-strait-of-ho-pfjOMBpQSUu.Imru3wWSmQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T23:07:38Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Trump administration signals frustration as Cuba maintains grip on power",
-        "url": "https://www.perplexity.ai/page/trump-administration-signals-f-GkCWdF49R7a0Pm3Yupuakw",
-        "description": "The White House believes the Cuban regime could collapse by year's end, but officials say the timeline isn't fast enough for the president.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-14T21:33:17Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [],
