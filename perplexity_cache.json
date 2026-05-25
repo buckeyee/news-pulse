@@ -19,15 +19,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Ebola patients flee DRC facility after arson as cases near 800",
-      "url": "https://www.perplexity.ai/page/ebola-patients-flee-drc-facili-F2ujBPWcR9CGbU9EhJZWlQ",
-      "description": "Eighteen suspected Ebola patients are missing after residents set fire to a treatment tent in Mongbwalu, the outbreak's epicenter in eastern Congo.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-24T16:47:37Z",
-      "sourceCount": "33 sources"
-    },
-    {
       "title": "Russia fires Oreshnik missile in massive assault on Kyiv",
       "url": "https://www.perplexity.ai/page/russia-fires-oreshnik-missile-1pydJMlfTcOmfMF_R7NSjQ",
       "description": "The overnight barrage of 90 missiles and 600 drones killed at least four and wounded over 80, Ukrainian officials said.",
@@ -37,15 +28,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran agreed to give up enriched uranium in US deal, officials say",
-      "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
-      "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-24T09:19:46Z",
-      "sourceCount": "51 sources"
-    },
-    {
       "title": "Gunman killed after firing on Secret Service near White House",
       "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
       "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
@@ -53,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-05-24T03:03:17Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Iran agreed to give up enriched uranium in US deal, officials say",
+      "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
+      "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-24T09:19:46Z",
+      "sourceCount": "51 sources"
     },
     {
       "title": "NATO weighs return to Iraq after wartime evacuation",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-05-12T13:37:47Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
+      "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
+      "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-14T00:22:32Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-25T01:20:17Z",
+  "cached_at": "2026-05-25T02:13:32Z",
   "topics": {
     "top": [
       {
@@ -1373,15 +1373,6 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Ebola patients flee DRC facility after arson as cases near 800",
-        "url": "https://www.perplexity.ai/page/ebola-patients-flee-drc-facili-F2ujBPWcR9CGbU9EhJZWlQ",
-        "description": "Eighteen suspected Ebola patients are missing after residents set fire to a treatment tent in Mongbwalu, the outbreak's epicenter in eastern Congo.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-24T16:47:37Z",
-        "sourceCount": "33 sources"
-      },
-      {
         "title": "Russia fires Oreshnik missile in massive assault on Kyiv",
         "url": "https://www.perplexity.ai/page/russia-fires-oreshnik-missile-1pydJMlfTcOmfMF_R7NSjQ",
         "description": "The overnight barrage of 90 missiles and 600 drones killed at least four and wounded over 80, Ukrainian officials said.",
@@ -1391,15 +1382,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran agreed to give up enriched uranium in US deal, officials say",
-        "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
-        "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-24T09:19:46Z",
-        "sourceCount": "51 sources"
-      },
-      {
         "title": "Gunman killed after firing on Secret Service near White House",
         "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
         "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
@@ -1407,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-05-24T03:03:17Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Iran agreed to give up enriched uranium in US deal, officials say",
+        "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
+        "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-24T09:19:46Z",
+        "sourceCount": "51 sources"
       },
       {
         "title": "NATO weighs return to Iraq after wartime evacuation",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-12T13:37:47Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Judge blocks Trump sanctions on UN rapporteur Albanese",
+        "url": "https://www.perplexity.ai/page/judge-blocks-trump-sanctions-o-Hfqp2x_qQeqOUnFQU6T41w",
+        "description": "U.S. District Judge Richard Leon ruled the measures likely violated First Amendment rights by punishing speech critical of Israel's war in Gaza.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-14T00:22:32Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
