@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "DRC Ebola outbreak tops 900 cases as violence hampers response",
+      "url": "https://www.perplexity.ai/page/drc-ebola-outbreak-tops-900-ca-6eZDEndhTgKN.p3gjP4eqw",
+      "description": "The WHO warned the fast-moving epidemic is outpacing containment as attacks on health facilities drive patients into communities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-25T17:58:01Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "AI safety filters on Meta, Google models stripped in minutes, FT finds",
       "url": "https://www.perplexity.ai/page/ai-safety-filters-on-meta-goog-taf1mOk8RPSbdA8yjBVhfw",
       "description": "Freely available software tools can remove guardrails from major AI models, enabling responses on bioweapons, malware, and exploitation.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-05-25T16:15:08Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
-      "url": "https://www.perplexity.ai/page/who-chief-warns-ebola-outpacin-t.BMzOLySViJ9bV3EJF_dg",
-      "description": "Tedros Adhanom Ghebreyesus said Monday he will travel to Congo as the Bundibugyo strain outbreak spreads with no approved vaccine available.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-25T15:42:26Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Iran says US deal 'not imminent' as both sides temper expectations",
@@ -1351,9 +1351,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-05-25T18:07:26Z",
+  "cached_at": "2026-05-25T18:49:38Z",
   "topics": {
     "top": [
+      {
+        "title": "DRC Ebola outbreak tops 900 cases as violence hampers response",
+        "url": "https://www.perplexity.ai/page/drc-ebola-outbreak-tops-900-ca-6eZDEndhTgKN.p3gjP4eqw",
+        "description": "The WHO warned the fast-moving epidemic is outpacing containment as attacks on health facilities drive patients into communities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-25T17:58:01Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "AI safety filters on Meta, Google models stripped in minutes, FT finds",
         "url": "https://www.perplexity.ai/page/ai-safety-filters-on-meta-goog-taf1mOk8RPSbdA8yjBVhfw",
@@ -1380,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-05-25T16:15:08Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
-        "url": "https://www.perplexity.ai/page/who-chief-warns-ebola-outpacin-t.BMzOLySViJ9bV3EJF_dg",
-        "description": "Tedros Adhanom Ghebreyesus said Monday he will travel to Congo as the Bundibugyo strain outbreak spreads with no approved vaccine available.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-25T15:42:26Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Iran says US deal 'not imminent' as both sides temper expectations",
