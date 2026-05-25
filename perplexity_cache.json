@@ -19,6 +19,15 @@
       "sourceCount": "46 sources"
     },
     {
+      "title": "DOJ cites White House shooting to push for ballroom project",
+      "url": "https://www.perplexity.ai/page/doj-cites-white-house-shooting-BqG9pMcxTo2vECYus9S33A",
+      "description": "The Justice Department filed a brief Sunday invoking Saturday's fatal shooting near the White House to argue for lifting the injunction on Trump's $400 million ballroom.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-25T16:15:08Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
       "url": "https://www.perplexity.ai/page/who-chief-warns-ebola-outpacin-t.BMzOLySViJ9bV3EJF_dg",
       "description": "Tedros Adhanom Ghebreyesus said Monday he will travel to Congo as the Bundibugyo strain outbreak spreads with no approved vaccine available.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-05-12T16:08:38Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Starmer tells cabinet he won't quit as rivals circle",
-      "url": "https://www.perplexity.ai/page/starmer-tells-cabinet-he-won-t-DNWCE9SqTWqWr_8kEhJt0w",
-      "description": "The PM challenged Labour critics to formally trigger a leadership contest, as Burnham, Rayner and Streeting jostle to succeed him.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-12T13:58:42Z",
-      "sourceCount": "56 sources"
     }
   ],
-  "cached_at": "2026-05-25T16:49:25Z",
+  "cached_at": "2026-05-25T17:27:03Z",
   "topics": {
     "top": [
       {
@@ -1371,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-05-25T16:19:36Z",
         "sourceCount": "46 sources"
+      },
+      {
+        "title": "DOJ cites White House shooting to push for ballroom project",
+        "url": "https://www.perplexity.ai/page/doj-cites-white-house-shooting-BqG9pMcxTo2vECYus9S33A",
+        "description": "The Justice Department filed a brief Sunday invoking Saturday's fatal shooting near the White House to argue for lifting the injunction on Trump's $400 million ballroom.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-25T16:15:08Z",
+        "sourceCount": "45 sources"
       },
       {
         "title": "WHO chief warns Ebola 'outpacing' response as deaths hit 220",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-12T16:08:38Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Starmer tells cabinet he won't quit as rivals circle",
-        "url": "https://www.perplexity.ai/page/starmer-tells-cabinet-he-won-t-DNWCE9SqTWqWr_8kEhJt0w",
-        "description": "The PM challenged Labour critics to formally trigger a leadership contest, as Burnham, Rayner and Streeting jostle to succeed him.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-12T13:58:42Z",
-        "sourceCount": "56 sources"
       }
     ],
     "tech": [],
