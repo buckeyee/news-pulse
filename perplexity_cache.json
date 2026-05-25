@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran says US deal 'not imminent' as both sides temper expectations",
+      "url": "https://www.perplexity.ai/page/iran-says-us-deal-not-imminent-UBGDb1tmTDWc2d45w.QxnQ",
+      "description": "Negotiations over a memorandum of understanding to end the three-month war continue, but key disputes over nuclear terms and sanctions remain unresolved.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-25T13:34:54Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Crack in overheating California chemical tank offers hope of averting explosion",
       "url": "https://www.perplexity.ai/page/crack-in-overheating-californi-7_PEnmedQf.C9DG0HaHkkQ",
       "description": "Officials called the discovery \"critically positive\" as more than 50,000 residents remain evacuated across six Orange County cities.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-05-24T20:08:17Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Trump tells negotiators not to rush Iran deal",
-      "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
-      "description": "The president said the naval blockade of Iranian ports will stay in full force until a final agreement is signed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-24T18:05:57Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "Russia fires Oreshnik missile in massive assault on Kyiv",
@@ -28,15 +28,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Gunman killed after firing on Secret Service near White House",
-      "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
-      "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-24T03:03:17Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Iran agreed to give up enriched uranium in US deal, officials say",
       "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
       "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
@@ -44,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-05-24T09:19:46Z",
       "sourceCount": "51 sources"
+    },
+    {
+      "title": "Gunman killed after firing on Secret Service near White House",
+      "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
+      "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-24T03:03:17Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "NATO weighs return to Iraq after wartime evacuation",
@@ -1351,9 +1351,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-05-25T12:33:59Z",
+  "cached_at": "2026-05-25T13:45:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran says US deal 'not imminent' as both sides temper expectations",
+        "url": "https://www.perplexity.ai/page/iran-says-us-deal-not-imminent-UBGDb1tmTDWc2d45w.QxnQ",
+        "description": "Negotiations over a memorandum of understanding to end the three-month war continue, but key disputes over nuclear terms and sanctions remain unresolved.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-25T13:34:54Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Crack in overheating California chemical tank offers hope of averting explosion",
         "url": "https://www.perplexity.ai/page/crack-in-overheating-californi-7_PEnmedQf.C9DG0HaHkkQ",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-05-24T20:08:17Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Trump tells negotiators not to rush Iran deal",
-        "url": "https://www.perplexity.ai/page/trump-tells-negotiators-not-to-twnO3Y7BSz2uoCTxcH2YZw",
-        "description": "The president said the naval blockade of Iranian ports will stay in full force until a final agreement is signed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-24T18:05:57Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "Russia fires Oreshnik missile in massive assault on Kyiv",
@@ -1382,15 +1382,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Gunman killed after firing on Secret Service near White House",
-        "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
-        "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-24T03:03:17Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Iran agreed to give up enriched uranium in US deal, officials say",
         "url": "https://www.perplexity.ai/page/iran-agreed-to-give-up-enriche-fFl1YHDTRwK0z4krGrPdfw",
         "description": "US officials told the New York Times that Tehran accepted the demand in principle, but Iran has disputed key terms of the framework.",
@@ -1398,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-05-24T09:19:46Z",
         "sourceCount": "51 sources"
+      },
+      {
+        "title": "Gunman killed after firing on Secret Service near White House",
+        "url": "https://www.perplexity.ai/page/gunman-killed-after-firing-on-Si3N9WyZQZeSQGq0Ny99_g",
+        "description": "The suspect, identified as 21-year-old Nasire Best of Maryland, opened fire at a checkpoint Saturday evening. A bystander was critically wounded.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-24T03:03:17Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "NATO weighs return to Iraq after wartime evacuation",
