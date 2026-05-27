@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "SPLC asks judge to toss DOJ indictment, alleging vindictive prosecution",
+      "url": "https://www.perplexity.ai/page/splc-asks-judge-to-toss-doj-in-rpuBD6adQOytdLKOfrnrxA",
+      "description": "Lawyers argue the 11-count case is the \"culmination of a top-down, retributive campaign\" directed by President Trump against political enemies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-27T01:45:48Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Cuba calls US oil blockade 'an act of war' at UN Security Council",
+      "url": "https://www.perplexity.ai/page/cuba-calls-us-oil-blockade-an-REiZaXUkSei7jaC1b7GkMQ",
+      "description": "Foreign Minister Bruno Rodríguez Parrilla urged the international community to mobilize against what he called an unfolding humanitarian catastrophe.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-27T01:43:17Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "UK and Poland to sign defense treaty targeting Russian threats",
       "url": "https://www.perplexity.ai/page/uk-and-poland-to-sign-defense-mvftcvqHTQq2S7hHkdGBWQ",
       "description": "The agreement, set for Wednesday in London, will strengthen border security, combat organized crime, and jointly develop advanced weapons including air defense missiles.",
@@ -161,15 +179,6 @@
       "topic": "top",
       "pubDate": "2026-05-26T16:06:54Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Texas Democrats scramble to block Galindo in today's runoff",
-      "url": "https://www.perplexity.ai/page/texas-democrats-scramble-to-bl-zeB0Nx3ISVmGdJE4mIDGMA",
-      "description": "Voters decide the TX-35 Democratic primary as party leaders rally against a candidate they accuse of antisemitism, backed by a mysterious GOP-linked PAC.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-26T13:28:37Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Zelensky says US missile defense talks have stalled",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-05-15T10:02:53Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "SC Supreme Court overturns Murdaugh murder convictions",
-      "url": "https://www.perplexity.ai/page/sc-supreme-court-overturns-mur-uunlMumlQdi.Evd4xRE7Jg",
-      "description": "The unanimous ruling cited \"shocking jury interference\" by a court clerk and orders a new trial in the 2021 killings of his wife and son.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-13T17:19:34Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-05-27T02:22:22Z",
+  "cached_at": "2026-05-27T03:44:48Z",
   "topics": {
     "top": [
+      {
+        "title": "SPLC asks judge to toss DOJ indictment, alleging vindictive prosecution",
+        "url": "https://www.perplexity.ai/page/splc-asks-judge-to-toss-doj-in-rpuBD6adQOytdLKOfrnrxA",
+        "description": "Lawyers argue the 11-count case is the \"culmination of a top-down, retributive campaign\" directed by President Trump against political enemies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-27T01:45:48Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Cuba calls US oil blockade 'an act of war' at UN Security Council",
+        "url": "https://www.perplexity.ai/page/cuba-calls-us-oil-blockade-an-REiZaXUkSei7jaC1b7GkMQ",
+        "description": "Foreign Minister Bruno Rodríguez Parrilla urged the international community to mobilize against what he called an unfolding humanitarian catastrophe.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-27T01:43:17Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "UK and Poland to sign defense treaty targeting Russian threats",
         "url": "https://www.perplexity.ai/page/uk-and-poland-to-sign-defense-mvftcvqHTQq2S7hHkdGBWQ",
@@ -1515,15 +1533,6 @@
         "topic": "top",
         "pubDate": "2026-05-26T16:06:54Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Texas Democrats scramble to block Galindo in today's runoff",
-        "url": "https://www.perplexity.ai/page/texas-democrats-scramble-to-bl-zeB0Nx3ISVmGdJE4mIDGMA",
-        "description": "Voters decide the TX-35 Democratic primary as party leaders rally against a candidate they accuse of antisemitism, backed by a mysterious GOP-linked PAC.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-26T13:28:37Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Zelensky says US missile defense talks have stalled",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-15T10:02:53Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "SC Supreme Court overturns Murdaugh murder convictions",
-        "url": "https://www.perplexity.ai/page/sc-supreme-court-overturns-mur-uunlMumlQdi.Evd4xRE7Jg",
-        "description": "The unanimous ruling cited \"shocking jury interference\" by a court clerk and orders a new trial in the 2021 killings of his wife and son.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-13T17:19:34Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
