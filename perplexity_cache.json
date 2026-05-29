@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "SpaceX lowers IPO valuation target to at least $1.8T",
+      "url": "https://www.perplexity.ai/page/spacex-lowers-ipo-valuation-ta-7gGR5be.Ssezx28RxHBUGg",
+      "description": "The rocket maker had previously aimed above $2 trillion but settled lower after consultations with advisers and investors, Bloomberg reported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-29T02:08:37Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Suspected Russian drone strikes building in Romania, injuring two",
+      "url": "https://www.perplexity.ai/page/suspected-russian-drone-strike-SvQ9WSzmS86c65M2CiPMqA",
+      "description": "A Shahed drone crashed into a residential high-rise in the NATO border city of Galati during an overnight Russian attack on Ukraine.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-29T01:43:15Z",
+      "sourceCount": "87 sources"
+    },
+    {
       "title": "Vance says US and Iran 'very close' to ceasefire deal",
       "url": "https://www.perplexity.ai/page/vance-says-us-and-iran-very-cl-bQQ4c8ZRRL.W36mBjCSV0w",
       "description": "A 60-day memorandum of understanding would reopen the Strait of Hormuz and launch nuclear talks, but both leaders have yet to sign.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-05-18T19:59:49Z",
       "sourceCount": "77 sources"
-    },
-    {
-      "title": "Supreme Court preserves mail access for abortion pill mifepristone",
-      "url": "https://www.perplexity.ai/page/supreme-court-preserves-mail-a-NQoIuJY3ROC_e56BTgjD1w",
-      "description": "The justices preserved telehealth and mail access to mifepristone while Louisiana's challenge to FDA dispensing rules proceeds in lower courts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-14T21:56:38Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Patel took 'VIP snorkel' at Pearl Harbor on FBI trip, emails show",
-      "url": "https://www.perplexity.ai/page/patel-took-vip-snorkel-at-pear-Dg_tPSE8S_agyYAeuSQkbQ",
-      "description": "Government emails obtained by the AP reveal the FBI omitted a special snorkeling excursion around the sunken USS Arizona from its public statements.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-14T19:13:45Z",
-      "sourceCount": "118 sources"
     }
   ],
-  "cached_at": "2026-05-29T01:26:26Z",
+  "cached_at": "2026-05-29T02:26:37Z",
   "topics": {
     "top": [
+      {
+        "title": "SpaceX lowers IPO valuation target to at least $1.8T",
+        "url": "https://www.perplexity.ai/page/spacex-lowers-ipo-valuation-ta-7gGR5be.Ssezx28RxHBUGg",
+        "description": "The rocket maker had previously aimed above $2 trillion but settled lower after consultations with advisers and investors, Bloomberg reported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-29T02:08:37Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Suspected Russian drone strikes building in Romania, injuring two",
+        "url": "https://www.perplexity.ai/page/suspected-russian-drone-strike-SvQ9WSzmS86c65M2CiPMqA",
+        "description": "A Shahed drone crashed into a residential high-rise in the NATO border city of Galati during an overnight Russian attack on Ukraine.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-29T01:43:15Z",
+        "sourceCount": "87 sources"
+      },
       {
         "title": "Vance says US and Iran 'very close' to ceasefire deal",
         "url": "https://www.perplexity.ai/page/vance-says-us-and-iran-very-cl-bQQ4c8ZRRL.W36mBjCSV0w",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-18T19:59:49Z",
         "sourceCount": "77 sources"
-      },
-      {
-        "title": "Supreme Court preserves mail access for abortion pill mifepristone",
-        "url": "https://www.perplexity.ai/page/supreme-court-preserves-mail-a-NQoIuJY3ROC_e56BTgjD1w",
-        "description": "The justices preserved telehealth and mail access to mifepristone while Louisiana's challenge to FDA dispensing rules proceeds in lower courts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-14T21:56:38Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Patel took 'VIP snorkel' at Pearl Harbor on FBI trip, emails show",
-        "url": "https://www.perplexity.ai/page/patel-took-vip-snorkel-at-pear-Dg_tPSE8S_agyYAeuSQkbQ",
-        "description": "Government emails obtained by the AP reveal the FBI omitted a special snorkeling excursion around the sunken USS Arizona from its public statements.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-14T19:13:45Z",
-        "sourceCount": "118 sources"
       }
     ],
     "tech": [],
