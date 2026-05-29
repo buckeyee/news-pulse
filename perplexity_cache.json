@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge blocks Trump's name on Kennedy Center, halts closure",
+      "url": "https://www.perplexity.ai/page/judge-blocks-trump-s-name-on-k-HYLzCjRVRK6C_GCIfdkhWg",
+      "description": "U.S. District Judge Christopher Cooper ruled Friday that only Congress can rename the venue and issued a permanent injunction against its two-year shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-29T19:10:41Z",
+      "sourceCount": "53 sources"
+    },
+    {
       "title": "Chevron CEO says ships attacked in Strait of Hormuz this week",
       "url": "https://www.perplexity.ai/page/chevron-ceo-says-ships-attacke-VYLEEFFOR7.yfgVN2r4wdg",
       "description": "Mike Wirth disclosed previously unreported attacks on vessels transiting the strait, even as oil prices tumbled on U.S.-Iran ceasefire hopes.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-05-29T16:33:33Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Trump convenes Situation Room for 'final determination' on Iran deal",
-      "url": "https://www.perplexity.ai/page/trump-convenes-situation-room-fxTeUuCORtyiDpsHBu6pog",
-      "description": "U.S. and Iranian negotiators reached a tentative 60-day ceasefire extension, but both Trump and Tehran have yet to formally approve it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-29T15:49:24Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Bondi acknowledges redaction errors in Epstein files testimony",
@@ -28,6 +28,15 @@
       "sourceCount": "24 sources"
     },
     {
+      "title": "Trump convenes Situation Room for 'final determination' on Iran deal",
+      "url": "https://www.perplexity.ai/page/trump-convenes-situation-room-fxTeUuCORtyiDpsHBu6pog",
+      "description": "U.S. and Iranian negotiators reached a tentative 60-day ceasefire extension, but both Trump and Tehran have yet to formally approve it.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-29T15:49:24Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "China building 80-plus launch pads near nuclear silos",
       "url": "https://www.perplexity.ai/page/china-building-80-plus-launch-JvaavkFoRceBvksjCnRTaw",
       "description": "Reuters satellite imagery reveals a sprawling network of launch stations, bunkers, and communications hubs in Xinjiang designed to bolster Beijing's second-strike capability.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-05-29T10:33:15Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Blue Origin's New Glenn rocket explodes during test at Cape Canaveral",
+      "url": "https://www.perplexity.ai/page/blue-origin-s-new-glenn-rocket-fEqqduCETkWhj0PhpII0sQ",
+      "description": "The blast Thursday evening shook nearby homes but caused no injuries, dealing a fresh blow to Jeff Bezos' rocket program weeks before a planned launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-29T02:51:15Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Judge blocks payouts from Trump's $1.8B anti-weaponization fund",
@@ -53,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-05-29T12:43:30Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Blue Origin's New Glenn rocket explodes during test at Cape Canaveral",
-      "url": "https://www.perplexity.ai/page/blue-origin-s-new-glenn-rocket-fEqqduCETkWhj0PhpII0sQ",
-      "description": "The blast Thursday evening shook nearby homes but caused no injuries, dealing a fresh blow to Jeff Bezos' rocket program weeks before a planned launch.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-29T02:51:15Z",
-      "sourceCount": "32 sources"
     },
     {
       "title": "SpaceX lowers IPO valuation target to at least $1.8T",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-19T10:33:22Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Supreme Court clears way for Texas' 600th execution",
-      "url": "https://www.perplexity.ai/page/supreme-court-clears-way-for-t-a_CA.RYwRLiraPhMbDyOmw",
-      "description": "The court overturned a stay for Edward Busby, whom experts on both sides have deemed intellectually disabled, despite a 2002 ban on such executions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-15T01:23:05Z",
-      "sourceCount": "20 sources"
     }
   ],
-  "cached_at": "2026-05-29T19:13:49Z",
+  "cached_at": "2026-05-29T20:04:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge blocks Trump's name on Kennedy Center, halts closure",
+        "url": "https://www.perplexity.ai/page/judge-blocks-trump-s-name-on-k-HYLzCjRVRK6C_GCIfdkhWg",
+        "description": "U.S. District Judge Christopher Cooper ruled Friday that only Congress can rename the venue and issued a permanent injunction against its two-year shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-29T19:10:41Z",
+        "sourceCount": "53 sources"
+      },
       {
         "title": "Chevron CEO says ships attacked in Strait of Hormuz this week",
         "url": "https://www.perplexity.ai/page/chevron-ceo-says-ships-attacke-VYLEEFFOR7.yfgVN2r4wdg",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-05-29T16:33:33Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Trump convenes Situation Room for 'final determination' on Iran deal",
-        "url": "https://www.perplexity.ai/page/trump-convenes-situation-room-fxTeUuCORtyiDpsHBu6pog",
-        "description": "U.S. and Iranian negotiators reached a tentative 60-day ceasefire extension, but both Trump and Tehran have yet to formally approve it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-29T15:49:24Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Bondi acknowledges redaction errors in Epstein files testimony",
@@ -1382,6 +1382,15 @@
         "sourceCount": "24 sources"
       },
       {
+        "title": "Trump convenes Situation Room for 'final determination' on Iran deal",
+        "url": "https://www.perplexity.ai/page/trump-convenes-situation-room-fxTeUuCORtyiDpsHBu6pog",
+        "description": "U.S. and Iranian negotiators reached a tentative 60-day ceasefire extension, but both Trump and Tehran have yet to formally approve it.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-29T15:49:24Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "China building 80-plus launch pads near nuclear silos",
         "url": "https://www.perplexity.ai/page/china-building-80-plus-launch-JvaavkFoRceBvksjCnRTaw",
         "description": "Reuters satellite imagery reveals a sprawling network of launch stations, bunkers, and communications hubs in Xinjiang designed to bolster Beijing's second-strike capability.",
@@ -1389,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-05-29T10:33:15Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Blue Origin's New Glenn rocket explodes during test at Cape Canaveral",
+        "url": "https://www.perplexity.ai/page/blue-origin-s-new-glenn-rocket-fEqqduCETkWhj0PhpII0sQ",
+        "description": "The blast Thursday evening shook nearby homes but caused no injuries, dealing a fresh blow to Jeff Bezos' rocket program weeks before a planned launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-29T02:51:15Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Judge blocks payouts from Trump's $1.8B anti-weaponization fund",
@@ -1407,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-05-29T12:43:30Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Blue Origin's New Glenn rocket explodes during test at Cape Canaveral",
-        "url": "https://www.perplexity.ai/page/blue-origin-s-new-glenn-rocket-fEqqduCETkWhj0PhpII0sQ",
-        "description": "The blast Thursday evening shook nearby homes but caused no injuries, dealing a fresh blow to Jeff Bezos' rocket program weeks before a planned launch.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-29T02:51:15Z",
-        "sourceCount": "32 sources"
       },
       {
         "title": "SpaceX lowers IPO valuation target to at least $1.8T",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-19T10:33:22Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Supreme Court clears way for Texas' 600th execution",
-        "url": "https://www.perplexity.ai/page/supreme-court-clears-way-for-t-a_CA.RYwRLiraPhMbDyOmw",
-        "description": "The court overturned a stay for Edward Busby, whom experts on both sides have deemed intellectually disabled, despite a 2002 ban on such executions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-15T01:23:05Z",
-        "sourceCount": "20 sources"
       }
     ],
     "tech": [],
