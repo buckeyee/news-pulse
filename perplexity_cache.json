@@ -37,6 +37,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "US denies Iran's claim it destroyed American aircraft in Bushehr",
+      "url": "https://www.perplexity.ai/page/us-denies-iran-s-claim-it-dest-TP.CI9jHQSqh1bA0MVTPfg",
+      "description": "The unverified assertion, broadcast on Iranian state TV, comes as both sides reached a preliminary deal to extend their ceasefire by 60 days.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-28T22:47:20Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Talarico says he raised $3M in a day after Paxton's Texas runoff win",
       "url": "https://www.perplexity.ai/page/talarico-says-he-raised-3m-in-XRAdH_BMRKS0p_YR80sn9Q",
       "description": "The Democratic Senate nominee's record haul highlights party enthusiasm for flipping a Texas seat held by Republicans since 1993.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-05-14T19:13:45Z",
       "sourceCount": "118 sources"
-    },
-    {
-      "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
-      "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
-      "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-16T05:33:25Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-05-29T00:25:31Z",
+  "cached_at": "2026-05-29T01:26:26Z",
   "topics": {
     "top": [
       {
@@ -1389,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-05-28T22:52:13Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "US denies Iran's claim it destroyed American aircraft in Bushehr",
+        "url": "https://www.perplexity.ai/page/us-denies-iran-s-claim-it-dest-TP.CI9jHQSqh1bA0MVTPfg",
+        "description": "The unverified assertion, broadcast on Iranian state TV, comes as both sides reached a preliminary deal to extend their ceasefire by 60 days.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-28T22:47:20Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Talarico says he raised $3M in a day after Paxton's Texas runoff win",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-14T19:13:45Z",
         "sourceCount": "118 sources"
-      },
-      {
-        "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
-        "url": "https://www.perplexity.ai/page/trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
-        "description": "Abu-Bilal al-Minuki was killed in a joint operation in Nigeria, according to Trump, who called it a major blow to the militant group.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-16T05:33:25Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
