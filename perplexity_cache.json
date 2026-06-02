@@ -73,15 +73,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump says talks ongoing despite reports of Iran suspending negotiations",
-      "url": "https://www.perplexity.ai/page/trump-says-talks-ongoing-despi-aqxynjSeSAqByOSxf8BEkA",
-      "description": "Tehran halted indirect diplomacy with Washington over Israel's Lebanon offensive, but Trump claimed on Truth Social that talks proceed \"at a rapid pace.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-01T21:17:32Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Appeals court rules Pentagon transgender troop ban illegal",
       "url": "https://www.perplexity.ai/page/appeals-court-rules-pentagon-t-xF.jQFTTQtSfebMZYKz5GQ",
       "description": "A divided D.C. Circuit panel ruled the Pentagon's transgender military ban illegal but allowed the military to keep barring new enlistees.",
@@ -161,6 +152,15 @@
       "topic": "top",
       "pubDate": "2026-06-01T10:07:34Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "US and Iran exchange strikes as Trump pushes tougher deal terms",
+      "url": "https://www.perplexity.ai/page/us-and-iran-exchange-strikes-a-58od17iIRBuuZL5BwnjnLQ",
+      "description": "Trump said Iran \"really wants to make a deal\" after both sides traded military blows over the weekend, complicating ceasefire talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-01T11:24:05Z",
+      "sourceCount": "53 sources"
     },
     {
       "title": "Nvidia unveils RTX Spark, its first Windows PC chip in over a decade",
@@ -1351,7 +1351,7 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-06-02T07:56:16Z",
+  "cached_at": "2026-06-02T12:32:54Z",
   "topics": {
     "top": [
       {
@@ -1424,15 +1424,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-06-01T21:13:01Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump says talks ongoing despite reports of Iran suspending negotiations",
-        "url": "https://www.perplexity.ai/page/trump-says-talks-ongoing-despi-aqxynjSeSAqByOSxf8BEkA",
-        "description": "Tehran halted indirect diplomacy with Washington over Israel's Lebanon offensive, but Trump claimed on Truth Social that talks proceed \"at a rapid pace.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-01T21:17:32Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1515,6 +1506,15 @@
         "topic": "top",
         "pubDate": "2026-06-01T10:07:34Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "US and Iran exchange strikes as Trump pushes tougher deal terms",
+        "url": "https://www.perplexity.ai/page/us-and-iran-exchange-strikes-a-58od17iIRBuuZL5BwnjnLQ",
+        "description": "Trump said Iran \"really wants to make a deal\" after both sides traded military blows over the weekend, complicating ceasefire talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-01T11:24:05Z",
+        "sourceCount": "53 sources"
       },
       {
         "title": "Nvidia unveils RTX Spark, its first Windows PC chip in over a decade",
