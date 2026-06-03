@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Germany, France, UK sketch plan to engage Putin on Ukraine",
+      "url": "https://www.perplexity.ai/page/germany-france-uk-sketch-plan-5xPfQWsNTUK3typTpU_4cg",
+      "description": "The three European allies see a shift in momentum favoring Kyiv as U.S.-mediated talks remain stalled since February.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-03T20:33:40Z",
+      "sourceCount": "59 sources"
+    },
+    {
       "title": "Proactiv, Dr. Pimple Popper acne creams had benzene 15 times FDA limit",
       "url": "https://www.perplexity.ai/page/proactiv-dr-pimple-popper-acne-AVJ3ZenKQmKpAOdWi_FJmw",
       "description": "Bloomberg reported that government lab results showed recalled acne products from Proactiv and SLMD contained benzene levels far exceeding federal safety limits.",
@@ -98,6 +107,15 @@
       "topic": "top",
       "pubDate": "2026-06-03T02:54:33Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "Trump calls Vance-Rubio 2028 ticket 'unbeatable'",
+      "url": "https://www.perplexity.ai/page/trump-calls-vance-rubio-2028-t-3Is_wM8GR7iP.ijZGAS_qw",
+      "description": "The president's podcast remarks are his most direct praise yet of the pairing, though he still stopped short of a formal endorsement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-03T13:26:21Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Bolivia's defense minister resigns amid weeks of mass protests",
@@ -352,15 +370,6 @@
       "sourceCount": "49 sources"
     },
     {
-      "title": "Trump berated Netanyahu in expletive-laden call over Lebanon escalation, Axios reports",
-      "url": "https://www.perplexity.ai/page/trump-berated-netanyahu-in-exp-a5TwR44zRcKRoGSDkMHMaQ",
-      "description": "The president called Netanyahu \"crazy\" and halted a planned Beirut strike, according to U.S. officials, as Israel's actions threatened to derail Iran talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-02T10:34:37Z",
-      "sourceCount": "22 sources"
-    },
-    {
       "title": "State Dept. to cut Africa visa-processing sites from 50 to 20 hubs",
       "url": "https://www.perplexity.ai/page/state-dept-to-cut-africa-visa-Dk8wOO0YSnWRh2dzf1FeCQ",
       "description": "Secretary of State Rubio approved a directive consolidating consular operations across Africa, forcing applicants in non-hub countries to travel abroad for visas.",
@@ -368,24 +377,6 @@
       "topic": "top",
       "pubDate": "2026-06-01T22:34:13Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Pentagon bars journalists from press office, declaring it classified space",
-      "url": "https://www.perplexity.ai/page/pentagon-bars-journalists-from-7PppqUN1Qk24mnryhw1WdA",
-      "description": "The designation marks the latest escalation in a yearlong campaign to restrict media access to the Defense Department.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-01T23:26:33Z",
-      "sourceCount": "61 sources"
-    },
-    {
-      "title": "Trump signs scaled-back AI executive order with 30-day model review",
-      "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
-      "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-02T16:19:45Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Frederiksen secures third term as Denmark's PM with new centre-left coalition",
@@ -397,13 +388,31 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Appeals court rules Pentagon transgender troop ban illegal",
-      "url": "https://www.perplexity.ai/page/appeals-court-rules-pentagon-t-xF.jQFTTQtSfebMZYKz5GQ",
-      "description": "A divided D.C. Circuit panel ruled the Pentagon's transgender military ban illegal but allowed the military to keep barring new enlistees.",
+      "title": "Trump signs scaled-back AI executive order with 30-day model review",
+      "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
+      "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-01T20:05:48Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-06-02T16:19:45Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Pentagon bars journalists from press office, declaring it classified space",
+      "url": "https://www.perplexity.ai/page/pentagon-bars-journalists-from-7PppqUN1Qk24mnryhw1WdA",
+      "description": "The designation marks the latest escalation in a yearlong campaign to restrict media access to the Defense Department.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-01T23:26:33Z",
+      "sourceCount": "61 sources"
+    },
+    {
+      "title": "EU climate chief says COP summits falling short of science",
+      "url": "https://www.perplexity.ai/page/eu-climate-chief-says-cop-summ-1QUkZBJhQoK2XY41IX0Wtg",
+      "description": "Wopke Hoekstra's remarks come a week before the Bonn SB64 conference, seen as a key test of multilateral climate commitments.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-01T19:33:47Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Trump names housing chief Pulte as acting DNI",
@@ -415,13 +424,13 @@
       "sourceCount": "71 sources"
     },
     {
-      "title": "EU climate chief says COP summits falling short of science",
-      "url": "https://www.perplexity.ai/page/eu-climate-chief-says-cop-summ-1QUkZBJhQoK2XY41IX0Wtg",
-      "description": "Wopke Hoekstra's remarks come a week before the Bonn SB64 conference, seen as a key test of multilateral climate commitments.",
+      "title": "Appeals court rules Pentagon transgender troop ban illegal",
+      "url": "https://www.perplexity.ai/page/appeals-court-rules-pentagon-t-xF.jQFTTQtSfebMZYKz5GQ",
+      "description": "A divided D.C. Circuit panel ruled the Pentagon's transgender military ban illegal but allowed the military to keep barring new enlistees.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-01T19:33:47Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-06-01T20:05:48Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Iran cuts off U.S. talks, vows to fully block Hormuz",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-05-21T12:22:38Z",
       "sourceCount": "51 sources"
-    },
-    {
-      "title": "Palestinian envoy drops UN vice presidency bid after US threats",
-      "url": "https://www.perplexity.ai/page/palestinian-envoy-drops-un-vic-aU3tzkraTceSgZpNMRxAAw",
-      "description": "The Trump administration warned it could revoke the Palestinian delegation's US visas if Ambassador Riyad Mansour did not withdraw.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-22T01:48:40Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-06-03T20:20:08Z",
+  "cached_at": "2026-06-03T21:31:04Z",
   "topics": {
     "top": [
+      {
+        "title": "Germany, France, UK sketch plan to engage Putin on Ukraine",
+        "url": "https://www.perplexity.ai/page/germany-france-uk-sketch-plan-5xPfQWsNTUK3typTpU_4cg",
+        "description": "The three European allies see a shift in momentum favoring Kyiv as U.S.-mediated talks remain stalled since February.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-03T20:33:40Z",
+        "sourceCount": "59 sources"
+      },
       {
         "title": "Proactiv, Dr. Pimple Popper acne creams had benzene 15 times FDA limit",
         "url": "https://www.perplexity.ai/page/proactiv-dr-pimple-popper-acne-AVJ3ZenKQmKpAOdWi_FJmw",
@@ -1452,6 +1461,15 @@
         "topic": "top",
         "pubDate": "2026-06-03T02:54:33Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "Trump calls Vance-Rubio 2028 ticket 'unbeatable'",
+        "url": "https://www.perplexity.ai/page/trump-calls-vance-rubio-2028-t-3Is_wM8GR7iP.ijZGAS_qw",
+        "description": "The president's podcast remarks are his most direct praise yet of the pairing, though he still stopped short of a formal endorsement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-03T13:26:21Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Bolivia's defense minister resigns amid weeks of mass protests",
@@ -1706,15 +1724,6 @@
         "sourceCount": "49 sources"
       },
       {
-        "title": "Trump berated Netanyahu in expletive-laden call over Lebanon escalation, Axios reports",
-        "url": "https://www.perplexity.ai/page/trump-berated-netanyahu-in-exp-a5TwR44zRcKRoGSDkMHMaQ",
-        "description": "The president called Netanyahu \"crazy\" and halted a planned Beirut strike, according to U.S. officials, as Israel's actions threatened to derail Iran talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-02T10:34:37Z",
-        "sourceCount": "22 sources"
-      },
-      {
         "title": "State Dept. to cut Africa visa-processing sites from 50 to 20 hubs",
         "url": "https://www.perplexity.ai/page/state-dept-to-cut-africa-visa-Dk8wOO0YSnWRh2dzf1FeCQ",
         "description": "Secretary of State Rubio approved a directive consolidating consular operations across Africa, forcing applicants in non-hub countries to travel abroad for visas.",
@@ -1722,24 +1731,6 @@
         "topic": "top",
         "pubDate": "2026-06-01T22:34:13Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Pentagon bars journalists from press office, declaring it classified space",
-        "url": "https://www.perplexity.ai/page/pentagon-bars-journalists-from-7PppqUN1Qk24mnryhw1WdA",
-        "description": "The designation marks the latest escalation in a yearlong campaign to restrict media access to the Defense Department.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-01T23:26:33Z",
-        "sourceCount": "61 sources"
-      },
-      {
-        "title": "Trump signs scaled-back AI executive order with 30-day model review",
-        "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
-        "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-02T16:19:45Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Frederiksen secures third term as Denmark's PM with new centre-left coalition",
@@ -1751,13 +1742,31 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Appeals court rules Pentagon transgender troop ban illegal",
-        "url": "https://www.perplexity.ai/page/appeals-court-rules-pentagon-t-xF.jQFTTQtSfebMZYKz5GQ",
-        "description": "A divided D.C. Circuit panel ruled the Pentagon's transgender military ban illegal but allowed the military to keep barring new enlistees.",
+        "title": "Trump signs scaled-back AI executive order with 30-day model review",
+        "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
+        "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-01T20:05:48Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-06-02T16:19:45Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Pentagon bars journalists from press office, declaring it classified space",
+        "url": "https://www.perplexity.ai/page/pentagon-bars-journalists-from-7PppqUN1Qk24mnryhw1WdA",
+        "description": "The designation marks the latest escalation in a yearlong campaign to restrict media access to the Defense Department.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-01T23:26:33Z",
+        "sourceCount": "61 sources"
+      },
+      {
+        "title": "EU climate chief says COP summits falling short of science",
+        "url": "https://www.perplexity.ai/page/eu-climate-chief-says-cop-summ-1QUkZBJhQoK2XY41IX0Wtg",
+        "description": "Wopke Hoekstra's remarks come a week before the Bonn SB64 conference, seen as a key test of multilateral climate commitments.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-01T19:33:47Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Trump names housing chief Pulte as acting DNI",
@@ -1769,13 +1778,13 @@
         "sourceCount": "71 sources"
       },
       {
-        "title": "EU climate chief says COP summits falling short of science",
-        "url": "https://www.perplexity.ai/page/eu-climate-chief-says-cop-summ-1QUkZBJhQoK2XY41IX0Wtg",
-        "description": "Wopke Hoekstra's remarks come a week before the Bonn SB64 conference, seen as a key test of multilateral climate commitments.",
+        "title": "Appeals court rules Pentagon transgender troop ban illegal",
+        "url": "https://www.perplexity.ai/page/appeals-court-rules-pentagon-t-xF.jQFTTQtSfebMZYKz5GQ",
+        "description": "A divided D.C. Circuit panel ruled the Pentagon's transgender military ban illegal but allowed the military to keep barring new enlistees.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-01T19:33:47Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-06-01T20:05:48Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Iran cuts off U.S. talks, vows to fully block Hormuz",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-21T12:22:38Z",
         "sourceCount": "51 sources"
-      },
-      {
-        "title": "Palestinian envoy drops UN vice presidency bid after US threats",
-        "url": "https://www.perplexity.ai/page/palestinian-envoy-drops-un-vic-aU3tzkraTceSgZpNMRxAAw",
-        "description": "The Trump administration warned it could revoke the Palestinian delegation's US visas if Ambassador Riyad Mansour did not withdraw.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-22T01:48:40Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
