@@ -388,13 +388,13 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Trump audit immunity remains unchallenged after anti-weaponization fund pause",
-      "url": "https://www.perplexity.ai/page/trump-audit-immunity-remains-u-.C.nVW7BQYCsdrcNty79mw",
-      "description": "The audit shield blocking IRS probes of Trump's past tax filings faces no direct legal challenge, even as a linked $1.8 billion fund is frozen.",
+      "title": "Trump signs scaled-back AI executive order with 30-day model review",
+      "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
+      "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-02T16:27:15Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-06-02T16:19:45Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Takaichi urges Iran to restore free passage through Hormuz",
@@ -440,15 +440,6 @@
       "topic": "top",
       "pubDate": "2026-06-01T22:34:13Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump signs scaled-back AI executive order with 30-day model review",
-      "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
-      "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-02T16:19:45Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Pentagon bars journalists from press office, declaring it classified space",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-05-21T22:53:16Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Rubio says diplomatic solution with Cuba unlikely after Castro indictment",
+      "url": "https://www.perplexity.ai/page/rubio-says-diplomatic-solution-NNx41YaLQHCX.86s5qpJsQ",
+      "description": "The secretary of state cited Russian and Chinese intelligence presence in Cuba as a national security threat, leaving military action on the table.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-05-21T22:33:48Z",
+      "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-06-04T11:20:19Z",
+  "cached_at": "2026-06-04T12:26:43Z",
   "topics": {
     "top": [
       {
@@ -1742,13 +1742,13 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Trump audit immunity remains unchallenged after anti-weaponization fund pause",
-        "url": "https://www.perplexity.ai/page/trump-audit-immunity-remains-u-.C.nVW7BQYCsdrcNty79mw",
-        "description": "The audit shield blocking IRS probes of Trump's past tax filings faces no direct legal challenge, even as a linked $1.8 billion fund is frozen.",
+        "title": "Trump signs scaled-back AI executive order with 30-day model review",
+        "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
+        "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-02T16:27:15Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-06-02T16:19:45Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Takaichi urges Iran to restore free passage through Hormuz",
@@ -1794,15 +1794,6 @@
         "topic": "top",
         "pubDate": "2026-06-01T22:34:13Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump signs scaled-back AI executive order with 30-day model review",
-        "url": "https://www.perplexity.ai/page/trump-signs-scaled-back-ai-exe-1KqHPE7xRe25WV5LV3THDQ",
-        "description": "The executive order asks AI companies to voluntarily submit powerful models to federal review before release, down from an earlier 90-day proposal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-02T16:19:45Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Pentagon bars journalists from press office, declaring it classified space",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-05-21T22:53:16Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Rubio says diplomatic solution with Cuba unlikely after Castro indictment",
+        "url": "https://www.perplexity.ai/page/rubio-says-diplomatic-solution-NNx41YaLQHCX.86s5qpJsQ",
+        "description": "The secretary of state cited Russian and Chinese intelligence presence in Cuba as a national security threat, leaving military action on the table.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-05-21T22:33:48Z",
+        "sourceCount": "40 sources"
       }
     ],
     "tech": [],
