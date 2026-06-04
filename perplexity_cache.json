@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hezbollah rejects U.S.-brokered ceasefire as strikes kill 4 in Lebanon",
+      "url": "https://www.perplexity.ai/page/hezbollah-rejects-u-s-brokered-6YJzloZ.Rwe7ERi3R8XFwA",
+      "description": "The group called the deal \"absurd\" and demanded a full Israeli withdrawal, one day after Israel and Lebanon's government agreed to a new framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-04T18:20:05Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "US formally cuts back fighter jets, bombers, ships from NATO force",
       "url": "https://www.perplexity.ai/page/us-formally-cuts-back-fighter-AbWVee31QKisaiceVArKDA",
       "description": "European allies are seeking clarification after Washington officially reduced its military commitments to NATO's rapid response force.",
@@ -44,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-06-04T14:36:43Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Hezbollah rejects US-brokered Israel-Lebanon ceasefire deal",
-      "url": "https://www.perplexity.ai/page/hezbollah-rejects-us-brokered-VAcmUzGbROmpUCPwrU4e5A",
-      "description": "Secretary-General Naim Qassem called the agreement a \"surrender,\" demanding a full Israeli withdrawal from southern Lebanon before any halt to fighting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-04T13:33:42Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Trump won't resume all-out Iran war unless troops killed, WSJ reports",
@@ -1351,9 +1351,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-06-04T18:04:05Z",
+  "cached_at": "2026-06-04T19:01:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Hezbollah rejects U.S.-brokered ceasefire as strikes kill 4 in Lebanon",
+        "url": "https://www.perplexity.ai/page/hezbollah-rejects-u-s-brokered-6YJzloZ.Rwe7ERi3R8XFwA",
+        "description": "The group called the deal \"absurd\" and demanded a full Israeli withdrawal, one day after Israel and Lebanon's government agreed to a new framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-04T18:20:05Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "US formally cuts back fighter jets, bombers, ships from NATO force",
         "url": "https://www.perplexity.ai/page/us-formally-cuts-back-fighter-AbWVee31QKisaiceVArKDA",
@@ -1398,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-06-04T14:36:43Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Hezbollah rejects US-brokered Israel-Lebanon ceasefire deal",
-        "url": "https://www.perplexity.ai/page/hezbollah-rejects-us-brokered-VAcmUzGbROmpUCPwrU4e5A",
-        "description": "Secretary-General Naim Qassem called the agreement a \"surrender,\" demanding a full Israeli withdrawal from southern Lebanon before any halt to fighting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-04T13:33:42Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Trump won't resume all-out Iran war unless troops killed, WSJ reports",
