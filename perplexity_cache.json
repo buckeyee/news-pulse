@@ -10,6 +10,24 @@
       "sourceCount": "24 sources"
     },
     {
+      "title": "Senate passes $70B immigration enforcement bill",
+      "url": "https://www.perplexity.ai/page/senate-passes-70b-immigration-vOEC.XNPS_6.BGfBk49Kcw",
+      "description": "The legislation funds ICE and Border Patrol through fiscal 2029 after a marathon vote-a-rama. The House could vote as soon as Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-05T09:05:15Z",
+      "sourceCount": "56 sources"
+    },
+    {
+      "title": "Iran touts $25B nuclear deal with Russia as US talks stall",
+      "url": "https://www.perplexity.ai/page/iran-touts-25b-nuclear-deal-wi-RbNMbAlZSHm_7.PBpamDwA",
+      "description": "Iran's ambassador revealed the scope of the Hormoz Nuclear Power Plant project as Tehran declared no progress in peace negotiations with Washington.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-05T08:49:28Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "US officials discuss taking equity stakes in AI firms",
       "url": "https://www.perplexity.ai/page/us-officials-discuss-taking-eq-30IH0d9ySTGFeNzQDup5LA",
       "description": "OpenAI CEO Sam Altman pitched the idea to Trump in 2025 and recently revisited it with senior officials, according to NOTUS.",
@@ -1331,27 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-05-23T11:06:03Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
-      "url": "https://www.perplexity.ai/page/judge-tosses-abrego-garcia-smu-DPtn6TQERnKBeGZOAcDJVw",
-      "description": "The ruling ends the criminal case against the Maryland man whose wrongful deportation to El Salvador's CECOT prison reached the Supreme Court.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-22T20:47:30Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "US consumer sentiment hits all-time low in final May reading",
-      "url": "https://www.perplexity.ai/page/us-consumer-sentiment-hits-all-TEI_16TcTlyHfdRdEnl1mQ",
-      "description": "The University of Michigan index fell to 44.8, far below the preliminary 48.2 estimate, as rising gas prices and inflation fears weighed on households.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-05-22T16:12:23Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-06-05T13:19:39Z",
+  "cached_at": "2026-06-05T14:13:26Z",
   "topics": {
     "top": [
       {
@@ -1362,6 +1362,24 @@
         "topic": "top",
         "pubDate": "2026-06-05T12:47:44Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Senate passes $70B immigration enforcement bill",
+        "url": "https://www.perplexity.ai/page/senate-passes-70b-immigration-vOEC.XNPS_6.BGfBk49Kcw",
+        "description": "The legislation funds ICE and Border Patrol through fiscal 2029 after a marathon vote-a-rama. The House could vote as soon as Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-05T09:05:15Z",
+        "sourceCount": "56 sources"
+      },
+      {
+        "title": "Iran touts $25B nuclear deal with Russia as US talks stall",
+        "url": "https://www.perplexity.ai/page/iran-touts-25b-nuclear-deal-wi-RbNMbAlZSHm_7.PBpamDwA",
+        "description": "Iran's ambassador revealed the scope of the Hormoz Nuclear Power Plant project as Tehran declared no progress in peace negotiations with Washington.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-05T08:49:28Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "US officials discuss taking equity stakes in AI firms",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-05-23T11:06:03Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Judge tosses Abrego Garcia smuggling charges as vindictive",
-        "url": "https://www.perplexity.ai/page/judge-tosses-abrego-garcia-smu-DPtn6TQERnKBeGZOAcDJVw",
-        "description": "The ruling ends the criminal case against the Maryland man whose wrongful deportation to El Salvador's CECOT prison reached the Supreme Court.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-22T20:47:30Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "US consumer sentiment hits all-time low in final May reading",
-        "url": "https://www.perplexity.ai/page/us-consumer-sentiment-hits-all-TEI_16TcTlyHfdRdEnl1mQ",
-        "description": "The University of Michigan index fell to 44.8, far below the preliminary 48.2 estimate, as rising gas prices and inflation fears weighed on households.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-05-22T16:12:23Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
