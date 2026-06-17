@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Leak reveals members of Thiel's secretive Dialog society",
+      "url": "https://www.perplexity.ai/page/leak-reveals-members-of-thiel-FM271tifS12z2dA85rOzmQ",
+      "description": "Internal records exposed online identify over 200 powerful figures in politics, tech, and finance tied to the invite-only network.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-16T23:10:45Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Brazil's top court convicts Eduardo Bolsonaro for coercion",
+      "url": "https://www.perplexity.ai/page/brazil-s-top-court-convicts-ed-2ogwhGPzRAO6aBsrvnBkoA",
+      "description": "The former lawmaker was sentenced to over four years in prison for lobbying the U.S. to intervene in his father's coup trial.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-16T22:45:00Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Draft US-Iran deal offers oil access, $300B fund",
       "url": "https://www.perplexity.ai/page/draft-us-iran-deal-offers-oil-M59oahwYSxyZ6n2O_vp.YQ",
       "description": "Bloomberg reported the near-final memorandum includes immediate oil export waivers, a $300 billion development fund, and eventual release of frozen assets.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-03T13:49:51Z",
       "sourceCount": "32 sources"
-    },
-    {
-      "title": "Rubio says Netanyahu's plan to seize 70% of Gaza contradicts US vision",
-      "url": "https://www.perplexity.ai/page/rubio-says-netanyahu-s-plan-to-Sp0ZzmwtShKIYDKeotSFEA",
-      "description": "Secretary of State Marco Rubio told lawmakers Tuesday that Israel's expansion directive is not part of Washington's plan for the territory.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-03T00:23:18Z",
-      "sourceCount": "34 sources"
-    },
-    {
-      "title": "UNICEF says Iran war delaying lifesaving aid for children",
-      "url": "https://www.perplexity.ai/page/unicef-says-iran-war-delaying-rAg1sltgSnCH5sEfKScfCA",
-      "description": "The agency warned Tuesday that surging transport costs and Gulf shipping disruptions are forcing it to rely on costly air freight to reach children.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-02T22:54:31Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-06-16T22:30:19Z",
+  "cached_at": "2026-06-17T00:19:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Leak reveals members of Thiel's secretive Dialog society",
+        "url": "https://www.perplexity.ai/page/leak-reveals-members-of-thiel-FM271tifS12z2dA85rOzmQ",
+        "description": "Internal records exposed online identify over 200 powerful figures in politics, tech, and finance tied to the invite-only network.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-16T23:10:45Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Brazil's top court convicts Eduardo Bolsonaro for coercion",
+        "url": "https://www.perplexity.ai/page/brazil-s-top-court-convicts-ed-2ogwhGPzRAO6aBsrvnBkoA",
+        "description": "The former lawmaker was sentenced to over four years in prison for lobbying the U.S. to intervene in his father's coup trial.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-16T22:45:00Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Draft US-Iran deal offers oil access, $300B fund",
         "url": "https://www.perplexity.ai/page/draft-us-iran-deal-offers-oil-M59oahwYSxyZ6n2O_vp.YQ",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-03T13:49:51Z",
         "sourceCount": "32 sources"
-      },
-      {
-        "title": "Rubio says Netanyahu's plan to seize 70% of Gaza contradicts US vision",
-        "url": "https://www.perplexity.ai/page/rubio-says-netanyahu-s-plan-to-Sp0ZzmwtShKIYDKeotSFEA",
-        "description": "Secretary of State Marco Rubio told lawmakers Tuesday that Israel's expansion directive is not part of Washington's plan for the territory.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-03T00:23:18Z",
-        "sourceCount": "34 sources"
-      },
-      {
-        "title": "UNICEF says Iran war delaying lifesaving aid for children",
-        "url": "https://www.perplexity.ai/page/unicef-says-iran-war-delaying-rAg1sltgSnCH5sEfKScfCA",
-        "description": "The agency warned Tuesday that surging transport costs and Gulf shipping disruptions are forcing it to rely on costly air freight to reach children.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-02T22:54:31Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
