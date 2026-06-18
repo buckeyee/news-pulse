@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Trump and Iran's Pezeshkian sign MOU ahead of Friday ceremony",
-      "url": "https://www.perplexity.ai/page/trump-and-iran-s-pezeshkian-si-iQE7RTUKRo.m43ZeTqXuHg",
-      "description": "The 14-point deal ends hostilities, lifts the U.S. naval blockade, and launches 60 days of nuclear talks, but Trump warns it is \"not definitive.\"",
+      "title": "US officials reveal Iran deal text after days of secrecy",
+      "url": "https://www.perplexity.ai/page/us-officials-reveal-iran-deal-Ka5qvbvgSye1raMcww5t6w",
+      "description": "Senior officials dictated the MOU's contents to journalists Wednesday, including uranium downblending terms and Lebanon territorial integrity provisions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-17T23:01:42Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-06-17T19:45:02Z",
+      "sourceCount": "52 sources"
     },
     {
       "title": "Georgia GOP scraps redistricting plans ahead of special session",
@@ -26,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-06-17T19:21:16Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "US officials reveal Iran deal text after days of secrecy",
-      "url": "https://www.perplexity.ai/page/us-officials-reveal-iran-deal-Ka5qvbvgSye1raMcww5t6w",
-      "description": "Senior officials dictated the MOU's contents to journalists Wednesday, including uranium downblending terms and Lebanon territorial integrity provisions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-17T19:45:02Z",
-      "sourceCount": "52 sources"
     },
     {
       "title": "Fed holds rates steady in Warsh's first meeting as chair",
@@ -1349,19 +1340,28 @@
       "topic": "top",
       "pubDate": "2026-06-03T00:23:18Z",
       "sourceCount": "34 sources"
+    },
+    {
+      "title": "Iowa farmer Lahn defeats Trump-backed Feenstra in GOP governor primary",
+      "url": "https://www.perplexity.ai/page/iowa-farmer-lahn-defeats-trump-6k4srxLkTXOiNAywv.1WEA",
+      "description": "Zach Lahn, aligned with RFK Jr.'s MAHA movement, edged Rep. Randy Feenstra by less than a point in Tuesday's five-candidate race.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-03T13:49:51Z",
+      "sourceCount": "32 sources"
     }
   ],
-  "cached_at": "2026-06-18T01:34:05Z",
+  "cached_at": "2026-06-18T02:34:21Z",
   "topics": {
     "top": [
       {
-        "title": "Trump and Iran's Pezeshkian sign MOU ahead of Friday ceremony",
-        "url": "https://www.perplexity.ai/page/trump-and-iran-s-pezeshkian-si-iQE7RTUKRo.m43ZeTqXuHg",
-        "description": "The 14-point deal ends hostilities, lifts the U.S. naval blockade, and launches 60 days of nuclear talks, but Trump warns it is \"not definitive.\"",
+        "title": "US officials reveal Iran deal text after days of secrecy",
+        "url": "https://www.perplexity.ai/page/us-officials-reveal-iran-deal-Ka5qvbvgSye1raMcww5t6w",
+        "description": "Senior officials dictated the MOU's contents to journalists Wednesday, including uranium downblending terms and Lebanon territorial integrity provisions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-17T23:01:42Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-06-17T19:45:02Z",
+        "sourceCount": "52 sources"
       },
       {
         "title": "Georgia GOP scraps redistricting plans ahead of special session",
@@ -1380,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-06-17T19:21:16Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "US officials reveal Iran deal text after days of secrecy",
-        "url": "https://www.perplexity.ai/page/us-officials-reveal-iran-deal-Ka5qvbvgSye1raMcww5t6w",
-        "description": "Senior officials dictated the MOU's contents to journalists Wednesday, including uranium downblending terms and Lebanon territorial integrity provisions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-17T19:45:02Z",
-        "sourceCount": "52 sources"
       },
       {
         "title": "Fed holds rates steady in Warsh's first meeting as chair",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-06-03T00:23:18Z",
         "sourceCount": "34 sources"
+      },
+      {
+        "title": "Iowa farmer Lahn defeats Trump-backed Feenstra in GOP governor primary",
+        "url": "https://www.perplexity.ai/page/iowa-farmer-lahn-defeats-trump-6k4srxLkTXOiNAywv.1WEA",
+        "description": "Zach Lahn, aligned with RFK Jr.'s MAHA movement, edged Rep. Randy Feenstra by less than a point in Tuesday's five-candidate race.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-03T13:49:51Z",
+        "sourceCount": "32 sources"
       }
     ],
     "tech": [],
