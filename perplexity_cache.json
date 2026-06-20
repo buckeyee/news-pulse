@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
-      "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
-      "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
+      "title": "Hormuz tanker traffic halts after US-Iran Swiss talks canceled",
+      "url": "https://www.perplexity.ai/page/hormuz-tanker-traffic-halts-af-pKLzkVCQT72aa9hI5SmzlQ",
+      "description": "A day after 25 ships crossed the strait in the highest traffic since April, no outbound tankers were seen Friday as diplomacy faltered.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-19T23:13:36Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-06-20T02:18:44Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "USMNT beats Australia 2-0, clinches World Cup knockout berth",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-06-19T20:03:27Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
+      "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
+      "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-19T23:13:36Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Trump unveils Qatar-gifted jet as new Air Force One",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-06-05T13:18:07Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "John Bolton to plead guilty in classified documents case",
-      "url": "https://www.perplexity.ai/page/john-bolton-to-plead-guilty-in-n._vYSItSP2.XLhA_CAY5w",
-      "description": "The former national security adviser agreed to a single charge and a $2.25 million fine, potentially avoiding prison on the original 18-count indictment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-04T16:07:35Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-06-20T02:12:10Z",
+  "cached_at": "2026-06-20T05:00:30Z",
   "topics": {
     "top": [
       {
-        "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
-        "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
-        "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
+        "title": "Hormuz tanker traffic halts after US-Iran Swiss talks canceled",
+        "url": "https://www.perplexity.ai/page/hormuz-tanker-traffic-halts-af-pKLzkVCQT72aa9hI5SmzlQ",
+        "description": "A day after 25 ships crossed the strait in the highest traffic since April, no outbound tankers were seen Friday as diplomacy faltered.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-19T23:13:36Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-06-20T02:18:44Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "USMNT beats Australia 2-0, clinches World Cup knockout berth",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-06-19T20:03:27Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
+        "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
+        "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-19T23:13:36Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Trump unveils Qatar-gifted jet as new Air Force One",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-05T13:18:07Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "John Bolton to plead guilty in classified documents case",
-        "url": "https://www.perplexity.ai/page/john-bolton-to-plead-guilty-in-n._vYSItSP2.XLhA_CAY5w",
-        "description": "The former national security adviser agreed to a single charge and a $2.25 million fine, potentially avoiding prison on the original 18-count indictment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-04T16:07:35Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
