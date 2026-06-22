@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Starmer resigns as UK prime minister after two years",
+      "url": "https://www.perplexity.ai/page/starmer-resigns-as-uk-prime-mi-43C6u8sPRG6lyEB2sJuo1Q",
+      "description": "Andy Burnham, who won a special election last week, is the frontrunner to succeed him as Labour leader and PM.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-22T13:15:57Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Alan Greenspan, Fed chairman for 19 years, dies at 100",
+      "url": "https://www.perplexity.ai/page/alan-greenspan-fed-chairman-fo-_hFXn3LvT6upVAPG3UgNbQ",
+      "description": "His wife, Andrea Mitchell, said he died Monday morning from complications of Parkinson's disease at their home.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-22T11:37:16Z",
+      "sourceCount": "18 sources"
+    },
+    {
       "title": "Trump blames vandals for Reflecting Pool woes, plans new drainage",
       "url": "https://www.perplexity.ai/page/trump-blames-vandals-for-refle-yFlNaaRRREyyQDxW21gbwg",
       "description": "The president claimed arrests were made over alleged damage, but offered no evidence linking vandalism to the pool's peeling paint and algae.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-03T22:34:04Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Senate GOP blocks bid to bar Trump's IRS audit immunity fund",
-      "url": "https://www.perplexity.ai/page/senate-gop-blocks-bid-to-bar-t-eiHOno8fR6SEDSA0Vi8oZA",
-      "description": "Democrats failed to kill the $1.8 billion \"Anti-Weaponization Fund\" in a 49-50 vote, as the status of Trump's audit immunity remains unresolved.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-05T13:18:07Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "John Bolton to plead guilty in classified documents case",
-      "url": "https://www.perplexity.ai/page/john-bolton-to-plead-guilty-in-n._vYSItSP2.XLhA_CAY5w",
-      "description": "The former national security adviser agreed to a single charge and a $2.25 million fine, potentially avoiding prison on the original 18-count indictment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-04T16:07:35Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-06-22T11:41:09Z",
+  "cached_at": "2026-06-22T13:41:23Z",
   "topics": {
     "top": [
+      {
+        "title": "Starmer resigns as UK prime minister after two years",
+        "url": "https://www.perplexity.ai/page/starmer-resigns-as-uk-prime-mi-43C6u8sPRG6lyEB2sJuo1Q",
+        "description": "Andy Burnham, who won a special election last week, is the frontrunner to succeed him as Labour leader and PM.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-22T13:15:57Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Alan Greenspan, Fed chairman for 19 years, dies at 100",
+        "url": "https://www.perplexity.ai/page/alan-greenspan-fed-chairman-fo-_hFXn3LvT6upVAPG3UgNbQ",
+        "description": "His wife, Andrea Mitchell, said he died Monday morning from complications of Parkinson's disease at their home.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-22T11:37:16Z",
+        "sourceCount": "18 sources"
+      },
       {
         "title": "Trump blames vandals for Reflecting Pool woes, plans new drainage",
         "url": "https://www.perplexity.ai/page/trump-blames-vandals-for-refle-yFlNaaRRREyyQDxW21gbwg",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-03T22:34:04Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Senate GOP blocks bid to bar Trump's IRS audit immunity fund",
-        "url": "https://www.perplexity.ai/page/senate-gop-blocks-bid-to-bar-t-eiHOno8fR6SEDSA0Vi8oZA",
-        "description": "Democrats failed to kill the $1.8 billion \"Anti-Weaponization Fund\" in a 49-50 vote, as the status of Trump's audit immunity remains unresolved.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-05T13:18:07Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "John Bolton to plead guilty in classified documents case",
-        "url": "https://www.perplexity.ai/page/john-bolton-to-plead-guilty-in-n._vYSItSP2.XLhA_CAY5w",
-        "description": "The former national security adviser agreed to a single charge and a $2.25 million fine, potentially avoiding prison on the original 18-count indictment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-04T16:07:35Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
