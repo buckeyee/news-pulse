@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Lander ousts Rep. Goldman in NY-10 Democratic primary",
-      "url": "https://www.perplexity.ai/page/lander-ousts-rep-goldman-in-ny-1OheRxTbQay_Fi.AHp.OnQ",
-      "description": "The former city comptroller's win marks a major victory for Mayor Mamdani and progressive Democrats in New York City.",
+      "title": "Mamdani-backed candidates sweep three NYC congressional primaries",
+      "url": "https://www.perplexity.ai/page/mamdani-backed-candidates-swee-lNGr418bR6amlxHkBFNDZQ",
+      "description": "The New York mayor's progressive slate toppled incumbents and establishment Democrats in Tuesday's primary races across the city.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-24T01:29:06Z",
+      "pubDate": "2026-06-24T02:47:32Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Kim commissions North Korea's largest warship, pledges nuclear navy",
+      "url": "https://www.perplexity.ai/page/kim-commissions-north-korea-s-1ukqbkh_QzSylF313x92nA",
+      "description": "The 5,000-ton destroyer Choe Hyon entered service Tuesday after 14 months of testing, as Kim outlined plans for 10,000-ton warships.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-24T02:12:49Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Federal judge bars ICE arrests at immigration courts nationwide",
@@ -19,15 +28,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Meta is building a prediction markets app to rival Polymarket and Kalshi",
-      "url": "https://www.perplexity.ai/page/meta-is-building-a-prediction-ZulwklCVTI.w33MM9cbFWQ",
-      "description": "CEO Mark Zuckerberg directed a team to develop \"Arena,\" a standalone app that would initially use a points system instead of real money.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-23T17:08:24Z",
-      "sourceCount": "94 sources"
-    },
-    {
       "title": "Alan Wilson wins South Carolina GOP governor runoff",
       "url": "https://www.perplexity.ai/page/alan-wilson-wins-south-carolin-nHGKSMdtTy.UErk62xp8dw",
       "description": "Wilson defeated Lt. Gov. Pamela Evette by a wide margin after Trump hedged his endorsement by backing both candidates.",
@@ -35,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-06-24T01:19:52Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Meta is building a prediction markets app to rival Polymarket and Kalshi",
+      "url": "https://www.perplexity.ai/page/meta-is-building-a-prediction-ZulwklCVTI.w33MM9cbFWQ",
+      "description": "CEO Mark Zuckerberg directed a team to develop \"Arena,\" a standalone app that would initially use a points system instead of real money.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-23T17:08:24Z",
+      "sourceCount": "94 sources"
     },
     {
       "title": "Trump says Reflecting Pool will be drained again for 'permanent repair' around July 4",
@@ -1340,28 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-06-06T13:35:38Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Trump's top AI adviser Krishnan to leave White House",
-      "url": "https://www.perplexity.ai/page/trump-s-top-ai-adviser-krishna-.gp6Ntb4Sz2kIrztVAvydw",
-      "description": "Sriram Krishnan, who shaped the administration's deregulatory AI agenda, plans to depart his senior policy role by the end of June.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-06T16:52:53Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-06-24T02:05:28Z",
+  "cached_at": "2026-06-24T03:22:19Z",
   "topics": {
     "top": [
       {
-        "title": "Lander ousts Rep. Goldman in NY-10 Democratic primary",
-        "url": "https://www.perplexity.ai/page/lander-ousts-rep-goldman-in-ny-1OheRxTbQay_Fi.AHp.OnQ",
-        "description": "The former city comptroller's win marks a major victory for Mayor Mamdani and progressive Democrats in New York City.",
+        "title": "Mamdani-backed candidates sweep three NYC congressional primaries",
+        "url": "https://www.perplexity.ai/page/mamdani-backed-candidates-swee-lNGr418bR6amlxHkBFNDZQ",
+        "description": "The New York mayor's progressive slate toppled incumbents and establishment Democrats in Tuesday's primary races across the city.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-24T01:29:06Z",
+        "pubDate": "2026-06-24T02:47:32Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Kim commissions North Korea's largest warship, pledges nuclear navy",
+        "url": "https://www.perplexity.ai/page/kim-commissions-north-korea-s-1ukqbkh_QzSylF313x92nA",
+        "description": "The 5,000-ton destroyer Choe Hyon entered service Tuesday after 14 months of testing, as Kim outlined plans for 10,000-ton warships.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-24T02:12:49Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Federal judge bars ICE arrests at immigration courts nationwide",
@@ -1373,15 +1382,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Meta is building a prediction markets app to rival Polymarket and Kalshi",
-        "url": "https://www.perplexity.ai/page/meta-is-building-a-prediction-ZulwklCVTI.w33MM9cbFWQ",
-        "description": "CEO Mark Zuckerberg directed a team to develop \"Arena,\" a standalone app that would initially use a points system instead of real money.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-23T17:08:24Z",
-        "sourceCount": "94 sources"
-      },
-      {
         "title": "Alan Wilson wins South Carolina GOP governor runoff",
         "url": "https://www.perplexity.ai/page/alan-wilson-wins-south-carolin-nHGKSMdtTy.UErk62xp8dw",
         "description": "Wilson defeated Lt. Gov. Pamela Evette by a wide margin after Trump hedged his endorsement by backing both candidates.",
@@ -1389,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-06-24T01:19:52Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Meta is building a prediction markets app to rival Polymarket and Kalshi",
+        "url": "https://www.perplexity.ai/page/meta-is-building-a-prediction-ZulwklCVTI.w33MM9cbFWQ",
+        "description": "CEO Mark Zuckerberg directed a team to develop \"Arena,\" a standalone app that would initially use a points system instead of real money.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-23T17:08:24Z",
+        "sourceCount": "94 sources"
       },
       {
         "title": "Trump says Reflecting Pool will be drained again for 'permanent repair' around July 4",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-06T13:35:38Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Trump's top AI adviser Krishnan to leave White House",
-        "url": "https://www.perplexity.ai/page/trump-s-top-ai-adviser-krishna-.gp6Ntb4Sz2kIrztVAvydw",
-        "description": "Sriram Krishnan, who shaped the administration's deregulatory AI agenda, plans to depart his senior policy role by the end of June.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-06T16:52:53Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
