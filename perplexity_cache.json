@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "7.1 earthquake rocks Venezuela, triggers Caribbean tsunami alerts",
+      "url": "https://www.perplexity.ai/page/7-1-earthquake-rocks-venezuela-W2Am2z79QFuFo6gs6Et9UQ",
+      "description": "The shallow quake near San Felipe shook Caracas and prompted tsunami threat assessments for Puerto Rico and the U.S. Virgin Islands.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-24T22:54:37Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Rutte meets Trump to defuse NATO rift over Iran war",
       "url": "https://www.perplexity.ai/page/rutte-meets-trump-to-defuse-na-XI7dvfPZTTSQLxt79Pf0tA",
       "description": "The NATO chief used flattery and defense spending charts to argue allies have supported U.S. operations, ahead of next month's Ankara summit.",
@@ -440,15 +449,6 @@
       "topic": "top",
       "pubDate": "2026-06-20T17:22:38Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "LAUSD Superintendent Carvalho resigns amid FBI probe",
-      "url": "https://www.perplexity.ai/page/lausd-superintendent-carvalho-t2uyAUgnSOWxH8FbY4cm0w",
-      "description": "Alberto Carvalho stepped down Sunday, nearly four months after FBI agents raided his home and district office over contract allegations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-22T10:27:19Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Russian guided bombs hit Kharkiv apartment block, killing one",
@@ -1351,9 +1351,18 @@
       "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-06-24T22:43:31Z",
+  "cached_at": "2026-06-24T23:14:25Z",
   "topics": {
     "top": [
+      {
+        "title": "7.1 earthquake rocks Venezuela, triggers Caribbean tsunami alerts",
+        "url": "https://www.perplexity.ai/page/7-1-earthquake-rocks-venezuela-W2Am2z79QFuFo6gs6Et9UQ",
+        "description": "The shallow quake near San Felipe shook Caracas and prompted tsunami threat assessments for Puerto Rico and the U.S. Virgin Islands.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-24T22:54:37Z",
+        "sourceCount": "33 sources"
+      },
       {
         "title": "Rutte meets Trump to defuse NATO rift over Iran war",
         "url": "https://www.perplexity.ai/page/rutte-meets-trump-to-defuse-na-XI7dvfPZTTSQLxt79Pf0tA",
@@ -1794,15 +1803,6 @@
         "topic": "top",
         "pubDate": "2026-06-20T17:22:38Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "LAUSD Superintendent Carvalho resigns amid FBI probe",
-        "url": "https://www.perplexity.ai/page/lausd-superintendent-carvalho-t2uyAUgnSOWxH8FbY4cm0w",
-        "description": "Alberto Carvalho stepped down Sunday, nearly four months after FBI agents raided his home and district office over contract allegations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-22T10:27:19Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Russian guided bombs hit Kharkiv apartment block, killing one",
