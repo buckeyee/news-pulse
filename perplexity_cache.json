@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "Iran strikes caused $400M in damage to US Navy base, WSJ finds",
+      "url": "https://www.perplexity.ai/page/iran-strikes-caused-400m-in-da-QRjtxgNxQv6NkAqonOCOJA",
+      "description": "The Pentagon is now weighing relocating some Gulf installations to Israel and moving command centers underground, according to the investigation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T13:26:39Z",
+      "sourceCount": "21 sources"
+    },
+    {
+      "title": "Israel-Lebanon talks extend into Friday over withdrawal deadlock",
+      "url": "https://www.perplexity.ai/page/israel-lebanon-talks-extend-in-9l6xoCzFQlmROirbnwfQuQ",
+      "description": "Lebanon demands a full Israeli pullout with a timeline, but Netanyahu has pledged Israeli forces are \"not going to withdraw.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T13:24:04Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Venezuela earthquake death toll surpasses 500 as global aid arrives",
+      "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-teiO9d_HTJW44Hi4QJ0lRw",
+      "description": "Acting President Delcy Rodríguez said Friday the toll from Wednesday's twin quakes more than doubled overnight, with thousands still missing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T13:22:16Z",
+      "sourceCount": "54 sources"
+    },
+    {
+      "title": "Crimea declares state of emergency amid massive Ukrainian drone campaign",
+      "url": "https://www.perplexity.ai/page/crimea-declares-state-of-emerg-B_76MxtlRoOg71mtpZfGCA",
+      "description": "Russian-installed authorities invoked emergency powers as drone strikes cripple fuel supplies, power, and tourism across the occupied peninsula.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T11:47:44Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "SpaceX plans Starlink mobile service to rival U.S. wireless carriers",
+      "url": "https://www.perplexity.ai/page/spacex-plans-starlink-mobile-s-vBIZx9HzQXWAPUeN1iwh_A",
+      "description": "Gwynne Shotwell told IPO roadshow investors that SpaceX could sell mobile contracts directly to consumers and build its own terrestrial network.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T10:04:15Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Judge lets lawsuit against Trump's $1.8B fund proceed, questions DOJ's 'trustworthiness'",
       "url": "https://www.perplexity.ai/page/judge-lets-lawsuit-against-tru-7uM40yxJQvSXMESTCMjKCQ",
       "description": "A federal judge ruled Thursday the DOJ's refusal to submit a sworn statement confirming the fund's closure keeps the legal challenge alive.",
@@ -478,15 +523,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Russian guided bombs hit Kharkiv apartment block, killing one",
-      "url": "https://www.perplexity.ai/page/russian-guided-bombs-hit-khark-f5tZdN3DTsepx7Y5ITOVBg",
-      "description": "Saturday's strike injured nine others, including a child, as cross-border aerial attacks between Russia and Ukraine intensify.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-20T16:25:14Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "EU leaders commit to 'decisively' ramping up defense by 2030",
       "url": "https://www.perplexity.ai/page/eu-leaders-commit-to-decisivel-rv7Dh6JPRbCYNEnBWHGOUQ",
       "description": "The Brussels summit also saw clashes over the bloc's long-term budget and debate on tougher trade measures against China.",
@@ -496,15 +532,6 @@
       "sourceCount": "54 sources"
     },
     {
-      "title": "Trump says Cuba operation could mirror Venezuela raid",
-      "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
-      "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-20T13:13:19Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "At least 30 die in Congo displacement camp as Ebola spreads undetected",
       "url": "https://www.perplexity.ai/page/at-least-30-die-in-congo-displ-CtjcR97TR02kxecRbd4IaQ",
       "description": "Families in the Kigonze camp have refused Ebola testing on patients and the deceased, hampering efforts to contain the Bundibugyo strain outbreak.",
@@ -512,6 +539,15 @@
       "topic": "top",
       "pubDate": "2026-06-20T12:08:07Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Trump says Cuba operation could mirror Venezuela raid",
+      "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
+      "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-20T13:13:19Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Israeli envoy clashes with UN officials over child violations report",
@@ -1313,47 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-06-08T19:18:59Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Trump formally nominates Todd Blanche as attorney general",
-      "url": "https://www.perplexity.ai/page/trump-formally-nominates-todd-JGv7QQzRQ2.D2THgRvjjhg",
-      "description": "The former Trump defense lawyer, acting AG since April, faces an uncertain confirmation path with slim Republican margins on the Judiciary Committee.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-08T21:17:40Z",
-      "sourceCount": "31 sources"
-    },
-    {
-      "title": "DOJ moves to strip citizenship from 17 naturalized Americans",
-      "url": "https://www.perplexity.ai/page/doj-moves-to-strip-citizenship-z5nFt9qCTZ2HPvhQujdz_w",
-      "description": "The individuals are accused of hiding serious crimes including child sexual abuse, drug distribution, and fraud during the naturalization process.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-08T16:07:59Z",
-      "sourceCount": "31 sources"
-    },
-    {
-      "title": "Germany and France abandon joint fighter jet program",
-      "url": "https://www.perplexity.ai/page/germany-and-france-abandon-joi-Lsvuw5nYTIq4UlFm2VIGmw",
-      "description": "The leaders agreed the core manned aircraft of the €100 billion FCAS project is dead after Airbus and Dassault failed to resolve their dispute.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-08T16:07:53Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Allies to press Trump for Hormuz mine-clearing nod at G7",
-      "url": "https://www.perplexity.ai/page/allies-to-press-trump-for-horm-MvDqgAbZR262clBB86jfBQ",
-      "description": "A UK-France-led coalition of 15 nations is operationally ready to clear mines from the Strait of Hormuz once a US-Iran deal is reached.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-08T15:03:09Z",
-      "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-06-26T12:24:37Z",
+  "cached_at": "2026-06-26T15:07:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran strikes caused $400M in damage to US Navy base, WSJ finds",
+        "url": "https://www.perplexity.ai/page/iran-strikes-caused-400m-in-da-QRjtxgNxQv6NkAqonOCOJA",
+        "description": "The Pentagon is now weighing relocating some Gulf installations to Israel and moving command centers underground, according to the investigation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T13:26:39Z",
+        "sourceCount": "21 sources"
+      },
+      {
+        "title": "Israel-Lebanon talks extend into Friday over withdrawal deadlock",
+        "url": "https://www.perplexity.ai/page/israel-lebanon-talks-extend-in-9l6xoCzFQlmROirbnwfQuQ",
+        "description": "Lebanon demands a full Israeli pullout with a timeline, but Netanyahu has pledged Israeli forces are \"not going to withdraw.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T13:24:04Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Venezuela earthquake death toll surpasses 500 as global aid arrives",
+        "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-teiO9d_HTJW44Hi4QJ0lRw",
+        "description": "Acting President Delcy Rodríguez said Friday the toll from Wednesday's twin quakes more than doubled overnight, with thousands still missing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T13:22:16Z",
+        "sourceCount": "54 sources"
+      },
+      {
+        "title": "Crimea declares state of emergency amid massive Ukrainian drone campaign",
+        "url": "https://www.perplexity.ai/page/crimea-declares-state-of-emerg-B_76MxtlRoOg71mtpZfGCA",
+        "description": "Russian-installed authorities invoked emergency powers as drone strikes cripple fuel supplies, power, and tourism across the occupied peninsula.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T11:47:44Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "SpaceX plans Starlink mobile service to rival U.S. wireless carriers",
+        "url": "https://www.perplexity.ai/page/spacex-plans-starlink-mobile-s-vBIZx9HzQXWAPUeN1iwh_A",
+        "description": "Gwynne Shotwell told IPO roadshow investors that SpaceX could sell mobile contracts directly to consumers and build its own terrestrial network.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T10:04:15Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "Judge lets lawsuit against Trump's $1.8B fund proceed, questions DOJ's 'trustworthiness'",
         "url": "https://www.perplexity.ai/page/judge-lets-lawsuit-against-tru-7uM40yxJQvSXMESTCMjKCQ",
@@ -1832,15 +1877,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Russian guided bombs hit Kharkiv apartment block, killing one",
-        "url": "https://www.perplexity.ai/page/russian-guided-bombs-hit-khark-f5tZdN3DTsepx7Y5ITOVBg",
-        "description": "Saturday's strike injured nine others, including a child, as cross-border aerial attacks between Russia and Ukraine intensify.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-20T16:25:14Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "EU leaders commit to 'decisively' ramping up defense by 2030",
         "url": "https://www.perplexity.ai/page/eu-leaders-commit-to-decisivel-rv7Dh6JPRbCYNEnBWHGOUQ",
         "description": "The Brussels summit also saw clashes over the bloc's long-term budget and debate on tougher trade measures against China.",
@@ -1850,15 +1886,6 @@
         "sourceCount": "54 sources"
       },
       {
-        "title": "Trump says Cuba operation could mirror Venezuela raid",
-        "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
-        "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-20T13:13:19Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "At least 30 die in Congo displacement camp as Ebola spreads undetected",
         "url": "https://www.perplexity.ai/page/at-least-30-die-in-congo-displ-CtjcR97TR02kxecRbd4IaQ",
         "description": "Families in the Kigonze camp have refused Ebola testing on patients and the deceased, hampering efforts to contain the Bundibugyo strain outbreak.",
@@ -1866,6 +1893,15 @@
         "topic": "top",
         "pubDate": "2026-06-20T12:08:07Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Trump says Cuba operation could mirror Venezuela raid",
+        "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
+        "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-20T13:13:19Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Israeli envoy clashes with UN officials over child violations report",
@@ -2667,42 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-08T19:18:59Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Trump formally nominates Todd Blanche as attorney general",
-        "url": "https://www.perplexity.ai/page/trump-formally-nominates-todd-JGv7QQzRQ2.D2THgRvjjhg",
-        "description": "The former Trump defense lawyer, acting AG since April, faces an uncertain confirmation path with slim Republican margins on the Judiciary Committee.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-08T21:17:40Z",
-        "sourceCount": "31 sources"
-      },
-      {
-        "title": "DOJ moves to strip citizenship from 17 naturalized Americans",
-        "url": "https://www.perplexity.ai/page/doj-moves-to-strip-citizenship-z5nFt9qCTZ2HPvhQujdz_w",
-        "description": "The individuals are accused of hiding serious crimes including child sexual abuse, drug distribution, and fraud during the naturalization process.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-08T16:07:59Z",
-        "sourceCount": "31 sources"
-      },
-      {
-        "title": "Germany and France abandon joint fighter jet program",
-        "url": "https://www.perplexity.ai/page/germany-and-france-abandon-joi-Lsvuw5nYTIq4UlFm2VIGmw",
-        "description": "The leaders agreed the core manned aircraft of the €100 billion FCAS project is dead after Airbus and Dassault failed to resolve their dispute.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-08T16:07:53Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Allies to press Trump for Hormuz mine-clearing nod at G7",
-        "url": "https://www.perplexity.ai/page/allies-to-press-trump-for-horm-MvDqgAbZR262clBB86jfBQ",
-        "description": "A UK-France-led coalition of 15 nations is operationally ready to clear mines from the Strait of Hormuz once a US-Iran deal is reached.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-08T15:03:09Z",
-        "sourceCount": "35 sources"
       }
     ],
     "tech": [],
