@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Trump calls Iran drone strike on ship a 'foolish violation' of ceasefire",
-      "url": "https://www.perplexity.ai/page/trump-calls-iran-drone-strike-fSXlSpV7Ru2iVU5z4N6O7w",
-      "description": "The attack on a container ship in the Strait of Hormuz prompted the UN to suspend evacuation efforts for thousands of stranded seafarers.",
+      "title": "UN demands probes into 52 ICE custody deaths under Trump",
+      "url": "https://www.perplexity.ai/page/un-demands-probes-into-52-ice-uy2euXtpSz66hhVfIlXyaQ",
+      "description": "UN rights chief Volker Türk called for independent investigations as a new report found the ICE detention mortality rate has more than doubled.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-26T16:17:13Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-06-26T16:23:00Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Newsom calls for national billionaires' tax while opposing California's version",
@@ -28,6 +28,15 @@
       "sourceCount": "41 sources"
     },
     {
+      "title": "Trump calls Iran drone strike on ship a 'foolish violation' of ceasefire",
+      "url": "https://www.perplexity.ai/page/trump-calls-iran-drone-strike-fSXlSpV7Ru2iVU5z4N6O7w",
+      "description": "The attack on a container ship in the Strait of Hormuz prompted the UN to suspend evacuation efforts for thousands of stranded seafarers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T16:17:13Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iran strikes caused $400M in damage to US Navy base, WSJ finds",
       "url": "https://www.perplexity.ai/page/iran-strikes-caused-400m-in-da-QRjtxgNxQv6NkAqonOCOJA",
       "description": "The Pentagon is now weighing relocating some Gulf installations to Israel and moving command centers underground, according to the investigation.",
@@ -37,24 +46,6 @@
       "sourceCount": "21 sources"
     },
     {
-      "title": "Trump admin seeks $1.4B for Ebola as Kenya facility faces scrutiny",
-      "url": "https://www.perplexity.ai/page/trump-admin-seeks-1-4b-for-ebo-QyKdGpT2T22o7SAo1hV7NQ",
-      "description": "Public Health Service members describe rushed training for the controversial Kenya quarantine center as the outbreak nears 1,000 cases.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T14:20:05Z",
-      "sourceCount": "124 sources"
-    },
-    {
-      "title": "Israel-Lebanon talks extend into Friday over withdrawal deadlock",
-      "url": "https://www.perplexity.ai/page/israel-lebanon-talks-extend-in-9l6xoCzFQlmROirbnwfQuQ",
-      "description": "Lebanon demands a full Israeli pullout with a timeline, but Netanyahu has pledged Israeli forces are \"not going to withdraw.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T13:24:04Z",
-      "sourceCount": "45 sources"
-    },
-    {
       "title": "Venezuela earthquake death toll surpasses 500 as global aid arrives",
       "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-teiO9d_HTJW44Hi4QJ0lRw",
       "description": "Acting President Delcy Rodríguez said Friday the toll from Wednesday's twin quakes more than doubled overnight, with thousands still missing.",
@@ -62,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-06-26T13:22:16Z",
       "sourceCount": "54 sources"
+    },
+    {
+      "title": "Trump admin seeks $1.4B for Ebola as Kenya facility faces scrutiny",
+      "url": "https://www.perplexity.ai/page/trump-admin-seeks-1-4b-for-ebo-QyKdGpT2T22o7SAo1hV7NQ",
+      "description": "Public Health Service members describe rushed training for the controversial Kenya quarantine center as the outbreak nears 1,000 cases.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T14:20:05Z",
+      "sourceCount": "124 sources"
     },
     {
       "title": "Crimea declares state of emergency amid massive Ukrainian drone campaign",
@@ -1351,17 +1351,17 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-06-26T17:27:28Z",
+  "cached_at": "2026-06-26T18:53:13Z",
   "topics": {
     "top": [
       {
-        "title": "Trump calls Iran drone strike on ship a 'foolish violation' of ceasefire",
-        "url": "https://www.perplexity.ai/page/trump-calls-iran-drone-strike-fSXlSpV7Ru2iVU5z4N6O7w",
-        "description": "The attack on a container ship in the Strait of Hormuz prompted the UN to suspend evacuation efforts for thousands of stranded seafarers.",
+        "title": "UN demands probes into 52 ICE custody deaths under Trump",
+        "url": "https://www.perplexity.ai/page/un-demands-probes-into-52-ice-uy2euXtpSz66hhVfIlXyaQ",
+        "description": "UN rights chief Volker Türk called for independent investigations as a new report found the ICE detention mortality rate has more than doubled.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-26T16:17:13Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-06-26T16:23:00Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Newsom calls for national billionaires' tax while opposing California's version",
@@ -1382,6 +1382,15 @@
         "sourceCount": "41 sources"
       },
       {
+        "title": "Trump calls Iran drone strike on ship a 'foolish violation' of ceasefire",
+        "url": "https://www.perplexity.ai/page/trump-calls-iran-drone-strike-fSXlSpV7Ru2iVU5z4N6O7w",
+        "description": "The attack on a container ship in the Strait of Hormuz prompted the UN to suspend evacuation efforts for thousands of stranded seafarers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T16:17:13Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Iran strikes caused $400M in damage to US Navy base, WSJ finds",
         "url": "https://www.perplexity.ai/page/iran-strikes-caused-400m-in-da-QRjtxgNxQv6NkAqonOCOJA",
         "description": "The Pentagon is now weighing relocating some Gulf installations to Israel and moving command centers underground, according to the investigation.",
@@ -1391,24 +1400,6 @@
         "sourceCount": "21 sources"
       },
       {
-        "title": "Trump admin seeks $1.4B for Ebola as Kenya facility faces scrutiny",
-        "url": "https://www.perplexity.ai/page/trump-admin-seeks-1-4b-for-ebo-QyKdGpT2T22o7SAo1hV7NQ",
-        "description": "Public Health Service members describe rushed training for the controversial Kenya quarantine center as the outbreak nears 1,000 cases.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T14:20:05Z",
-        "sourceCount": "124 sources"
-      },
-      {
-        "title": "Israel-Lebanon talks extend into Friday over withdrawal deadlock",
-        "url": "https://www.perplexity.ai/page/israel-lebanon-talks-extend-in-9l6xoCzFQlmROirbnwfQuQ",
-        "description": "Lebanon demands a full Israeli pullout with a timeline, but Netanyahu has pledged Israeli forces are \"not going to withdraw.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T13:24:04Z",
-        "sourceCount": "45 sources"
-      },
-      {
         "title": "Venezuela earthquake death toll surpasses 500 as global aid arrives",
         "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-teiO9d_HTJW44Hi4QJ0lRw",
         "description": "Acting President Delcy Rodríguez said Friday the toll from Wednesday's twin quakes more than doubled overnight, with thousands still missing.",
@@ -1416,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-06-26T13:22:16Z",
         "sourceCount": "54 sources"
+      },
+      {
+        "title": "Trump admin seeks $1.4B for Ebola as Kenya facility faces scrutiny",
+        "url": "https://www.perplexity.ai/page/trump-admin-seeks-1-4b-for-ebo-QyKdGpT2T22o7SAo1hV7NQ",
+        "description": "Public Health Service members describe rushed training for the controversial Kenya quarantine center as the outbreak nears 1,000 cases.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T14:20:05Z",
+        "sourceCount": "124 sources"
       },
       {
         "title": "Crimea declares state of emergency amid massive Ukrainian drone campaign",
