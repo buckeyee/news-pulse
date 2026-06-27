@@ -28,15 +28,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "US strikes Iran after drone attack on cargo ship",
-      "url": "https://www.perplexity.ai/page/us-strikes-iran-after-drone-at-mnJHB5.DSHWtOgtjWY9sGw",
-      "description": "CENTCOM targeted Iranian missile, drone, and radar sites Friday in retaliation for a drone strike on a commercial vessel in the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T21:20:12Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Venezuela earthquake death toll reaches 920 with over 50,000 missing",
       "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-Yvm_M_w4QbGeWt5f3xJ2jg",
       "description": "Rescuers race to find survivors two days after back-to-back 7.2 and 7.5 magnitude quakes, the strongest to hit the country since 1900.",
@@ -46,15 +37,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Texas approves Bible readings for 5M public school students",
-      "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
-      "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T20:53:40Z",
-      "sourceCount": "33 sources"
-    },
-    {
       "title": "CDC raises Ebola response to highest level amid DRC outbreak",
       "url": "https://www.perplexity.ai/page/cdc-raises-ebola-response-to-h-E_B4EhK9QNWuWIp9BGzp4w",
       "description": "The Level 1 activation, the most severe designation, deploys maximum staff as the Bundibugyo strain spreads across central and east Africa.",
@@ -62,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-06-26T19:08:05Z",
       "sourceCount": "81 sources"
+    },
+    {
+      "title": "Texas approves Bible readings for 5M public school students",
+      "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
+      "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-26T20:53:40Z",
+      "sourceCount": "33 sources"
     },
     {
       "title": "Israel, Lebanon reach framework deal after extended Washington talks",
@@ -341,6 +332,15 @@
       "topic": "top",
       "pubDate": "2026-06-24T13:07:23Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "U.S. and Iran clash over nuclear deal terms days after signing",
+      "url": "https://www.perplexity.ai/page/u-s-and-iran-clash-over-nuclea-3UsXrkr7T8WPH54wQojYZQ",
+      "description": "Trump insists Iran agreed to indefinite nuclear inspections; Tehran denies its nuclear program was even discussed during Swiss talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-24T10:27:51Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "US warns 'time is not on Moscow's side' as peace talks stall",
@@ -1351,7 +1351,7 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-06-27T09:15:51Z",
+  "cached_at": "2026-06-27T10:05:00Z",
   "topics": {
     "top": [
       {
@@ -1382,15 +1382,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "US strikes Iran after drone attack on cargo ship",
-        "url": "https://www.perplexity.ai/page/us-strikes-iran-after-drone-at-mnJHB5.DSHWtOgtjWY9sGw",
-        "description": "CENTCOM targeted Iranian missile, drone, and radar sites Friday in retaliation for a drone strike on a commercial vessel in the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T21:20:12Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Venezuela earthquake death toll reaches 920 with over 50,000 missing",
         "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-Yvm_M_w4QbGeWt5f3xJ2jg",
         "description": "Rescuers race to find survivors two days after back-to-back 7.2 and 7.5 magnitude quakes, the strongest to hit the country since 1900.",
@@ -1400,15 +1391,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Texas approves Bible readings for 5M public school students",
-        "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
-        "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T20:53:40Z",
-        "sourceCount": "33 sources"
-      },
-      {
         "title": "CDC raises Ebola response to highest level amid DRC outbreak",
         "url": "https://www.perplexity.ai/page/cdc-raises-ebola-response-to-h-E_B4EhK9QNWuWIp9BGzp4w",
         "description": "The Level 1 activation, the most severe designation, deploys maximum staff as the Bundibugyo strain spreads across central and east Africa.",
@@ -1416,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-06-26T19:08:05Z",
         "sourceCount": "81 sources"
+      },
+      {
+        "title": "Texas approves Bible readings for 5M public school students",
+        "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
+        "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-26T20:53:40Z",
+        "sourceCount": "33 sources"
       },
       {
         "title": "Israel, Lebanon reach framework deal after extended Washington talks",
@@ -1695,6 +1686,15 @@
         "topic": "top",
         "pubDate": "2026-06-24T13:07:23Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "U.S. and Iran clash over nuclear deal terms days after signing",
+        "url": "https://www.perplexity.ai/page/u-s-and-iran-clash-over-nuclea-3UsXrkr7T8WPH54wQojYZQ",
+        "description": "Trump insists Iran agreed to indefinite nuclear inspections; Tehran denies its nuclear program was even discussed during Swiss talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-24T10:27:51Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "US warns 'time is not on Moscow's side' as peace talks stall",
