@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Drone strikes Iranian Kurdish opposition camp near Erbil",
+      "url": "https://www.perplexity.ai/page/drone-strikes-iranian-kurdish-z8QkIZplRRuO17QVNneYYQ",
+      "description": "No casualties were reported after the camp was evacuated before Saturday's attack, the latest in a sustained campaign throughout 2026.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-27T10:17:14Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Cape Verde becomes smallest nation to reach World Cup knockout round",
       "url": "https://www.perplexity.ai/page/cape-verde-becomes-smallest-na-_5RtxjvlSq2tkuv8JedjBg",
       "description": "The tournament debutants finished second in Group H with three draws and will face defending champions Argentina on July 3 in Miami.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-09T10:42:22Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Philippines earthquake death toll rises to 37 as rescuers search for survivors",
-      "url": "https://www.perplexity.ai/page/philippines-earthquake-death-t-UDSbl2S2Qq23RoKihRDxnw",
-      "description": "The 7.8-magnitude quake struck off Mindanao on Monday, triggering landslides, building collapses, and tsunami waves across the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-09T04:29:34Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-06-27T21:19:40Z",
+  "cached_at": "2026-06-27T21:45:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Drone strikes Iranian Kurdish opposition camp near Erbil",
+        "url": "https://www.perplexity.ai/page/drone-strikes-iranian-kurdish-z8QkIZplRRuO17QVNneYYQ",
+        "description": "No casualties were reported after the camp was evacuated before Saturday's attack, the latest in a sustained campaign throughout 2026.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-27T10:17:14Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Cape Verde becomes smallest nation to reach World Cup knockout round",
         "url": "https://www.perplexity.ai/page/cape-verde-becomes-smallest-na-_5RtxjvlSq2tkuv8JedjBg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-09T10:42:22Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Philippines earthquake death toll rises to 37 as rescuers search for survivors",
-        "url": "https://www.perplexity.ai/page/philippines-earthquake-death-t-UDSbl2S2Qq23RoKihRDxnw",
-        "description": "The 7.8-magnitude quake struck off Mindanao on Monday, triggering landslides, building collapses, and tsunami waves across the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-09T04:29:34Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
