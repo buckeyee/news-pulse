@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran claims sole control of Hormuz as US ceasefire unravels",
+      "url": "https://www.perplexity.ai/page/iran-claims-sole-control-of-ho-wy5t.P2iS6GZ2SvuSKNu4w",
+      "description": "Foreign Minister Araghchi declared Iran has exclusive authority over the strait as both sides exchanged strikes and the June 17 peace deal frayed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-28T16:35:40Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Skydiving plane crash in France kills all 11 on board",
+      "url": "https://www.perplexity.ai/page/skydiving-plane-crash-in-franc-ACm2VX33QfOEv.MPim2P1g",
+      "description": "A Pilatus PC-6 carrying five skydiving students, five instructors, and a pilot crashed shortly after takeoff near Nancy on Sunday morning.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-28T14:42:29Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Trump taps Oklahoma trooper as ICE director nominee",
       "url": "https://www.perplexity.ai/page/trump-taps-oklahoma-trooper-as-wF_ZGwBiQmqEeB1E6IGeEQ",
       "description": "If confirmed, Lance Schroyer would be the first Senate-confirmed ICE director since 2017, ending nearly a decade of acting leaders.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-09T17:12:24Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "MAGA Inc. plans $1M-per-person fundraiser before White House UFC event",
-      "url": "https://www.perplexity.ai/page/maga-inc-plans-1m-per-person-f-3AmMXrrLRHSmcSC5RhG0tQ",
-      "description": "Trump's super PAC is scheduled to hold the dinner Saturday at his Virginia golf club, one day before UFC Freedom 250 on the South Lawn.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-09T22:27:27Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Social Security trust fund now projected to run dry in 2032",
-      "url": "https://www.perplexity.ai/page/social-security-trust-fund-now-WLwVI2mTS1e9Ekh8HSvHNA",
-      "description": "The 2026 trustees report moves the OASI depletion date up a year, meaning retirees could face a 22% benefit cut as early as late 2032.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-09T16:47:38Z",
-      "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-06-28T16:04:42Z",
+  "cached_at": "2026-06-28T17:08:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran claims sole control of Hormuz as US ceasefire unravels",
+        "url": "https://www.perplexity.ai/page/iran-claims-sole-control-of-ho-wy5t.P2iS6GZ2SvuSKNu4w",
+        "description": "Foreign Minister Araghchi declared Iran has exclusive authority over the strait as both sides exchanged strikes and the June 17 peace deal frayed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-28T16:35:40Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Skydiving plane crash in France kills all 11 on board",
+        "url": "https://www.perplexity.ai/page/skydiving-plane-crash-in-franc-ACm2VX33QfOEv.MPim2P1g",
+        "description": "A Pilatus PC-6 carrying five skydiving students, five instructors, and a pilot crashed shortly after takeoff near Nancy on Sunday morning.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-28T14:42:29Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Trump taps Oklahoma trooper as ICE director nominee",
         "url": "https://www.perplexity.ai/page/trump-taps-oklahoma-trooper-as-wF_ZGwBiQmqEeB1E6IGeEQ",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-09T17:12:24Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "MAGA Inc. plans $1M-per-person fundraiser before White House UFC event",
-        "url": "https://www.perplexity.ai/page/maga-inc-plans-1m-per-person-f-3AmMXrrLRHSmcSC5RhG0tQ",
-        "description": "Trump's super PAC is scheduled to hold the dinner Saturday at his Virginia golf club, one day before UFC Freedom 250 on the South Lawn.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-09T22:27:27Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Social Security trust fund now projected to run dry in 2032",
-        "url": "https://www.perplexity.ai/page/social-security-trust-fund-now-WLwVI2mTS1e9Ekh8HSvHNA",
-        "description": "The 2026 trustees report moves the OASI depletion date up a year, meaning retirees could face a 22% benefit cut as early as late 2032.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-09T16:47:38Z",
-        "sourceCount": "34 sources"
       }
     ],
     "tech": [],
