@@ -10,6 +10,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Nation's largest wildfire tops 92,000 acres in Utah with 0% containment",
+      "url": "https://www.perplexity.ai/page/nation-s-largest-wildfire-tops-T4J5qzv6T6eWx9Z_Z1YS_Q",
+      "description": "Utah banned fireworks through July 5 as the Cottonwood Fire and hundreds of other blazes burn amid historically dangerous conditions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-28T15:48:11Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Skydiving plane crash in France kills all 11 on board",
       "url": "https://www.perplexity.ai/page/skydiving-plane-crash-in-franc-ACm2VX33QfOEv.MPim2P1g",
       "description": "A Pilatus PC-6 carrying five skydiving students, five instructors, and a pilot crashed shortly after takeoff near Nancy on Sunday morning.",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-06-28T14:42:29Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Venezuela airport partially reopens as quake death toll tops 1,400",
+      "url": "https://www.perplexity.ai/page/venezuela-airport-partially-re-SRVBFSiITjmBlejisz_1Rw",
+      "description": "Simon Bolivar International Airport began accepting aid cargo flights Saturday as the U.S. deploys $150 million in relief and military assets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-28T14:19:35Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Trump taps Oklahoma trooper as ICE director nominee",
@@ -28,13 +46,13 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Venezuela death toll hits 1,430 as 1,600 foreign rescuers arrive",
-      "url": "https://www.perplexity.ai/page/venezuela-death-toll-hits-1430-b5pS.cb2ShKvm5_2MP6Jbw",
-      "description": "Nearly 69,000 people remain missing three days after twin earthquakes, as international rescue teams race to find survivors before the critical 72-hour window closes.",
+      "title": "France reports 1,000 excess deaths amid Europe's worst recorded heat wave",
+      "url": "https://www.perplexity.ai/page/france-reports-1000-excess-dea-gjd3SHq7QT.1v88FLFT69A",
+      "description": "Public Health France said 85% of the fatalities since June 24 involved people aged 65 and older, with the true toll expected to rise.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-27T19:03:50Z",
-      "sourceCount": "47 sources"
+      "pubDate": "2026-06-28T10:18:15Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "South Korea scrambles jets as China, Russia hold air patrol",
@@ -1331,27 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-06-09T22:28:18Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Becerra, Hilton advance to California governor race",
-      "url": "https://www.perplexity.ai/page/becerra-hilton-advance-to-cali-n1svL_alTEC.qHVvJ_tSoA",
-      "description": "Republican Steve Hilton clinched the second spot Tuesday, setting up a November showdown with Democrat Xavier Becerra to succeed Gov. Gavin Newsom.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-10T00:10:52Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5, its first public Mythos-class model",
-      "url": "https://www.perplexity.ai/page/anthropic-launches-claude-fabl-L37eXvOsRpejQMo0v.OnRA",
-      "description": "The AI model uses automatic safety classifiers that route sensitive queries to a less powerful system, with mandatory 30-day data retention.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-09T17:12:24Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-06-28T17:08:17Z",
+  "cached_at": "2026-06-28T17:40:11Z",
   "topics": {
     "top": [
       {
@@ -1364,6 +1364,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Nation's largest wildfire tops 92,000 acres in Utah with 0% containment",
+        "url": "https://www.perplexity.ai/page/nation-s-largest-wildfire-tops-T4J5qzv6T6eWx9Z_Z1YS_Q",
+        "description": "Utah banned fireworks through July 5 as the Cottonwood Fire and hundreds of other blazes burn amid historically dangerous conditions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-28T15:48:11Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "Skydiving plane crash in France kills all 11 on board",
         "url": "https://www.perplexity.ai/page/skydiving-plane-crash-in-franc-ACm2VX33QfOEv.MPim2P1g",
         "description": "A Pilatus PC-6 carrying five skydiving students, five instructors, and a pilot crashed shortly after takeoff near Nancy on Sunday morning.",
@@ -1371,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-06-28T14:42:29Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Venezuela airport partially reopens as quake death toll tops 1,400",
+        "url": "https://www.perplexity.ai/page/venezuela-airport-partially-re-SRVBFSiITjmBlejisz_1Rw",
+        "description": "Simon Bolivar International Airport began accepting aid cargo flights Saturday as the U.S. deploys $150 million in relief and military assets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-28T14:19:35Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Trump taps Oklahoma trooper as ICE director nominee",
@@ -1382,13 +1400,13 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Venezuela death toll hits 1,430 as 1,600 foreign rescuers arrive",
-        "url": "https://www.perplexity.ai/page/venezuela-death-toll-hits-1430-b5pS.cb2ShKvm5_2MP6Jbw",
-        "description": "Nearly 69,000 people remain missing three days after twin earthquakes, as international rescue teams race to find survivors before the critical 72-hour window closes.",
+        "title": "France reports 1,000 excess deaths amid Europe's worst recorded heat wave",
+        "url": "https://www.perplexity.ai/page/france-reports-1000-excess-dea-gjd3SHq7QT.1v88FLFT69A",
+        "description": "Public Health France said 85% of the fatalities since June 24 involved people aged 65 and older, with the true toll expected to rise.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-27T19:03:50Z",
-        "sourceCount": "47 sources"
+        "pubDate": "2026-06-28T10:18:15Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "South Korea scrambles jets as China, Russia hold air patrol",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-09T22:28:18Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Becerra, Hilton advance to California governor race",
-        "url": "https://www.perplexity.ai/page/becerra-hilton-advance-to-cali-n1svL_alTEC.qHVvJ_tSoA",
-        "description": "Republican Steve Hilton clinched the second spot Tuesday, setting up a November showdown with Democrat Xavier Becerra to succeed Gov. Gavin Newsom.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-10T00:10:52Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Anthropic launches Claude Fable 5, its first public Mythos-class model",
-        "url": "https://www.perplexity.ai/page/anthropic-launches-claude-fabl-L37eXvOsRpejQMo0v.OnRA",
-        "description": "The AI model uses automatic safety classifiers that route sensitive queries to a less powerful system, with mandatory 30-day data retention.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-09T17:12:24Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
