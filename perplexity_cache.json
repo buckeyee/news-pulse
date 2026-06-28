@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran pulls out of talks after exchanging strikes with U.S.",
+      "url": "https://www.perplexity.ai/page/iran-pulls-out-of-talks-after-JtZwt0WOTCuKCUZbWv9Nxg",
+      "description": "Tehran canceled scheduled negotiations in Switzerland and threatened to halt the ceasefire process entirely as both sides trade drone and missile attacks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-28T20:23:34Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Trump declares reflecting pool 'in full use,' eyes D.C. golf course",
       "url": "https://www.perplexity.ai/page/trump-declares-reflecting-pool-y3J5fB4cRAmKB_q66fYh.w",
       "description": "The president said construction on a public golf course near the National Mall will begin in September as part of his broader reshaping of the capital.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-10T02:47:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Belfast rocked by riots after Sudanese man charged in stabbing",
-      "url": "https://www.perplexity.ai/page/belfast-rocked-by-riots-after-65ozl5R4RlqS0Mi2MPgp2w",
-      "description": "Masked protesters torched vehicles and blocked roads Tuesday night as the suspect, a refugee granted UK asylum in 2023, was charged with attempted murder.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-09T23:33:10Z",
-      "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-06-28T20:21:10Z",
+  "cached_at": "2026-06-28T21:15:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran pulls out of talks after exchanging strikes with U.S.",
+        "url": "https://www.perplexity.ai/page/iran-pulls-out-of-talks-after-JtZwt0WOTCuKCUZbWv9Nxg",
+        "description": "Tehran canceled scheduled negotiations in Switzerland and threatened to halt the ceasefire process entirely as both sides trade drone and missile attacks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-28T20:23:34Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "Trump declares reflecting pool 'in full use,' eyes D.C. golf course",
         "url": "https://www.perplexity.ai/page/trump-declares-reflecting-pool-y3J5fB4cRAmKB_q66fYh.w",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-10T02:47:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Belfast rocked by riots after Sudanese man charged in stabbing",
-        "url": "https://www.perplexity.ai/page/belfast-rocked-by-riots-after-65ozl5R4RlqS0Mi2MPgp2w",
-        "description": "Masked protesters torched vehicles and blocked roads Tuesday night as the suspect, a refugee granted UK asylum in 2023, was charged with attempted murder.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-09T23:33:10Z",
-        "sourceCount": "38 sources"
       }
     ],
     "tech": [],
