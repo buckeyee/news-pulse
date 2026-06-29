@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Venezuela earthquake death toll reaches 1,719 as man pulled alive after 106 hours",
+      "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-lJEDw.d_QAywf5ULiHMOFA",
+      "description": "Rescuers extracted a 21-year-old from rubble Monday as aftershocks rattled the disaster zone, with tens of thousands still missing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-29T23:02:41Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "San Francisco Archdiocese reaches $395M abuse settlement",
       "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
       "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-10T17:35:29Z",
       "sourceCount": "174 sources"
-    },
-    {
-      "title": "Fired Navy admiral advances to runoff for Mace's SC House seat",
-      "url": "https://www.perplexity.ai/page/fired-navy-admiral-advances-to-BrZgQqavTvawrQNVgz_KDQ",
-      "description": "Nancy Lacore, dismissed by Defense Secretary Pete Hegseth, will face Mac Deford in a June 23 Democratic runoff for South Carolina's 1st District.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-10T02:47:34Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-06-29T22:40:52Z",
+  "cached_at": "2026-06-29T23:09:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Venezuela earthquake death toll reaches 1,719 as man pulled alive after 106 hours",
+        "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-lJEDw.d_QAywf5ULiHMOFA",
+        "description": "Rescuers extracted a 21-year-old from rubble Monday as aftershocks rattled the disaster zone, with tens of thousands still missing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-29T23:02:41Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "San Francisco Archdiocese reaches $395M abuse settlement",
         "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-10T17:35:29Z",
         "sourceCount": "174 sources"
-      },
-      {
-        "title": "Fired Navy admiral advances to runoff for Mace's SC House seat",
-        "url": "https://www.perplexity.ai/page/fired-navy-admiral-advances-to-BrZgQqavTvawrQNVgz_KDQ",
-        "description": "Nancy Lacore, dismissed by Defense Secretary Pete Hegseth, will face Mac Deford in a June 23 Democratic runoff for South Carolina's 1st District.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-10T02:47:34Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
