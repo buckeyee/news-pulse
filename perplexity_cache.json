@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "San Francisco Archdiocese reaches $395M abuse settlement",
+      "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
+      "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-29T21:37:11Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "US, Iran agree to halt strikes as Witkoff, Kushner head to Doha",
       "url": "https://www.perplexity.ai/page/us-iran-agree-to-halt-strikes-64PAMJx2Rf.Rsm830YMtSg",
       "description": "Washington says both sides will stand down and reopen the Strait of Hormuz to shipping, but Tehran disputes that formal talks are scheduled.",
@@ -10,15 +19,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
-      "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
-      "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-29T17:41:33Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Europe heatwave kills over 1,300 as Paris morgues run out of space",
       "url": "https://www.perplexity.ai/page/europe-heatwave-kills-over-130-pfDQysFfQoGloedMMAzuIw",
       "description": "France alone has recorded 1,000 excess deaths since the heatwave began, overwhelming mortuaries and sparking political criticism of the government's response.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-06-29T16:18:49Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
+      "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
+      "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-29T17:41:33Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-10T02:47:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "House passes Faster Labor Contracts Act as 20 Republicans break ranks",
-      "url": "https://www.perplexity.ai/page/house-passes-faster-labor-cont-U5OxUl4CQc6TUGBnwlsYsg",
-      "description": "The bipartisan bill would force employers to begin union contract talks within 10 days and impose binding arbitration if negotiations stall.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-10T01:47:51Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-06-29T21:45:13Z",
+  "cached_at": "2026-06-29T22:15:59Z",
   "topics": {
     "top": [
+      {
+        "title": "San Francisco Archdiocese reaches $395M abuse settlement",
+        "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
+        "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-29T21:37:11Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "US, Iran agree to halt strikes as Witkoff, Kushner head to Doha",
         "url": "https://www.perplexity.ai/page/us-iran-agree-to-halt-strikes-64PAMJx2Rf.Rsm830YMtSg",
@@ -1364,15 +1373,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
-        "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
-        "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-29T17:41:33Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Europe heatwave kills over 1,300 as Paris morgues run out of space",
         "url": "https://www.perplexity.ai/page/europe-heatwave-kills-over-130-pfDQysFfQoGloedMMAzuIw",
         "description": "France alone has recorded 1,000 excess deaths since the heatwave began, overwhelming mortuaries and sparking political criticism of the government's response.",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-06-29T16:18:49Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
+        "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
+        "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-29T17:41:33Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-10T02:47:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "House passes Faster Labor Contracts Act as 20 Republicans break ranks",
-        "url": "https://www.perplexity.ai/page/house-passes-faster-labor-cont-U5OxUl4CQc6TUGBnwlsYsg",
-        "description": "The bipartisan bill would force employers to begin union contract talks within 10 days and impose binding arbitration if negotiations stall.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-10T01:47:51Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
