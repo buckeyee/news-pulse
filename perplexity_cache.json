@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US, Iran agree to halt strikes as Witkoff, Kushner head to Doha",
+      "url": "https://www.perplexity.ai/page/us-iran-agree-to-halt-strikes-64PAMJx2Rf.Rsm830YMtSg",
+      "description": "Washington says both sides will stand down and reopen the Strait of Hormuz to shipping, but Tehran disputes that formal talks are scheduled.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-29T17:44:45Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "France, Oman agree to jointly clear mines from Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/france-oman-agree-to-jointly-c-JaOMV8pgSeS7S2JZ9EkTTA",
       "description": "Macron announced the demining pact after signing cooperation accords with Sultan Haitham bin Tarik during the Omani leader's first official visit to France.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-10T02:03:26Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "House passes Faster Labor Contracts Act as 20 Republicans break ranks",
-      "url": "https://www.perplexity.ai/page/house-passes-faster-labor-cont-U5OxUl4CQc6TUGBnwlsYsg",
-      "description": "The bipartisan bill would force employers to begin union contract talks within 10 days and impose binding arbitration if negotiations stall.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-10T01:47:51Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-06-29T17:23:44Z",
+  "cached_at": "2026-06-29T18:15:06Z",
   "topics": {
     "top": [
+      {
+        "title": "US, Iran agree to halt strikes as Witkoff, Kushner head to Doha",
+        "url": "https://www.perplexity.ai/page/us-iran-agree-to-halt-strikes-64PAMJx2Rf.Rsm830YMtSg",
+        "description": "Washington says both sides will stand down and reopen the Strait of Hormuz to shipping, but Tehran disputes that formal talks are scheduled.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-29T17:44:45Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "France, Oman agree to jointly clear mines from Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/france-oman-agree-to-jointly-c-JaOMV8pgSeS7S2JZ9EkTTA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-10T02:03:26Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "House passes Faster Labor Contracts Act as 20 Republicans break ranks",
-        "url": "https://www.perplexity.ai/page/house-passes-faster-labor-cont-U5OxUl4CQc6TUGBnwlsYsg",
-        "description": "The bipartisan bill would force employers to begin union contract talks within 10 days and impose binding arbitration if negotiations stall.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-10T01:47:51Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
