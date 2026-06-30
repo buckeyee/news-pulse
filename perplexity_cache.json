@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Russian recruits surviving only minutes at Ukraine's drone-dominated front",
+      "url": "https://www.perplexity.ai/page/russian-recruits-surviving-onl-6c7AScyFR0SDASvl4Qux4Q",
+      "description": "New soldiers last 20 to 35 minutes in combat positions as drone warfare drives losses past 30,000 per month, according to a Foreign Policy essay.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T01:34:46Z",
+      "sourceCount": "32 sources"
+    },
+    {
       "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
       "url": "https://www.perplexity.ai/page/trump-demands-gas-retailers-cu-SehkBwZdR4q_NQ_xC5RbmQ",
       "description": "The president escalated his pressure campaign Monday, threatening retailers who don't lower pump prices despite a DOJ probe already targeting major oil companies.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-11T01:43:15Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "US consumer prices rose 4.2% in May, fastest pace in 3 years",
-      "url": "https://www.perplexity.ai/page/us-consumer-prices-rose-4-2-in-3PdAc796SbK8Pd3T_Kw65w",
-      "description": "The Iran war-driven energy surge pushed headline CPI past 4% for the first time since 2023, though a softer core reading eased fears of broader inflation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-10T12:41:36Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-06-30T02:07:23Z",
+  "cached_at": "2026-06-30T03:22:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Russian recruits surviving only minutes at Ukraine's drone-dominated front",
+        "url": "https://www.perplexity.ai/page/russian-recruits-surviving-onl-6c7AScyFR0SDASvl4Qux4Q",
+        "description": "New soldiers last 20 to 35 minutes in combat positions as drone warfare drives losses past 30,000 per month, according to a Foreign Policy essay.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T01:34:46Z",
+        "sourceCount": "32 sources"
+      },
       {
         "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
         "url": "https://www.perplexity.ai/page/trump-demands-gas-retailers-cu-SehkBwZdR4q_NQ_xC5RbmQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-11T01:43:15Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "US consumer prices rose 4.2% in May, fastest pace in 3 years",
-        "url": "https://www.perplexity.ai/page/us-consumer-prices-rose-4-2-in-3PdAc796SbK8Pd3T_Kw65w",
-        "description": "The Iran war-driven energy surge pushed headline CPI past 4% for the first time since 2023, though a softer core reading eased fears of broader inflation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-10T12:41:36Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
