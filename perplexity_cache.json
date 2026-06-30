@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Mexico, Canada sign USMCA extension as U.S. decision looms",
+      "url": "https://www.perplexity.ai/page/mexico-canada-sign-usmca-exten-IrtismWQSUGX8LT0olRO8w",
+      "description": "Both countries formally endorsed a 16-year renewal of the trade pact, with the U.S. expected to decline ahead of Wednesday's trilateral review.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T16:13:09Z",
+      "sourceCount": "50 sources"
+    },
+    {
       "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
       "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
       "description": "The New Jersey Republican disclosed that depression was behind his nearly four-month absence, during which he missed more than 100 votes.",
@@ -64,13 +73,13 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "USMCA set to miss July 1 renewal deadline, entering annual reviews",
-      "url": "https://www.perplexity.ai/page/usmca-set-to-miss-july-1-renew-LzHKr0e5S4y2lXgp8Wc9fQ",
-      "description": "Canada's former chief trade negotiator says a tariff deal with Washington is unlikely before the U.S. midterm elections.",
+      "title": "San Francisco Archdiocese reaches $395M abuse settlement",
+      "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
+      "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-29T22:48:48Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-06-29T21:37:11Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Iran denies Trump's claim it requested Doha talks",
@@ -91,13 +100,13 @@
       "sourceCount": "41 sources"
     },
     {
-      "title": "San Francisco Archdiocese reaches $395M abuse settlement",
-      "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
-      "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
+      "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
+      "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
+      "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-29T21:37:11Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-06-29T17:41:33Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
@@ -116,15 +125,6 @@
       "topic": "top",
       "pubDate": "2026-06-29T16:18:49Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
-      "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
-      "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-29T17:41:33Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
@@ -1351,9 +1351,18 @@
       "sourceCount": "78 sources"
     }
   ],
-  "cached_at": "2026-06-30T15:39:15Z",
+  "cached_at": "2026-06-30T16:31:43Z",
   "topics": {
     "top": [
+      {
+        "title": "Mexico, Canada sign USMCA extension as U.S. decision looms",
+        "url": "https://www.perplexity.ai/page/mexico-canada-sign-usmca-exten-IrtismWQSUGX8LT0olRO8w",
+        "description": "Both countries formally endorsed a 16-year renewal of the trade pact, with the U.S. expected to decline ahead of Wednesday's trilateral review.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T16:13:09Z",
+        "sourceCount": "50 sources"
+      },
       {
         "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
         "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
@@ -1418,13 +1427,13 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "USMCA set to miss July 1 renewal deadline, entering annual reviews",
-        "url": "https://www.perplexity.ai/page/usmca-set-to-miss-july-1-renew-LzHKr0e5S4y2lXgp8Wc9fQ",
-        "description": "Canada's former chief trade negotiator says a tariff deal with Washington is unlikely before the U.S. midterm elections.",
+        "title": "San Francisco Archdiocese reaches $395M abuse settlement",
+        "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
+        "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-29T22:48:48Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-06-29T21:37:11Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Iran denies Trump's claim it requested Doha talks",
@@ -1445,13 +1454,13 @@
         "sourceCount": "41 sources"
       },
       {
-        "title": "San Francisco Archdiocese reaches $395M abuse settlement",
-        "url": "https://www.perplexity.ai/page/san-francisco-archdiocese-reac-U1Ep8UdNQ8SY13RD4jHRVA",
-        "description": "The agreement resolves more than 500 clergy sexual abuse claims filed under California's AB 218 and establishes a trust for survivors.",
+        "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
+        "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
+        "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-29T21:37:11Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-06-29T17:41:33Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
@@ -1470,15 +1479,6 @@
         "topic": "top",
         "pubDate": "2026-06-29T16:18:49Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "JetBlue plane hits drone at 3,000 feet on approach to JFK",
-        "url": "https://www.perplexity.ai/page/jetblue-plane-hits-drone-at-30-1nA9o7EDRf2l1PRpeCkwkw",
-        "description": "The aircraft landed safely with no damage found, but the incident marks the second drone encounter near a New York-area airport in days.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-29T17:41:33Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
