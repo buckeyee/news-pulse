@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Trump discloses over $1.4B in crypto income in annual filing",
-      "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
-      "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+      "title": "Trump announces first-ever GOP midterm convention in Dallas",
+      "url": "https://www.perplexity.ai/page/trump-announces-first-ever-gop-.uR9sd8BS5K9CJOw_lg_HQ",
+      "description": "The unprecedented Sept. 9-10 gathering aims to rally Republican voters ahead of competitive House and Senate races this November.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-06-30T21:43:23Z",
-      "sourceCount": "74 sources"
+      "pubDate": "2026-06-30T22:48:26Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Venezuela earthquake death toll rises to 1,943 as WHO warns of healthcare crisis",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-06-30T18:12:49Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Trump discloses over $1.4B in crypto income in annual filing",
+      "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
+      "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T21:43:23Z",
+      "sourceCount": "74 sources"
     },
     {
       "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-06-11T16:03:52Z",
       "sourceCount": "12 sources"
-    },
-    {
-      "title": "Trump and allies push to void his two impeachments",
-      "url": "https://www.perplexity.ai/page/trump-and-allies-push-to-void-jBAnWwE3Tquk2St9b0.mPA",
-      "description": "The effort to formally expunge both first-term House impeachment votes from the record would wait until after the November midterm elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-12T00:19:21Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-06-30T22:48:52Z",
+  "cached_at": "2026-06-30T23:21:56Z",
   "topics": {
     "top": [
       {
-        "title": "Trump discloses over $1.4B in crypto income in annual filing",
-        "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
-        "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+        "title": "Trump announces first-ever GOP midterm convention in Dallas",
+        "url": "https://www.perplexity.ai/page/trump-announces-first-ever-gop-.uR9sd8BS5K9CJOw_lg_HQ",
+        "description": "The unprecedented Sept. 9-10 gathering aims to rally Republican voters ahead of competitive House and Senate races this November.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-06-30T21:43:23Z",
-        "sourceCount": "74 sources"
+        "pubDate": "2026-06-30T22:48:26Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Venezuela earthquake death toll rises to 1,943 as WHO warns of healthcare crisis",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-06-30T18:12:49Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Trump discloses over $1.4B in crypto income in annual filing",
+        "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
+        "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T21:43:23Z",
+        "sourceCount": "74 sources"
       },
       {
         "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-11T16:03:52Z",
         "sourceCount": "12 sources"
-      },
-      {
-        "title": "Trump and allies push to void his two impeachments",
-        "url": "https://www.perplexity.ai/page/trump-and-allies-push-to-void-jBAnWwE3Tquk2St9b0.mPA",
-        "description": "The effort to formally expunge both first-term House impeachment votes from the record would wait until after the November midterm elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-12T00:19:21Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
