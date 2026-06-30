@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump discloses over $1.4B in crypto income in annual filing",
+      "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
+      "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T21:43:23Z",
+      "sourceCount": "74 sources"
+    },
+    {
       "title": "Venezuela earthquake death toll rises to 1,943 as WHO warns of healthcare crisis",
       "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-n4k40et8RhOCwgSY.noIYA",
       "description": "The WHO said Tuesday that hospitals are overcrowded with growing surgical backlogs after twin quakes struck Venezuela's northern coast last week.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-12T00:19:21Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "US strikes destroy water reservoirs in Iran, drawing war crime accusations",
-      "url": "https://www.perplexity.ai/page/us-strikes-destroy-water-reser-Slq6gkqpT2yNUrQ3XHscwA",
-      "description": "Iran says US airstrikes on Sirik cut drinking water to thousands, as both sides trade fire in a second day of renewed hostilities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-11T10:43:23Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-06-30T22:15:04Z",
+  "cached_at": "2026-06-30T22:48:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump discloses over $1.4B in crypto income in annual filing",
+        "url": "https://www.perplexity.ai/page/trump-discloses-over-1-4b-in-c-UWmaTKWeQH.m50tXhIfzXg",
+        "description": "The 927-page financial disclosure, released Tuesday, reveals cryptocurrency ventures now dwarf Trump's traditional real estate and golf businesses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T21:43:23Z",
+        "sourceCount": "74 sources"
+      },
       {
         "title": "Venezuela earthquake death toll rises to 1,943 as WHO warns of healthcare crisis",
         "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-n4k40et8RhOCwgSY.noIYA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-12T00:19:21Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "US strikes destroy water reservoirs in Iran, drawing war crime accusations",
-        "url": "https://www.perplexity.ai/page/us-strikes-destroy-water-reser-Slq6gkqpT2yNUrQ3XHscwA",
-        "description": "Iran says US airstrikes on Sirik cut drinking water to thousands, as both sides trade fire in a second day of renewed hostilities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-11T10:43:23Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
