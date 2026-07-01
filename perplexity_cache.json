@@ -280,15 +280,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
-      "url": "https://www.perplexity.ai/page/putin-acknowledges-fuel-shorta-cUjtHCRZTGC0f_6WdOH7hQ",
-      "description": "Russia has banned gasoline and jet fuel exports and is considering a diesel ban as Ukraine's refinery strikes cause widespread fuel shortages.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-29T15:33:56Z",
-      "sourceCount": "34 sources"
-    },
-    {
       "title": "Supreme Court overturns 91-year-old limit on presidential firing power",
       "url": "https://www.perplexity.ai/page/supreme-court-overturns-91-yea-ogErpfurQXSsYBoi5JebpA",
       "description": "The 6-3 ruling in Trump v. Slaughter lets presidents dismiss leaders of independent agencies without cause, reshaping federal regulation.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-06-12T13:57:48Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "Trump marks 80th birthday with UFC fights on White House lawn",
+      "url": "https://www.perplexity.ai/page/trump-marks-80th-birthday-with-3cjw_nkESQCZ2uQMEZ3VVQ",
+      "description": "The president hosts UFC Freedom 250 on the South Lawn as polls show growing public concern over his health and mental acuity.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-14T18:55:06Z",
+      "sourceCount": "56 sources"
     }
   ],
-  "cached_at": "2026-07-01T22:36:28Z",
+  "cached_at": "2026-07-01T23:06:27Z",
   "topics": {
     "top": [
       {
@@ -1632,15 +1632,6 @@
         "topic": "top",
         "pubDate": "2026-06-29T17:41:33Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Putin acknowledges fuel shortages, weighs diesel export ban",
-        "url": "https://www.perplexity.ai/page/putin-acknowledges-fuel-shorta-cUjtHCRZTGC0f_6WdOH7hQ",
-        "description": "Russia has banned gasoline and jet fuel exports and is considering a diesel ban as Ukraine's refinery strikes cause widespread fuel shortages.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-29T15:33:56Z",
-        "sourceCount": "34 sources"
       },
       {
         "title": "Supreme Court overturns 91-year-old limit on presidential firing power",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-06-12T13:57:48Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "Trump marks 80th birthday with UFC fights on White House lawn",
+        "url": "https://www.perplexity.ai/page/trump-marks-80th-birthday-with-3cjw_nkESQCZ2uQMEZ3VVQ",
+        "description": "The president hosts UFC Freedom 250 on the South Lawn as polls show growing public concern over his health and mental acuity.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-14T18:55:06Z",
+        "sourceCount": "56 sources"
       }
     ],
     "tech": [],
