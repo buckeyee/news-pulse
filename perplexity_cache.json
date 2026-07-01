@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "CSIS: Ukraine war casualties top 2 million since 2022",
+      "url": "https://www.perplexity.ai/page/csis-ukraine-war-casualties-to-MMXct9KsQW2bCfYRl3YrDQ",
+      "description": "A new study estimates Russia has suffered 1.4 million casualties, while Ukraine's toll ranges between 525,000 and 625,000.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T23:06:29Z",
+      "sourceCount": "31 sources"
+    },
+    {
+      "title": "Trump reports $1.4B in crypto income as investors lost billions",
+      "url": "https://www.perplexity.ai/page/trump-reports-1-4b-in-crypto-i-RoT_s1T3Thq0vsewNOdl6w",
+      "description": "His 927-page financial disclosure shows total 2025 income of at least $2.2 billion, more than triple what he reported the year before.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T23:02:13Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Venezuela earthquake death toll rises to 2,295 one week after twin quakes",
       "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-BL1ExfWCTpebX_DBjyA9CA",
       "description": "Hopes of finding more survivors faded as hunger and disease threaten millions, with the UN estimating 50,000 people still missing.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-07-01T20:32:40Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Trump renews vow to block China from Panama Canal at Roosevelt library dedication",
-      "url": "https://www.perplexity.ai/page/trump-renews-vow-to-block-chin-L0Yw9VT6S1ud0aLRnIBY5g",
-      "description": "Speaking at the Theodore Roosevelt Presidential Library opening in North Dakota, Trump reprised his second-term push to counter Chinese influence over the waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-01T20:02:28Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Musk denies report that SpaceX showed AI device to investors",
@@ -28,6 +37,15 @@
       "sourceCount": "51 sources"
     },
     {
+      "title": "Trump renews vow to block China from Panama Canal at Roosevelt library dedication",
+      "url": "https://www.perplexity.ai/page/trump-renews-vow-to-block-chin-L0Yw9VT6S1ud0aLRnIBY5g",
+      "description": "Speaking at the Theodore Roosevelt Presidential Library opening in North Dakota, Trump reprised his second-term push to counter Chinese influence over the waterway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T20:02:28Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Two masked climbers scale Empire State Building spire, unfurl peace banner",
       "url": "https://www.perplexity.ai/page/two-masked-climbers-scale-empi-KuaUP7BOSbSxE3pT46gUcQ",
       "description": "One climber appeared to propose to the other on a spire platform before the pair descended as NYPD helicopters hovered nearby.",
@@ -35,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-07-01T17:21:30Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran deal strains U.S.-Saudi ties as MBS hedges on Trump's diplomacy",
-      "url": "https://www.perplexity.ai/page/iran-deal-strains-u-s-saudi-ti-3NlIwE0QREy0EWUDP99_Sw",
-      "description": "Gulf allies fear the U.S.-Iran memorandum of understanding grants Tehran dangerous leverage over the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-01T19:19:23Z",
-      "sourceCount": "52 sources"
     },
     {
       "title": "Russia shuts rail border crossings with Finland, Estonia, Latvia",
@@ -55,6 +64,15 @@
       "sourceCount": "19 sources"
     },
     {
+      "title": "Iran deal strains U.S.-Saudi ties as MBS hedges on Trump's diplomacy",
+      "url": "https://www.perplexity.ai/page/iran-deal-strains-u-s-saudi-ti-3NlIwE0QREy0EWUDP99_Sw",
+      "description": "Gulf allies fear the U.S.-Iran memorandum of understanding grants Tehran dangerous leverage over the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T19:19:23Z",
+      "sourceCount": "52 sources"
+    },
+    {
       "title": "Meta building cloud business to sell excess AI compute",
       "url": "https://www.perplexity.ai/page/meta-building-cloud-business-t-.VdJHezER7.7wQ1nrElf7Q",
       "description": "The social media giant plans to sell access to AI models and raw computing capacity, challenging AWS, Azure, and Google Cloud.",
@@ -62,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-07-01T13:53:17Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "US lifts export controls on Anthropic's Fable 5 AI model",
+      "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
+      "description": "The Commerce Department's move completes the reversal of restrictions that forced Anthropic to take its most advanced AI models offline for nearly three weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T00:11:00Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Trump takes first flight on Qatar-gifted Air Force One",
@@ -82,13 +109,13 @@
       "sourceCount": "56 sources"
     },
     {
-      "title": "US lifts export controls on Anthropic's Fable 5 AI model",
-      "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
-      "description": "The Commerce Department's move completes the reversal of restrictions that forced Anthropic to take its most advanced AI models offline for nearly three weeks.",
+      "title": "House GOP rebels tank defense bill vote over SAVE Act demands",
+      "url": "https://www.perplexity.ai/page/house-gop-rebels-tank-defense-pfcqY9n_RNe1gg8AaH2Ggg",
+      "description": "Fourteen Republicans voted down a procedural rule for the $1.15 trillion NDAA, freezing the House floor days before July 4 recess.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-07-01T00:11:00Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-06-30T19:08:34Z",
+      "sourceCount": "53 sources"
     },
     {
       "title": "DOJ sues Virginia over assault weapons ban on day law takes effect",
@@ -109,24 +136,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "House GOP rebels tank defense bill vote over SAVE Act demands",
-      "url": "https://www.perplexity.ai/page/house-gop-rebels-tank-defense-pfcqY9n_RNe1gg8AaH2Ggg",
-      "description": "Fourteen Republicans voted down a procedural rule for the $1.15 trillion NDAA, freezing the House floor days before July 4 recess.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-30T19:08:34Z",
-      "sourceCount": "53 sources"
-    },
-    {
-      "title": "Trump defends $1.4B crypto income, says 'everybody's profiting'",
-      "url": "https://www.perplexity.ai/page/trump-defends-1-4b-crypto-inco-V5emICKXRkKJGg0dhzVYKA",
-      "description": "The president's 2025 financial disclosure revealed digital assets as his top income source, nearly tripling his reported fortune since 2024.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-01T16:07:55Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "USDA plans $500M aid for small meatpackers amid cattle shortage",
       "url": "https://www.perplexity.ai/page/usda-plans-500m-aid-for-small-0gXmMinpTkeu1lgGuMcw9A",
       "description": "The funding excludes the four largest beef processors and aims to keep smaller slaughterhouses operating as losses mount to $300 per head.",
@@ -134,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-06-30T18:12:49Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
-      "url": "https://www.perplexity.ai/page/supreme-court-agrees-to-decide-RAre9h9kSCWEd6BxSWVpiQ",
-      "description": "The justices granted review in cases from Illinois and Connecticut, setting up the most significant gun rights showdown since the 2022 Bruen decision.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-30T16:43:15Z",
-      "sourceCount": "78 sources"
     },
     {
       "title": "Trump administration declines to extend USMCA trade pact",
@@ -154,6 +154,15 @@
       "sourceCount": "34 sources"
     },
     {
+      "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
+      "url": "https://www.perplexity.ai/page/supreme-court-agrees-to-decide-RAre9h9kSCWEd6BxSWVpiQ",
+      "description": "The justices granted review in cases from Illinois and Connecticut, setting up the most significant gun rights showdown since the 2022 Bruen decision.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T16:43:15Z",
+      "sourceCount": "78 sources"
+    },
+    {
       "title": "Ukraine strikes Moscow satellite facility in 419-drone barrage",
       "url": "https://www.perplexity.ai/page/ukraine-strikes-moscow-satelli-gF81YVkLRv6GDm1nCYu2Zg",
       "description": "Zelensky confirmed drones hit Russia's Dubna Space Communications Center again as a six-month-old baby was killed in the Moscow region.",
@@ -161,15 +170,6 @@
       "topic": "top",
       "pubDate": "2026-06-30T16:15:32Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
-      "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
-      "description": "The New Jersey Republican disclosed that depression was behind his nearly four-month absence, during which he missed more than 100 votes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-30T15:30:01Z",
-      "sourceCount": "57 sources"
     },
     {
       "title": "Fed Chair Warsh vows to hit 2% inflation, rebuffs Trump on rates",
@@ -181,6 +181,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
+      "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
+      "description": "The New Jersey Republican disclosed that depression was behind his nearly four-month absence, during which he missed more than 100 votes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T15:30:01Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "Supreme Court strikes down campaign spending limits",
       "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-cam-Igz_Dvh2TfCXmS3QYZeEKQ",
       "description": "The 6-3 ruling removes 1974 caps on coordinated spending between political parties and candidates ahead of the November midterms.",
@@ -190,15 +199,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "UK signals intervention in Paramount's $110B Warner Bros. deal",
-      "url": "https://www.perplexity.ai/page/uk-signals-intervention-in-par-6Uv.SVjgT3igacMnCLu2fA",
-      "description": "Culture Secretary Lisa Nandy said she is \"minded to intervene\" in the proposed merger, citing concerns about media plurality for British audiences.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-30T13:41:50Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Trump announces first-ever GOP midterm convention in Dallas",
       "url": "https://www.perplexity.ai/page/trump-announces-first-ever-gop-.uR9sd8BS5K9CJOw_lg_HQ",
       "description": "The unprecedented Sept. 9-10 gathering aims to rally Republican voters ahead of competitive House and Senate races this November.",
@@ -206,6 +206,15 @@
       "topic": "top",
       "pubDate": "2026-06-30T22:48:26Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "UK signals intervention in Paramount's $110B Warner Bros. deal",
+      "url": "https://www.perplexity.ai/page/uk-signals-intervention-in-par-6Uv.SVjgT3igacMnCLu2fA",
+      "description": "Culture Secretary Lisa Nandy said she is \"minded to intervene\" in the proposed merger, citing concerns about media plurality for British audiences.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-06-30T13:41:50Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Supreme Court upholds state bans on transgender athletes",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-12T13:57:48Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Trump marks 80th birthday with UFC fights on White House lawn",
-      "url": "https://www.perplexity.ai/page/trump-marks-80th-birthday-with-3cjw_nkESQCZ2uQMEZ3VVQ",
-      "description": "The president hosts UFC Freedom 250 on the South Lawn as polls show growing public concern over his health and mental acuity.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-14T18:55:06Z",
-      "sourceCount": "56 sources"
     }
   ],
-  "cached_at": "2026-07-01T23:06:27Z",
+  "cached_at": "2026-07-01T23:42:55Z",
   "topics": {
     "top": [
+      {
+        "title": "CSIS: Ukraine war casualties top 2 million since 2022",
+        "url": "https://www.perplexity.ai/page/csis-ukraine-war-casualties-to-MMXct9KsQW2bCfYRl3YrDQ",
+        "description": "A new study estimates Russia has suffered 1.4 million casualties, while Ukraine's toll ranges between 525,000 and 625,000.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T23:06:29Z",
+        "sourceCount": "31 sources"
+      },
+      {
+        "title": "Trump reports $1.4B in crypto income as investors lost billions",
+        "url": "https://www.perplexity.ai/page/trump-reports-1-4b-in-crypto-i-RoT_s1T3Thq0vsewNOdl6w",
+        "description": "His 927-page financial disclosure shows total 2025 income of at least $2.2 billion, more than triple what he reported the year before.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T23:02:13Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Venezuela earthquake death toll rises to 2,295 one week after twin quakes",
         "url": "https://www.perplexity.ai/page/venezuela-earthquake-death-tol-BL1ExfWCTpebX_DBjyA9CA",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-07-01T20:32:40Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Trump renews vow to block China from Panama Canal at Roosevelt library dedication",
-        "url": "https://www.perplexity.ai/page/trump-renews-vow-to-block-chin-L0Yw9VT6S1ud0aLRnIBY5g",
-        "description": "Speaking at the Theodore Roosevelt Presidential Library opening in North Dakota, Trump reprised his second-term push to counter Chinese influence over the waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-01T20:02:28Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Musk denies report that SpaceX showed AI device to investors",
@@ -1382,6 +1391,15 @@
         "sourceCount": "51 sources"
       },
       {
+        "title": "Trump renews vow to block China from Panama Canal at Roosevelt library dedication",
+        "url": "https://www.perplexity.ai/page/trump-renews-vow-to-block-chin-L0Yw9VT6S1ud0aLRnIBY5g",
+        "description": "Speaking at the Theodore Roosevelt Presidential Library opening in North Dakota, Trump reprised his second-term push to counter Chinese influence over the waterway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T20:02:28Z",
+        "sourceCount": "44 sources"
+      },
+      {
         "title": "Two masked climbers scale Empire State Building spire, unfurl peace banner",
         "url": "https://www.perplexity.ai/page/two-masked-climbers-scale-empi-KuaUP7BOSbSxE3pT46gUcQ",
         "description": "One climber appeared to propose to the other on a spire platform before the pair descended as NYPD helicopters hovered nearby.",
@@ -1389,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-07-01T17:21:30Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran deal strains U.S.-Saudi ties as MBS hedges on Trump's diplomacy",
-        "url": "https://www.perplexity.ai/page/iran-deal-strains-u-s-saudi-ti-3NlIwE0QREy0EWUDP99_Sw",
-        "description": "Gulf allies fear the U.S.-Iran memorandum of understanding grants Tehran dangerous leverage over the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-01T19:19:23Z",
-        "sourceCount": "52 sources"
       },
       {
         "title": "Russia shuts rail border crossings with Finland, Estonia, Latvia",
@@ -1409,6 +1418,15 @@
         "sourceCount": "19 sources"
       },
       {
+        "title": "Iran deal strains U.S.-Saudi ties as MBS hedges on Trump's diplomacy",
+        "url": "https://www.perplexity.ai/page/iran-deal-strains-u-s-saudi-ti-3NlIwE0QREy0EWUDP99_Sw",
+        "description": "Gulf allies fear the U.S.-Iran memorandum of understanding grants Tehran dangerous leverage over the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T19:19:23Z",
+        "sourceCount": "52 sources"
+      },
+      {
         "title": "Meta building cloud business to sell excess AI compute",
         "url": "https://www.perplexity.ai/page/meta-building-cloud-business-t-.VdJHezER7.7wQ1nrElf7Q",
         "description": "The social media giant plans to sell access to AI models and raw computing capacity, challenging AWS, Azure, and Google Cloud.",
@@ -1416,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-07-01T13:53:17Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "US lifts export controls on Anthropic's Fable 5 AI model",
+        "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
+        "description": "The Commerce Department's move completes the reversal of restrictions that forced Anthropic to take its most advanced AI models offline for nearly three weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T00:11:00Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Trump takes first flight on Qatar-gifted Air Force One",
@@ -1436,13 +1463,13 @@
         "sourceCount": "56 sources"
       },
       {
-        "title": "US lifts export controls on Anthropic's Fable 5 AI model",
-        "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
-        "description": "The Commerce Department's move completes the reversal of restrictions that forced Anthropic to take its most advanced AI models offline for nearly three weeks.",
+        "title": "House GOP rebels tank defense bill vote over SAVE Act demands",
+        "url": "https://www.perplexity.ai/page/house-gop-rebels-tank-defense-pfcqY9n_RNe1gg8AaH2Ggg",
+        "description": "Fourteen Republicans voted down a procedural rule for the $1.15 trillion NDAA, freezing the House floor days before July 4 recess.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-07-01T00:11:00Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-06-30T19:08:34Z",
+        "sourceCount": "53 sources"
       },
       {
         "title": "DOJ sues Virginia over assault weapons ban on day law takes effect",
@@ -1463,24 +1490,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "House GOP rebels tank defense bill vote over SAVE Act demands",
-        "url": "https://www.perplexity.ai/page/house-gop-rebels-tank-defense-pfcqY9n_RNe1gg8AaH2Ggg",
-        "description": "Fourteen Republicans voted down a procedural rule for the $1.15 trillion NDAA, freezing the House floor days before July 4 recess.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-30T19:08:34Z",
-        "sourceCount": "53 sources"
-      },
-      {
-        "title": "Trump defends $1.4B crypto income, says 'everybody's profiting'",
-        "url": "https://www.perplexity.ai/page/trump-defends-1-4b-crypto-inco-V5emICKXRkKJGg0dhzVYKA",
-        "description": "The president's 2025 financial disclosure revealed digital assets as his top income source, nearly tripling his reported fortune since 2024.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-01T16:07:55Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "USDA plans $500M aid for small meatpackers amid cattle shortage",
         "url": "https://www.perplexity.ai/page/usda-plans-500m-aid-for-small-0gXmMinpTkeu1lgGuMcw9A",
         "description": "The funding excludes the four largest beef processors and aims to keep smaller slaughterhouses operating as losses mount to $300 per head.",
@@ -1488,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-06-30T18:12:49Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
-        "url": "https://www.perplexity.ai/page/supreme-court-agrees-to-decide-RAre9h9kSCWEd6BxSWVpiQ",
-        "description": "The justices granted review in cases from Illinois and Connecticut, setting up the most significant gun rights showdown since the 2022 Bruen decision.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-30T16:43:15Z",
-        "sourceCount": "78 sources"
       },
       {
         "title": "Trump administration declines to extend USMCA trade pact",
@@ -1508,6 +1508,15 @@
         "sourceCount": "34 sources"
       },
       {
+        "title": "Supreme Court agrees to decide if AR-15 bans violate Second Amendment",
+        "url": "https://www.perplexity.ai/page/supreme-court-agrees-to-decide-RAre9h9kSCWEd6BxSWVpiQ",
+        "description": "The justices granted review in cases from Illinois and Connecticut, setting up the most significant gun rights showdown since the 2022 Bruen decision.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T16:43:15Z",
+        "sourceCount": "78 sources"
+      },
+      {
         "title": "Ukraine strikes Moscow satellite facility in 419-drone barrage",
         "url": "https://www.perplexity.ai/page/ukraine-strikes-moscow-satelli-gF81YVkLRv6GDm1nCYu2Zg",
         "description": "Zelensky confirmed drones hit Russia's Dubna Space Communications Center again as a six-month-old baby was killed in the Moscow region.",
@@ -1515,15 +1524,6 @@
         "topic": "top",
         "pubDate": "2026-06-30T16:15:32Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
-        "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
-        "description": "The New Jersey Republican disclosed that depression was behind his nearly four-month absence, during which he missed more than 100 votes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-30T15:30:01Z",
-        "sourceCount": "57 sources"
       },
       {
         "title": "Fed Chair Warsh vows to hit 2% inflation, rebuffs Trump on rates",
@@ -1535,6 +1535,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Rep. Tom Kean Jr. returns to Congress, reveals depression diagnosis",
+        "url": "https://www.perplexity.ai/page/rep-tom-kean-jr-returns-to-con-PBvrRAJrT6OfMV9eyLeS5g",
+        "description": "The New Jersey Republican disclosed that depression was behind his nearly four-month absence, during which he missed more than 100 votes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T15:30:01Z",
+        "sourceCount": "57 sources"
+      },
+      {
         "title": "Supreme Court strikes down campaign spending limits",
         "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-cam-Igz_Dvh2TfCXmS3QYZeEKQ",
         "description": "The 6-3 ruling removes 1974 caps on coordinated spending between political parties and candidates ahead of the November midterms.",
@@ -1544,15 +1553,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "UK signals intervention in Paramount's $110B Warner Bros. deal",
-        "url": "https://www.perplexity.ai/page/uk-signals-intervention-in-par-6Uv.SVjgT3igacMnCLu2fA",
-        "description": "Culture Secretary Lisa Nandy said she is \"minded to intervene\" in the proposed merger, citing concerns about media plurality for British audiences.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-30T13:41:50Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Trump announces first-ever GOP midterm convention in Dallas",
         "url": "https://www.perplexity.ai/page/trump-announces-first-ever-gop-.uR9sd8BS5K9CJOw_lg_HQ",
         "description": "The unprecedented Sept. 9-10 gathering aims to rally Republican voters ahead of competitive House and Senate races this November.",
@@ -1560,6 +1560,15 @@
         "topic": "top",
         "pubDate": "2026-06-30T22:48:26Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "UK signals intervention in Paramount's $110B Warner Bros. deal",
+        "url": "https://www.perplexity.ai/page/uk-signals-intervention-in-par-6Uv.SVjgT3igacMnCLu2fA",
+        "description": "Culture Secretary Lisa Nandy said she is \"minded to intervene\" in the proposed merger, citing concerns about media plurality for British audiences.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-06-30T13:41:50Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Supreme Court upholds state bans on transgender athletes",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-12T13:57:48Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Trump marks 80th birthday with UFC fights on White House lawn",
-        "url": "https://www.perplexity.ai/page/trump-marks-80th-birthday-with-3cjw_nkESQCZ2uQMEZ3VVQ",
-        "description": "The president hosts UFC Freedom 250 on the South Lawn as polls show growing public concern over his health and mental acuity.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-14T18:55:06Z",
-        "sourceCount": "56 sources"
       }
     ],
     "tech": [],
