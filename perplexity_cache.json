@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Musk denies report that SpaceX showed AI device to investors",
+      "url": "https://www.perplexity.ai/page/musk-denies-report-that-spacex-yRSprrEmSMaePthsqiAPdA",
+      "description": "The Wall Street Journal reported SpaceX presented a slim, AI-powered handset prototype to investors ahead of its IPO, but Musk called the claim \"utterly false.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T19:52:14Z",
+      "sourceCount": "51 sources"
+    },
+    {
       "title": "Trump takes first flight on Qatar-gifted Air Force One",
       "url": "https://www.perplexity.ai/page/trump-takes-first-flight-on-qa-8PR8ZzO5SOCD34baiT0gQg",
       "description": "The president flew the converted Boeing 747-8 to North Dakota for the Theodore Roosevelt Presidential Library dedication.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-12T13:52:06Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "Charlie Javice seeks Trump pardon for JPMorgan fraud conviction",
-      "url": "https://www.perplexity.ai/page/charlie-javice-seeks-trump-par-3r8hXUEiRGKnXT_Mwo1NZw",
-      "description": "The Frank founder, sentenced to 85 months for fabricating customer data to sell her startup for $175 million, has reached out to Trump allies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-14T18:03:14Z",
-      "sourceCount": "50 sources"
     }
   ],
-  "cached_at": "2026-07-01T20:00:59Z",
+  "cached_at": "2026-07-01T20:44:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Musk denies report that SpaceX showed AI device to investors",
+        "url": "https://www.perplexity.ai/page/musk-denies-report-that-spacex-yRSprrEmSMaePthsqiAPdA",
+        "description": "The Wall Street Journal reported SpaceX presented a slim, AI-powered handset prototype to investors ahead of its IPO, but Musk called the claim \"utterly false.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T19:52:14Z",
+        "sourceCount": "51 sources"
+      },
       {
         "title": "Trump takes first flight on Qatar-gifted Air Force One",
         "url": "https://www.perplexity.ai/page/trump-takes-first-flight-on-qa-8PR8ZzO5SOCD34baiT0gQg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-12T13:52:06Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Charlie Javice seeks Trump pardon for JPMorgan fraud conviction",
-        "url": "https://www.perplexity.ai/page/charlie-javice-seeks-trump-par-3r8hXUEiRGKnXT_Mwo1NZw",
-        "description": "The Frank founder, sentenced to 85 months for fabricating customer data to sell her startup for $175 million, has reached out to Trump allies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-14T18:03:14Z",
-        "sourceCount": "50 sources"
       }
     ],
     "tech": [],
