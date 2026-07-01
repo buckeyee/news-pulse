@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Meta building cloud business to sell excess AI compute",
+      "url": "https://www.perplexity.ai/page/meta-building-cloud-business-t-.VdJHezER7.7wQ1nrElf7Q",
+      "description": "The social media giant plans to sell access to AI models and raw computing capacity, challenging AWS, Azure, and Google Cloud.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T13:53:17Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Iran says nuclear talks won't advance until Lebanon commitments are met",
+      "url": "https://www.perplexity.ai/page/iran-says-nuclear-talks-won-t-SmxUdOVKRamQ87s3.lLo7w",
+      "description": "Chief negotiator Ghalibaf called enrichment a \"non-negotiable\" red line as Netanyahu vowed to keep troops in southern Lebanon indefinitely.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-01T10:58:18Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "US lifts export controls on Anthropic's Fable 5 AI model",
       "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
       "description": "The Commerce Department's move completes the reversal of restrictions that forced Anthropic to take its most advanced AI models offline for nearly three weeks.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-11T12:32:56Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Boelter pleads guilty to killing Minnesota lawmaker Hortman",
-      "url": "https://www.perplexity.ai/page/boelter-pleads-guilty-to-killi-DE.BmQeISXmWBOg9F_06Rg",
-      "description": "The plea deal calls for two life sentences plus 40 years after federal prosecutors agreed not to seek the death penalty.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-11T16:03:52Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Trump and allies push to void his two impeachments",
-      "url": "https://www.perplexity.ai/page/trump-and-allies-push-to-void-jBAnWwE3Tquk2St9b0.mPA",
-      "description": "The effort to formally expunge both first-term House impeachment votes from the record would wait until after the November midterm elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-12T00:19:21Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-07-01T13:20:03Z",
+  "cached_at": "2026-07-01T14:12:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Meta building cloud business to sell excess AI compute",
+        "url": "https://www.perplexity.ai/page/meta-building-cloud-business-t-.VdJHezER7.7wQ1nrElf7Q",
+        "description": "The social media giant plans to sell access to AI models and raw computing capacity, challenging AWS, Azure, and Google Cloud.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T13:53:17Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Iran says nuclear talks won't advance until Lebanon commitments are met",
+        "url": "https://www.perplexity.ai/page/iran-says-nuclear-talks-won-t-SmxUdOVKRamQ87s3.lLo7w",
+        "description": "Chief negotiator Ghalibaf called enrichment a \"non-negotiable\" red line as Netanyahu vowed to keep troops in southern Lebanon indefinitely.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-01T10:58:18Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "US lifts export controls on Anthropic's Fable 5 AI model",
         "url": "https://www.perplexity.ai/page/us-lifts-export-controls-on-an-e8sPSbuOTp6usO9JcrQFTA",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-11T12:32:56Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Boelter pleads guilty to killing Minnesota lawmaker Hortman",
-        "url": "https://www.perplexity.ai/page/boelter-pleads-guilty-to-killi-DE.BmQeISXmWBOg9F_06Rg",
-        "description": "The plea deal calls for two life sentences plus 40 years after federal prosecutors agreed not to seek the death penalty.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-11T16:03:52Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Trump and allies push to void his two impeachments",
-        "url": "https://www.perplexity.ai/page/trump-and-allies-push-to-void-jBAnWwE3Tquk2St9b0.mPA",
-        "description": "The effort to formally expunge both first-term House impeachment votes from the record would wait until after the November midterm elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-12T00:19:21Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
