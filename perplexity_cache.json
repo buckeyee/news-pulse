@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Security guard pulled alive 8 days after Venezuela quakes",
+      "url": "https://www.perplexity.ai/page/security-guard-pulled-alive-8-IShEw2J6St2glwNOa251bg",
+      "description": "Hernán Alberto Gil Flores was extracted from a collapsed shopping center basement in La Guaira after surviving in an air pocket since June 24.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-02T16:46:17Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Police fire tear gas as Albania 'Flamingo Revolution' protest turns violent",
+      "url": "https://www.perplexity.ai/page/police-fire-tear-gas-as-albani-b6.DfYrFQNOWdWJtT1LP3g",
+      "description": "Clashes outside parliament in Tirana injured 12 officers and led to 18 detentions as \"Flamingo Revolution\" protesters demanded PM Rama's resignation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-02T16:29:00Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Anthropic in talks with Samsung to build custom AI chip",
       "url": "https://www.perplexity.ai/page/anthropic-in-talks-with-samsun-Wu92CQvLRNunRw5ntV5STw",
       "description": "The discussions focus on Samsung's 2nm process technology, though no detailed design or manufacturing work has begun, according to The Information.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-13T13:19:47Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump White House secretly weighed suspending habeas corpus, book reveals",
-      "url": "https://www.perplexity.ai/page/trump-white-house-secretly-wei-dHQvco7tQSKNCYYmlhvZQQ",
-      "description": "Secret memos show officials debated limiting immigrants' habeas corpus rights more extensively than previously known, according to a New York Times report.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-15T12:03:48Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "UAE agreed to unlock billions for Iran, sources say",
-      "url": "https://www.perplexity.ai/page/uae-agreed-to-unlock-billions-4MTKB0wVT86DMmj9dBuYkQ",
-      "description": "Reuters reported that the UAE agreed to release up to $10 billion to halt Iranian attacks, though the UAE categorically denied the claims.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-13T10:27:57Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-07-02T16:16:45Z",
+  "cached_at": "2026-07-02T18:07:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Security guard pulled alive 8 days after Venezuela quakes",
+        "url": "https://www.perplexity.ai/page/security-guard-pulled-alive-8-IShEw2J6St2glwNOa251bg",
+        "description": "Hernán Alberto Gil Flores was extracted from a collapsed shopping center basement in La Guaira after surviving in an air pocket since June 24.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-02T16:46:17Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Police fire tear gas as Albania 'Flamingo Revolution' protest turns violent",
+        "url": "https://www.perplexity.ai/page/police-fire-tear-gas-as-albani-b6.DfYrFQNOWdWJtT1LP3g",
+        "description": "Clashes outside parliament in Tirana injured 12 officers and led to 18 detentions as \"Flamingo Revolution\" protesters demanded PM Rama's resignation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-02T16:29:00Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Anthropic in talks with Samsung to build custom AI chip",
         "url": "https://www.perplexity.ai/page/anthropic-in-talks-with-samsun-Wu92CQvLRNunRw5ntV5STw",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-13T13:19:47Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump White House secretly weighed suspending habeas corpus, book reveals",
-        "url": "https://www.perplexity.ai/page/trump-white-house-secretly-wei-dHQvco7tQSKNCYYmlhvZQQ",
-        "description": "Secret memos show officials debated limiting immigrants' habeas corpus rights more extensively than previously known, according to a New York Times report.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-15T12:03:48Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "UAE agreed to unlock billions for Iran, sources say",
-        "url": "https://www.perplexity.ai/page/uae-agreed-to-unlock-billions-4MTKB0wVT86DMmj9dBuYkQ",
-        "description": "Reuters reported that the UAE agreed to release up to $10 billion to halt Iranian attacks, though the UAE categorically denied the claims.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-13T10:27:57Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
