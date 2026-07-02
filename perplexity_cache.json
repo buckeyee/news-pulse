@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "USMNT beats Bosnia 2-0 for first World Cup knockout win since 2002",
+      "url": "https://www.perplexity.ai/page/usmnt-beats-bosnia-2-0-for-fir-gP_7ADv1RBC7tOGAJ.Mong",
+      "description": "Folarin Balogun scored the opener before a red card, and Malik Tillman's free kick sealed a Round of 16 date with Belgium.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-02T02:28:29Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "US in advanced talks with AI firms on voluntary model release standards",
       "url": "https://www.perplexity.ai/page/us-in-advanced-talks-with-ai-f-n.jao9u0Syijzzz8gBp3iw",
       "description": "The discussions aim to operationalize Trump's June executive order, which created a framework for pre-release government review of frontier AI models.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-12T17:28:06Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Trump aides fear reporters obtained Situation Room tapes",
-      "url": "https://www.perplexity.ai/page/trump-aides-fear-reporters-obt-FNNkZAJqTkmqoy_MaA72Pg",
-      "description": "Axios reports White House officials suspect Haberman and Swan acquired secret audio from sensitive meetings for their book \"Regime Change,\" due June 23.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-14T20:18:18Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-07-02T02:12:33Z",
+  "cached_at": "2026-07-02T06:11:27Z",
   "topics": {
     "top": [
+      {
+        "title": "USMNT beats Bosnia 2-0 for first World Cup knockout win since 2002",
+        "url": "https://www.perplexity.ai/page/usmnt-beats-bosnia-2-0-for-fir-gP_7ADv1RBC7tOGAJ.Mong",
+        "description": "Folarin Balogun scored the opener before a red card, and Malik Tillman's free kick sealed a Round of 16 date with Belgium.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-02T02:28:29Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "US in advanced talks with AI firms on voluntary model release standards",
         "url": "https://www.perplexity.ai/page/us-in-advanced-talks-with-ai-f-n.jao9u0Syijzzz8gBp3iw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-12T17:28:06Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Trump aides fear reporters obtained Situation Room tapes",
-        "url": "https://www.perplexity.ai/page/trump-aides-fear-reporters-obt-FNNkZAJqTkmqoy_MaA72Pg",
-        "description": "Axios reports White House officials suspect Haberman and Swan acquired secret audio from sensitive meetings for their book \"Regime Change,\" due June 23.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-14T20:18:18Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
