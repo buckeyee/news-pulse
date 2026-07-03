@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
+      "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
+      "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-03T18:04:20Z",
+      "sourceCount": "54 sources"
+    },
+    {
       "title": "Houthis threaten Saudi airports over Yemeni airspace dispute",
       "url": "https://www.perplexity.ai/page/houthis-threaten-saudi-airport-sc.uKlr_TNiRuM4UBc9sVA",
       "description": "The warning came after Saudi fighter jets allegedly tried to stop an Iranian civilian plane from landing at Sanaa airport.",
@@ -44,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-07-03T13:45:54Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Interpol names Ukrainian woman in Monaco bombing",
+      "url": "https://www.perplexity.ai/page/interpol-names-ukrainian-woman-JUI0O_5fQUiqEXDOuYZMIw",
+      "description": "Anastasiia Berezovska, 39, faces a Red Notice and attempted murder charges for the parcel bomb attack that critically wounded a Ukrainian tycoon and his family.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-03T12:02:19Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Iran prepares massive Khamenei funeral, warns US and Israel against any attack",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-06-16T22:45:00Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Senate blocks bid to overturn Trump immigration appeals rule",
-      "url": "https://www.perplexity.ai/page/senate-blocks-bid-to-overturn-sGFWtTIHRz22q0aQ.t1xvw",
-      "description": "Senators voted 46-48 to reject a procedural motion on the resolution, leaving the fast-track deportation appeals process in place.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-16T20:28:52Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Federal judge blocks Idaho transgender bathroom law before July 1 start",
-      "url": "https://www.perplexity.ai/page/federal-judge-blocks-idaho-tra-.G2P4VmARTyPn21Uf9OheQ",
-      "description": "Chief U.S. District Judge Amanda Brailsford ruled the law is likely unconstitutionally vague, halting enforcement statewide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-16T20:16:45Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-07-03T16:56:06Z",
+  "cached_at": "2026-07-03T18:18:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
+        "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
+        "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-03T18:04:20Z",
+        "sourceCount": "54 sources"
+      },
       {
         "title": "Houthis threaten Saudi airports over Yemeni airspace dispute",
         "url": "https://www.perplexity.ai/page/houthis-threaten-saudi-airport-sc.uKlr_TNiRuM4UBc9sVA",
@@ -1398,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-07-03T13:45:54Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Interpol names Ukrainian woman in Monaco bombing",
+        "url": "https://www.perplexity.ai/page/interpol-names-ukrainian-woman-JUI0O_5fQUiqEXDOuYZMIw",
+        "description": "Anastasiia Berezovska, 39, faces a Red Notice and attempted murder charges for the parcel bomb attack that critically wounded a Ukrainian tycoon and his family.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-03T12:02:19Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Iran prepares massive Khamenei funeral, warns US and Israel against any attack",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-16T22:45:00Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Senate blocks bid to overturn Trump immigration appeals rule",
-        "url": "https://www.perplexity.ai/page/senate-blocks-bid-to-overturn-sGFWtTIHRz22q0aQ.t1xvw",
-        "description": "Senators voted 46-48 to reject a procedural motion on the resolution, leaving the fast-track deportation appeals process in place.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-16T20:28:52Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Federal judge blocks Idaho transgender bathroom law before July 1 start",
-        "url": "https://www.perplexity.ai/page/federal-judge-blocks-idaho-tra-.G2P4VmARTyPn21Uf9OheQ",
-        "description": "Chief U.S. District Judge Amanda Brailsford ruled the law is likely unconstitutionally vague, halting enforcement statewide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-16T20:16:45Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
