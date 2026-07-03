@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
-      "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
-      "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+      "title": "Record heat forces closure of Trump's State Fair on National Mall",
+      "url": "https://www.perplexity.ai/page/record-heat-forces-closure-of-1wLJCeSHRDmxB8HhT_JVbw",
+      "description": "The Great American State Fair shut down Friday as temperatures hit 103 with a heat index near 111, one day before the July 4 celebration.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-07-03T18:04:20Z",
-      "sourceCount": "54 sources"
+      "pubDate": "2026-07-03T18:10:46Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Houthis threaten Saudi airports over Yemeni airspace dispute",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-07-03T16:33:39Z",
       "sourceCount": "36 sources"
+    },
+    {
+      "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
+      "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
+      "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-03T18:04:20Z",
+      "sourceCount": "54 sources"
     },
     {
       "title": "Brussels rejects UK bid for decision-making role in EU",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-06-16T23:10:45Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Brazil's top court convicts Eduardo Bolsonaro for coercion",
-      "url": "https://www.perplexity.ai/page/brazil-s-top-court-convicts-ed-2ogwhGPzRAO6aBsrvnBkoA",
-      "description": "The former lawmaker was sentenced to over four years in prison for lobbying the U.S. to intervene in his father's coup trial.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-16T22:45:00Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-07-03T18:18:16Z",
+  "cached_at": "2026-07-03T19:54:42Z",
   "topics": {
     "top": [
       {
-        "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
-        "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
-        "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+        "title": "Record heat forces closure of Trump's State Fair on National Mall",
+        "url": "https://www.perplexity.ai/page/record-heat-forces-closure-of-1wLJCeSHRDmxB8HhT_JVbw",
+        "description": "The Great American State Fair shut down Friday as temperatures hit 103 with a heat index near 111, one day before the July 4 celebration.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-07-03T18:04:20Z",
-        "sourceCount": "54 sources"
+        "pubDate": "2026-07-03T18:10:46Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Houthis threaten Saudi airports over Yemeni airspace dispute",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-07-03T16:33:39Z",
         "sourceCount": "36 sources"
+      },
+      {
+        "title": "Trump privately weighing clemency for Diddy Combs, CBS News reports",
+        "url": "https://www.perplexity.ai/page/trump-privately-weighing-cleme-mD2ja_ilSQOfGdQsguq5uQ",
+        "description": "The president is meeting Friday to discuss pardons ahead of the Fourth of July, with Combs among those under consideration.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-03T18:04:20Z",
+        "sourceCount": "54 sources"
       },
       {
         "title": "Brussels rejects UK bid for decision-making role in EU",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-16T23:10:45Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Brazil's top court convicts Eduardo Bolsonaro for coercion",
-        "url": "https://www.perplexity.ai/page/brazil-s-top-court-convicts-ed-2ogwhGPzRAO6aBsrvnBkoA",
-        "description": "The former lawmaker was sentenced to over four years in prison for lobbying the U.S. to intervene in his father's coup trial.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-16T22:45:00Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
