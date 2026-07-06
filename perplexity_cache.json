@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Ukraine failed to intercept any ballistic missiles in deadly Kyiv attack",
+      "url": "https://www.perplexity.ai/page/ukraine-failed-to-intercept-an-pNU2gN3WR9K6bBbBYyH_DQ",
+      "description": "Russia's overnight strike killed at least 18 people as Zelensky heads to the NATO summit in Ankara to plead for Patriot deliveries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-06T13:20:46Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "China test-fires ballistic missile from sub in South Pacific",
+      "url": "https://www.perplexity.ai/page/china-test-fires-ballistic-mis-eCkrWJu0ROOnHn48IUrLDw",
+      "description": "The launch, which carried a dummy warhead, marks China's first submarine-based missile test into the Pacific and drew protests from regional allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-06T10:16:33Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "NATO leaders converge on Ankara as Turkey's alliance role expands",
+      "url": "https://www.perplexity.ai/page/nato-leaders-converge-on-ankar-qIfGqHbTRaavDt80hsQcdA",
+      "description": "The two-day summit starting Monday spotlights Turkey's growing military clout, with France opening the door to a major air defense sale.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-06T10:13:39Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Iran's hardliners demand revenge as Khamenei funeral procession moves through Tehran",
+      "url": "https://www.perplexity.ai/page/iran-s-hardliners-demand-reven-Bx_eTqpqSCGmIXOrY1OnIg",
+      "description": "Tehran's airspace was shut down Monday as millions joined the procession and military commanders vowed to avenge the slain leader.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-06T10:08:47Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "Trump called FIFA to lift Balogun's World Cup ban, report says",
       "url": "https://www.perplexity.ai/page/trump-called-fifa-to-lift-balo-ZG69f6ABRfKmp.Z5UApLaA",
       "description": "The New York Times reported that Trump phoned FIFA's Infantino on Wednesday to review the U.S. striker's red card suspension before Sunday's reversal.",
@@ -1313,47 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-06-22T15:36:23Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Trump says Cuba operation could mirror Venezuela raid",
-      "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
-      "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-20T13:13:19Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
-      "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
-      "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-19T23:13:36Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran agrees to invite IAEA to inspect nuclear sites, Witkoff tells Congress",
-      "url": "https://www.perplexity.ai/page/iran-agrees-to-invite-iaea-to-UoHFQQbDS6evGR9dxSNdmQ",
-      "description": "U.S. envoy Steve Witkoff briefed lawmakers Thursday that Tehran will also allow American nuclear inspectors to visit under the deal signed this week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-18T20:44:39Z",
-      "sourceCount": "50 sources"
-    },
-    {
-      "title": "Macron says Trump changed his mind on Ukraine after G7",
-      "url": "https://www.perplexity.ai/page/macron-says-trump-changed-his-6Dbsh9bsRoaAluI0tEU_.g",
-      "description": "The French president said Trump arrived at the Evian summit believing Ukraine would lose but left with a shifted assessment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-19T13:24:20Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-07-06T10:59:29Z",
+  "cached_at": "2026-07-06T14:33:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Ukraine failed to intercept any ballistic missiles in deadly Kyiv attack",
+        "url": "https://www.perplexity.ai/page/ukraine-failed-to-intercept-an-pNU2gN3WR9K6bBbBYyH_DQ",
+        "description": "Russia's overnight strike killed at least 18 people as Zelensky heads to the NATO summit in Ankara to plead for Patriot deliveries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-06T13:20:46Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "China test-fires ballistic missile from sub in South Pacific",
+        "url": "https://www.perplexity.ai/page/china-test-fires-ballistic-mis-eCkrWJu0ROOnHn48IUrLDw",
+        "description": "The launch, which carried a dummy warhead, marks China's first submarine-based missile test into the Pacific and drew protests from regional allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-06T10:16:33Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "NATO leaders converge on Ankara as Turkey's alliance role expands",
+        "url": "https://www.perplexity.ai/page/nato-leaders-converge-on-ankar-qIfGqHbTRaavDt80hsQcdA",
+        "description": "The two-day summit starting Monday spotlights Turkey's growing military clout, with France opening the door to a major air defense sale.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-06T10:13:39Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Iran's hardliners demand revenge as Khamenei funeral procession moves through Tehran",
+        "url": "https://www.perplexity.ai/page/iran-s-hardliners-demand-reven-Bx_eTqpqSCGmIXOrY1OnIg",
+        "description": "Tehran's airspace was shut down Monday as millions joined the procession and military commanders vowed to avenge the slain leader.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-06T10:08:47Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "Trump called FIFA to lift Balogun's World Cup ban, report says",
         "url": "https://www.perplexity.ai/page/trump-called-fifa-to-lift-balo-ZG69f6ABRfKmp.Z5UApLaA",
@@ -2667,42 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-22T15:36:23Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Trump says Cuba operation could mirror Venezuela raid",
-        "url": "https://www.perplexity.ai/page/trump-says-cuba-operation-coul-hf6ZpJ5gQCymKhAPhtZWpQ",
-        "description": "The president told Axios that action against Havana is \"possible\" while praising Secretary of State Rubio's role in talks with Cuba.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-20T13:13:19Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Iran eyes $105B annual oil windfall as US deal lifts export barriers",
-        "url": "https://www.perplexity.ai/page/iran-eyes-105b-annual-oil-wind-NlH9KvIMTXW3bbjnbj2F1w",
-        "description": "Tehran has also laid groundwork to charge transit fees on ships passing through the Strait of Hormuz once a 60-day grace period ends.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-19T23:13:36Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran agrees to invite IAEA to inspect nuclear sites, Witkoff tells Congress",
-        "url": "https://www.perplexity.ai/page/iran-agrees-to-invite-iaea-to-UoHFQQbDS6evGR9dxSNdmQ",
-        "description": "U.S. envoy Steve Witkoff briefed lawmakers Thursday that Tehran will also allow American nuclear inspectors to visit under the deal signed this week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-18T20:44:39Z",
-        "sourceCount": "50 sources"
-      },
-      {
-        "title": "Macron says Trump changed his mind on Ukraine after G7",
-        "url": "https://www.perplexity.ai/page/macron-says-trump-changed-his-6Dbsh9bsRoaAluI0tEU_.g",
-        "description": "The French president said Trump arrived at the Evian summit believing Ukraine would lose but left with a shifted assessment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-19T13:24:20Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
