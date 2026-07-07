@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Le Pen says she will run for France’s presidency in 2027",
+      "url": "https://www.perplexity.ai/page/le-pen-says-she-will-run-for-f-TUReU.0wQ46qpVlS4q_rFQ",
+      "description": "A Paris appeals court upheld her embezzlement conviction but reduced her office ban, making her immediately eligible to run next April.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T18:38:58Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Sanders urges Platner to quit Maine Senate race",
+      "url": "https://www.perplexity.ai/page/sanders-urges-platner-to-quit-TvGThL5bQaiu_NHb9WULtg",
+      "description": "The Vermont senator is the latest Democrat to abandon the nominee after a former partner alleged he sexually assaulted her in 2021.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T18:11:42Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
+      "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
+      "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T16:44:03Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Housing bill set to become law as Trump's deadline to act expires",
       "url": "https://www.perplexity.ai/page/housing-bill-set-to-become-law-iXe9YVgMR02eH05xZmK3JA",
       "description": "The 21st Century ROAD to Housing Act will take effect without the president's signature after he refused to sign the landmark legislation.",
@@ -64,15 +91,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "French court upholds Le Pen conviction but opens path to 2027 presidential race",
-      "url": "https://www.perplexity.ai/page/french-court-upholds-le-pen-co-2wQJOzZuREeOdQmHDJJ5bg",
-      "description": "The ruling requires an electronic ankle bracelet Le Pen has vowed to reject, leaving her candidacy in doubt despite a shortened office ban.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-07T13:22:56Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Oil tanker catches fire after projectile strike near Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-tanker-catches-fire-after-U4SBIFJETHqp03ZnqQIhTQ",
       "description": "The vessel was hit off Oman's coast on Monday, according to the UKMTO, days after Iran warned tankers to follow its approved routes or face a \"forceful response.\"",
@@ -80,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-07-07T02:54:28Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "NATO launches $40B counter-drone push at Ankara summit",
-      "url": "https://www.perplexity.ai/page/nato-launches-40b-counter-dron-RPfcqL.8Q0eAdh7kGMEMxQ",
-      "description": "Allies announced the Drone Edge initiative and tens of billions in arms deals as leaders seek to show Trump that defense pledges are becoming real capabilities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-07T12:57:54Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "Belgium routs USMNT 4-1 to end US World Cup run",
@@ -100,6 +109,15 @@
       "sourceCount": "24 sources"
     },
     {
+      "title": "NATO launches $40B counter-drone push at Ankara summit",
+      "url": "https://www.perplexity.ai/page/nato-launches-40b-counter-dron-RPfcqL.8Q0eAdh7kGMEMxQ",
+      "description": "Allies announced the Drone Edge initiative and tens of billions in arms deals as leaders seek to show Trump that defense pledges are becoming real capabilities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T12:57:54Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "McConnell's office offers no update three weeks after hospitalization",
       "url": "https://www.perplexity.ai/page/mcconnell-s-office-offers-no-u-ppGhtan0SeqatvPfILZ3ug",
       "description": "The 84-year-old Kentucky senator's prolonged silence has fueled speculation, including an unverified claim from a Trump ally that he is \"brain dead.\"",
@@ -107,15 +125,6 @@
       "topic": "top",
       "pubDate": "2026-07-07T01:38:06Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Judge rules Jan. 6 pardons don't cover pipe bomb suspect",
-      "url": "https://www.perplexity.ai/page/judge-rules-jan-6-pardons-don-4Yx23pC.RjeM0s23GauEOQ",
-      "description": "U.S. District Judge Amir Ali found that Trump's clemency applied only to those already convicted, not to Brian Cole Jr., who was charged later.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-06T22:32:47Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "CISA now using Anthropic's Mythos to audit government code",
@@ -127,22 +136,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Democratic leaders call on Platner to quit Maine Senate race",
-      "url": "https://www.perplexity.ai/page/democratic-leaders-call-on-pla-FRvJRI1MQRGtxIiPnYz7Zg",
-      "description": "Democratic leaders demanded Graham Platner end his candidacy after a woman accused him of sexual assault in a Politico report.",
+      "title": "Judge rules Jan. 6 pardons don't cover pipe bomb suspect",
+      "url": "https://www.perplexity.ai/page/judge-rules-jan-6-pardons-don-4Yx23pC.RjeM0s23GauEOQ",
+      "description": "U.S. District Judge Amir Ali found that Trump's clemency applied only to those already convicted, not to Brian Cole Jr., who was charged later.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-07-06T23:47:45Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "22 state AGs formally oppose Trump's proposed tariffs on 59 countries",
-      "url": "https://www.perplexity.ai/page/22-state-ags-formally-oppose-t-YDLkRy24QRWR0NuPSOwQbw",
-      "description": "The coalition filed comments on Monday's deadline, arguing the administration lacks legal authority ahead of Tuesday's USTR public hearing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-06T22:07:33Z",
-      "sourceCount": "49 sources"
+      "pubDate": "2026-07-06T22:32:47Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Hamas dissolves Gaza governing body, offers power to UN-backed panel",
@@ -161,6 +161,15 @@
       "topic": "top",
       "pubDate": "2026-07-06T16:37:45Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "22 state AGs formally oppose Trump's proposed tariffs on 59 countries",
+      "url": "https://www.perplexity.ai/page/22-state-ags-formally-oppose-t-YDLkRy24QRWR0NuPSOwQbw",
+      "description": "The coalition filed comments on Monday's deadline, arguing the administration lacks legal authority ahead of Tuesday's USTR public hearing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-06T22:07:33Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "Ukraine strikes Russia's largest oil refinery in Omsk",
@@ -1340,20 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-06-20T17:22:38Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "EU leaders commit to 'decisively' ramping up defense by 2030",
-      "url": "https://www.perplexity.ai/page/eu-leaders-commit-to-decisivel-rv7Dh6JPRbCYNEnBWHGOUQ",
-      "description": "The Brussels summit also saw clashes over the bloc's long-term budget and debate on tougher trade measures against China.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-20T13:23:39Z",
-      "sourceCount": "54 sources"
     }
   ],
-  "cached_at": "2026-07-07T17:26:37Z",
+  "cached_at": "2026-07-07T19:21:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Le Pen says she will run for France’s presidency in 2027",
+        "url": "https://www.perplexity.ai/page/le-pen-says-she-will-run-for-f-TUReU.0wQ46qpVlS4q_rFQ",
+        "description": "A Paris appeals court upheld her embezzlement conviction but reduced her office ban, making her immediately eligible to run next April.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T18:38:58Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Sanders urges Platner to quit Maine Senate race",
+        "url": "https://www.perplexity.ai/page/sanders-urges-platner-to-quit-TvGThL5bQaiu_NHb9WULtg",
+        "description": "The Vermont senator is the latest Democrat to abandon the nominee after a former partner alleged he sexually assaulted her in 2021.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T18:11:42Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
+        "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
+        "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T16:44:03Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Housing bill set to become law as Trump's deadline to act expires",
         "url": "https://www.perplexity.ai/page/housing-bill-set-to-become-law-iXe9YVgMR02eH05xZmK3JA",
@@ -1418,15 +1445,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "French court upholds Le Pen conviction but opens path to 2027 presidential race",
-        "url": "https://www.perplexity.ai/page/french-court-upholds-le-pen-co-2wQJOzZuREeOdQmHDJJ5bg",
-        "description": "The ruling requires an electronic ankle bracelet Le Pen has vowed to reject, leaving her candidacy in doubt despite a shortened office ban.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-07T13:22:56Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Oil tanker catches fire after projectile strike near Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-tanker-catches-fire-after-U4SBIFJETHqp03ZnqQIhTQ",
         "description": "The vessel was hit off Oman's coast on Monday, according to the UKMTO, days after Iran warned tankers to follow its approved routes or face a \"forceful response.\"",
@@ -1434,15 +1452,6 @@
         "topic": "top",
         "pubDate": "2026-07-07T02:54:28Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "NATO launches $40B counter-drone push at Ankara summit",
-        "url": "https://www.perplexity.ai/page/nato-launches-40b-counter-dron-RPfcqL.8Q0eAdh7kGMEMxQ",
-        "description": "Allies announced the Drone Edge initiative and tens of billions in arms deals as leaders seek to show Trump that defense pledges are becoming real capabilities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-07T12:57:54Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "Belgium routs USMNT 4-1 to end US World Cup run",
@@ -1454,6 +1463,15 @@
         "sourceCount": "24 sources"
       },
       {
+        "title": "NATO launches $40B counter-drone push at Ankara summit",
+        "url": "https://www.perplexity.ai/page/nato-launches-40b-counter-dron-RPfcqL.8Q0eAdh7kGMEMxQ",
+        "description": "Allies announced the Drone Edge initiative and tens of billions in arms deals as leaders seek to show Trump that defense pledges are becoming real capabilities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T12:57:54Z",
+        "sourceCount": "43 sources"
+      },
+      {
         "title": "McConnell's office offers no update three weeks after hospitalization",
         "url": "https://www.perplexity.ai/page/mcconnell-s-office-offers-no-u-ppGhtan0SeqatvPfILZ3ug",
         "description": "The 84-year-old Kentucky senator's prolonged silence has fueled speculation, including an unverified claim from a Trump ally that he is \"brain dead.\"",
@@ -1461,15 +1479,6 @@
         "topic": "top",
         "pubDate": "2026-07-07T01:38:06Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Judge rules Jan. 6 pardons don't cover pipe bomb suspect",
-        "url": "https://www.perplexity.ai/page/judge-rules-jan-6-pardons-don-4Yx23pC.RjeM0s23GauEOQ",
-        "description": "U.S. District Judge Amir Ali found that Trump's clemency applied only to those already convicted, not to Brian Cole Jr., who was charged later.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-06T22:32:47Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "CISA now using Anthropic's Mythos to audit government code",
@@ -1481,22 +1490,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Democratic leaders call on Platner to quit Maine Senate race",
-        "url": "https://www.perplexity.ai/page/democratic-leaders-call-on-pla-FRvJRI1MQRGtxIiPnYz7Zg",
-        "description": "Democratic leaders demanded Graham Platner end his candidacy after a woman accused him of sexual assault in a Politico report.",
+        "title": "Judge rules Jan. 6 pardons don't cover pipe bomb suspect",
+        "url": "https://www.perplexity.ai/page/judge-rules-jan-6-pardons-don-4Yx23pC.RjeM0s23GauEOQ",
+        "description": "U.S. District Judge Amir Ali found that Trump's clemency applied only to those already convicted, not to Brian Cole Jr., who was charged later.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-07-06T23:47:45Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "22 state AGs formally oppose Trump's proposed tariffs on 59 countries",
-        "url": "https://www.perplexity.ai/page/22-state-ags-formally-oppose-t-YDLkRy24QRWR0NuPSOwQbw",
-        "description": "The coalition filed comments on Monday's deadline, arguing the administration lacks legal authority ahead of Tuesday's USTR public hearing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-06T22:07:33Z",
-        "sourceCount": "49 sources"
+        "pubDate": "2026-07-06T22:32:47Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Hamas dissolves Gaza governing body, offers power to UN-backed panel",
@@ -1515,6 +1515,15 @@
         "topic": "top",
         "pubDate": "2026-07-06T16:37:45Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "22 state AGs formally oppose Trump's proposed tariffs on 59 countries",
+        "url": "https://www.perplexity.ai/page/22-state-ags-formally-oppose-t-YDLkRy24QRWR0NuPSOwQbw",
+        "description": "The coalition filed comments on Monday's deadline, arguing the administration lacks legal authority ahead of Tuesday's USTR public hearing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-06T22:07:33Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "Ukraine strikes Russia's largest oil refinery in Omsk",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-20T17:22:38Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "EU leaders commit to 'decisively' ramping up defense by 2030",
-        "url": "https://www.perplexity.ai/page/eu-leaders-commit-to-decisivel-rv7Dh6JPRbCYNEnBWHGOUQ",
-        "description": "The Brussels summit also saw clashes over the bloc's long-term budget and debate on tougher trade measures against China.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-20T13:23:39Z",
-        "sourceCount": "54 sources"
       }
     ],
     "tech": [],
