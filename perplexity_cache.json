@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "US strikes over 80 Iran targets, revokes oil waiver",
-      "url": "https://www.perplexity.ai/page/us-strikes-over-80-iran-target-jN4d_14wSI2nb4EYl84lAw",
-      "description": "The Trump administration hit Iranian military sites along the southern coast and reimposed oil sanctions after Tehran attacked three commercial vessels in the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-08T02:57:10Z",
-      "sourceCount": "45 sources"
-    },
-    {
       "title": "ICE agent fatally shoots man during Houston operation",
       "url": "https://www.perplexity.ai/page/ice-agent-fatally-shoots-man-d-mhLQkEL.R0WC3xwtcFyXBQ",
       "description": "The FBI is investigating after an ICE officer killed Lorenzo Salgado Araujo, a Mexican national who ICE alleges rammed an agency vehicle.",
@@ -17,15 +8,6 @@
       "topic": "top",
       "pubDate": "2026-07-08T02:30:09Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Former Pfizer tower in Midtown remains unstable after columns buckle, forcing mass evacuations",
-      "url": "https://www.perplexity.ai/page/former-pfizer-tower-in-midtown-W7dg88j1T2CXn7mty1J7rA",
-      "description": "Mayor Mamdani called it \"an extremely serious situation\" as engineers used drones to monitor the still-shifting building.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-07T20:52:01Z",
-      "sourceCount": "20 sources"
     },
     {
       "title": "FEMA threatens to withhold terrorism funds over election rules",
@@ -37,6 +19,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Former Pfizer tower in Midtown remains unstable after columns buckle, forcing mass evacuations",
+      "url": "https://www.perplexity.ai/page/former-pfizer-tower-in-midtown-W7dg88j1T2CXn7mty1J7rA",
+      "description": "Mayor Mamdani called it \"an extremely serious situation\" as engineers used drones to monitor the still-shifting building.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T20:52:01Z",
+      "sourceCount": "20 sources"
+    },
+    {
       "title": "GOP leaders say they've spoken with McConnell amid health speculation",
       "url": "https://www.perplexity.ai/page/gop-leaders-say-they-ve-spoken-wsqFRbI9TkSRhbAP9VrruA",
       "description": "Senate leaders Thune and Barrasso say they held phone calls with the hospitalized senator, describing him as \"fully engaged.\"",
@@ -44,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-07-07T19:38:40Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "US revokes Iran oil waivers after tanker attacks in Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/us-revokes-iran-oil-waivers-af-QctmGRrJQxuPc0H5RxLLcw",
+      "description": "The move reimposed sanctions on Iranian crude exports just two weeks after they were lifted as part of a fragile diplomatic framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T19:14:27Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Le Pen says she will run for France’s presidency in 2027",
@@ -55,15 +55,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
-      "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
-      "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-07-07T16:44:03Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Sanders urges Platner to quit Maine Senate race",
       "url": "https://www.perplexity.ai/page/sanders-urges-platner-to-quit-TvGThL5bQaiu_NHb9WULtg",
       "description": "The Vermont senator is the latest Democrat to abandon the nominee after a former partner alleged he sexually assaulted her in 2021.",
@@ -71,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-07-07T18:11:42Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
+      "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
+      "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-07T16:44:03Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Housing bill set to become law as Trump's deadline to act expires",
@@ -1351,18 +1351,9 @@
       "sourceCount": "107 sources"
     }
   ],
-  "cached_at": "2026-07-08T04:28:09Z",
+  "cached_at": "2026-07-08T07:07:25Z",
   "topics": {
     "top": [
-      {
-        "title": "US strikes over 80 Iran targets, revokes oil waiver",
-        "url": "https://www.perplexity.ai/page/us-strikes-over-80-iran-target-jN4d_14wSI2nb4EYl84lAw",
-        "description": "The Trump administration hit Iranian military sites along the southern coast and reimposed oil sanctions after Tehran attacked three commercial vessels in the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-08T02:57:10Z",
-        "sourceCount": "45 sources"
-      },
       {
         "title": "ICE agent fatally shoots man during Houston operation",
         "url": "https://www.perplexity.ai/page/ice-agent-fatally-shoots-man-d-mhLQkEL.R0WC3xwtcFyXBQ",
@@ -1371,15 +1362,6 @@
         "topic": "top",
         "pubDate": "2026-07-08T02:30:09Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Former Pfizer tower in Midtown remains unstable after columns buckle, forcing mass evacuations",
-        "url": "https://www.perplexity.ai/page/former-pfizer-tower-in-midtown-W7dg88j1T2CXn7mty1J7rA",
-        "description": "Mayor Mamdani called it \"an extremely serious situation\" as engineers used drones to monitor the still-shifting building.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-07T20:52:01Z",
-        "sourceCount": "20 sources"
       },
       {
         "title": "FEMA threatens to withhold terrorism funds over election rules",
@@ -1391,6 +1373,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Former Pfizer tower in Midtown remains unstable after columns buckle, forcing mass evacuations",
+        "url": "https://www.perplexity.ai/page/former-pfizer-tower-in-midtown-W7dg88j1T2CXn7mty1J7rA",
+        "description": "Mayor Mamdani called it \"an extremely serious situation\" as engineers used drones to monitor the still-shifting building.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T20:52:01Z",
+        "sourceCount": "20 sources"
+      },
+      {
         "title": "GOP leaders say they've spoken with McConnell amid health speculation",
         "url": "https://www.perplexity.ai/page/gop-leaders-say-they-ve-spoken-wsqFRbI9TkSRhbAP9VrruA",
         "description": "Senate leaders Thune and Barrasso say they held phone calls with the hospitalized senator, describing him as \"fully engaged.\"",
@@ -1398,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-07-07T19:38:40Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "US revokes Iran oil waivers after tanker attacks in Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/us-revokes-iran-oil-waivers-af-QctmGRrJQxuPc0H5RxLLcw",
+        "description": "The move reimposed sanctions on Iranian crude exports just two weeks after they were lifted as part of a fragile diplomatic framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T19:14:27Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Le Pen says she will run for France’s presidency in 2027",
@@ -1409,15 +1409,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
-        "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
-        "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-07-07T16:44:03Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Sanders urges Platner to quit Maine Senate race",
         "url": "https://www.perplexity.ai/page/sanders-urges-platner-to-quit-TvGThL5bQaiu_NHb9WULtg",
         "description": "The Vermont senator is the latest Democrat to abandon the nominee after a former partner alleged he sexually assaulted her in 2021.",
@@ -1425,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-07-07T18:11:42Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Lawmakers to press Bessent on Russia sanctions at NATO summit",
+        "url": "https://www.perplexity.ai/page/lawmakers-to-press-bessent-on-ss5P6ugqSX25OockTPqCiw",
+        "description": "A bipartisan congressional delegation plans to confront the Treasury secretary at a Tuesday dinner in Ankara over the stalled Sanctioning Russia Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-07T16:44:03Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Housing bill set to become law as Trump's deadline to act expires",
