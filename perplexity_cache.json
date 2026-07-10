@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Victor Marx wins Colorado GOP primary for governor",
+      "url": "https://www.perplexity.ai/page/victor-marx-wins-colorado-gop-8gun4h18QPKenN76zMBUMg",
+      "description": "The Marine veteran and ministry founder will face Attorney General Phil Weiser in the November general election.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-09T23:52:04Z",
+      "sourceCount": "33 sources"
+    },
+    {
+      "title": "China, Russia, Iran amplify US backlash to AI data centers",
+      "url": "https://www.perplexity.ai/page/china-russia-iran-amplify-us-b-rxQdrZRATIKqrTDN5w7ZBQ",
+      "description": "State media outlets exploited local concerns over energy costs and environmental impacts to undermine American AI infrastructure, according to new reports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-09T22:58:28Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Zelenskyy says China warned Russia against nuclear use",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-china-warned-ru-tuu6ddJiRGiVmUh7IwVllw",
+      "description": "The Ukrainian president said Beijing issued an \"ultimatum\"-style warning to Moscow, marking what he called China's firmest stance since the invasion began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-09T22:49:11Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Israel warned U.S. of fresh Iranian plot to kill Trump",
       "url": "https://www.perplexity.ai/page/israel-warned-u-s-of-fresh-ira-V_Lmi11rTfWAmf.ZYy7M4A",
       "description": "The intelligence emerged as U.S.-Iran hostilities escalated sharply, with both sides trading strikes after Trump declared an eight-week ceasefire over.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-06-25T01:21:33Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Supreme Court lets border agents strip green card holders' status over unproven charges",
-      "url": "https://www.perplexity.ai/page/supreme-court-lets-border-agen-muBtjLICSyO8qGUqyeXMSw",
-      "description": "Justice Jackson warned the 6-3 ruling hands the government a \"massive blank check\" to put returning legal residents into immigration limbo.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-23T16:22:58Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Mexico seeks to restart oil shipments to Cuba amid crisis",
-      "url": "https://www.perplexity.ai/page/mexico-seeks-to-restart-oil-sh-i.nWtp_2Samtzi462MHlEA",
-      "description": "President Sheinbaum said Mexico will work to resume fuel deliveries as Cuba faces a humanitarian emergency with hospitals and schools shutting down.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-23T02:10:42Z",
-      "sourceCount": "34 sources"
-    },
-    {
-      "title": "Trump Jr. met Adani in India before DOJ dropped charges",
-      "url": "https://www.perplexity.ai/page/trump-jr-met-adani-in-india-be-DbH5W_FmQF6GxKR5bl1uyw",
-      "description": "Bloomberg reported that the previously undisclosed meeting took place in Ahmedabad last November, while Adani faced U.S. bribery charges later dismissed in May.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-23T12:54:47Z",
-      "sourceCount": "48 sources"
     }
   ],
-  "cached_at": "2026-07-09T22:38:05Z",
+  "cached_at": "2026-07-10T01:58:58Z",
   "topics": {
     "top": [
+      {
+        "title": "Victor Marx wins Colorado GOP primary for governor",
+        "url": "https://www.perplexity.ai/page/victor-marx-wins-colorado-gop-8gun4h18QPKenN76zMBUMg",
+        "description": "The Marine veteran and ministry founder will face Attorney General Phil Weiser in the November general election.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-09T23:52:04Z",
+        "sourceCount": "33 sources"
+      },
+      {
+        "title": "China, Russia, Iran amplify US backlash to AI data centers",
+        "url": "https://www.perplexity.ai/page/china-russia-iran-amplify-us-b-rxQdrZRATIKqrTDN5w7ZBQ",
+        "description": "State media outlets exploited local concerns over energy costs and environmental impacts to undermine American AI infrastructure, according to new reports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-09T22:58:28Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Zelenskyy says China warned Russia against nuclear use",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-china-warned-ru-tuu6ddJiRGiVmUh7IwVllw",
+        "description": "The Ukrainian president said Beijing issued an \"ultimatum\"-style warning to Moscow, marking what he called China's firmest stance since the invasion began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-09T22:49:11Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Israel warned U.S. of fresh Iranian plot to kill Trump",
         "url": "https://www.perplexity.ai/page/israel-warned-u-s-of-fresh-ira-V_Lmi11rTfWAmf.ZYy7M4A",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-25T01:21:33Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Supreme Court lets border agents strip green card holders' status over unproven charges",
-        "url": "https://www.perplexity.ai/page/supreme-court-lets-border-agen-muBtjLICSyO8qGUqyeXMSw",
-        "description": "Justice Jackson warned the 6-3 ruling hands the government a \"massive blank check\" to put returning legal residents into immigration limbo.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-23T16:22:58Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Mexico seeks to restart oil shipments to Cuba amid crisis",
-        "url": "https://www.perplexity.ai/page/mexico-seeks-to-restart-oil-sh-i.nWtp_2Samtzi462MHlEA",
-        "description": "President Sheinbaum said Mexico will work to resume fuel deliveries as Cuba faces a humanitarian emergency with hospitals and schools shutting down.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-23T02:10:42Z",
-        "sourceCount": "34 sources"
-      },
-      {
-        "title": "Trump Jr. met Adani in India before DOJ dropped charges",
-        "url": "https://www.perplexity.ai/page/trump-jr-met-adani-in-india-be-DbH5W_FmQF6GxKR5bl1uyw",
-        "description": "Bloomberg reported that the previously undisclosed meeting took place in Ahmedabad last November, while Adani faced U.S. bribery charges later dismissed in May.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-23T12:54:47Z",
-        "sourceCount": "48 sources"
       }
     ],
     "tech": [],
