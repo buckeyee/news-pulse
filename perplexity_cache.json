@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Meta pulls Muse Image AI tool after backlash over Instagram photo use",
+      "url": "https://www.perplexity.ai/page/meta-pulls-muse-image-ai-tool-eT3jCDJ2Rqel1577vTb4Rg",
+      "description": "The company admitted it \"missed the mark\" just three days after launching the feature, which let anyone generate AI images from public accounts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-10T23:59:55Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "US sets Saturday deadline for Iran to open strait as deal pessimism grows",
+      "url": "https://www.perplexity.ai/page/us-sets-saturday-deadline-for-D4nY7suvQCe7uYHRS0fHlA",
+      "description": "The Trump administration says Iran must vow to reopen the strait or face consequences, as hopes for a nuclear deal fade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-10T23:56:17Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "Witnesses dispute ICE account of fatal Houston shooting",
       "url": "https://www.perplexity.ai/page/witnesses-dispute-ice-account-I60apczqTvCF7BKIpamfCw",
       "description": "Houston's mayor directed the police chief to investigate after passengers in the van contradicted ICE's self-defense claim.",
@@ -17,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-07-10T22:13:49Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "Pressure grows on Yale to reject Trump admin deal",
+      "url": "https://www.perplexity.ai/page/pressure-grows-on-yale-to-reje-idW1q32iQQKAv3y73lQHXA",
+      "description": "Faculty, students, alumni and Sen. Blumenthal are urging the university to reject any deal over admissions discrimination allegations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-10T23:36:22Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Platner formally exits Maine Senate race, triggering Democratic scramble",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-06-24T02:47:32Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Kim commissions North Korea's largest warship, pledges nuclear navy",
-      "url": "https://www.perplexity.ai/page/kim-commissions-north-korea-s-1ukqbkh_QzSylF313x92nA",
-      "description": "The 5,000-ton destroyer Choe Hyon entered service Tuesday after 14 months of testing, as Kim outlined plans for 10,000-ton warships.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-24T02:12:49Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Supreme Court rules Trump can end TPS for Haitians, Syrians",
-      "url": "https://www.perplexity.ai/page/supreme-court-rules-trump-can-j04vDRajRQeKQUJH4.dm4w",
-      "description": "The 6-3 decision strips protections from over 350,000 immigrants and could affect up to 1.3 million TPS holders nationwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-25T15:28:58Z",
-      "sourceCount": "74 sources"
-    },
-    {
-      "title": "Alan Wilson wins South Carolina GOP governor runoff",
-      "url": "https://www.perplexity.ai/page/alan-wilson-wins-south-carolin-nHGKSMdtTy.UErk62xp8dw",
-      "description": "Wilson defeated Lt. Gov. Pamela Evette by a wide margin after Trump hedged his endorsement by backing both candidates.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-24T01:19:52Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-07-10T23:35:42Z",
+  "cached_at": "2026-07-11T01:05:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Meta pulls Muse Image AI tool after backlash over Instagram photo use",
+        "url": "https://www.perplexity.ai/page/meta-pulls-muse-image-ai-tool-eT3jCDJ2Rqel1577vTb4Rg",
+        "description": "The company admitted it \"missed the mark\" just three days after launching the feature, which let anyone generate AI images from public accounts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-10T23:59:55Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "US sets Saturday deadline for Iran to open strait as deal pessimism grows",
+        "url": "https://www.perplexity.ai/page/us-sets-saturday-deadline-for-D4nY7suvQCe7uYHRS0fHlA",
+        "description": "The Trump administration says Iran must vow to reopen the strait or face consequences, as hopes for a nuclear deal fade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-10T23:56:17Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "Witnesses dispute ICE account of fatal Houston shooting",
         "url": "https://www.perplexity.ai/page/witnesses-dispute-ice-account-I60apczqTvCF7BKIpamfCw",
@@ -1371,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-07-10T22:13:49Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "Pressure grows on Yale to reject Trump admin deal",
+        "url": "https://www.perplexity.ai/page/pressure-grows-on-yale-to-reje-idW1q32iQQKAv3y73lQHXA",
+        "description": "Faculty, students, alumni and Sen. Blumenthal are urging the university to reject any deal over admissions discrimination allegations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-10T23:36:22Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Platner formally exits Maine Senate race, triggering Democratic scramble",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-24T02:47:32Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Kim commissions North Korea's largest warship, pledges nuclear navy",
-        "url": "https://www.perplexity.ai/page/kim-commissions-north-korea-s-1ukqbkh_QzSylF313x92nA",
-        "description": "The 5,000-ton destroyer Choe Hyon entered service Tuesday after 14 months of testing, as Kim outlined plans for 10,000-ton warships.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-24T02:12:49Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Supreme Court rules Trump can end TPS for Haitians, Syrians",
-        "url": "https://www.perplexity.ai/page/supreme-court-rules-trump-can-j04vDRajRQeKQUJH4.dm4w",
-        "description": "The 6-3 decision strips protections from over 350,000 immigrants and could affect up to 1.3 million TPS holders nationwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-25T15:28:58Z",
-        "sourceCount": "74 sources"
-      },
-      {
-        "title": "Alan Wilson wins South Carolina GOP governor runoff",
-        "url": "https://www.perplexity.ai/page/alan-wilson-wins-south-carolin-nHGKSMdtTy.UErk62xp8dw",
-        "description": "Wilson defeated Lt. Gov. Pamela Evette by a wide margin after Trump hedged his endorsement by backing both candidates.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-24T01:19:52Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
