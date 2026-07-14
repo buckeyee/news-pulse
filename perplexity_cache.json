@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Big Banks crush earnings estimates on trading and dealmaking boom",
+      "url": "https://www.perplexity.ai/page/big-banks-crush-earnings-estim-evKNIePoQ0a6eiGEt2fTig",
+      "description": "The largest U.S. banks reported sharply higher second-quarter profits Tuesday, driven by surging stock trading and a rebound in investment banking activity.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-14T13:24:15Z",
+      "sourceCount": "110 sources"
+    },
+    {
+      "title": "UAE frees 55 Iranian fishermen amid Gulf war tensions",
+      "url": "https://www.perplexity.ai/page/uae-frees-55-iranian-fishermen-bSTsN8zhQaizzJhV47V75A",
+      "description": "The rare diplomatic gesture comes as U.S. strikes on Iran continue and Tehran attacks tankers in the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-14T13:17:12Z",
+      "sourceCount": "46 sources"
+    },
+    {
+      "title": "US inflation falls to 3.5% in June, beating forecasts",
+      "url": "https://www.perplexity.ai/page/us-inflation-falls-to-3-5-in-j-gw9GWFTqSROppLdaWG7wfQ",
+      "description": "The largest single-month deceleration since April 2020 was fueled by a roughly 10% drop in gasoline prices after a temporary US-Iran deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-07-14T13:09:05Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "UAE says Iranian missiles struck two tankers in Hormuz, killing one",
       "url": "https://www.perplexity.ai/page/uae-says-iranian-missiles-stru-z4c1X3XuTsyDWE3aD0BcMw",
       "description": "The UAE Ministry of Defence said cruise missiles hit the tankers Mombasa and Al Bahiyah, killing an Indian crew member and wounding eight others.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-06-30T22:48:26Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Texas approves Bible readings for 5M public school students",
-      "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
-      "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T20:53:40Z",
-      "sourceCount": "33 sources"
-    },
-    {
-      "title": "Mistrial declared in Palisades Fire arson trial",
-      "url": "https://www.perplexity.ai/page/mistrial-declared-in-palisades-4VawOSybTRyaJ6CGN7CYWw",
-      "description": "Jurors voted 10-2 for acquittal but could not reach unanimity, forcing prosecutors to decide whether to retry the case.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-26T17:02:45Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
-      "url": "https://www.perplexity.ai/page/trump-demands-gas-retailers-cu-SehkBwZdR4q_NQ_xC5RbmQ",
-      "description": "The president escalated his pressure campaign Monday, threatening retailers who don't lower pump prices despite a DOJ probe already targeting major oil companies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-06-30T00:28:07Z",
-      "sourceCount": "77 sources"
     }
   ],
-  "cached_at": "2026-07-14T05:48:46Z",
+  "cached_at": "2026-07-14T14:28:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Big Banks crush earnings estimates on trading and dealmaking boom",
+        "url": "https://www.perplexity.ai/page/big-banks-crush-earnings-estim-evKNIePoQ0a6eiGEt2fTig",
+        "description": "The largest U.S. banks reported sharply higher second-quarter profits Tuesday, driven by surging stock trading and a rebound in investment banking activity.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-14T13:24:15Z",
+        "sourceCount": "110 sources"
+      },
+      {
+        "title": "UAE frees 55 Iranian fishermen amid Gulf war tensions",
+        "url": "https://www.perplexity.ai/page/uae-frees-55-iranian-fishermen-bSTsN8zhQaizzJhV47V75A",
+        "description": "The rare diplomatic gesture comes as U.S. strikes on Iran continue and Tehran attacks tankers in the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-14T13:17:12Z",
+        "sourceCount": "46 sources"
+      },
+      {
+        "title": "US inflation falls to 3.5% in June, beating forecasts",
+        "url": "https://www.perplexity.ai/page/us-inflation-falls-to-3-5-in-j-gw9GWFTqSROppLdaWG7wfQ",
+        "description": "The largest single-month deceleration since April 2020 was fueled by a roughly 10% drop in gasoline prices after a temporary US-Iran deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-07-14T13:09:05Z",
+        "sourceCount": "58 sources"
+      },
       {
         "title": "UAE says Iranian missiles struck two tankers in Hormuz, killing one",
         "url": "https://www.perplexity.ai/page/uae-says-iranian-missiles-stru-z4c1X3XuTsyDWE3aD0BcMw",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-06-30T22:48:26Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Texas approves Bible readings for 5M public school students",
-        "url": "https://www.perplexity.ai/page/texas-approves-bible-readings-vSM_y9jNQCCY0bLX41jyKw",
-        "description": "The State Board of Education voted Friday to make Texas the first state to require Bible passages in its public school reading curriculum.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T20:53:40Z",
-        "sourceCount": "33 sources"
-      },
-      {
-        "title": "Mistrial declared in Palisades Fire arson trial",
-        "url": "https://www.perplexity.ai/page/mistrial-declared-in-palisades-4VawOSybTRyaJ6CGN7CYWw",
-        "description": "Jurors voted 10-2 for acquittal but could not reach unanimity, forcing prosecutors to decide whether to retry the case.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-26T17:02:45Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump demands gas retailers cut prices to $2.50, warns of 'big problems'",
-        "url": "https://www.perplexity.ai/page/trump-demands-gas-retailers-cu-SehkBwZdR4q_NQ_xC5RbmQ",
-        "description": "The president escalated his pressure campaign Monday, threatening retailers who don't lower pump prices despite a DOJ probe already targeting major oil companies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-06-30T00:28:07Z",
-        "sourceCount": "77 sources"
       }
     ],
     "tech": [],
