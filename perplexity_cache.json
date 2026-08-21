@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Cuba says US sanctions undercut the economic reforms Washington long demanded",
+      "url": "https://www.perplexity.ai/page/cuba-says-us-sanctions-undercu-F._u9qOvRlWuaPci5HWh2g",
+      "description": "Havana's UN ambassador questioned why Washington keeps escalating penalties even as Cuba opens its economy to private investment and foreign business.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-21T17:06:30Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "NATO's eastern allies offer to cover US base costs amid troop review",
       "url": "https://www.perplexity.ai/page/nato-s-eastern-allies-offer-to-7E19MPR2Q_WTRxK9oWtZZw",
       "description": "Frontline states are preparing a cost-sharing bid ahead of a meeting with a Pentagon official next week, hoping to keep American forces in the region.",
@@ -1331,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-08-05T16:12:44Z",
       "sourceCount": "10 sources"
-    },
-    {
-      "title": "Johnson calls Miller abuse allegations 'serious' but defers to Ethics Committee",
-      "url": "https://www.perplexity.ai/page/johnson-calls-miller-abuse-all-4hjV9XtoSK6yzb4DiGKneA",
-      "description": "The speaker distanced himself from the Ohio Republican's claim of support, saying \"it's not my business\" to intervene in members' personal matters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-05T14:48:37Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-08-21T17:15:26Z",
+  "cached_at": "2026-08-21T17:49:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Cuba says US sanctions undercut the economic reforms Washington long demanded",
+        "url": "https://www.perplexity.ai/page/cuba-says-us-sanctions-undercu-F._u9qOvRlWuaPci5HWh2g",
+        "description": "Havana's UN ambassador questioned why Washington keeps escalating penalties even as Cuba opens its economy to private investment and foreign business.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-21T17:06:30Z",
+        "sourceCount": "21 sources"
+      },
       {
         "title": "NATO's eastern allies offer to cover US base costs amid troop review",
         "url": "https://www.perplexity.ai/page/nato-s-eastern-allies-offer-to-7E19MPR2Q_WTRxK9oWtZZw",
@@ -2676,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-08-05T16:12:44Z",
         "sourceCount": "10 sources"
-      },
-      {
-        "title": "Johnson calls Miller abuse allegations 'serious' but defers to Ethics Committee",
-        "url": "https://www.perplexity.ai/page/johnson-calls-miller-abuse-all-4hjV9XtoSK6yzb4DiGKneA",
-        "description": "The speaker distanced himself from the Ohio Republican's claim of support, saying \"it's not my business\" to intervene in members' personal matters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-05T14:48:37Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
