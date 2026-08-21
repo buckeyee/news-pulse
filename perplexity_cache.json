@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Supreme Court lets White House ballroom construction continue",
+      "url": "https://www.perplexity.ai/page/supreme-court-lets-white-house-JmUwv8NKRs._n10oZ54VBg",
+      "description": "Chief Justice Roberts froze a lower court order that would have halted the $400 million project at midnight, buying time for the justices to review the case.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-21T18:17:36Z",
+      "sourceCount": "9 sources"
+    },
+    {
       "title": "Trump threatens $5B lawsuit against think tank over National Guard report",
       "url": "https://www.perplexity.ai/page/trump-threatens-5b-lawsuit-aga-624WQLPBRK6LKKgaGmUG7w",
       "description": "CAP CEO Neera Tanden called the threatened defamation suit \"baseless\" and said the organization would \"neither cower nor bend.\"",
@@ -325,15 +334,6 @@
       "sourceCount": "72 sources"
     },
     {
-      "title": "Trump tours White House helipad, ballroom sites as Supreme Court weighs halt",
-      "url": "https://www.perplexity.ai/page/trump-tours-white-house-helipa-PZ34nXulQR2Xv4nwjlQqtg",
-      "description": "The president briefed reporters Wednesday amid a legal fight over the $400 million ballroom, which an appeals court ordered stopped on Aug. 7.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-19T15:45:50Z",
-      "sourceCount": "9 sources"
-    },
-    {
       "title": "Germany condemns Ben-Gvir, drops opposition to EU sanctions",
       "url": "https://www.perplexity.ai/page/germany-condemns-ben-gvir-drop-KAoENhe6Tj.NTYikGCBy2w",
       "description": "Berlin had previously blocked EU sanctions against the Israeli minister but now backs action after his call for nightly killings in Gaza.",
@@ -343,15 +343,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Merck, Moderna mRNA cancer vaccine succeeds in Phase 3 trial",
-      "url": "https://www.perplexity.ai/page/merck-moderna-mrna-cancer-vacc-7RZhsG1SST6b9Nk.qa5SKA",
-      "description": "Intismeran, a personalized mRNA therapy, reduced melanoma recurrence when added to Keytruda, marking the first positive Phase 3 result for a neoantigen cancer treatment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-19T10:52:29Z",
-      "sourceCount": "7 sources"
-    },
-    {
       "title": "EU leaders back ICC after US sanctions its president",
       "url": "https://www.perplexity.ai/page/eu-leaders-back-icc-after-us-s-NVLEP_wnQgmlGeJ99nmijw",
       "description": "Half of the ICC's judges are now under U.S. sanctions as the Trump administration escalates its campaign against the Hague-based court.",
@@ -359,6 +350,15 @@
       "topic": "top",
       "pubDate": "2026-08-19T13:28:39Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Merck, Moderna mRNA cancer vaccine succeeds in Phase 3 trial",
+      "url": "https://www.perplexity.ai/page/merck-moderna-mrna-cancer-vacc-7RZhsG1SST6b9Nk.qa5SKA",
+      "description": "Intismeran, a personalized mRNA therapy, reduced melanoma recurrence when added to Keytruda, marking the first positive Phase 3 result for a neoantigen cancer treatment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-19T10:52:29Z",
+      "sourceCount": "7 sources"
     },
     {
       "title": "Unitree Robotics surges 460% in Shanghai debut",
@@ -1279,13 +1279,13 @@
       "sourceCount": "20 sources"
     },
     {
-      "title": "Appeals court blocks Trump's White House ballroom project",
-      "url": "https://www.perplexity.ai/page/appeals-court-blocks-trump-s-w-mz2PHip9Tc.WZzU16xKXvg",
-      "description": "A 2-1 panel ruled Trump exceeded his authority and must get congressional approval before continuing above-ground construction.",
+      "title": "Trump's Board of Peace awards first Gaza construction contract",
+      "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-awards-p_fqS1r4RQKxistqZZA7dw",
+      "description": "The military outpost for 150 Moroccan troops would be built in Israeli-controlled territory as part of a planned international stabilization force.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-08-07T15:25:18Z",
-      "sourceCount": "17 sources"
+      "pubDate": "2026-08-07T14:53:37Z",
+      "sourceCount": "19 sources"
     },
     {
       "title": "Warren demands answers on planned changes to inflation data",
@@ -1306,13 +1306,13 @@
       "sourceCount": "12 sources"
     },
     {
-      "title": "Trump's Board of Peace awards first Gaza construction contract",
-      "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-awards-p_fqS1r4RQKxistqZZA7dw",
-      "description": "The military outpost for 150 Moroccan troops would be built in Israeli-controlled territory as part of a planned international stabilization force.",
+      "title": "Trump orders leak probe over munitions shortage reports",
+      "url": "https://www.perplexity.ai/page/trump-orders-leak-probe-over-m-5ORRf0qcSbq5sWYPC04rrg",
+      "description": "The president denied weapons shortfalls amid the Iran war and vowed to jail those who disclosed military inventory data he called \"treasonous.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-08-07T14:53:37Z",
-      "sourceCount": "19 sources"
+      "pubDate": "2026-08-06T23:43:37Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "Kim Yo Jong warns of military response to Japan's first Tomahawk test",
@@ -1333,18 +1333,27 @@
       "sourceCount": "7 sources"
     },
     {
-      "title": "Trump orders leak probe over munitions shortage reports",
-      "url": "https://www.perplexity.ai/page/trump-orders-leak-probe-over-m-5ORRf0qcSbq5sWYPC04rrg",
-      "description": "The president denied weapons shortfalls amid the Iran war and vowed to jail those who disclosed military inventory data he called \"treasonous.\"",
+      "title": "Trump signs new orders limiting birthright citizenship after Supreme Court loss",
+      "url": "https://www.perplexity.ai/page/trump-signs-new-orders-limitin-KVQPS6_SRKCN.pzo.PM7kA",
+      "description": "The executive orders target birth tourism and children of foreign diplomats, narrowing the scope of his earlier attempt struck down in June.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-08-06T23:43:37Z",
-      "sourceCount": "16 sources"
+      "pubDate": "2026-08-06T21:02:40Z",
+      "sourceCount": "17 sources"
     }
   ],
-  "cached_at": "2026-08-21T18:22:58Z",
+  "cached_at": "2026-08-21T19:06:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Supreme Court lets White House ballroom construction continue",
+        "url": "https://www.perplexity.ai/page/supreme-court-lets-white-house-JmUwv8NKRs._n10oZ54VBg",
+        "description": "Chief Justice Roberts froze a lower court order that would have halted the $400 million project at midnight, buying time for the justices to review the case.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-21T18:17:36Z",
+        "sourceCount": "9 sources"
+      },
       {
         "title": "Trump threatens $5B lawsuit against think tank over National Guard report",
         "url": "https://www.perplexity.ai/page/trump-threatens-5b-lawsuit-aga-624WQLPBRK6LKKgaGmUG7w",
@@ -1670,15 +1679,6 @@
         "sourceCount": "72 sources"
       },
       {
-        "title": "Trump tours White House helipad, ballroom sites as Supreme Court weighs halt",
-        "url": "https://www.perplexity.ai/page/trump-tours-white-house-helipa-PZ34nXulQR2Xv4nwjlQqtg",
-        "description": "The president briefed reporters Wednesday amid a legal fight over the $400 million ballroom, which an appeals court ordered stopped on Aug. 7.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-19T15:45:50Z",
-        "sourceCount": "9 sources"
-      },
-      {
         "title": "Germany condemns Ben-Gvir, drops opposition to EU sanctions",
         "url": "https://www.perplexity.ai/page/germany-condemns-ben-gvir-drop-KAoENhe6Tj.NTYikGCBy2w",
         "description": "Berlin had previously blocked EU sanctions against the Israeli minister but now backs action after his call for nightly killings in Gaza.",
@@ -1688,15 +1688,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Merck, Moderna mRNA cancer vaccine succeeds in Phase 3 trial",
-        "url": "https://www.perplexity.ai/page/merck-moderna-mrna-cancer-vacc-7RZhsG1SST6b9Nk.qa5SKA",
-        "description": "Intismeran, a personalized mRNA therapy, reduced melanoma recurrence when added to Keytruda, marking the first positive Phase 3 result for a neoantigen cancer treatment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-19T10:52:29Z",
-        "sourceCount": "7 sources"
-      },
-      {
         "title": "EU leaders back ICC after US sanctions its president",
         "url": "https://www.perplexity.ai/page/eu-leaders-back-icc-after-us-s-NVLEP_wnQgmlGeJ99nmijw",
         "description": "Half of the ICC's judges are now under U.S. sanctions as the Trump administration escalates its campaign against the Hague-based court.",
@@ -1704,6 +1695,15 @@
         "topic": "top",
         "pubDate": "2026-08-19T13:28:39Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Merck, Moderna mRNA cancer vaccine succeeds in Phase 3 trial",
+        "url": "https://www.perplexity.ai/page/merck-moderna-mrna-cancer-vacc-7RZhsG1SST6b9Nk.qa5SKA",
+        "description": "Intismeran, a personalized mRNA therapy, reduced melanoma recurrence when added to Keytruda, marking the first positive Phase 3 result for a neoantigen cancer treatment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-19T10:52:29Z",
+        "sourceCount": "7 sources"
       },
       {
         "title": "Unitree Robotics surges 460% in Shanghai debut",
@@ -2624,13 +2624,13 @@
         "sourceCount": "20 sources"
       },
       {
-        "title": "Appeals court blocks Trump's White House ballroom project",
-        "url": "https://www.perplexity.ai/page/appeals-court-blocks-trump-s-w-mz2PHip9Tc.WZzU16xKXvg",
-        "description": "A 2-1 panel ruled Trump exceeded his authority and must get congressional approval before continuing above-ground construction.",
+        "title": "Trump's Board of Peace awards first Gaza construction contract",
+        "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-awards-p_fqS1r4RQKxistqZZA7dw",
+        "description": "The military outpost for 150 Moroccan troops would be built in Israeli-controlled territory as part of a planned international stabilization force.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-08-07T15:25:18Z",
-        "sourceCount": "17 sources"
+        "pubDate": "2026-08-07T14:53:37Z",
+        "sourceCount": "19 sources"
       },
       {
         "title": "Warren demands answers on planned changes to inflation data",
@@ -2651,13 +2651,13 @@
         "sourceCount": "12 sources"
       },
       {
-        "title": "Trump's Board of Peace awards first Gaza construction contract",
-        "url": "https://www.perplexity.ai/page/trump-s-board-of-peace-awards-p_fqS1r4RQKxistqZZA7dw",
-        "description": "The military outpost for 150 Moroccan troops would be built in Israeli-controlled territory as part of a planned international stabilization force.",
+        "title": "Trump orders leak probe over munitions shortage reports",
+        "url": "https://www.perplexity.ai/page/trump-orders-leak-probe-over-m-5ORRf0qcSbq5sWYPC04rrg",
+        "description": "The president denied weapons shortfalls amid the Iran war and vowed to jail those who disclosed military inventory data he called \"treasonous.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-08-07T14:53:37Z",
-        "sourceCount": "19 sources"
+        "pubDate": "2026-08-06T23:43:37Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "Kim Yo Jong warns of military response to Japan's first Tomahawk test",
@@ -2678,13 +2678,13 @@
         "sourceCount": "7 sources"
       },
       {
-        "title": "Trump orders leak probe over munitions shortage reports",
-        "url": "https://www.perplexity.ai/page/trump-orders-leak-probe-over-m-5ORRf0qcSbq5sWYPC04rrg",
-        "description": "The president denied weapons shortfalls amid the Iran war and vowed to jail those who disclosed military inventory data he called \"treasonous.\"",
+        "title": "Trump signs new orders limiting birthright citizenship after Supreme Court loss",
+        "url": "https://www.perplexity.ai/page/trump-signs-new-orders-limitin-KVQPS6_SRKCN.pzo.PM7kA",
+        "description": "The executive orders target birth tourism and children of foreign diplomats, narrowing the scope of his earlier attempt struck down in June.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-08-06T23:43:37Z",
-        "sourceCount": "16 sources"
+        "pubDate": "2026-08-06T21:02:40Z",
+        "sourceCount": "17 sources"
       }
     ],
     "tech": [],
