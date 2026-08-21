@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "FDA urges recall of alfalfa sprouts tied to E. coli outbreak in 15 states",
+      "url": "https://www.perplexity.ai/page/fda-urges-recall-of-alfalfa-sp-J4LCVaXKTsSzDT4T26R_MA",
+      "description": "At least 55 people have been sickened and four hospitalized in a dual E. coli and salmonella outbreak linked to a Minnesota sprout grower.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-21T19:42:32Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "Pentagon fires Stars and Stripes editor and publisher",
       "url": "https://www.perplexity.ai/page/pentagon-fires-stars-and-strip-_rlL2tt_Q3ClHIMsfLnMgw",
       "description": "The dismissals follow months of clashes over the Trump administration's efforts to exert control over the military's independent newspaper.",
@@ -1331,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-08-06T10:18:03Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "Hassabis steps down as DeepMind CEO to focus on AGI",
-      "url": "https://www.perplexity.ai/page/hassabis-steps-down-as-deepmin-no4etlWuQn2QHh1sU9v4kA",
-      "description": "Koray Kavukcuoglu takes over as head of Google DeepMind while Jeff Dean departs after 27 years at the company.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-05T16:27:53Z",
-      "sourceCount": "7 sources"
     }
   ],
-  "cached_at": "2026-08-21T20:30:49Z",
+  "cached_at": "2026-08-21T20:55:09Z",
   "topics": {
     "top": [
+      {
+        "title": "FDA urges recall of alfalfa sprouts tied to E. coli outbreak in 15 states",
+        "url": "https://www.perplexity.ai/page/fda-urges-recall-of-alfalfa-sp-J4LCVaXKTsSzDT4T26R_MA",
+        "description": "At least 55 people have been sickened and four hospitalized in a dual E. coli and salmonella outbreak linked to a Minnesota sprout grower.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-21T19:42:32Z",
+        "sourceCount": "17 sources"
+      },
       {
         "title": "Pentagon fires Stars and Stripes editor and publisher",
         "url": "https://www.perplexity.ai/page/pentagon-fires-stars-and-strip-_rlL2tt_Q3ClHIMsfLnMgw",
@@ -2676,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-08-06T10:18:03Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "Hassabis steps down as DeepMind CEO to focus on AGI",
-        "url": "https://www.perplexity.ai/page/hassabis-steps-down-as-deepmin-no4etlWuQn2QHh1sU9v4kA",
-        "description": "Koray Kavukcuoglu takes over as head of Google DeepMind while Jeff Dean departs after 27 years at the company.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-05T16:27:53Z",
-        "sourceCount": "7 sources"
       }
     ],
     "tech": [],
