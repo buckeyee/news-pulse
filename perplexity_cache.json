@@ -37,6 +37,15 @@
       "sourceCount": "19 sources"
     },
     {
+      "title": "Ukraine asks Musk to allow Starlink strikes deep into Russia",
+      "url": "https://www.perplexity.ai/page/ukraine-asks-musk-to-allow-sta-19YCgJnYQ8qqrQAXfln94w",
+      "description": "Kyiv wants to use Starlink-equipped drones to hit Russian missile launchers up to 200 km inside Russia amid a critical Patriot shortage.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-21T10:09:46Z",
+      "sourceCount": "5 sources"
+    },
+    {
       "title": "New York Times ordered to pay $9.25M in landmark defamation verdict",
       "url": "https://www.perplexity.ai/page/new-york-times-ordered-to-pay-UZnKgPbnQMavhaVNx0MAUg",
       "description": "An Alabama jury found the Times defamed former walk-on player Kai Spears, marking the paper's first U.S. defamation trial loss in over 50 years.",
@@ -1331,18 +1340,9 @@
       "topic": "top",
       "pubDate": "2026-08-05T09:35:32Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "SpaceX posts $7.8B in Q2 revenue in first report since IPO",
-      "url": "https://www.perplexity.ai/page/spacex-posts-7-8b-in-q2-revenu-B7dIvZUMQoqde2xbUk5eqg",
-      "description": "The 92% year-over-year jump exceeded Wall Street estimates by nearly $1 billion, driven by Starlink and AI computing growth.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-04T20:27:16Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-08-21T14:07:52Z",
+  "cached_at": "2026-08-21T14:52:39Z",
   "topics": {
     "top": [
       {
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-08-21T10:29:28Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Ukraine asks Musk to allow Starlink strikes deep into Russia",
+        "url": "https://www.perplexity.ai/page/ukraine-asks-musk-to-allow-sta-19YCgJnYQ8qqrQAXfln94w",
+        "description": "Kyiv wants to use Starlink-equipped drones to hit Russian missile launchers up to 200 km inside Russia amid a critical Patriot shortage.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-21T10:09:46Z",
+        "sourceCount": "5 sources"
       },
       {
         "title": "New York Times ordered to pay $9.25M in landmark defamation verdict",
@@ -2676,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-08-05T09:35:32Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "SpaceX posts $7.8B in Q2 revenue in first report since IPO",
-        "url": "https://www.perplexity.ai/page/spacex-posts-7-8b-in-q2-revenu-B7dIvZUMQoqde2xbUk5eqg",
-        "description": "The 92% year-over-year jump exceeded Wall Street estimates by nearly $1 billion, driven by Starlink and AI computing growth.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-04T20:27:16Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
