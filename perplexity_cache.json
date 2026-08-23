@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Florida start-up making low-cost drone interceptors for the Iran war",
+      "url": "https://www.perplexity.ai/page/florida-start-up-making-low-co-uq9MxOnvT.2MhmR.1qL7pw",
+      "description": "Powerus is producing its Guardian interceptor locally in the Emirates to fill gaps in allied air defenses as the U.S.-Iran war drains American-made stockpiles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-23T22:31:35Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Bessent to unveil 'toughest sanctions in history' on Iran Monday",
       "url": "https://www.perplexity.ai/page/bessent-to-unveil-toughest-san-.k.XCtnXQ2CIyGlkNHeqIQ",
       "description": "The Treasury secretary's announcement signals a shift from military strikes to full economic isolation nearly six months into the US-Iran war.",
@@ -17,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-08-23T19:41:04Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Trump waves green flag at first IndyCar race through Washington's streets",
-      "url": "https://www.perplexity.ai/page/trump-waves-green-flag-at-firs-4SWNAydTR4m_1JM8q11Cxw",
-      "description": "The Freedom 250 Grand Prix caps a summer of events marking the nation's 250th anniversary, with drivers reaching 185 mph past iconic landmarks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-23T17:10:22Z",
-      "sourceCount": "16 sources"
     },
     {
       "title": "Jeffries and Kushner held secret meeting to explore bipartisan deals ahead of midterms",
@@ -1342,9 +1342,18 @@
       "sourceCount": "17 sources"
     }
   ],
-  "cached_at": "2026-08-23T22:32:04Z",
+  "cached_at": "2026-08-23T22:54:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Florida start-up making low-cost drone interceptors for the Iran war",
+        "url": "https://www.perplexity.ai/page/florida-start-up-making-low-co-uq9MxOnvT.2MhmR.1qL7pw",
+        "description": "Powerus is producing its Guardian interceptor locally in the Emirates to fill gaps in allied air defenses as the U.S.-Iran war drains American-made stockpiles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-23T22:31:35Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Bessent to unveil 'toughest sanctions in history' on Iran Monday",
         "url": "https://www.perplexity.ai/page/bessent-to-unveil-toughest-san-.k.XCtnXQ2CIyGlkNHeqIQ",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-08-23T19:41:04Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Trump waves green flag at first IndyCar race through Washington's streets",
-        "url": "https://www.perplexity.ai/page/trump-waves-green-flag-at-firs-4SWNAydTR4m_1JM8q11Cxw",
-        "description": "The Freedom 250 Grand Prix caps a summer of events marking the nation's 250th anniversary, with drivers reaching 185 mph past iconic landmarks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-23T17:10:22Z",
-        "sourceCount": "16 sources"
       },
       {
         "title": "Jeffries and Kushner held secret meeting to explore bipartisan deals ahead of midterms",
