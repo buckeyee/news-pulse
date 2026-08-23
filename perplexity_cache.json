@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Jeffries and Kushner held secret meeting to explore bipartisan deals ahead of midterms",
+      "url": "https://www.perplexity.ai/page/jeffries-and-kushner-held-secr-GQwTdWv1SZ.cawyRNW.Hfg",
+      "description": "The two discussed housing, immigration, and affordability at a private New York City sit-down as Democrats eye a House takeover in November.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-23T16:32:23Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "Trump moves to block BBC subpoenas of family in $10B suit",
       "url": "https://www.perplexity.ai/page/trump-moves-to-block-bbc-subpo-CPl.BIDTRhGqUfh7zjnT5Q",
       "description": "Lawyers argue the BBC's bid to compel testimony from Ivanka Trump, Donald Trump Jr. and Jared Kushner is a \"politically charged\" fishing expedition.",
@@ -1331,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-08-08T02:03:19Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay $567M over youth mental health harms",
-      "url": "https://www.perplexity.ai/page/new-mexico-court-orders-meta-t-46SP70uFQbi_jx5aaq45cw",
-      "description": "The ruling adds to a $375 million jury verdict from March, bringing Meta's total liability in the state to nearly $1 billion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-07T00:22:13Z",
-      "sourceCount": "4 sources"
     }
   ],
-  "cached_at": "2026-08-23T16:54:48Z",
+  "cached_at": "2026-08-23T17:23:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Jeffries and Kushner held secret meeting to explore bipartisan deals ahead of midterms",
+        "url": "https://www.perplexity.ai/page/jeffries-and-kushner-held-secr-GQwTdWv1SZ.cawyRNW.Hfg",
+        "description": "The two discussed housing, immigration, and affordability at a private New York City sit-down as Democrats eye a House takeover in November.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-23T16:32:23Z",
+        "sourceCount": "13 sources"
+      },
       {
         "title": "Trump moves to block BBC subpoenas of family in $10B suit",
         "url": "https://www.perplexity.ai/page/trump-moves-to-block-bbc-subpo-CPl.BIDTRhGqUfh7zjnT5Q",
@@ -2676,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-08-08T02:03:19Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "New Mexico court orders Meta to pay $567M over youth mental health harms",
-        "url": "https://www.perplexity.ai/page/new-mexico-court-orders-meta-t-46SP70uFQbi_jx5aaq45cw",
-        "description": "The ruling adds to a $375 million jury verdict from March, bringing Meta's total liability in the state to nearly $1 billion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-07T00:22:13Z",
-        "sourceCount": "4 sources"
       }
     ],
     "tech": [],
