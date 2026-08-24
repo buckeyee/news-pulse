@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Supreme Court clears way for Trump mail-in voting curbs before midterms",
+      "url": "https://www.perplexity.ai/page/supreme-court-clears-way-for-t-_AhFdwZGQ5q51JoU5QIgVQ",
+      "description": "The 6-3 ruling lifts an injunction that blocked the executive order in 23 states, though further legal challenges remain possible.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T21:27:27Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Bessent launches 'Operation Economic Outcast' to sever Iran's global financial ties",
       "url": "https://www.perplexity.ai/page/bessent-launches-operation-eco-B1pgxnLMQdeiB8vxbuJTQQ",
       "description": "The Treasury secretary called the sweeping sanctions campaign \"an economic D-Day,\" targeting five sectors and sanctioning over 60 entities.",
@@ -19,13 +28,13 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+      "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+      "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-08-24T14:31:53Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-08-24T21:20:04Z",
+      "sourceCount": "6 sources"
     },
     {
       "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
@@ -44,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-08-24T10:03:22Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T14:31:53Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "EU approves $7.1 billion in defense aid for Ukraine",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-08T03:18:52Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "OpenAI slows Astra model over critical cyber risks",
-      "url": "https://www.perplexity.ai/page/openai-slows-astra-model-over-DvbjosnUTo2RP87TTLWWrw",
-      "description": "The company says it \"cannot rule out\" that the unreleased model can autonomously exploit hardened systems, triggering its strictest safety protocols.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-07T17:03:43Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Senate confirms DOJ inspector general in 74-nominee package",
-      "url": "https://www.perplexity.ai/page/senate-confirms-doj-inspector-_RGCxr_TTi6HEJJ3CsSi0A",
-      "description": "Donald Berthiaume, who has served as acting watchdog since October 2025, was confirmed in a 51-47 party-line vote alongside dozens of other Trump picks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-08T10:03:41Z",
-      "sourceCount": "17 sources"
     }
   ],
-  "cached_at": "2026-08-24T21:13:07Z",
+  "cached_at": "2026-08-24T21:47:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Supreme Court clears way for Trump mail-in voting curbs before midterms",
+        "url": "https://www.perplexity.ai/page/supreme-court-clears-way-for-t-_AhFdwZGQ5q51JoU5QIgVQ",
+        "description": "The 6-3 ruling lifts an injunction that blocked the executive order in 23 states, though further legal challenges remain possible.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T21:27:27Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Bessent launches 'Operation Economic Outcast' to sever Iran's global financial ties",
         "url": "https://www.perplexity.ai/page/bessent-launches-operation-eco-B1pgxnLMQdeiB8vxbuJTQQ",
@@ -1373,13 +1382,13 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+        "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+        "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-08-24T14:31:53Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-08-24T21:20:04Z",
+        "sourceCount": "6 sources"
       },
       {
         "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
@@ -1398,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-08-24T10:03:22Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T14:31:53Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "EU approves $7.1 billion in defense aid for Ukraine",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-08T03:18:52Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "OpenAI slows Astra model over critical cyber risks",
-        "url": "https://www.perplexity.ai/page/openai-slows-astra-model-over-DvbjosnUTo2RP87TTLWWrw",
-        "description": "The company says it \"cannot rule out\" that the unreleased model can autonomously exploit hardened systems, triggering its strictest safety protocols.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-07T17:03:43Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Senate confirms DOJ inspector general in 74-nominee package",
-        "url": "https://www.perplexity.ai/page/senate-confirms-doj-inspector-_RGCxr_TTi6HEJJ3CsSi0A",
-        "description": "Donald Berthiaume, who has served as acting watchdog since October 2025, was confirmed in a 51-47 party-line vote alongside dozens of other Trump picks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-08T10:03:41Z",
-        "sourceCount": "17 sources"
       }
     ],
     "tech": [],
