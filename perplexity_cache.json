@@ -10,13 +10,13 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "title": "DOJ asks Supreme Court to lift blocks on Trump mail voting order",
+      "url": "https://www.perplexity.ai/page/doj-asks-supreme-court-to-lift-c97p0XiBQ.S_U4i7CY7Tsw",
+      "description": "The Monday filing came as a federal judge demanded answers after the USPS finalized restrictive ballot rules on a Friday night.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-08-24T14:31:53Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-08-24T16:14:37Z",
+      "sourceCount": "5 sources"
     },
     {
       "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
@@ -35,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-08-24T10:03:22Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T14:31:53Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "EU approves $7.1 billion in defense aid for Ukraine",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-08-07T12:42:35Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Puerto Rico begins 48-hour water rationing as record drought grips island",
-      "url": "https://www.perplexity.ai/page/puerto-rico-begins-48-hour-wat-AHKKmR8NRmuu8nhtYmluJA",
-      "description": "Over 180,000 customers in San Juan and six other municipalities face rotating shutoffs with no end date set amid the worst drought in over a decade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-07T09:09:23Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-08-24T18:04:19Z",
+  "cached_at": "2026-08-24T18:56:20Z",
   "topics": {
     "top": [
       {
@@ -1364,13 +1364,13 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "title": "DOJ asks Supreme Court to lift blocks on Trump mail voting order",
+        "url": "https://www.perplexity.ai/page/doj-asks-supreme-court-to-lift-c97p0XiBQ.S_U4i7CY7Tsw",
+        "description": "The Monday filing came as a federal judge demanded answers after the USPS finalized restrictive ballot rules on a Friday night.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-08-24T14:31:53Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-08-24T16:14:37Z",
+        "sourceCount": "5 sources"
       },
       {
         "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
@@ -1389,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-08-24T10:03:22Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T14:31:53Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "EU approves $7.1 billion in defense aid for Ukraine",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-07T12:42:35Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Puerto Rico begins 48-hour water rationing as record drought grips island",
-        "url": "https://www.perplexity.ai/page/puerto-rico-begins-48-hour-wat-AHKKmR8NRmuu8nhtYmluJA",
-        "description": "Over 180,000 customers in San Juan and six other municipalities face rotating shutoffs with no end date set amid the worst drought in over a decade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-07T09:09:23Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
