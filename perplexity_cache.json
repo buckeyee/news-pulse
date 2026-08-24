@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T14:31:53Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "US unveils 'economic D-Day' sanctions against Iran",
       "url": "https://www.perplexity.ai/page/us-unveils-economic-d-day-sanc-mF8WJ6RzR76_rP9pwV8H7g",
       "description": "Treasury Secretary Bessent says Washington will \"sever every economic lifeline\" sustaining Tehran as the 60-day ceasefire window closes without a deal.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-08-24T12:48:23Z",
       "sourceCount": "5 sources"
+    },
+    {
+      "title": "EU approves $7.1 billion in defense aid for Ukraine",
+      "url": "https://www.perplexity.ai/page/eu-approves-7-1-billion-in-def-KCnfeAHKS..CRzPwoDiihg",
+      "description": "The funding, announced on Ukraine's Independence Day, targets air defense systems, missiles, ammunition, and radars as Russian aerial attacks intensify.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T10:02:47Z",
+      "sourceCount": "31 sources"
     },
     {
       "title": "Over 200 Chinese vessels mass near Philippine reef as Beijing announces live-fire drills",
@@ -1331,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-07T12:42:35Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Puerto Rico begins 48-hour water rationing as record drought grips island",
-      "url": "https://www.perplexity.ai/page/puerto-rico-begins-48-hour-wat-AHKKmR8NRmuu8nhtYmluJA",
-      "description": "Over 180,000 customers in San Juan and six other municipalities face rotating shutoffs with no end date set amid the worst drought in over a decade.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-07T09:09:23Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-08-24T14:01:41Z",
+  "cached_at": "2026-08-24T14:54:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T14:31:53Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "US unveils 'economic D-Day' sanctions against Iran",
         "url": "https://www.perplexity.ai/page/us-unveils-economic-d-day-sanc-mF8WJ6RzR76_rP9pwV8H7g",
@@ -1353,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-08-24T12:48:23Z",
         "sourceCount": "5 sources"
+      },
+      {
+        "title": "EU approves $7.1 billion in defense aid for Ukraine",
+        "url": "https://www.perplexity.ai/page/eu-approves-7-1-billion-in-def-KCnfeAHKS..CRzPwoDiihg",
+        "description": "The funding, announced on Ukraine's Independence Day, targets air defense systems, missiles, ammunition, and radars as Russian aerial attacks intensify.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T10:02:47Z",
+        "sourceCount": "31 sources"
       },
       {
         "title": "Over 200 Chinese vessels mass near Philippine reef as Beijing announces live-fire drills",
@@ -2676,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-07T12:42:35Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Puerto Rico begins 48-hour water rationing as record drought grips island",
-        "url": "https://www.perplexity.ai/page/puerto-rico-begins-48-hour-wat-AHKKmR8NRmuu8nhtYmluJA",
-        "description": "Over 180,000 customers in San Juan and six other municipalities face rotating shutoffs with no end date set amid the worst drought in over a decade.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-07T09:09:23Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
