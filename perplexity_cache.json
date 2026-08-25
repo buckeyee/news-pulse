@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Dolly Parton, queen of country music, dies at 80",
+      "url": "https://www.perplexity.ai/page/dolly-parton-queen-of-country-1NuUWkhtRRCratbrZMTEXw",
+      "description": "The singer-songwriter, actress and entrepreneur who rose from rural Tennessee poverty to global stardom died Tuesday, her family said.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-25T18:23:06Z",
+      "sourceCount": "4 sources"
+    },
+    {
       "title": "Anthropic to pitch $30T market opportunity ahead of IPO",
       "url": "https://www.perplexity.ai/page/anthropic-to-pitch-30t-market-Hqg2.1e5QPah_nrduZcFDg",
       "description": "The Claude maker is preparing to tell investors its addressable market exceeds $30 trillion as it targets an October listing valued at $2 trillion.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-10T17:01:13Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "DHS proposes ending 60-day grace period for laid-off H-1B workers",
-      "url": "https://www.perplexity.ai/page/dhs-proposes-ending-60-day-gra-e8vg1QvDQ8KRrA5AVzpj2g",
-      "description": "The rule, sent to the White House for review Thursday, would strip foreign workers of time to find new sponsors after a job loss.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-08T14:07:51Z",
-      "sourceCount": "5 sources"
     }
   ],
-  "cached_at": "2026-08-25T19:43:00Z",
+  "cached_at": "2026-08-25T20:09:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Dolly Parton, queen of country music, dies at 80",
+        "url": "https://www.perplexity.ai/page/dolly-parton-queen-of-country-1NuUWkhtRRCratbrZMTEXw",
+        "description": "The singer-songwriter, actress and entrepreneur who rose from rural Tennessee poverty to global stardom died Tuesday, her family said.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-25T18:23:06Z",
+        "sourceCount": "4 sources"
+      },
       {
         "title": "Anthropic to pitch $30T market opportunity ahead of IPO",
         "url": "https://www.perplexity.ai/page/anthropic-to-pitch-30t-market-Hqg2.1e5QPah_nrduZcFDg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-10T17:01:13Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "DHS proposes ending 60-day grace period for laid-off H-1B workers",
-        "url": "https://www.perplexity.ai/page/dhs-proposes-ending-60-day-gra-e8vg1QvDQ8KRrA5AVzpj2g",
-        "description": "The rule, sent to the White House for review Thursday, would strip foreign workers of time to find new sponsors after a job loss.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-08T14:07:51Z",
-        "sourceCount": "5 sources"
       }
     ],
     "tech": [],
