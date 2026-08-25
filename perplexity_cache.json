@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "url": "https://www.perplexity.ai/page/two-unvaccinated-people-die-of-WdUHGynwRgeFxU9aeHk6ow",
+      "description": "The Lancaster County deaths are the first measles fatalities in Pennsylvania in 35 years and the first in the U.S. this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-25T14:44:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "CIA Director Ratcliffe makes secret trip to Moscow",
       "url": "https://www.perplexity.ai/page/cia-director-ratcliffe-makes-s-bkWBQeLoQCqKfo.hXCbUCQ",
       "description": "Sources say the visit is his first known trip to Russia as CIA chief, coming as U.S.-Ukraine peace talks remain stalled.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-08T12:27:51Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "Pentagon extends DC National Guard mission through 2029 at $1.4B cost",
-      "url": "https://www.perplexity.ai/page/pentagon-extends-dc-national-g-_8CEToReQ8W0pyu78duCXQ",
-      "description": "As the deployment nears its one-year anniversary, nearly 9,700 troops have rotated through Washington under Trump's \"Make DC Safe and Beautiful\" initiative.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-10T14:02:34Z",
-      "sourceCount": "19 sources"
     }
   ],
-  "cached_at": "2026-08-25T14:56:14Z",
+  "cached_at": "2026-08-25T15:50:48Z",
   "topics": {
     "top": [
+      {
+        "title": "Two unvaccinated people die of measles in Pennsylvania",
+        "url": "https://www.perplexity.ai/page/two-unvaccinated-people-die-of-WdUHGynwRgeFxU9aeHk6ow",
+        "description": "The Lancaster County deaths are the first measles fatalities in Pennsylvania in 35 years and the first in the U.S. this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-25T14:44:46Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "CIA Director Ratcliffe makes secret trip to Moscow",
         "url": "https://www.perplexity.ai/page/cia-director-ratcliffe-makes-s-bkWBQeLoQCqKfo.hXCbUCQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-08T12:27:51Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "Pentagon extends DC National Guard mission through 2029 at $1.4B cost",
-        "url": "https://www.perplexity.ai/page/pentagon-extends-dc-national-g-_8CEToReQ8W0pyu78duCXQ",
-        "description": "As the deployment nears its one-year anniversary, nearly 9,700 troops have rotated through Washington under Trump's \"Make DC Safe and Beautiful\" initiative.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-10T14:02:34Z",
-        "sourceCount": "19 sources"
       }
     ],
     "tech": [],
