@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Meta, states discuss mid-trial settlement in teen addiction case",
+      "url": "https://www.perplexity.ai/page/meta-states-discuss-mid-trial-6DMKenhwRV2.hA4s_7xPYg",
+      "description": "Bloomberg reports the two sides have held talks as a landmark federal trial over addictive platform design enters its second week in Oakland.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-26T02:24:18Z",
+      "sourceCount": "8 sources"
+    },
+    {
       "title": "White House weighs new trade penalties after Canada retaliates with matching tariffs",
       "url": "https://www.perplexity.ai/page/white-house-weighs-new-trade-p-p_eWmB.OT9G74Q2W0sM94g",
       "description": "A spiraling trade war intensifies as both nations exchange escalating tariffs following the collapse of negotiations last week.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-08T12:32:51Z",
       "sourceCount": "5 sources"
-    },
-    {
-      "title": "Trump demands Iran pay compensation as Hormuz standoff intensifies",
-      "url": "https://www.perplexity.ai/page/trump-demands-iran-pay-compens-pi1ssIrTQiW_968wQE9ACw",
-      "description": "The president turned Tehran's war reparations demand back on Iran, saying he is \"likewise demanding compensation\" for American and allied casualties.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-10T17:01:13Z",
-      "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-08-26T01:53:26Z",
+  "cached_at": "2026-08-26T03:04:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Meta, states discuss mid-trial settlement in teen addiction case",
+        "url": "https://www.perplexity.ai/page/meta-states-discuss-mid-trial-6DMKenhwRV2.hA4s_7xPYg",
+        "description": "Bloomberg reports the two sides have held talks as a landmark federal trial over addictive platform design enters its second week in Oakland.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-26T02:24:18Z",
+        "sourceCount": "8 sources"
+      },
       {
         "title": "White House weighs new trade penalties after Canada retaliates with matching tariffs",
         "url": "https://www.perplexity.ai/page/white-house-weighs-new-trade-p-p_eWmB.OT9G74Q2W0sM94g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-08T12:32:51Z",
         "sourceCount": "5 sources"
-      },
-      {
-        "title": "Trump demands Iran pay compensation as Hormuz standoff intensifies",
-        "url": "https://www.perplexity.ai/page/trump-demands-iran-pay-compens-pi1ssIrTQiW_968wQE9ACw",
-        "description": "The president turned Tehran's war reparations demand back on Iran, saying he is \"likewise demanding compensation\" for American and allied casualties.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-10T17:01:13Z",
-        "sourceCount": "52 sources"
       }
     ],
     "tech": [],
