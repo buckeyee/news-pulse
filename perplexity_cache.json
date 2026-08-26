@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Russia plans to escalate strikes on Ukraine, Bloomberg reports",
+      "url": "https://www.perplexity.ai/page/russia-plans-to-escalate-strik-h8OFZ0LUShKVSCcz4kf5GA",
+      "description": "Moscow is weighing intensified ballistic missile attacks on Kyiv and other cities after concluding peace talks have reached a dead end.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-26T16:14:45Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "Iran, Oman reach Hormuz revenue deal but strait stays shut",
       "url": "https://www.perplexity.ai/page/iran-oman-reach-hormuz-revenue-_0QcbEbfTR.nghQB_gNZBQ",
       "description": "The IRGC says the two countries agreed on waterway shares and revenues, but warns the strait won't reopen unless the U.S. meets Iran's conditions.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-11T01:43:38Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "British Columbia declares emergency as wildfire forces 20,000 to flee Okanagan",
-      "url": "https://www.perplexity.ai/page/british-columbia-declares-emer-xsqelBEaREWYLeuQS2e99A",
-      "description": "The Bald Range fire has burned over 10,000 hectares and remains out of control, destroying homes and trapping residents near Summerland.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-09T16:35:39Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-08-26T16:46:11Z",
+  "cached_at": "2026-08-26T18:26:49Z",
   "topics": {
     "top": [
+      {
+        "title": "Russia plans to escalate strikes on Ukraine, Bloomberg reports",
+        "url": "https://www.perplexity.ai/page/russia-plans-to-escalate-strik-h8OFZ0LUShKVSCcz4kf5GA",
+        "description": "Moscow is weighing intensified ballistic missile attacks on Kyiv and other cities after concluding peace talks have reached a dead end.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-26T16:14:45Z",
+        "sourceCount": "17 sources"
+      },
       {
         "title": "Iran, Oman reach Hormuz revenue deal but strait stays shut",
         "url": "https://www.perplexity.ai/page/iran-oman-reach-hormuz-revenue-_0QcbEbfTR.nghQB_gNZBQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-11T01:43:38Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "British Columbia declares emergency as wildfire forces 20,000 to flee Okanagan",
-        "url": "https://www.perplexity.ai/page/british-columbia-declares-emer-xsqelBEaREWYLeuQS2e99A",
-        "description": "The Bald Range fire has burned over 10,000 hectares and remains out of control, destroying homes and trapping residents near Summerland.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-09T16:35:39Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
