@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "US trade deficit jumps to $88.6B on AI import surge",
+      "url": "https://www.perplexity.ai/page/us-trade-deficit-jumps-to-88-6-p1o_3MhhTC61HHxd20cDoQ",
+      "description": "The gap grew 24.4% in July to $88.6 billion as computer and semiconductor imports soared while crude oil and gold exports fell sharply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-03T13:28:32Z",
+      "sourceCount": "8 sources"
+    },
+    {
+      "title": "Kennedy pressured CDC to drop Pennsylvania measles deaths from official count",
+      "url": "https://www.perplexity.ai/page/kennedy-pressured-cdc-to-drop-HMDTED.0TLyOOXhpvQtZ5Q",
+      "description": "The new CDC director complied without objection after staffers had already accepted the state's classification of the deaths as measles-linked.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-03T13:20:49Z",
+      "sourceCount": "5 sources"
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face for nearly $13 billion",
+      "url": "https://www.perplexity.ai/page/nvidia-to-acquire-hugging-face-jm0HiNgwQ5GqLT.2WjmcNA",
+      "description": "The chipmaker's second-largest deal gives it ownership of the leading open-source AI platform used by 18 million developers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-03T13:08:48Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Iran strikes US bases in Kuwait and UAE amid war escalation",
+      "url": "https://www.perplexity.ai/page/iran-strikes-us-bases-in-kuwai-fjH.qXDZQVSTo230uHEIuA",
+      "description": "Kuwait condemned the missile and drone attacks as a \"flagrant violation\" of its sovereignty as Gulf allies rallied in response.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-03T13:04:56Z",
+      "sourceCount": "34 sources"
+    },
+    {
       "title": "State Dept. rule would require parents prove status for children's passports",
       "url": "https://www.perplexity.ai/page/state-dept-rule-would-require-u_YCjfn3Qm2EueZvQ300Cw",
       "description": "The proposal is the first detailed framework for enforcing Trump's August executive order targeting \"birth tourism.\"",
@@ -89,15 +125,6 @@
       "topic": "top",
       "pubDate": "2026-09-02T13:13:36Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump aides push to keep Iran war quiet until midterms",
-      "url": "https://www.perplexity.ai/page/trump-aides-push-to-keep-iran-5gk1AXY6RPy80Ay3hMqoMw",
-      "description": "Vice President Vance and Secretary of State Rubio back limiting escalation before November, with plans to reassess military action after the vote.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-02T13:13:11Z",
-      "sourceCount": "17 sources"
     },
     {
       "title": "Zelenskyy warns airlines Russian skies are unsafe amid surging drone war",
@@ -712,15 +739,6 @@
       "sourceCount": "4 sources"
     },
     {
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion",
-      "url": "https://www.perplexity.ai/page/nvidia-agrees-to-buy-hugging-f-68HqbtVhR0eepY8oH3VZZw",
-      "description": "The deal for the open-source AI model platform would be one of the chipmaker's largest acquisitions amid an aggressive dealmaking spree.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-27T02:38:59Z",
-      "sourceCount": "18 sources"
-    },
-    {
       "title": "Secret Service places 3 officials on leave amid misconduct probe",
       "url": "https://www.perplexity.ai/page/secret-service-places-3-offici-EZsehx0zRzqUHQqEv4wqbQ",
       "description": "The agency's communications chief and two colleagues lost their security clearances as the Office of Professional Responsibility investigates undisclosed allegations.",
@@ -1331,29 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-08-21T01:05:29Z",
       "sourceCount": "16 sources"
-    },
-    {
-      "title": "Florida primaries oust Rep. Mills, advance Trump-backed newcomers",
-      "url": "https://www.perplexity.ai/page/florida-primaries-oust-rep-mil-HFichex_RJi0297Q333WTg",
-      "description": "Redrawn congressional maps reshaped Tuesday's races, with an ethics-plagued incumbent falling and first-time candidates winning key GOP nominations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-19T06:28:48Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Hegseth accused of hiding Iran's destruction of key US base in Bahrain",
-      "url": "https://www.perplexity.ai/page/hegseth-accused-of-hiding-iran-J6DTK8g0T6mWcmCf_bHMZA",
-      "description": "The allegation helps explain why the USS Abraham Lincoln's 5,000 sailors have faced food shortages and deteriorating conditions during a record 250-day deployment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-19T00:50:18Z",
-      "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-09-03T11:00:33Z",
+  "cached_at": "2026-09-03T14:57:30Z",
   "topics": {
     "top": [
+      {
+        "title": "US trade deficit jumps to $88.6B on AI import surge",
+        "url": "https://www.perplexity.ai/page/us-trade-deficit-jumps-to-88-6-p1o_3MhhTC61HHxd20cDoQ",
+        "description": "The gap grew 24.4% in July to $88.6 billion as computer and semiconductor imports soared while crude oil and gold exports fell sharply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-03T13:28:32Z",
+        "sourceCount": "8 sources"
+      },
+      {
+        "title": "Kennedy pressured CDC to drop Pennsylvania measles deaths from official count",
+        "url": "https://www.perplexity.ai/page/kennedy-pressured-cdc-to-drop-HMDTED.0TLyOOXhpvQtZ5Q",
+        "description": "The new CDC director complied without objection after staffers had already accepted the state's classification of the deaths as measles-linked.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-03T13:20:49Z",
+        "sourceCount": "5 sources"
+      },
+      {
+        "title": "Nvidia to acquire Hugging Face for nearly $13 billion",
+        "url": "https://www.perplexity.ai/page/nvidia-to-acquire-hugging-face-jm0HiNgwQ5GqLT.2WjmcNA",
+        "description": "The chipmaker's second-largest deal gives it ownership of the leading open-source AI platform used by 18 million developers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-03T13:08:48Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Iran strikes US bases in Kuwait and UAE amid war escalation",
+        "url": "https://www.perplexity.ai/page/iran-strikes-us-bases-in-kuwai-fjH.qXDZQVSTo230uHEIuA",
+        "description": "Kuwait condemned the missile and drone attacks as a \"flagrant violation\" of its sovereignty as Gulf allies rallied in response.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-03T13:04:56Z",
+        "sourceCount": "34 sources"
+      },
       {
         "title": "State Dept. rule would require parents prove status for children's passports",
         "url": "https://www.perplexity.ai/page/state-dept-rule-would-require-u_YCjfn3Qm2EueZvQ300Cw",
@@ -1443,15 +1479,6 @@
         "topic": "top",
         "pubDate": "2026-09-02T13:13:36Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump aides push to keep Iran war quiet until midterms",
-        "url": "https://www.perplexity.ai/page/trump-aides-push-to-keep-iran-5gk1AXY6RPy80Ay3hMqoMw",
-        "description": "Vice President Vance and Secretary of State Rubio back limiting escalation before November, with plans to reassess military action after the vote.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-02T13:13:11Z",
-        "sourceCount": "17 sources"
       },
       {
         "title": "Zelenskyy warns airlines Russian skies are unsafe amid surging drone war",
@@ -2066,15 +2093,6 @@
         "sourceCount": "4 sources"
       },
       {
-        "title": "Nvidia agrees to buy Hugging Face for $12.9 billion",
-        "url": "https://www.perplexity.ai/page/nvidia-agrees-to-buy-hugging-f-68HqbtVhR0eepY8oH3VZZw",
-        "description": "The deal for the open-source AI model platform would be one of the chipmaker's largest acquisitions amid an aggressive dealmaking spree.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-27T02:38:59Z",
-        "sourceCount": "18 sources"
-      },
-      {
         "title": "Secret Service places 3 officials on leave amid misconduct probe",
         "url": "https://www.perplexity.ai/page/secret-service-places-3-offici-EZsehx0zRzqUHQqEv4wqbQ",
         "description": "The agency's communications chief and two colleagues lost their security clearances as the Office of Professional Responsibility investigates undisclosed allegations.",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-21T01:05:29Z",
         "sourceCount": "16 sources"
-      },
-      {
-        "title": "Florida primaries oust Rep. Mills, advance Trump-backed newcomers",
-        "url": "https://www.perplexity.ai/page/florida-primaries-oust-rep-mil-HFichex_RJi0297Q333WTg",
-        "description": "Redrawn congressional maps reshaped Tuesday's races, with an ethics-plagued incumbent falling and first-time candidates winning key GOP nominations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-19T06:28:48Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Hegseth accused of hiding Iran's destruction of key US base in Bahrain",
-        "url": "https://www.perplexity.ai/page/hegseth-accused-of-hiding-iran-J6DTK8g0T6mWcmCf_bHMZA",
-        "description": "The allegation helps explain why the USS Abraham Lincoln's 5,000 sailors have faced food shortages and deteriorating conditions during a record 250-day deployment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-19T00:50:18Z",
-        "sourceCount": "33 sources"
       }
     ],
     "tech": [],
