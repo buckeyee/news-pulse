@@ -37,6 +37,15 @@
       "sourceCount": "32 sources"
     },
     {
+      "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+      "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+      "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-11T17:38:54Z",
+      "sourceCount": "12 sources"
+    },
+    {
       "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
       "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
       "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-08-27T22:31:44Z",
       "sourceCount": "16 sources"
-    },
-    {
-      "title": "Trump asks Supreme Court to allow discharge of transgender troops",
-      "url": "https://www.perplexity.ai/page/trump-asks-supreme-court-to-al-HuQH9USIR8mTNBHSo0bCew",
-      "description": "The DOJ filed a petition Friday seeking to overturn lower court rulings that block the Pentagon from removing about 4,200 transgender service members.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-28T19:18:25Z",
-      "sourceCount": "5 sources"
     }
   ],
-  "cached_at": "2026-09-11T20:00:30Z",
+  "cached_at": "2026-09-11T22:30:08Z",
   "topics": {
     "top": [
       {
@@ -1389,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-09-11T17:53:21Z",
         "sourceCount": "32 sources"
+      },
+      {
+        "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+        "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+        "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-11T17:38:54Z",
+        "sourceCount": "12 sources"
       },
       {
         "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-27T22:31:44Z",
         "sourceCount": "16 sources"
-      },
-      {
-        "title": "Trump asks Supreme Court to allow discharge of transgender troops",
-        "url": "https://www.perplexity.ai/page/trump-asks-supreme-court-to-al-HuQH9USIR8mTNBHSo0bCew",
-        "description": "The DOJ filed a petition Friday seeking to overturn lower court rulings that block the Pentagon from removing about 4,200 transgender service members.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-28T19:18:25Z",
-        "sourceCount": "5 sources"
       }
     ],
     "tech": [],
