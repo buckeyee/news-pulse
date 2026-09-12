@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
+      "url": "https://www.perplexity.ai/page/u-s-links-chinese-satellite-im-WO1VXNi6TqqIrsAB1XQZMw",
+      "description": "Officials say the finding is the most definitive proof to date that Chinese assistance to Iran has led to American casualties.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-12T02:04:36Z",
+      "sourceCount": "31 sources"
+    },
+    {
+      "title": "Trump says he'd welcome Chinese automakers building cars in US",
+      "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+      "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-12T01:39:57Z",
+      "sourceCount": "6 sources"
+    },
+    {
       "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
       "url": "https://www.perplexity.ai/page/openai-agents-attacked-rubygem-VS_hxAX2Qt2Qw6D.Poruiw",
       "description": "The Wall Street Journal reported the previously undisclosed May cyberattack, adding a new chapter to concerns over autonomous AI systems.",
@@ -16,6 +34,15 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-11T22:13:17Z",
+      "sourceCount": "32 sources"
+    },
+    {
+      "title": "Saudi Arabia shuts key oil pipeline after attacks",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-shuts-key-oil-pip-uPM0e47MSmO2BohVGkN7Rw",
+      "description": "The shutdown threatens to choke off the kingdom's last reliable export route as Houthis tighten control over the Red Sea.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-11T19:19:26Z",
       "sourceCount": "32 sources"
     },
     {
@@ -44,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-09-11T19:11:55Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Drones from Iraq strike Saudi Arabia's East-West oil pipeline, triggering fires",
-      "url": "https://www.perplexity.ai/page/drones-from-iraq-strike-saudi-FGWbhU8ZSrWULcNNhMIzJQ",
-      "description": "The attack hit pumping stations along the kingdom's critical bypass route around the Strait of Hormuz as oil prices surged past $100 a barrel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-11T17:53:21Z",
-      "sourceCount": "32 sources"
     },
     {
       "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-08-28T07:19:52Z",
       "sourceCount": "11 sources"
-    },
-    {
-      "title": "Trump administration quietly pushing to give Yosemite land to private developer",
-      "url": "https://www.perplexity.ai/page/trump-administration-quietly-p-gtrRb1dhRPK56XfolIiIhQ",
-      "description": "A NOTUS investigation found the National Park Service has spent over a year working to cede a strip of parkland to a Nevada real estate firm.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-28T20:11:22Z",
-      "sourceCount": "6 sources"
-    },
-    {
-      "title": "Venezuela weighs leaving OPEC as US oil ties deepen",
-      "url": "https://www.perplexity.ai/page/venezuela-weighs-leaving-opec-ypKLRl_QRZuyHrsyHwh6sA",
-      "description": "A founding member of the 65-year-old cartel is in talks with Washington about a departure that would mark the second exit in months.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-28T00:54:43Z",
-      "sourceCount": "10 sources"
     }
   ],
-  "cached_at": "2026-09-12T00:34:31Z",
+  "cached_at": "2026-09-12T05:00:04Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
+        "url": "https://www.perplexity.ai/page/u-s-links-chinese-satellite-im-WO1VXNi6TqqIrsAB1XQZMw",
+        "description": "Officials say the finding is the most definitive proof to date that Chinese assistance to Iran has led to American casualties.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-12T02:04:36Z",
+        "sourceCount": "31 sources"
+      },
+      {
+        "title": "Trump says he'd welcome Chinese automakers building cars in US",
+        "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+        "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-12T01:39:57Z",
+        "sourceCount": "6 sources"
+      },
       {
         "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
         "url": "https://www.perplexity.ai/page/openai-agents-attacked-rubygem-VS_hxAX2Qt2Qw6D.Poruiw",
@@ -1370,6 +1388,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-11T22:13:17Z",
+        "sourceCount": "32 sources"
+      },
+      {
+        "title": "Saudi Arabia shuts key oil pipeline after attacks",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-shuts-key-oil-pip-uPM0e47MSmO2BohVGkN7Rw",
+        "description": "The shutdown threatens to choke off the kingdom's last reliable export route as Houthis tighten control over the Red Sea.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-11T19:19:26Z",
         "sourceCount": "32 sources"
       },
       {
@@ -1398,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-09-11T19:11:55Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Drones from Iraq strike Saudi Arabia's East-West oil pipeline, triggering fires",
-        "url": "https://www.perplexity.ai/page/drones-from-iraq-strike-saudi-FGWbhU8ZSrWULcNNhMIzJQ",
-        "description": "The attack hit pumping stations along the kingdom's critical bypass route around the Strait of Hormuz as oil prices surged past $100 a barrel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-11T17:53:21Z",
-        "sourceCount": "32 sources"
       },
       {
         "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-28T07:19:52Z",
         "sourceCount": "11 sources"
-      },
-      {
-        "title": "Trump administration quietly pushing to give Yosemite land to private developer",
-        "url": "https://www.perplexity.ai/page/trump-administration-quietly-p-gtrRb1dhRPK56XfolIiIhQ",
-        "description": "A NOTUS investigation found the National Park Service has spent over a year working to cede a strip of parkland to a Nevada real estate firm.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-28T20:11:22Z",
-        "sourceCount": "6 sources"
-      },
-      {
-        "title": "Venezuela weighs leaving OPEC as US oil ties deepen",
-        "url": "https://www.perplexity.ai/page/venezuela-weighs-leaving-opec-ypKLRl_QRZuyHrsyHwh6sA",
-        "description": "A founding member of the 65-year-old cartel is in talks with Washington about a departure that would mark the second exit in months.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-28T00:54:43Z",
-        "sourceCount": "10 sources"
       }
     ],
     "tech": [],
