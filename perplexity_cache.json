@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
+      "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
+      "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T15:28:10Z",
+      "sourceCount": "16 sources"
+    },
+    {
+      "title": "Obama urges Democrats to make AI oversight central to their agenda",
+      "url": "https://www.perplexity.ai/page/obama-urges-democrats-to-make-2hyW.EIkQZGYv1XOWDqXWg",
+      "description": "Speaking at a Manhattan fundraiser, the former president called AI \"dangerous\" if left unchecked and pressed Jeffries to lead a public policy framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T13:27:15Z",
+      "sourceCount": "5 sources"
+    },
+    {
+      "title": "Canada pursues EU 'associate member' status amid trade war with U.S.",
+      "url": "https://www.perplexity.ai/page/canada-pursues-eu-associate-me-JYFX7i0bSqipSZKnP7C0tQ",
+      "description": "Prime Minister Mark Carney will outline plans to deepen Canada-EU ties in a speech to the European Parliament this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T10:02:32Z",
+      "sourceCount": "18 sources"
+    },
+    {
       "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
       "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
       "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
@@ -73,13 +100,13 @@
       "sourceCount": "7 sources"
     },
     {
-      "title": "Trump says he'd 'love' to see a united Ireland",
-      "url": "https://www.perplexity.ai/page/trump-says-he-d-love-to-see-a-4aYGi_w0RpOTL5Ovduh0Sg",
-      "description": "The remarks, made during a Dublin visit, break with past U.S. presidents who avoided the politically charged subject.",
+      "title": "Trump says US-Canada deal could come 'fairly soon'",
+      "url": "https://www.perplexity.ai/page/trump-says-us-canada-deal-coul-t3mbCzVASpCM2HxFuB7jfA",
+      "description": "Speaking in Dublin, the president claimed Canada wants an agreement \"very badly,\" but trade experts say the dispute is likely to persist through year-end.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-12T12:08:26Z",
-      "sourceCount": "13 sources"
+      "pubDate": "2026-09-12T12:06:30Z",
+      "sourceCount": "10 sources"
     },
     {
       "title": "TSA restores gate access without tickets for first time since 9/11",
@@ -100,13 +127,13 @@
       "sourceCount": "31 sources"
     },
     {
-      "title": "Trump says US-Canada deal could come 'fairly soon'",
-      "url": "https://www.perplexity.ai/page/trump-says-us-canada-deal-coul-t3mbCzVASpCM2HxFuB7jfA",
-      "description": "Speaking in Dublin, the president claimed Canada wants an agreement \"very badly,\" but trade experts say the dispute is likely to persist through year-end.",
+      "title": "Trump says he'd welcome Chinese automakers building cars in US",
+      "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+      "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-12T12:06:30Z",
-      "sourceCount": "10 sources"
+      "pubDate": "2026-09-12T01:39:57Z",
+      "sourceCount": "6 sources"
     },
     {
       "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
@@ -127,13 +154,13 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "Trump says he'd welcome Chinese automakers building cars in US",
-      "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
-      "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
+      "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
+      "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
+      "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-12T01:39:57Z",
-      "sourceCount": "6 sources"
+      "pubDate": "2026-09-11T19:15:50Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -154,12 +181,21 @@
       "sourceCount": "31 sources"
     },
     {
-      "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
-      "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
-      "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
+      "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+      "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+      "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-11T19:15:50Z",
+      "pubDate": "2026-09-11T17:38:54Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
+      "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
+      "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-11T16:08:54Z",
       "sourceCount": "15 sources"
     },
     {
@@ -181,22 +217,13 @@
       "sourceCount": "8 sources"
     },
     {
-      "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
-      "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
-      "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+      "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
+      "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
+      "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-11T17:38:54Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
-      "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
-      "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-11T16:08:54Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-09-11T13:33:47Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Putin slams West's 'ugly' tactics at BRICS forum in New Delhi",
@@ -215,15 +242,6 @@
       "topic": "top",
       "pubDate": "2026-09-11T13:06:00Z",
       "sourceCount": "34 sources"
-    },
-    {
-      "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
-      "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
-      "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-11T13:33:47Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "August CPI holds at 3.4%, bolstering case for Fed rate hike",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-08-29T13:33:44Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "Hegseth weighs summoning military leaders to Quantico again",
-      "url": "https://www.perplexity.ai/page/hegseth-weighs-summoning-milit-alCucBsdQ_iwdstCG25PWg",
-      "description": "The defense secretary could use a second large-scale gathering to announce new directives, according to the Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-29T01:51:49Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Fed Chair Warsh signals rate hikes may be needed as inflation stays elevated",
-      "url": "https://www.perplexity.ai/page/fed-chair-warsh-signals-rate-h-5P8akI9xTEuFKrTV6j926w",
-      "description": "In his Jackson Hole debut, Warsh said underlying inflation trends have not \"meaningfully improved\" and current rates may not be restricting growth.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-28T14:28:00Z",
-      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-09-13T14:29:01Z",
+  "cached_at": "2026-09-13T17:36:13Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
+        "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
+        "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T15:28:10Z",
+        "sourceCount": "16 sources"
+      },
+      {
+        "title": "Obama urges Democrats to make AI oversight central to their agenda",
+        "url": "https://www.perplexity.ai/page/obama-urges-democrats-to-make-2hyW.EIkQZGYv1XOWDqXWg",
+        "description": "Speaking at a Manhattan fundraiser, the former president called AI \"dangerous\" if left unchecked and pressed Jeffries to lead a public policy framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T13:27:15Z",
+        "sourceCount": "5 sources"
+      },
+      {
+        "title": "Canada pursues EU 'associate member' status amid trade war with U.S.",
+        "url": "https://www.perplexity.ai/page/canada-pursues-eu-associate-me-JYFX7i0bSqipSZKnP7C0tQ",
+        "description": "Prime Minister Mark Carney will outline plans to deepen Canada-EU ties in a speech to the European Parliament this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T10:02:32Z",
+        "sourceCount": "18 sources"
+      },
       {
         "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
         "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
@@ -1427,13 +1454,13 @@
         "sourceCount": "7 sources"
       },
       {
-        "title": "Trump says he'd 'love' to see a united Ireland",
-        "url": "https://www.perplexity.ai/page/trump-says-he-d-love-to-see-a-4aYGi_w0RpOTL5Ovduh0Sg",
-        "description": "The remarks, made during a Dublin visit, break with past U.S. presidents who avoided the politically charged subject.",
+        "title": "Trump says US-Canada deal could come 'fairly soon'",
+        "url": "https://www.perplexity.ai/page/trump-says-us-canada-deal-coul-t3mbCzVASpCM2HxFuB7jfA",
+        "description": "Speaking in Dublin, the president claimed Canada wants an agreement \"very badly,\" but trade experts say the dispute is likely to persist through year-end.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-12T12:08:26Z",
-        "sourceCount": "13 sources"
+        "pubDate": "2026-09-12T12:06:30Z",
+        "sourceCount": "10 sources"
       },
       {
         "title": "TSA restores gate access without tickets for first time since 9/11",
@@ -1454,13 +1481,13 @@
         "sourceCount": "31 sources"
       },
       {
-        "title": "Trump says US-Canada deal could come 'fairly soon'",
-        "url": "https://www.perplexity.ai/page/trump-says-us-canada-deal-coul-t3mbCzVASpCM2HxFuB7jfA",
-        "description": "Speaking in Dublin, the president claimed Canada wants an agreement \"very badly,\" but trade experts say the dispute is likely to persist through year-end.",
+        "title": "Trump says he'd welcome Chinese automakers building cars in US",
+        "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+        "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-12T12:06:30Z",
-        "sourceCount": "10 sources"
+        "pubDate": "2026-09-12T01:39:57Z",
+        "sourceCount": "6 sources"
       },
       {
         "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
@@ -1481,13 +1508,13 @@
         "sourceCount": "32 sources"
       },
       {
-        "title": "Trump says he'd welcome Chinese automakers building cars in US",
-        "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
-        "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
+        "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
+        "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
+        "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-12T01:39:57Z",
-        "sourceCount": "6 sources"
+        "pubDate": "2026-09-11T19:15:50Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -1508,12 +1535,21 @@
         "sourceCount": "31 sources"
       },
       {
-        "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
-        "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
-        "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
+        "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+        "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+        "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-11T19:15:50Z",
+        "pubDate": "2026-09-11T17:38:54Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
+        "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
+        "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-11T16:08:54Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1535,22 +1571,13 @@
         "sourceCount": "8 sources"
       },
       {
-        "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
-        "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
-        "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+        "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
+        "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
+        "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-11T17:38:54Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
-        "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
-        "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-11T16:08:54Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-09-11T13:33:47Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Putin slams West's 'ugly' tactics at BRICS forum in New Delhi",
@@ -1569,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-09-11T13:06:00Z",
         "sourceCount": "34 sources"
-      },
-      {
-        "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
-        "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
-        "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-11T13:33:47Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "August CPI holds at 3.4%, bolstering case for Fed rate hike",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-29T13:33:44Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "Hegseth weighs summoning military leaders to Quantico again",
-        "url": "https://www.perplexity.ai/page/hegseth-weighs-summoning-milit-alCucBsdQ_iwdstCG25PWg",
-        "description": "The defense secretary could use a second large-scale gathering to announce new directives, according to the Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-29T01:51:49Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Fed Chair Warsh signals rate hikes may be needed as inflation stays elevated",
-        "url": "https://www.perplexity.ai/page/fed-chair-warsh-signals-rate-h-5P8akI9xTEuFKrTV6j926w",
-        "description": "In his Jackson Hole debut, Warsh said underlying inflation trends have not \"meaningfully improved\" and current rates may not be restricting growth.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-28T14:28:00Z",
-        "sourceCount": "13 sources"
       }
     ],
     "tech": [],
