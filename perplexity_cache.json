@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
-      "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
-      "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
+      "title": "Trump says he'll consider releasing more 9/11 records",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-consider-rele-cfQbGJuGRa.6rhk0nxsitQ",
+      "description": "Speaking in Ireland on Sunday, the president responded to families' appeals for greater transparency about the attacks on their 25th anniversary.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-13T15:28:10Z",
-      "sourceCount": "16 sources"
+      "pubDate": "2026-09-13T19:30:58Z",
+      "sourceCount": "5 sources"
+    },
+    {
+      "title": "Russian drone hits train 2 km from Polish border after Johnson passes through",
+      "url": "https://www.perplexity.ai/page/russian-drone-hits-train-2-km-y.UJXFlYRKapPyjeTJof7w",
+      "description": "A jet-propelled drone struck a Kyiv-to-Warsaw passenger train at Yahodyn, shortly after Boris Johnson and European officials used the same route.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T18:11:07Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "Obama urges Democrats to make AI oversight central to their agenda",
@@ -19,6 +28,24 @@
       "sourceCount": "5 sources"
     },
     {
+      "title": "Trump says he'll remove 15% tariff on Irish whiskey",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
+      "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T18:07:42Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Iranian cargo ship hit near Hormuz ahead of Gulf talks in Oman",
+      "url": "https://www.perplexity.ai/page/iranian-cargo-ship-hit-near-ho-a4Cd4sKQTzq_S_M5b85roQ",
+      "description": "A projectile killed one crew member and wounded four off Qeshm Island, raising tensions before Monday's ministerial meeting in Salalah.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-13T10:53:14Z",
+      "sourceCount": "20 sources"
+    },
+    {
       "title": "Canada pursues EU 'associate member' status amid trade war with U.S.",
       "url": "https://www.perplexity.ai/page/canada-pursues-eu-associate-me-JYFX7i0bSqipSZKnP7C0tQ",
       "description": "Prime Minister Mark Carney will outline plans to deepen Canada-EU ties in a speech to the European Parliament this week.",
@@ -28,13 +55,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
-      "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
+      "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
+      "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
+      "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-12T23:02:43Z",
-      "sourceCount": "8 sources"
+      "pubDate": "2026-09-13T15:28:10Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "Altman says OpenAI IPO won't happen until 2027",
@@ -46,15 +73,6 @@
       "sourceCount": "4 sources"
     },
     {
-      "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
-      "url": "https://www.perplexity.ai/page/anthropic-ceo-calls-for-ai-slo-Z.iMF8FrTqyaIE6Jpj2dPQ",
-      "description": "Dario Amodei's Saturday essay followed a threat report detailing how adversaries used Claude for autonomous drones, surveillance and bioweapons research.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-12T19:43:24Z",
-      "sourceCount": "18 sources"
-    },
-    {
       "title": "Iran's Pezeshkian says US failed to topple Tehran, vows not to surrender",
       "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-says-us-fail-fWREbCyXTzuhvIFAfMTNdA",
       "description": "Speaking in New Delhi ahead of the BRICS summit, the Iranian president accused Washington of blocking food and medicine and called its campaign \"the most savage thing.\"",
@@ -62,6 +80,24 @@
       "topic": "top",
       "pubDate": "2026-09-12T15:18:21Z",
       "sourceCount": "6 sources"
+    },
+    {
+      "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
+      "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
+      "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-12T23:02:43Z",
+      "sourceCount": "8 sources"
+    },
+    {
+      "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
+      "url": "https://www.perplexity.ai/page/anthropic-ceo-calls-for-ai-slo-Z.iMF8FrTqyaIE6Jpj2dPQ",
+      "description": "Dario Amodei's Saturday essay followed a threat report detailing how adversaries used Claude for autonomous drones, surveillance and bioweapons research.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-12T19:43:24Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "El Nino has 75% chance of becoming strongest on record, NOAA says",
@@ -91,13 +127,13 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "US narrows air defense for Hormuz tankers to two daily windows",
-      "url": "https://www.perplexity.ai/page/us-narrows-air-defense-for-hor-RpLQjyMMQuqXbhzhEvwCTQ",
-      "description": "Iran's escalating nighttime attacks on ships prompted Washington to limit its escort coverage in the critical oil shipping chokepoint.",
+      "title": "TSA restores gate access without tickets for first time since 9/11",
+      "url": "https://www.perplexity.ai/page/tsa-restores-gate-access-witho-n1OU046fT_SAp2VbsUVQ.w",
+      "description": "The new Gateside by TSA PreCheck program launched this week at 13 airports, letting eligible travelers enter secure areas to greet or see off loved ones.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-12T10:03:18Z",
-      "sourceCount": "7 sources"
+      "pubDate": "2026-09-12T03:51:03Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "Trump says US-Canada deal could come 'fairly soon'",
@@ -109,15 +145,6 @@
       "sourceCount": "10 sources"
     },
     {
-      "title": "TSA restores gate access without tickets for first time since 9/11",
-      "url": "https://www.perplexity.ai/page/tsa-restores-gate-access-witho-n1OU046fT_SAp2VbsUVQ.w",
-      "description": "The new Gateside by TSA PreCheck program launched this week at 13 airports, letting eligible travelers enter secure areas to greet or see off loved ones.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-12T03:51:03Z",
-      "sourceCount": "18 sources"
-    },
-    {
       "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
       "url": "https://www.perplexity.ai/page/u-s-links-chinese-satellite-im-WO1VXNi6TqqIrsAB1XQZMw",
       "description": "Officials say the finding is the most definitive proof to date that Chinese assistance to Iran has led to American casualties.",
@@ -125,15 +152,6 @@
       "topic": "top",
       "pubDate": "2026-09-12T02:04:36Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Trump says he'd welcome Chinese automakers building cars in US",
-      "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
-      "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-12T01:39:57Z",
-      "sourceCount": "6 sources"
     },
     {
       "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
@@ -145,22 +163,13 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after attacks",
-      "url": "https://www.perplexity.ai/page/saudi-arabia-shuts-key-oil-pip-uPM0e47MSmO2BohVGkN7Rw",
-      "description": "The shutdown threatens to choke off the kingdom's last reliable export route as Houthis tighten control over the Red Sea.",
+      "title": "Trump says he'd welcome Chinese automakers building cars in US",
+      "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+      "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-11T19:19:26Z",
-      "sourceCount": "32 sources"
-    },
-    {
-      "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
-      "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
-      "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-11T19:15:50Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-09-12T01:39:57Z",
+      "sourceCount": "6 sources"
     },
     {
       "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -181,21 +190,12 @@
       "sourceCount": "31 sources"
     },
     {
-      "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
-      "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
-      "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+      "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
+      "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
+      "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-11T17:38:54Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
-      "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
-      "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-11T16:08:54Z",
+      "pubDate": "2026-09-11T19:15:50Z",
       "sourceCount": "15 sources"
     },
     {
@@ -217,13 +217,22 @@
       "sourceCount": "8 sources"
     },
     {
-      "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
-      "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
-      "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
+      "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+      "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+      "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-11T13:33:47Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-09-11T17:38:54Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
+      "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
+      "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-11T16:08:54Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Putin slams West's 'ugly' tactics at BRICS forum in New Delhi",
@@ -242,6 +251,15 @@
       "topic": "top",
       "pubDate": "2026-09-11T13:06:00Z",
       "sourceCount": "34 sources"
+    },
+    {
+      "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
+      "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
+      "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-11T13:33:47Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "August CPI holds at 3.4%, bolstering case for Fed rate hike",
@@ -1331,37 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-08-29T19:17:33Z",
       "sourceCount": "9 sources"
-    },
-    {
-      "title": "Crockett declines to campaign with Talarico in Texas Senate race",
-      "url": "https://www.perplexity.ai/page/crockett-declines-to-campaign-QiOxURgbTIicZwBxBcbAVg",
-      "description": "The congresswoman told CNN she will focus on down-ballot candidates, declining to join the Democratic nominee who defeated her in the March primary.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-29T17:03:05Z",
-      "sourceCount": "7 sources"
-    },
-    {
-      "title": "NPS endorses Trump's arch despite harm to 36 DC landmarks",
-      "url": "https://www.perplexity.ai/page/nps-endorses-trump-s-arch-desp-mmvyUWBcQiOrz_hXy5ToGA",
-      "description": "A 133-page report found the proposed 250-foot gilded arch would disrupt sightlines across Washington but called its Memorial Circle site irreplaceable.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-29T13:33:44Z",
-      "sourceCount": "4 sources"
     }
   ],
-  "cached_at": "2026-09-13T17:36:13Z",
+  "cached_at": "2026-09-13T19:47:16Z",
   "topics": {
     "top": [
       {
-        "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
-        "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
-        "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
+        "title": "Trump says he'll consider releasing more 9/11 records",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-consider-rele-cfQbGJuGRa.6rhk0nxsitQ",
+        "description": "Speaking in Ireland on Sunday, the president responded to families' appeals for greater transparency about the attacks on their 25th anniversary.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-13T15:28:10Z",
-        "sourceCount": "16 sources"
+        "pubDate": "2026-09-13T19:30:58Z",
+        "sourceCount": "5 sources"
+      },
+      {
+        "title": "Russian drone hits train 2 km from Polish border after Johnson passes through",
+        "url": "https://www.perplexity.ai/page/russian-drone-hits-train-2-km-y.UJXFlYRKapPyjeTJof7w",
+        "description": "A jet-propelled drone struck a Kyiv-to-Warsaw passenger train at Yahodyn, shortly after Boris Johnson and European officials used the same route.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T18:11:07Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "Obama urges Democrats to make AI oversight central to their agenda",
@@ -1373,6 +1382,24 @@
         "sourceCount": "5 sources"
       },
       {
+        "title": "Trump says he'll remove 15% tariff on Irish whiskey",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
+        "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T18:07:42Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Iranian cargo ship hit near Hormuz ahead of Gulf talks in Oman",
+        "url": "https://www.perplexity.ai/page/iranian-cargo-ship-hit-near-ho-a4Cd4sKQTzq_S_M5b85roQ",
+        "description": "A projectile killed one crew member and wounded four off Qeshm Island, raising tensions before Monday's ministerial meeting in Salalah.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-13T10:53:14Z",
+        "sourceCount": "20 sources"
+      },
+      {
         "title": "Canada pursues EU 'associate member' status amid trade war with U.S.",
         "url": "https://www.perplexity.ai/page/canada-pursues-eu-associate-me-JYFX7i0bSqipSZKnP7C0tQ",
         "description": "Prime Minister Mark Carney will outline plans to deepen Canada-EU ties in a speech to the European Parliament this week.",
@@ -1382,13 +1409,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
-        "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
+        "title": "Trump calls AI safety concerns 'negative forces' as top executives urge slowdown",
+        "url": "https://www.perplexity.ai/page/trump-calls-ai-safety-concerns-h6oI9mNnTnGOtSTxWJJk8Q",
+        "description": "The president pushed back from Ireland against a growing industry consensus, one day after Anthropic's CEO warned rogue AI agents could threaten the internet.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-12T23:02:43Z",
-        "sourceCount": "8 sources"
+        "pubDate": "2026-09-13T15:28:10Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "Altman says OpenAI IPO won't happen until 2027",
@@ -1400,15 +1427,6 @@
         "sourceCount": "4 sources"
       },
       {
-        "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
-        "url": "https://www.perplexity.ai/page/anthropic-ceo-calls-for-ai-slo-Z.iMF8FrTqyaIE6Jpj2dPQ",
-        "description": "Dario Amodei's Saturday essay followed a threat report detailing how adversaries used Claude for autonomous drones, surveillance and bioweapons research.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-12T19:43:24Z",
-        "sourceCount": "18 sources"
-      },
-      {
         "title": "Iran's Pezeshkian says US failed to topple Tehran, vows not to surrender",
         "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-says-us-fail-fWREbCyXTzuhvIFAfMTNdA",
         "description": "Speaking in New Delhi ahead of the BRICS summit, the Iranian president accused Washington of blocking food and medicine and called its campaign \"the most savage thing.\"",
@@ -1416,6 +1434,24 @@
         "topic": "top",
         "pubDate": "2026-09-12T15:18:21Z",
         "sourceCount": "6 sources"
+      },
+      {
+        "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
+        "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
+        "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-12T23:02:43Z",
+        "sourceCount": "8 sources"
+      },
+      {
+        "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
+        "url": "https://www.perplexity.ai/page/anthropic-ceo-calls-for-ai-slo-Z.iMF8FrTqyaIE6Jpj2dPQ",
+        "description": "Dario Amodei's Saturday essay followed a threat report detailing how adversaries used Claude for autonomous drones, surveillance and bioweapons research.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-12T19:43:24Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "El Nino has 75% chance of becoming strongest on record, NOAA says",
@@ -1445,13 +1481,13 @@
         "sourceCount": "22 sources"
       },
       {
-        "title": "US narrows air defense for Hormuz tankers to two daily windows",
-        "url": "https://www.perplexity.ai/page/us-narrows-air-defense-for-hor-RpLQjyMMQuqXbhzhEvwCTQ",
-        "description": "Iran's escalating nighttime attacks on ships prompted Washington to limit its escort coverage in the critical oil shipping chokepoint.",
+        "title": "TSA restores gate access without tickets for first time since 9/11",
+        "url": "https://www.perplexity.ai/page/tsa-restores-gate-access-witho-n1OU046fT_SAp2VbsUVQ.w",
+        "description": "The new Gateside by TSA PreCheck program launched this week at 13 airports, letting eligible travelers enter secure areas to greet or see off loved ones.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-12T10:03:18Z",
-        "sourceCount": "7 sources"
+        "pubDate": "2026-09-12T03:51:03Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "Trump says US-Canada deal could come 'fairly soon'",
@@ -1463,15 +1499,6 @@
         "sourceCount": "10 sources"
       },
       {
-        "title": "TSA restores gate access without tickets for first time since 9/11",
-        "url": "https://www.perplexity.ai/page/tsa-restores-gate-access-witho-n1OU046fT_SAp2VbsUVQ.w",
-        "description": "The new Gateside by TSA PreCheck program launched this week at 13 airports, letting eligible travelers enter secure areas to greet or see off loved ones.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-12T03:51:03Z",
-        "sourceCount": "18 sources"
-      },
-      {
         "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
         "url": "https://www.perplexity.ai/page/u-s-links-chinese-satellite-im-WO1VXNi6TqqIrsAB1XQZMw",
         "description": "Officials say the finding is the most definitive proof to date that Chinese assistance to Iran has led to American casualties.",
@@ -1479,15 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-09-12T02:04:36Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Trump says he'd welcome Chinese automakers building cars in US",
-        "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
-        "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-12T01:39:57Z",
-        "sourceCount": "6 sources"
       },
       {
         "title": "OpenAI agents attacked RubyGems before Hugging Face breach",
@@ -1499,22 +1517,13 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "Saudi Arabia shuts key oil pipeline after attacks",
-        "url": "https://www.perplexity.ai/page/saudi-arabia-shuts-key-oil-pip-uPM0e47MSmO2BohVGkN7Rw",
-        "description": "The shutdown threatens to choke off the kingdom's last reliable export route as Houthis tighten control over the Red Sea.",
+        "title": "Trump says he'd welcome Chinese automakers building cars in US",
+        "url": "https://www.perplexity.ai/page/trump-says-he-d-welcome-chines-oxtX.xvRSDidFXtDrjOSfg",
+        "description": "The president drew a line between U.S.-based manufacturing with American workers and vehicle imports from China, which remain effectively banned.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-11T19:19:26Z",
-        "sourceCount": "32 sources"
-      },
-      {
-        "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
-        "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
-        "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-11T19:15:50Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-09-12T01:39:57Z",
+        "sourceCount": "6 sources"
       },
       {
         "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -1535,21 +1544,12 @@
         "sourceCount": "31 sources"
       },
       {
-        "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
-        "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
-        "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
+        "title": "Reflecting Pool contractor blames its own errors, not vandals, for liner damage",
+        "url": "https://www.perplexity.ai/page/reflecting-pool-contractor-bla-Eu4SqfrrTHO.QHEXDxbCiA",
+        "description": "Documents reviewed by The New York Times show Atlantic Industrial Coatings cited faulty workmanship and incompatible chemicals, undercutting Trump's vandalism claims.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-11T17:38:54Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
-        "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
-        "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-11T16:08:54Z",
+        "pubDate": "2026-09-11T19:15:50Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1571,13 +1571,22 @@
         "sourceCount": "8 sources"
       },
       {
-        "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
-        "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
-        "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
+        "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
+        "url": "https://www.perplexity.ai/page/cia-releases-69-classified-bri-ASGDEVMNTpyATdpe8GxAew",
+        "description": "The documents reveal repeated pre-attack warnings to the Clinton and Bush White Houses, including a 1998 alert about a plane attack on a U.S. city.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-11T13:33:47Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-09-11T17:38:54Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Trump, Hegseth frame Iran war as extension of 9/11 fight",
+        "url": "https://www.perplexity.ai/page/trump-hegseth-frame-iran-war-a-B3YyzT64RTebsSqVlIR1Qg",
+        "description": "At the Pentagon's 25th anniversary ceremony, the president and defense secretary tied the ongoing conflict with Iran to the war on terror.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-11T16:08:54Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Putin slams West's 'ugly' tactics at BRICS forum in New Delhi",
@@ -1596,6 +1605,15 @@
         "topic": "top",
         "pubDate": "2026-09-11T13:06:00Z",
         "sourceCount": "34 sources"
+      },
+      {
+        "title": "Trump leads GOP convention crowd in 'cheat like hell' voting pledge",
+        "url": "https://www.perplexity.ai/page/trump-leads-gop-convention-cro-e0hjUj0IQtmy0NPBhin5MA",
+        "description": "The president closed the party's first-ever midterm convention in Dallas by leading attendees in a loyalty oath to himself.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-11T13:33:47Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "August CPI holds at 3.4%, bolstering case for Fed rate hike",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-29T19:17:33Z",
         "sourceCount": "9 sources"
-      },
-      {
-        "title": "Crockett declines to campaign with Talarico in Texas Senate race",
-        "url": "https://www.perplexity.ai/page/crockett-declines-to-campaign-QiOxURgbTIicZwBxBcbAVg",
-        "description": "The congresswoman told CNN she will focus on down-ballot candidates, declining to join the Democratic nominee who defeated her in the March primary.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-29T17:03:05Z",
-        "sourceCount": "7 sources"
-      },
-      {
-        "title": "NPS endorses Trump's arch despite harm to 36 DC landmarks",
-        "url": "https://www.perplexity.ai/page/nps-endorses-trump-s-arch-desp-mmvyUWBcQiOrz_hXy5ToGA",
-        "description": "A 133-page report found the proposed 250-foot gilded arch would disrupt sightlines across Washington but called its Memorial Circle site irreplaceable.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-29T13:33:44Z",
-        "sourceCount": "4 sources"
       }
     ],
     "tech": [],
