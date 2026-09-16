@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
+      "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
+      "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-16T01:58:50Z",
+      "sourceCount": "16 sources"
+    },
+    {
       "title": "Pentagon hand-picks fit troops for Hegseth speech",
       "url": "https://www.perplexity.ai/page/pentagon-hand-picks-fit-troops-T.9_CD0hQUKDbvF5xpvMEw",
       "description": "Commanders must select service members who pass waist-to-height ratio tests and grooming standards to attend the Sept. 30 address.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-09-01T15:08:53Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Xi urges 'universal security' at SCO summit in Bishkek",
-      "url": "https://www.perplexity.ai/page/xi-urges-universal-security-at-ypjBNdVRQJO7WvAWrTcftQ",
-      "description": "Leaders from China, Russia, India and other Eurasian nations gathered for the bloc's 25th anniversary amid overlapping global conflicts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-01T10:28:59Z",
-      "sourceCount": "16 sources"
     }
   ],
-  "cached_at": "2026-09-16T00:34:24Z",
+  "cached_at": "2026-09-16T05:14:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
+        "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
+        "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-16T01:58:50Z",
+        "sourceCount": "16 sources"
+      },
       {
         "title": "Pentagon hand-picks fit troops for Hegseth speech",
         "url": "https://www.perplexity.ai/page/pentagon-hand-picks-fit-troops-T.9_CD0hQUKDbvF5xpvMEw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-09-01T15:08:53Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Xi urges 'universal security' at SCO summit in Bishkek",
-        "url": "https://www.perplexity.ai/page/xi-urges-universal-security-at-ypjBNdVRQJO7WvAWrTcftQ",
-        "description": "Leaders from China, Russia, India and other Eurasian nations gathered for the bloc's 25th anniversary amid overlapping global conflicts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-01T10:28:59Z",
-        "sourceCount": "16 sources"
       }
     ],
     "tech": [],
