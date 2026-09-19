@@ -118,13 +118,13 @@
       "sourceCount": "17 sources"
     },
     {
-      "title": "Trump bans CNN, MS NOW, Politico from White House",
-      "url": "https://www.perplexity.ai/page/trump-bans-cnn-ms-now-politico-vpER.IZURlGGgQQCygg2qA",
-      "description": "The president accused the outlets of reporting \"fiction and lies\" and warned additional media organizations could face similar restrictions.",
+      "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
+      "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
+      "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-18T19:34:08Z",
-      "sourceCount": "31 sources"
+      "pubDate": "2026-09-18T12:09:46Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Warren Buffett steps down as Berkshire chairman",
@@ -143,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-09-18T05:05:57Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
-      "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
-      "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-18T12:09:46Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Iran strikes tanker under U.S. Navy escort in Hormuz",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-09-03T23:57:31Z",
       "sourceCount": "9 sources"
+    },
+    {
+      "title": "ICE whistleblower says agency skipped vetting in rush to hire thousands of officers",
+      "url": "https://www.perplexity.ai/page/ice-whistleblower-says-agency-t.HlLixUTAup9N2V2enbpQ",
+      "description": "A senior official alleged recruits received job offers before fingerprinting or identity checks were completed, creating national security risks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-03T23:43:24Z",
+      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-09-19T14:30:12Z",
+  "cached_at": "2026-09-19T17:24:35Z",
   "topics": {
     "top": [
       {
@@ -1472,13 +1472,13 @@
         "sourceCount": "17 sources"
       },
       {
-        "title": "Trump bans CNN, MS NOW, Politico from White House",
-        "url": "https://www.perplexity.ai/page/trump-bans-cnn-ms-now-politico-vpER.IZURlGGgQQCygg2qA",
-        "description": "The president accused the outlets of reporting \"fiction and lies\" and warned additional media organizations could face similar restrictions.",
+        "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
+        "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
+        "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-18T19:34:08Z",
-        "sourceCount": "31 sources"
+        "pubDate": "2026-09-18T12:09:46Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Warren Buffett steps down as Berkshire chairman",
@@ -1497,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-09-18T05:05:57Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
-        "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
-        "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-18T12:09:46Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Iran strikes tanker under U.S. Navy escort in Hormuz",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-09-03T23:57:31Z",
         "sourceCount": "9 sources"
+      },
+      {
+        "title": "ICE whistleblower says agency skipped vetting in rush to hire thousands of officers",
+        "url": "https://www.perplexity.ai/page/ice-whistleblower-says-agency-t.HlLixUTAup9N2V2enbpQ",
+        "description": "A senior official alleged recruits received job offers before fingerprinting or identity checks were completed, creating national security risks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-03T23:43:24Z",
+        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
