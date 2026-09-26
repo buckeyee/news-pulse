@@ -1,40 +1,184 @@
 {
   "stories": [
     {
-      "title": "White House weighs scaling back beef imports as GOP midterm panic grows",
-      "url": "https://www.perplexity.ai/page/white-house-weighs-scaling-bac-WqThuTwkS9qF7NpMKcqc_w",
-      "description": "Internal discussions pit the Domestic Policy Council against USTR as farm-state Republicans publicly break with Trump over the policy.",
+      "title": "Trump rejects Iran's ceasefire offer, eyes post-midterm airstrikes",
+      "url": "https://www.perplexity.ai/page/trump-rejects-iran-s-ceasefire-h.nzVApESKqNjqHEAp01hg",
+      "description": "The president dismissed Tehran's proposal to reopen the Strait of Hormuz within seven days, telling advisors he expects to resume bombing after November's elections.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-24T00:17:15Z",
-      "sourceCount": "10 sources"
+      "pubDate": "2026-09-26T00:40:01Z",
+      "sourceCount": "16 sources"
     },
     {
-      "title": "U.S. and China extend trade truce through January 10",
-      "url": "https://www.perplexity.ai/page/u-s-and-china-extend-trade-tru-lTutCStJQNCiELUDkPEauA",
-      "description": "Treasury Secretary Bessent announced the deal as Xi Jinping arrived in Washington for a three-day state visit.",
+      "title": "Whistleblowers say Kennedy Center shelved repairs now cited for closure",
+      "url": "https://www.perplexity.ai/page/whistleblowers-say-kennedy-cen-k5hcHiY7REW9oPFIBNRR1g",
+      "description": "Former employees told Congress that executive director Matt Floca canceled funded roof fixes in April, then used the same leaks to justify shutting the building.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T22:48:12Z",
-      "sourceCount": "17 sources"
+      "pubDate": "2026-09-25T23:31:06Z",
+      "sourceCount": "5 sources"
     },
     {
-      "title": "China seized diverted F-35 stealth parts, Bloomberg reports",
-      "url": "https://www.perplexity.ai/page/china-seized-diverted-f-35-ste-18xUwWf0SkKYe6fOhqaNRg",
-      "description": "Stealth-coated components shipped from Australia via UPS were rerouted to Hong Kong in late May, prompting a Pentagon investigation and congressional briefings.",
+      "title": "DOJ prosecutor quits, says she was scapegoated in Broadview Six case",
+      "url": "https://www.perplexity.ai/page/doj-prosecutor-quits-says-she-Xi8JhZ45QviPNttMAcCI6Q",
+      "description": "Sheri Mecklenburg accused Chicago's U.S. attorney of directing the failed felony prosecution of anti-ICE protesters, then blaming her when it collapsed.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T22:12:56Z",
+      "pubDate": "2026-09-25T22:20:49Z",
+      "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump cancels $810M in spending using disputed pocket rescission",
+      "url": "https://www.perplexity.ai/page/trump-cancels-810m-in-spending-oh.KRbcJQ06aZZ8ode.EAw",
+      "description": "Sen. Collins called the move \"a clear violation of the law,\" saying OMB intentionally withheld funds for months to bypass Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-26T00:18:06Z",
+      "sourceCount": "6 sources"
+    },
+    {
+      "title": "OpenAI agents tried to hack five government, university sites",
+      "url": "https://www.perplexity.ai/page/openai-agents-tried-to-hack-fi-5ROZpnKZR2K7FGCpEq.TCg",
+      "description": "Australia's prime minister called the company's delayed disclosure \"completely unacceptable\" after agents autonomously breached a Medicare portal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T20:49:48Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Supreme Court blocks Missouri GOP map for third time",
+      "url": "https://www.perplexity.ai/page/supreme-court-blocks-missouri-yVk25PKeTzSJIrbK38QhCA",
+      "description": "The unanimous decision preserves the state's 2022 congressional districts as absentee voting is already underway for the Nov. 3 midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T22:17:54Z",
+      "sourceCount": "5 sources"
+    },
+    {
+      "title": "Appeals court upholds Pentagon blacklisting of Anthropic",
+      "url": "https://www.perplexity.ai/page/appeals-court-upholds-pentagon-v9twrW0NRg6v.ZWgmxizCQ",
+      "description": "The 2-1 ruling found the Defense Department had \"ample support\" for deeming Anthropic's AI safety restrictions a national security supply chain risk.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T16:00:05Z",
+      "sourceCount": "9 sources"
+    },
+    {
+      "title": "Zelensky says Russia's territorial demands dropped from peace talks",
+      "url": "https://www.perplexity.ai/page/zelensky-says-russia-s-territo-SWRC5c4ST6WeedQhpEjhMg",
+      "description": "Speaking in New York, Ukraine's president credited battlefield gains for pushing the \"Anchorage agreements\" off the negotiating agenda.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T10:23:10Z",
+      "sourceCount": "4 sources"
+    },
+    {
+      "title": "Supreme Court revives Trump voter-check database ahead of midterms",
+      "url": "https://www.perplexity.ai/page/supreme-court-revives-trump-vo-jCDT5G.CTeCjdERfiUoCWg",
+      "description": "The justices lifted a lower court order blocking the SAVE system, which has flagged tens of thousands of registered voters as potential noncitizens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T15:49:47Z",
+      "sourceCount": "6 sources"
+    },
+    {
+      "title": "France to send troops to Saudi oil port as Houthi attacks escalate",
+      "url": "https://www.perplexity.ai/page/france-to-send-troops-to-saudi-uUYh2N49Rp.46LSHYXIBwA",
+      "description": "Saudi Arabia, Turkey, and Pakistan plan an urgent military chiefs meeting under the Mecca Joint Defence Agreement after Houthi missile strikes hit Saudi targets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T10:03:15Z",
       "sourceCount": "18 sources"
     },
     {
-      "title": "Judge questions Trump's White House media ban but delays ruling",
-      "url": "https://www.perplexity.ai/page/judge-questions-trump-s-white-Srmm_BEdTbC8MDJrE66aiw",
-      "description": "Judge Timothy Kelly said due process \"wasn't followed\" in banning CNN, MS NOW and Politico but ended Wednesday's hearing without a decision.",
+      "title": "Scores of delegates walk out as Netanyahu addresses UN General Assembly",
+      "url": "https://www.perplexity.ai/page/scores-of-delegates-walk-out-a-hi2iXE6ySJ.f.jhTZn5VEw",
+      "description": "The Israeli prime minister delivered a defiant speech to a mostly empty hall, calling departing diplomats \"moral cowards.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T22:13:01Z",
-      "sourceCount": "10 sources"
+      "pubDate": "2026-09-24T20:03:03Z",
+      "sourceCount": "61 sources"
+    },
+    {
+      "title": "Xi urges Trump to formally oppose Taiwan independence",
+      "url": "https://www.perplexity.ai/page/xi-urges-trump-to-formally-opp-rysrphfqTtiUBpr0MEwEvw",
+      "description": "Beijing's demand marks a deliberate escalation from Washington's longstanding stance that it \"does not support\" Taiwan's formal independence.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-25T00:21:14Z",
+      "sourceCount": "7 sources"
+    },
+    {
+      "title": "California court orders sheriff to return 650,000 seized ballots",
+      "url": "https://www.perplexity.ai/page/california-court-orders-sherif-OlYWGCsGSsKCIaOVk6jAkw",
+      "description": "The state Supreme Court unanimously ruled Sheriff Chad Bianco's seizure of ballots from a 2025 special election was unlawful, weeks before midterm voting begins.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T19:16:05Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Carney confirms Canada will move away from Starlink, F-35s",
+      "url": "https://www.perplexity.ai/page/carney-confirms-canada-will-mo-woQMPYXkThy03PRDPjpgfw",
+      "description": "Canada's prime minister told The New York Times his government plans to reduce reliance on U.S. defense and technology systems.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T19:13:06Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "Trump administration to ask Supreme Court to restore third-country deportations",
+      "url": "https://www.perplexity.ai/page/trump-administration-to-ask-su-PicExOYRTterCU0uPLBIpw",
+      "description": "AG Todd Blanche said the administration will seek emergency relief after a federal appeals court blocked rapid deportations to third countries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T19:23:11Z",
+      "sourceCount": "8 sources"
+    },
+    {
+      "title": "U.S. quietly presses China on suspected nuclear tests",
+      "url": "https://www.perplexity.ai/page/u-s-quietly-presses-china-on-s-1wSA0KtjSeq6iMekKKjT7Q",
+      "description": "Confidential diplomatic exchanges have escalated Washington's public accusations that Beijing conducted low-yield nuclear blasts violating a global test ban.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T17:52:50Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Abbas calls US visa ban 'punitive' in virtual UN speech",
+      "url": "https://www.perplexity.ai/page/abbas-calls-us-visa-ban-puniti-O1ubSEUoRYiyIiKLdpbmhw",
+      "description": "The Palestinian Authority president addressed the General Assembly from Ramallah after being barred from entering the U.S. for a second straight year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T14:37:48Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Google, OpenAI, Anthropic name joint AI safety body",
+      "url": "https://www.perplexity.ai/page/google-openai-anthropic-name-j-cmCE3q5PS2KaFXb.OWy7vQ",
+      "description": "The Standards Authority for Frontier AI is the tentative name for the new organization, according to The Information.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T13:46:23Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Carney says he prepared for risk of U.S. military action against Canada",
+      "url": "https://www.perplexity.ai/page/carney-says-he-prepared-for-ri-i0QmZlrKQi2pxaZdzN6Yjw",
+      "description": "In a New York Times interview, the Canadian prime minister called it \"extreme tail risk\" that would be \"irresponsible\" to ignore amid an escalating trade war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T10:05:37Z",
+      "sourceCount": "18 sources"
+    },
+    {
+      "title": "Rubio warns Ukraine war could 'metastasize' after Lavrov meeting",
+      "url": "https://www.perplexity.ai/page/rubio-warns-ukraine-war-could-NkNtR.deRGK4Z16iqZta1w",
+      "description": "After meeting Russian Foreign Minister Lavrov at the U.N. General Assembly, Secretary of State Rubio warned the conflict risks spreading through hybrid attacks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T01:38:49Z",
+      "sourceCount": "4 sources"
     },
     {
       "title": "Carney says Canada won't trade away EU ties for U.S. deal",
@@ -46,6 +190,24 @@
       "sourceCount": "17 sources"
     },
     {
+      "title": "Judge orders Trump to restore White House access for CNN, MS NOW, Politico",
+      "url": "https://www.perplexity.ai/page/judge-orders-trump-to-restore-1wx69fgkTd.pmP.ooyBXlA",
+      "description": "The ruling finds Trump's ban on the three outlets likely unconstitutional, rejecting the administration's national security justification.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-24T05:59:28Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "China seized diverted F-35 stealth parts, Bloomberg reports",
+      "url": "https://www.perplexity.ai/page/china-seized-diverted-f-35-ste-18xUwWf0SkKYe6fOhqaNRg",
+      "description": "Stealth-coated components shipped from Australia via UPS were rerouted to Hong Kong in late May, prompting a Pentagon investigation and congressional briefings.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-23T22:12:56Z",
+      "sourceCount": "18 sources"
+    },
+    {
       "title": "Altman, Amodei urge AI caution at UN Security Council",
       "url": "https://www.perplexity.ai/page/altman-amodei-urge-ai-caution-jzGUds07QBmFaTufVPiR6Q",
       "description": "The OpenAI and Anthropic CEOs called for international cooperation on AI safety, a day after Trump rejected global oversight as a \"globalist scheme.\"",
@@ -55,13 +217,13 @@
       "sourceCount": "10 sources"
     },
     {
-      "title": "Trump greets Xi on tarmac in rare personal welcome",
-      "url": "https://www.perplexity.ai/page/trump-greets-xi-on-tarmac-in-r-qGY5rgRQRUSOuXzkhrHh9Q",
-      "description": "The unusual gesture at Joint Base Andrews kicks off Xi Jinping's first White House state visit in over a decade.",
+      "title": "Thune says Trump is open to AI safeguards despite public defiance",
+      "url": "https://www.perplexity.ai/page/thune-says-trump-is-open-to-ai-ez7EyKUQQEGt8MVjOw4DLg",
+      "description": "The Senate majority leader told Axios that private conversations left him believing the president is \"not really dug in\" against AI guardrails.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T22:11:14Z",
-      "sourceCount": "17 sources"
+      "pubDate": "2026-09-24T01:22:52Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "Zelenskyy urges UN to choke Russia's war revenues",
@@ -82,13 +244,13 @@
       "sourceCount": "17 sources"
     },
     {
-      "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault case",
-      "url": "https://www.perplexity.ai/page/harvey-weinstein-sentenced-to-hr_PHFnlTLy0AQvp4IbAfA",
-      "description": "The judge called him \"the literal face of the Me Too movement\" and ordered the sentence to run consecutive to a pending California term.",
+      "title": "White House weighs scaling back beef imports as GOP midterm panic grows",
+      "url": "https://www.perplexity.ai/page/white-house-weighs-scaling-bac-WqThuTwkS9qF7NpMKcqc_w",
+      "description": "Internal discussions pit the Domestic Policy Council against USTR as farm-state Republicans publicly break with Trump over the policy.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T15:58:36Z",
-      "sourceCount": "56 sources"
+      "pubDate": "2026-09-24T00:17:15Z",
+      "sourceCount": "10 sources"
     },
     {
       "title": "Rubio says US invited Putin to G20 summit in Miami",
@@ -100,13 +262,13 @@
       "sourceCount": "16 sources"
     },
     {
-      "title": "10-year Treasury yield tops 5%, highest since 2007",
-      "url": "https://www.perplexity.ai/page/10-year-treasury-yield-tops-5-ZDUnEvG4TbyUs5T316F0ew",
-      "description": "Stronger-than-expected economic activity in September fueled bets on further Fed rate hikes, pushing borrowing costs to 2007 highs.",
+      "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault case",
+      "url": "https://www.perplexity.ai/page/harvey-weinstein-sentenced-to-hr_PHFnlTLy0AQvp4IbAfA",
+      "description": "The judge called him \"the literal face of the Me Too movement\" and ordered the sentence to run consecutive to a pending California term.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-23T15:06:39Z",
-      "sourceCount": "34 sources"
+      "pubDate": "2026-09-23T15:58:36Z",
+      "sourceCount": "56 sources"
     },
     {
       "title": "Iran's Pezeshkian calls country a 'victim' in rare wartime UN address",
@@ -136,33 +298,6 @@
       "sourceCount": "19 sources"
     },
     {
-      "title": "Kremlin rebuffs Zelenskyy's call for trilateral talks with Putin and Trump",
-      "url": "https://www.perplexity.ai/page/kremlin-rebuffs-zelenskyy-s-ca-IMBtu7GQSy.tLUppQwxtiw",
-      "description": "Russia called a leaders' summit \"a waste of time\" without prior groundwork, hours after Zelenskyy urged Trump to broker the meeting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-23T13:13:54Z",
-      "sourceCount": "11 sources"
-    },
-    {
-      "title": "Netanyahu vows to target NYC Mayor Mamdani in UN speech",
-      "url": "https://www.perplexity.ai/page/netanyahu-vows-to-target-nyc-m-Kt56dz30QyaRI7AQFT_b_A",
-      "description": "The Israeli PM posted a video saying \"shame on you\" after Mamdani renewed calls for his arrest on war crimes charges ahead of the General Assembly.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T16:23:38Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Vance task force to cut 760,000 ACA enrollments in fraud crackdown",
-      "url": "https://www.perplexity.ai/page/vance-task-force-to-cut-760000-vTV4DxNHR_CuLyOEx4OmdQ",
-      "description": "CMS and the vice president announced the action Tuesday, claiming it will save $2.2 billion by canceling subsidies for ineligible or fictitious accounts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T15:29:19Z",
-      "sourceCount": "4 sources"
-    },
-    {
       "title": "Trump holds first meeting with US-backed Venezuelan leader at UN",
       "url": "https://www.perplexity.ai/page/trump-holds-first-meeting-with-nXbO4XRZQrOtH26NTjmiYQ",
       "description": "The talks with interim President Delcy Rodríguez took place near the New York jail where ousted leader Nicolás Maduro awaits trial.",
@@ -181,13 +316,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Hurricane Polo reaches Category 5 off Mexico's coast",
-      "url": "https://www.perplexity.ai/page/hurricane-polo-reaches-categor-BtK9lwflQmi3UT53Y3xrWQ",
-      "description": "The storm intensified from a tropical depression to the highest category in roughly 36 hours, threatening severe flooding across five Mexican states.",
+      "title": "Severed cable and blown circuit ground thousands of Northeast flights",
+      "url": "https://www.perplexity.ai/page/severed-cable-and-blown-circui-8VtKD5kkQRafLoon07GNxQ",
+      "description": "A failed FAA circuit and an accidentally cut backup fiber line halted flights at Newark and Philadelphia for hours, canceling over 900 flights.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-22T13:02:21Z",
-      "sourceCount": "11 sources"
+      "pubDate": "2026-09-22T02:22:44Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "GOP candidates quietly shed Trump branding as midterms loom",
@@ -199,15 +334,6 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Severed cable and blown circuit ground thousands of Northeast flights",
-      "url": "https://www.perplexity.ai/page/severed-cable-and-blown-circui-8VtKD5kkQRafLoon07GNxQ",
-      "description": "A failed FAA circuit and an accidentally cut backup fiber line halted flights at Newark and Philadelphia for hours, canceling over 900 flights.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T02:22:44Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "North Korea tests new hypersonic missile as Kim warns of 'incurable headache' for enemies",
       "url": "https://www.perplexity.ai/page/north-korea-tests-new-hyperson-3zGegrDtSzObuJcqYfTNJQ",
       "description": "Kim Jong Un oversaw the launch of two short-range ballistic missiles on Sept. 20, the country's 14th ballistic missile test this year.",
@@ -215,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-09-21T23:07:18Z",
       "sourceCount": "10 sources"
-    },
-    {
-      "title": "US and Iran hold first direct talks in months at UN General Assembly",
-      "url": "https://www.perplexity.ai/page/us-and-iran-hold-first-direct-qUo_SzENSM.Vg.WOzJRf7w",
-      "description": "Trump said envoys Witkoff and Kushner had a \"very good\" three-hour meeting with Iranian officials, with another session planned soon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-23T00:32:39Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Supreme Court's shadow docket now outpaces its formal rulings, ProPublica finds",
@@ -235,21 +352,21 @@
       "sourceCount": "18 sources"
     },
     {
+      "title": "US and Iran hold first direct talks in months at UN General Assembly",
+      "url": "https://www.perplexity.ai/page/us-and-iran-hold-first-direct-qUo_SzENSM.Vg.WOzJRf7w",
+      "description": "Trump said envoys Witkoff and Kushner had a \"very good\" three-hour meeting with Iranian officials, with another session planned soon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-23T00:32:39Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Paramount settles with states, clearing $110B Warner Bros. merger",
       "url": "https://www.perplexity.ai/page/paramount-settles-with-states-8zn0g8uFQnm.7JEEwQlXdg",
       "description": "The deal removes the last major legal obstacle after 12 state attorneys general sued to block the acquisition on antitrust grounds.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-21T15:08:18Z",
-      "sourceCount": "17 sources"
-    },
-    {
-      "title": "Bessent emerges as frontrunner for Trump's AI czar role",
-      "url": "https://www.perplexity.ai/page/bessent-emerges-as-frontrunner-dOkI3q2yRDaNvg7bv0DkZg",
-      "description": "The Treasury secretary already led AI-focused talks with China on Sunday and holds multiple administration portfolios.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T22:17:44Z",
       "sourceCount": "17 sources"
     },
     {
@@ -262,21 +379,21 @@
       "sourceCount": "10 sources"
     },
     {
+      "title": "Macron rebukes Trump on Gaza in farewell UN speech",
+      "url": "https://www.perplexity.ai/page/macron-rebukes-trump-on-gaza-i-ir0hi4SLSRCr7acOohwMgQ",
+      "description": "The French president called Trump's claimed peace a \"spectacle that should shame us all,\" saying humanitarian access has not resumed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-22T22:18:41Z",
+      "sourceCount": "5 sources"
+    },
+    {
       "title": "DHS opens probe into ICE shooting of DoorDash driver in Austin",
       "url": "https://www.perplexity.ai/page/dhs-opens-probe-into-ice-shoot-KMi6XvrBQKenxQY5xnsIvg",
       "description": "Wilber Rafael Garces Perez, 28, was shot in the torso during a delivery and later released from the hospital into ICE custody.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-21T10:24:40Z",
-      "sourceCount": "16 sources"
-    },
-    {
-      "title": "Trump signs Greenland security deal with Denmark at U.N.",
-      "url": "https://www.perplexity.ai/page/trump-signs-greenland-security-Kual06NTQPG8xQHQxQuKgg",
-      "description": "The trilateral agreement permits two new U.S. military bases and a missile defense system on the Arctic island while reaffirming Danish sovereignty.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T19:23:06Z",
       "sourceCount": "16 sources"
     },
     {
@@ -289,6 +406,15 @@
       "sourceCount": "13 sources"
     },
     {
+      "title": "Trump signs Greenland security deal with Denmark at U.N.",
+      "url": "https://www.perplexity.ai/page/trump-signs-greenland-security-Kual06NTQPG8xQHQxQuKgg",
+      "description": "The trilateral agreement permits two new U.S. military bases and a missile defense system on the Arctic island while reaffirming Danish sovereignty.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-22T19:23:06Z",
+      "sourceCount": "16 sources"
+    },
+    {
       "title": "Carney and Macron pledge joint space, defense work at symbolic island summit",
       "url": "https://www.perplexity.ai/page/carney-and-macron-pledge-joint-IQCVzh99Qza38CNVaeEG6w",
       "description": "Meeting on French territory off Canada's coast, the leaders tasked their agencies to co-develop space launch systems amid strained U.S. ties.",
@@ -296,15 +422,6 @@
       "topic": "top",
       "pubDate": "2026-09-20T18:05:19Z",
       "sourceCount": "32 sources"
-    },
-    {
-      "title": "FBI was building bribery case around Collins before Trump shut it down, ProPublica reports",
-      "url": "https://www.perplexity.ai/page/fbi-was-building-bribery-case-wUgX8B0NQpOfWyGijJ3tnQ",
-      "description": "A convicted defense contractor told agents he funneled $150,000 to Collins' super PAC through a shell company in exchange for federal contracts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T19:22:49Z",
-      "sourceCount": "6 sources"
     },
     {
       "title": "Ukraine launches 'largest ever' drone attack on Moscow",
@@ -316,6 +433,15 @@
       "sourceCount": "49 sources"
     },
     {
+      "title": "FBI was building bribery case around Collins before Trump shut it down, ProPublica reports",
+      "url": "https://www.perplexity.ai/page/fbi-was-building-bribery-case-wUgX8B0NQpOfWyGijJ3tnQ",
+      "description": "A convicted defense contractor told agents he funneled $150,000 to Collins' super PAC through a shell company in exchange for federal contracts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-22T19:22:49Z",
+      "sourceCount": "6 sources"
+    },
+    {
       "title": "AfD wins second German state as Merz vows to stay on",
       "url": "https://www.perplexity.ai/page/afd-wins-second-german-state-a-jEbo29NsS1KeDxr8x9blsw",
       "description": "Exit polls show the far-right party took Mecklenburg-Western Pomerania with 37%, while Merz's CDU slumped to a historic low of 5.5%.",
@@ -323,15 +449,6 @@
       "topic": "top",
       "pubDate": "2026-09-20T18:01:05Z",
       "sourceCount": "10 sources"
-    },
-    {
-      "title": "Cuba walks out of UN as Trump calls it a 'failed state'",
-      "url": "https://www.perplexity.ai/page/cuba-walks-out-of-un-as-trump-UQH02m2dRouFvHrLYhGnSQ",
-      "description": "Foreign Minister Bruno Rodríguez Parrilla led the delegation out after Trump predicted Cuba's communist government \"will fall.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T16:14:21Z",
-      "sourceCount": "68 sources"
     },
     {
       "title": "Iran threatens 'painful' strikes on U.S. bases across Mideast",
@@ -343,6 +460,15 @@
       "sourceCount": "4 sources"
     },
     {
+      "title": "Cuba walks out of UN as Trump calls it a 'failed state'",
+      "url": "https://www.perplexity.ai/page/cuba-walks-out-of-un-as-trump-UQH02m2dRouFvHrLYhGnSQ",
+      "description": "Foreign Minister Bruno Rodríguez Parrilla led the delegation out after Trump predicted Cuba's communist government \"will fall.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-22T16:14:21Z",
+      "sourceCount": "68 sources"
+    },
+    {
       "title": "Former logger Troy Jackson aims to flip Collins' Maine Senate seat",
       "url": "https://www.perplexity.ai/page/former-logger-troy-jackson-aim-JE.ZWC_XSg6rCBAU6IEryQ",
       "description": "A New York Times profile highlights the toss-up race between the progressive Democrat and the five-term Republican incumbent.",
@@ -350,15 +476,6 @@
       "topic": "top",
       "pubDate": "2026-09-20T15:13:21Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump tells UN that AI will now be called 'super intelligence'",
-      "url": "https://www.perplexity.ai/page/trump-tells-un-that-ai-will-no-ZaSfu8qSTF.hBi4061uPGQ",
-      "description": "The president said U.S. government documents would replace \"artificial intelligence\" with \"super intelligence,\" calling the term more accurate.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-22T15:42:27Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "CENTCOM says 1B barrels of oil crossed Hormuz under US military escort",
@@ -370,6 +487,15 @@
       "sourceCount": "16 sources"
     },
     {
+      "title": "Trump tells UN that AI will now be called 'super intelligence'",
+      "url": "https://www.perplexity.ai/page/trump-tells-un-that-ai-will-no-ZaSfu8qSTF.hBi4061uPGQ",
+      "description": "The president said U.S. government documents would replace \"artificial intelligence\" with \"super intelligence,\" calling the term more accurate.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-22T15:42:27Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Flames, smoke seen near Riyadh airport after overnight air-raid alerts",
       "url": "https://www.perplexity.ai/page/flames-smoke-seen-near-riyadh-eI8fkQh6TkS2b8rm0eHjWw",
       "description": "Flightradar24 placed King Khalid International Airport at its maximum disruption index as flights were delayed and canceled Saturday.",
@@ -379,30 +505,12 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Trump, Mamdani agree to advance Queens housing plan at Gracie Mansion",
-      "url": "https://www.perplexity.ai/page/trump-mamdani-agree-to-advance-8Cvzq26gTqiTzlrZB_Y.0A",
-      "description": "The president's first visit to the NYC mayoral residence since 1981 yielded a commitment to deepen talks on the $21 billion Sunnyside Yard project.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-21T22:46:31Z",
-      "sourceCount": "55 sources"
-    },
-    {
       "title": "State Dept. approves possible $2.68B air defense sale to Ukraine",
       "url": "https://www.perplexity.ai/page/state-dept-approves-possible-2-y7oksbbRS4Su46s7pzpWXw",
       "description": "The proposed deal covers missiles, counter-drone radars and launchers as Russian aerial bombs struck a Sumy apartment building, killing two.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-19T10:28:20Z",
-      "sourceCount": "17 sources"
-    },
-    {
-      "title": "U.S. intelligence finds Russia using AI deepfakes to target midterms",
-      "url": "https://www.perplexity.ai/page/u-s-intelligence-finds-russia-1H68jU0uTu2bxL15joUGMg",
-      "description": "Classified assessments reveal the Kremlin authorized a covert campaign using AI-generated celebrity deepfakes to sow division ahead of November's elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T01:30:20Z",
       "sourceCount": "17 sources"
     },
     {
@@ -415,6 +523,15 @@
       "sourceCount": "63 sources"
     },
     {
+      "title": "U.S. intelligence finds Russia using AI deepfakes to target midterms",
+      "url": "https://www.perplexity.ai/page/u-s-intelligence-finds-russia-1H68jU0uTu2bxL15joUGMg",
+      "description": "Classified assessments reveal the Kremlin authorized a covert campaign using AI-generated celebrity deepfakes to sow division ahead of November's elections.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T01:30:20Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "Google says Gemini autonomously hacked three firms during cybersecurity test",
       "url": "https://www.perplexity.ai/page/google-says-gemini-autonomousl-Z_qKfFWySqm2B8EaW0.5fg",
       "description": "Google is the fourth major AI lab to disclose that its models broke loose during security evaluations conducted by the same testing firm, Irregular.",
@@ -422,6 +539,15 @@
       "topic": "top",
       "pubDate": "2026-09-18T22:52:59Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Trump, Mamdani agree to advance Queens housing plan at Gracie Mansion",
+      "url": "https://www.perplexity.ai/page/trump-mamdani-agree-to-advance-8Cvzq26gTqiTzlrZB_Y.0A",
+      "description": "The president's first visit to the NYC mayoral residence since 1981 yielded a commitment to deepen talks on the $21 billion Sunnyside Yard project.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-21T22:46:31Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "Amnesty says US deportees in Equatorial Guinea beaten, arrested in retaliation",
@@ -433,15 +559,6 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "TV networks boycott Trump helipad debut over CNN ban",
-      "url": "https://www.perplexity.ai/page/tv-networks-skip-trump-helipad-u5WgMmvGRli328HD0oJFvQ",
-      "description": "ABC, CBS, Fox News and NBC joined CNN in refusing pool coverage, leaving the president's remarks inaudible on the White House livestream.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-21T20:53:48Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "At least 22 U.S. troops killed in Iran war, exceeding Pentagon's public count",
       "url": "https://www.perplexity.ai/page/at-least-22-u-s-troops-killed-2wJ7mDFkReKu0lfpkzSVfQ",
       "description": "The Washington Post reported Friday that at least four more service members have died than the Pentagon has disclosed, citing six U.S. officials.",
@@ -449,6 +566,15 @@
       "topic": "top",
       "pubDate": "2026-09-18T19:13:06Z",
       "sourceCount": "16 sources"
+    },
+    {
+      "title": "TV networks boycott Trump helipad debut over CNN ban",
+      "url": "https://www.perplexity.ai/page/tv-networks-skip-trump-helipad-u5WgMmvGRli328HD0oJFvQ",
+      "description": "ABC, CBS, Fox News and NBC joined CNN in refusing pool coverage, leaving the president's remarks inaudible on the White House livestream.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-21T20:53:48Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "AI-generated false report nearly triggered US-China military clash, CNN reports",
@@ -460,15 +586,6 @@
       "sourceCount": "4 sources"
     },
     {
-      "title": "Trump proposes $5B fund to rebuild Gulf energy sites",
-      "url": "https://www.perplexity.ai/page/trump-proposes-5b-fund-to-rebu-2FMFHZGKQaC6AuSM2jiQ1Q",
-      "description": "The investment fund would help Middle Eastern nations restore infrastructure damaged in the Iran war and reduce reliance on the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-21T20:01:28Z",
-      "sourceCount": "7 sources"
-    },
-    {
       "title": "South Korea's Lee rules out combat role in Middle East",
       "url": "https://www.perplexity.ai/page/south-korea-s-lee-rules-out-co-Ene3vxclRf.1F7qMYpKAQA",
       "description": "The president said Seoul would not deploy troops to join the Iran war but is weighing limited measures to protect shipping through the Strait of Hormuz.",
@@ -476,6 +593,15 @@
       "topic": "top",
       "pubDate": "2026-09-18T15:28:13Z",
       "sourceCount": "9 sources"
+    },
+    {
+      "title": "Trump proposes $5B fund to rebuild Gulf energy sites",
+      "url": "https://www.perplexity.ai/page/trump-proposes-5b-fund-to-rebu-2FMFHZGKQaC6AuSM2jiQ1Q",
+      "description": "The investment fund would help Middle Eastern nations restore infrastructure damaged in the Iran war and reduce reliance on the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-21T20:01:28Z",
+      "sourceCount": "7 sources"
     },
     {
       "title": "Newsom signs order advancing AI 'kill switch' mandate",
@@ -487,15 +613,6 @@
       "sourceCount": "11 sources"
     },
     {
-      "title": "Taiwan arms sale looms over Trump-Xi summit this week",
-      "url": "https://www.perplexity.ai/page/taiwan-arms-sale-looms-over-tr-NvPN88vJRqW9FHoD574olA",
-      "description": "A new poll shows nearly half of Taiwanese doubt continued U.S. military support as a $14 billion weapons package remains frozen ahead of Wednesday's meeting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-21T16:43:02Z",
-      "sourceCount": "20 sources"
-    },
-    {
       "title": "Warren Buffett steps down as Berkshire chairman",
       "url": "https://www.perplexity.ai/page/warren-buffett-steps-down-as-b-_5qys.OISD.4n2RbOYJ10g",
       "description": "The 96-year-old investor named his son Howard as his successor and will stay on the board as chairman emeritus.",
@@ -503,6 +620,15 @@
       "topic": "top",
       "pubDate": "2026-09-18T10:32:24Z",
       "sourceCount": "7 sources"
+    },
+    {
+      "title": "Trump called off Houthi strikes as bombs were loaded onto warplanes",
+      "url": "https://www.perplexity.ai/page/trump-pulled-back-from-houthi-BOxq2XLaSJW5e4SY1InYfQ",
+      "description": "Saudi Crown Prince MBS urged intervention, but the president reversed himself twice in two weeks, halting the operation on Sunday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-21T10:14:43Z",
+      "sourceCount": "31 sources"
     },
     {
       "title": "Bank of Japan raises rates to 31-year high of 1.25%",
@@ -514,15 +640,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "US proposes AI incident alert system with China ahead of Trump-Xi summit",
-      "url": "https://www.perplexity.ai/page/us-proposes-ai-incident-alert-_PYhyaKqTKemSGNtGdaG4w",
-      "description": "Treasury Secretary Bessent said the mechanism would let both nations flag AI-related national security incidents, building transparency before Thursday's talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-21T16:07:50Z",
-      "sourceCount": "13 sources"
-    },
-    {
       "title": "Democratic strategists urge candidates not to provoke tech PACs over AI",
       "url": "https://www.perplexity.ai/page/democrats-split-over-ai-regula-ZAPZKCdEQG2OI6X0BwRZJA",
       "description": "Party strategists are privately urging battleground candidates to avoid strong AI stances, fearing millions in retaliatory super PAC spending.",
@@ -530,6 +647,15 @@
       "topic": "top",
       "pubDate": "2026-09-18T00:57:21Z",
       "sourceCount": "4 sources"
+    },
+    {
+      "title": "Trump orders H-1B visa scrutiny for employers that lay off U.S. workers",
+      "url": "https://www.perplexity.ai/page/trump-orders-h-1b-visa-scrutin-FN5NXX1MTkOVf5ORBIfbgw",
+      "description": "The executive order directs agencies to weigh recent or planned layoffs when reviewing H-1B petitions but stops short of an outright ban.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T19:39:09Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Microsoft exec called AI scraping 'largest theft' in history",
@@ -541,13 +667,22 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "Trump called off Houthi strikes as bombs were loaded onto warplanes",
-      "url": "https://www.perplexity.ai/page/trump-pulled-back-from-houthi-BOxq2XLaSJW5e4SY1InYfQ",
-      "description": "Saudi Crown Prince MBS urged intervention, but the president reversed himself twice in two weeks, halting the operation on Sunday.",
+      "title": "State Dept. approves $24.3B F-35 sale to Saudi Arabia",
+      "url": "https://www.perplexity.ai/page/state-dept-approves-24-3b-f-35-1h0S7x.hRUW3WYLl2IYIJA",
+      "description": "The deal for 48 fighter jets advances despite U.S. intelligence warnings that China could access sensitive stealth technology through Riyadh's ties with Beijing.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-21T10:14:43Z",
-      "sourceCount": "31 sources"
+      "pubDate": "2026-09-17T17:57:28Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Trump attacks Supreme Court over tariff, citizenship rulings",
+      "url": "https://www.perplexity.ai/page/trump-attacks-supreme-court-ov-.UzBZA0oQ0y0QfKHwT.99w",
+      "description": "The president accused the justices of \"faulty, political, and ridiculous decisions\" that he claimed cost the U.S. trillions of dollars.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T19:28:28Z",
+      "sourceCount": "5 sources"
     },
     {
       "title": "First new wild cat species in a century found in Bolivia",
@@ -568,40 +703,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Trump administration prepares sweeping sanctions on ICC",
-      "url": "https://www.perplexity.ai/page/trump-administration-prepares-ktzE4e4SR4qv45LuFc0yVQ",
-      "description": "The proposed measures would cut the court off from U.S. dollar transactions, escalating a campaign triggered by the ICC's arrest warrant for Netanyahu.",
+      "title": "Trump says he is creating 'AI Force,' will name AI czar",
+      "url": "https://www.perplexity.ai/page/trump-says-he-is-creating-ai-f-OwVgsTLGSDaTt.s83nqFRA",
+      "description": "The president compared the new body to the Space Force he established in 2019, pledging to protect AI growth while using existing laws to police misuse.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-20T19:11:00Z",
+      "pubDate": "2026-09-19T18:45:33Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "State Dept. approves $24.3B F-35 sale to Saudi Arabia",
-      "url": "https://www.perplexity.ai/page/state-dept-approves-24-3b-f-35-1h0S7x.hRUW3WYLl2IYIJA",
-      "description": "The deal for 48 fighter jets advances despite U.S. intelligence warnings that China could access sensitive stealth technology through Riyadh's ties with Beijing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-17T17:57:28Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "China presses Iran to rein in Houthis after Saudi appeal",
-      "url": "https://www.perplexity.ai/page/china-presses-iran-to-rein-in-W9_fCeqCRNaZFkcFQ4Wv0Q",
-      "description": "Beijing privately urged Tehran to curb the Houthis as their two-week offensive reshapes Yemen's Red Sea coast and threatens global energy routes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-17T13:04:48Z",
-      "sourceCount": "20 sources"
-    },
-    {
-      "title": "Trump orders H-1B visa scrutiny for employers that lay off U.S. workers",
-      "url": "https://www.perplexity.ai/page/trump-orders-h-1b-visa-scrutin-FN5NXX1MTkOVf5ORBIfbgw",
-      "description": "The executive order directs agencies to weigh recent or planned layoffs when reviewing H-1B petitions but stops short of an outright ban.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T19:39:09Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "UN mission says US strikes on Iran school constitute war crimes",
@@ -613,21 +721,30 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "China presses Iran to rein in Houthis after Saudi appeal",
+      "url": "https://www.perplexity.ai/page/china-presses-iran-to-rein-in-W9_fCeqCRNaZFkcFQ4Wv0Q",
+      "description": "Beijing privately urged Tehran to curb the Houthis as their two-week offensive reshapes Yemen's Red Sea coast and threatens global energy routes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-17T13:04:48Z",
+      "sourceCount": "20 sources"
+    },
+    {
+      "title": "Supreme Court blocks Trump mail-ballot plan for midterms",
+      "url": "https://www.perplexity.ai/page/supreme-court-blocks-trump-mai-mpYjG.AeQ3qvY08DE_WUlA",
+      "description": "The ruling preserves mail-in voting procedures nationwide after 21 states and D.C. sued to stop USPS from screening ballots under a Trump executive order.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T13:10:04Z",
+      "sourceCount": "6 sources"
+    },
+    {
       "title": "Rand Paul blocks AI 'kill switch' bill on Senate floor",
       "url": "https://www.perplexity.ai/page/rand-paul-blocks-ai-kill-switc-3V.dHNWXTvy2aAn9SUGdCA",
       "description": "Sen. Kennedy's bill would have required AI developers to build emergency shutoffs, but Paul objected, calling it a threat to innovation.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-17T00:35:04Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Trump attacks Supreme Court over tariff, citizenship rulings",
-      "url": "https://www.perplexity.ai/page/trump-attacks-supreme-court-ov-.UzBZA0oQ0y0QfKHwT.99w",
-      "description": "The president accused the justices of \"faulty, political, and ridiculous decisions\" that he claimed cost the U.S. trillions of dollars.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T19:28:28Z",
       "sourceCount": "5 sources"
     },
     {
@@ -640,6 +757,15 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "Trump demands childhood vaccines be split into five doses",
+      "url": "https://www.perplexity.ai/page/trump-demands-childhood-vaccin-4V3x6qWaRkKfCAvVcuyA4g",
+      "description": "Experts call the plan \"buffoonery,\" saying one-fifth doses would be ineffective and leave children unprotected against disease.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T01:04:08Z",
+      "sourceCount": "7 sources"
+    },
+    {
       "title": "CDC stalls COVID vaccine orders for children's program",
       "url": "https://www.perplexity.ai/page/cdc-stalls-covid-vaccine-order-R4QXh1iHQyqfgH29Jq4eoA",
       "description": "The agency has not begun accepting state orders for the Vaccines for Children program, disrupting the usual fall vaccination schedule.",
@@ -647,15 +773,6 @@
       "topic": "top",
       "pubDate": "2026-09-16T21:14:27Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Trump says he is creating 'AI Force,' will name AI czar",
-      "url": "https://www.perplexity.ai/page/trump-says-he-is-creating-ai-f-OwVgsTLGSDaTt.s83nqFRA",
-      "description": "The president compared the new body to the Space Force he established in 2019, pledging to protect AI growth while using existing laws to police misuse.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T18:45:33Z",
-      "sourceCount": "22 sources"
     },
     {
       "title": "Russian drone found on Polish beach carried live warhead, prosecutors confirm",
@@ -667,6 +784,15 @@
       "sourceCount": "32 sources"
     },
     {
+      "title": "Xi Jinping health rumors swirl after early BRICS departure",
+      "url": "https://www.perplexity.ai/page/xi-jinping-health-rumors-swirl-HVDt2ezDQQOvnPw7Wd63Ow",
+      "description": "China and India have pushed back on unverified claims that Xi fell ill at the New Delhi summit, as attention turns to a planned meeting with Trump.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-19T00:40:30Z",
+      "sourceCount": "11 sources"
+    },
+    {
       "title": "Kosovo ex-President Thaci sentenced to 25 years for war crimes",
       "url": "https://www.perplexity.ai/page/kosovo-ex-president-thaci-sent-gVlkiVQIRZ2hhVfJ.CqFTg",
       "description": "The Hague tribunal convicted Thaci and three other former KLA commanders of murder, torture and arbitrary detention during the 1998-99 war.",
@@ -674,15 +800,6 @@
       "topic": "top",
       "pubDate": "2026-09-16T15:34:15Z",
       "sourceCount": "64 sources"
-    },
-    {
-      "title": "Supreme Court blocks Trump mail-ballot plan for midterms",
-      "url": "https://www.perplexity.ai/page/supreme-court-blocks-trump-mai-mpYjG.AeQ3qvY08DE_WUlA",
-      "description": "The ruling preserves mail-in voting procedures nationwide after 21 states and D.C. sued to stop USPS from screening ballots under a Trump executive order.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T13:10:04Z",
-      "sourceCount": "6 sources"
     },
     {
       "title": "US held secret talks with Houthis in Oman after Red Sea seizure",
@@ -694,6 +811,15 @@
       "sourceCount": "20 sources"
     },
     {
+      "title": "RFK Jr. discloses $250K in gifts from donor",
+      "url": "https://www.perplexity.ai/page/rfk-jr-discloses-250k-in-gifts-Znaph.97SoWMx7IUv9NDVQ",
+      "description": "Kennedy's financial ethics filing reveals free flights to Fiji and Greece and a D.C. vacation home, all from security consultant Gavin de Becker.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-18T23:08:22Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Apple explores return to server market with Nvidia tech",
       "url": "https://www.perplexity.ai/page/apple-explores-return-to-serve-UbO5Rg00S8a.nznTTIRe8w",
       "description": "CEO John Ternus is backing a plan to sell AI servers powered by M8 Ultra chips, targeting a 2029 launch, according to The Information.",
@@ -701,24 +827,6 @@
       "topic": "top",
       "pubDate": "2026-09-16T14:01:00Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Trump demands childhood vaccines be split into five doses",
-      "url": "https://www.perplexity.ai/page/trump-demands-childhood-vaccin-4V3x6qWaRkKfCAvVcuyA4g",
-      "description": "Experts call the plan \"buffoonery,\" saying one-fifth doses would be ineffective and leave children unprotected against disease.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-19T01:04:08Z",
-      "sourceCount": "7 sources"
-    },
-    {
-      "title": "Houthis claim missile, drone strikes on Aramco and Saudi air base",
-      "url": "https://www.perplexity.ai/page/houthis-claim-missile-drone-st-uDyICCiWSUSshtVPuzDn3A",
-      "description": "The group says it hit the Yanbu oil facility and Khamis Mushait air base in retaliation for what it called over 450 Saudi airstrikes on Yemen.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-16T13:33:16Z",
-      "sourceCount": "20 sources"
     },
     {
       "title": "Lavrov says Russia ready for Ukraine talks but firm on keeping NATO from its borders",
@@ -730,13 +838,13 @@
       "sourceCount": "17 sources"
     },
     {
-      "title": "Xi Jinping health rumors swirl after early BRICS departure",
-      "url": "https://www.perplexity.ai/page/xi-jinping-health-rumors-swirl-HVDt2ezDQQOvnPw7Wd63Ow",
-      "description": "China and India have pushed back on unverified claims that Xi fell ill at the New Delhi summit, as attention turns to a planned meeting with Trump.",
+      "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
+      "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
+      "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-19T00:40:30Z",
-      "sourceCount": "11 sources"
+      "pubDate": "2026-09-18T12:09:46Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Von der Leyen to invite AI labs for slowdown talks",
@@ -757,13 +865,13 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "RFK Jr. discloses $250K in gifts from donor",
-      "url": "https://www.perplexity.ai/page/rfk-jr-discloses-250k-in-gifts-Znaph.97SoWMx7IUv9NDVQ",
-      "description": "Kennedy's financial ethics filing reveals free flights to Fiji and Greece and a D.C. vacation home, all from security consultant Gavin de Becker.",
+      "title": "Cook, Altman, Huang to attend Trump-Xi state dinner",
+      "url": "https://www.perplexity.ai/page/cook-altman-huang-to-attend-tr-wcx4PsMISw6nGUScNEBjlg",
+      "description": "Top AI and tech leaders will join President Trump's White House state dinner for Chinese President Xi Jinping next week amid tensions over AI regulation and trade.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-18T23:08:22Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-09-17T21:09:01Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "Rubio announces visa curbs on South Africa officials",
@@ -784,13 +892,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
-      "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
-      "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
+      "title": "Minnesota judge says Trump ICE surge posed 'grave threat' to rule of law",
+      "url": "https://www.perplexity.ai/page/minnesota-judge-says-trump-ice-auMtinw_QSGa.J5CIABq0g",
+      "description": "Judge Patrick Schiltz, a Bush appointee, described months of chaos in which ICE violated nearly 100 court orders in January alone.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-18T12:09:46Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-09-17T20:14:23Z",
+      "sourceCount": "4 sources"
     },
     {
       "title": "Bessent clashes with Democrats over inflation at House hearing",
@@ -811,13 +919,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Cook, Altman, Huang to attend Trump-Xi state dinner",
-      "url": "https://www.perplexity.ai/page/cook-altman-huang-to-attend-tr-wcx4PsMISw6nGUScNEBjlg",
-      "description": "Top AI and tech leaders will join President Trump's White House state dinner for Chinese President Xi Jinping next week amid tensions over AI regulation and trade.",
+      "title": "Judge orders 30-day notice before Kennedy Center demolition",
+      "url": "https://www.perplexity.ai/page/judge-orders-30-day-notice-bef-Y.E3ggYvTMGKSr6cX8OFOA",
+      "description": "The ruling came after photos showed Trump reviewing a printout aboard Air Force One that appeared to read \"Kennedy Center DEMOLISHED.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T21:09:01Z",
-      "sourceCount": "18 sources"
+      "pubDate": "2026-09-17T20:11:13Z",
+      "sourceCount": "9 sources"
     },
     {
       "title": "Patel defends loosened FBI hiring standards at Senate hearing",
@@ -838,13 +946,13 @@
       "sourceCount": "17 sources"
     },
     {
-      "title": "Minnesota judge says Trump ICE surge posed 'grave threat' to rule of law",
-      "url": "https://www.perplexity.ai/page/minnesota-judge-says-trump-ice-auMtinw_QSGa.J5CIABq0g",
-      "description": "Judge Patrick Schiltz, a Bush appointee, described months of chaos in which ICE violated nearly 100 court orders in January alone.",
+      "title": "Carney welcomes EU associate membership bid despite Trump threats",
+      "url": "https://www.perplexity.ai/page/carney-welcomes-eu-associate-m-MwRtKt9SRACLbM.s8C4rag",
+      "description": "Canada's PM told the European Parliament the alliance would ensure \"no one can control our open markets\" or \"undermine our freedoms.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T20:14:23Z",
-      "sourceCount": "4 sources"
+      "pubDate": "2026-09-17T13:29:37Z",
+      "sourceCount": "61 sources"
     },
     {
       "title": "Germany rejects AI pause, calls for U.S.-China oversight",
@@ -865,13 +973,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Judge orders 30-day notice before Kennedy Center demolition",
-      "url": "https://www.perplexity.ai/page/judge-orders-30-day-notice-bef-Y.E3ggYvTMGKSr6cX8OFOA",
-      "description": "The ruling came after photos showed Trump reviewing a printout aboard Air Force One that appeared to read \"Kennedy Center DEMOLISHED.\"",
+      "title": "Trump says 'major progress' made on US Army base in Poland",
+      "url": "https://www.perplexity.ai/page/trump-says-major-progress-made-PwpnDyEfTx2CSFArehFd6w",
+      "description": "The president said a location could be announced \"very soon,\" calling the potential base a historic step for the NATO allies.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T20:11:13Z",
-      "sourceCount": "9 sources"
+      "pubDate": "2026-09-17T18:44:10Z",
+      "sourceCount": "20 sources"
     },
     {
       "title": "Anthropic reports second straight adjusted profit ahead of IPO",
@@ -892,13 +1000,13 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Trump says 'major progress' made on US Army base in Poland",
-      "url": "https://www.perplexity.ai/page/trump-says-major-progress-made-PwpnDyEfTx2CSFArehFd6w",
-      "description": "The president said a location could be announced \"very soon,\" calling the potential base a historic step for the NATO allies.",
+      "title": "Zuckerberg, Musk and Huang convinced Trump to block AI regulator, WSJ reports",
+      "url": "https://www.perplexity.ai/page/zuckerberg-musk-and-huang-conv-f3NqfPYsQ4GjatMj3pVzsQ",
+      "description": "The three tech CEOs separately lobbied the president to shelve a proposed industry-funded oversight body for artificial intelligence.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T18:44:10Z",
-      "sourceCount": "20 sources"
+      "pubDate": "2026-09-17T10:11:12Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Russian drone hits train 2 km from Polish border after Johnson passes through",
@@ -919,13 +1027,13 @@
       "sourceCount": "4 sources"
     },
     {
-      "title": "Carney welcomes EU associate membership bid despite Trump threats",
-      "url": "https://www.perplexity.ai/page/carney-welcomes-eu-associate-m-MwRtKt9SRACLbM.s8C4rag",
-      "description": "Canada's PM told the European Parliament the alliance would ensure \"no one can control our open markets\" or \"undermine our freedoms.\"",
+      "title": "Trump administration preparing warning signs outside Smithsonian museum",
+      "url": "https://www.perplexity.ai/page/trump-administration-preparing-JHooU0EMTg6hevZO8IVk4g",
+      "description": "Interior Secretary Burgum's letter reveals plans for about a dozen signs accusing the National Museum of American History of ideological bias.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T13:29:37Z",
-      "sourceCount": "61 sources"
+      "pubDate": "2026-09-16T22:03:23Z",
+      "sourceCount": "9 sources"
     },
     {
       "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
@@ -946,13 +1054,13 @@
       "sourceCount": "6 sources"
     },
     {
-      "title": "Zuckerberg, Musk and Huang convinced Trump to block AI regulator, WSJ reports",
-      "url": "https://www.perplexity.ai/page/zuckerberg-musk-and-huang-conv-f3NqfPYsQ4GjatMj3pVzsQ",
-      "description": "The three tech CEOs separately lobbied the president to shelve a proposed industry-funded oversight body for artificial intelligence.",
+      "title": "White House chief of staff Susie Wiles says she is cancer-free",
+      "url": "https://www.perplexity.ai/page/white-house-chief-of-staff-sus-YR_ocqX5ROihYsLvbzDviA",
+      "description": "Wiles announced Wednesday that pathology results from the Mayo Clinic came back clear, six months after her early-stage breast cancer diagnosis.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-17T10:11:12Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-09-16T19:14:16Z",
+      "sourceCount": "17 sources"
     },
     {
       "title": "Ukraine hits Russian rocket fuel plant in overnight strike",
@@ -973,13 +1081,13 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Trump administration preparing warning signs outside Smithsonian museum",
-      "url": "https://www.perplexity.ai/page/trump-administration-preparing-JHooU0EMTg6hevZO8IVk4g",
-      "description": "Interior Secretary Burgum's letter reveals plans for about a dozen signs accusing the National Museum of American History of ideological bias.",
+      "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
+      "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
+      "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-16T22:03:23Z",
-      "sourceCount": "9 sources"
+      "pubDate": "2026-09-16T01:58:50Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
@@ -1000,13 +1108,13 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "White House chief of staff Susie Wiles says she is cancer-free",
-      "url": "https://www.perplexity.ai/page/white-house-chief-of-staff-sus-YR_ocqX5ROihYsLvbzDviA",
-      "description": "Wiles announced Wednesday that pathology results from the Mayo Clinic came back clear, six months after her early-stage breast cancer diagnosis.",
+      "title": "China calls for UN-led AI governance after dismissing US slowdown push",
+      "url": "https://www.perplexity.ai/page/china-calls-for-un-led-ai-gove-MUhz_yHqRcCg_3diBX1WEw",
+      "description": "Beijing shifted from denouncing Silicon Valley's AI warnings as \"fearmongering\" to urging multilateral cooperation, ahead of a planned Xi-Trump meeting.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-16T19:14:16Z",
-      "sourceCount": "17 sources"
+      "pubDate": "2026-09-15T16:33:08Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -1027,13 +1135,13 @@
       "sourceCount": "31 sources"
     },
     {
-      "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
-      "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
-      "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
+      "title": "Trump attacks his own Supreme Court picks over mail ballot ruling",
+      "url": "https://www.perplexity.ai/page/trump-attacks-his-own-supreme-mQEvibBlQIKr1VMkOeq7zA",
+      "description": "All three justices he appointed joined the majority blocking his administration's postal restrictions ahead of midterms.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-16T01:58:50Z",
-      "sourceCount": "16 sources"
+      "pubDate": "2026-09-15T14:56:30Z",
+      "sourceCount": "5 sources"
     },
     {
       "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
@@ -1054,13 +1162,13 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "China calls for UN-led AI governance after dismissing US slowdown push",
-      "url": "https://www.perplexity.ai/page/china-calls-for-un-led-ai-gove-MUhz_yHqRcCg_3diBX1WEw",
-      "description": "Beijing shifted from denouncing Silicon Valley's AI warnings as \"fearmongering\" to urging multilateral cooperation, ahead of a planned Xi-Trump meeting.",
+      "title": "Putin rejects energy ceasefire before winter, FT reports",
+      "url": "https://www.perplexity.ai/page/putin-rejects-energy-ceasefire-XZMwSEB7SqSDSSQHmOIB6Q",
+      "description": "The Kremlin believes continued strikes on Ukraine's energy grid will force Kyiv into concessions as cold weather approaches, despite Trump claiming a deal was reached.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-15T16:33:08Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-09-15T10:09:51Z",
+      "sourceCount": "5 sources"
     },
     {
       "title": "Anthropic says Iran-linked actors used Claude AI to target US Navy ships",
@@ -1081,13 +1189,13 @@
       "sourceCount": "11 sources"
     },
     {
-      "title": "Trump attacks his own Supreme Court picks over mail ballot ruling",
-      "url": "https://www.perplexity.ai/page/trump-attacks-his-own-supreme-mQEvibBlQIKr1VMkOeq7zA",
-      "description": "All three justices he appointed joined the majority blocking his administration's postal restrictions ahead of midterms.",
+      "title": "Ex-CIA chief Brennan subpoenaed in Trump 'grand conspiracy' probe",
+      "url": "https://www.perplexity.ai/page/ex-cia-chief-brennan-subpoenae-pVswpFZeQfi._tUNy8MGog",
+      "description": "Brennan's attorney disclosed the grand jury subpoena Monday, calling the DOJ investigation a \"far-reaching\" probe into officials who investigated Trump.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-15T14:56:30Z",
-      "sourceCount": "5 sources"
+      "pubDate": "2026-09-14T21:28:20Z",
+      "sourceCount": "11 sources"
     },
     {
       "title": "9/11 illness deaths now triple the original attack toll",
@@ -1108,13 +1216,13 @@
       "sourceCount": "16 sources"
     },
     {
-      "title": "Putin rejects energy ceasefire before winter, FT reports",
-      "url": "https://www.perplexity.ai/page/putin-rejects-energy-ceasefire-XZMwSEB7SqSDSSQHmOIB6Q",
-      "description": "The Kremlin believes continued strikes on Ukraine's energy grid will force Kyiv into concessions as cold weather approaches, despite Trump claiming a deal was reached.",
+      "title": "Trump administration pushes AI into medical care despite safety concerns",
+      "url": "https://www.perplexity.ai/page/trump-administration-pushes-ai-EDraqVrLRryJoEL.iSz1rQ",
+      "description": "HHS is developing Medicare reimbursement pathways for AI-supported care and backing pilot programs for autonomous AI doctors, alarming some officials.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-15T10:09:51Z",
-      "sourceCount": "5 sources"
+      "pubDate": "2026-09-14T21:20:52Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
@@ -1135,12 +1243,12 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Ex-CIA chief Brennan subpoenaed in Trump 'grand conspiracy' probe",
-      "url": "https://www.perplexity.ai/page/ex-cia-chief-brennan-subpoenae-pVswpFZeQfi._tUNy8MGog",
-      "description": "Brennan's attorney disclosed the grand jury subpoena Monday, calling the DOJ investigation a \"far-reaching\" probe into officials who investigated Trump.",
+      "title": "Putin ally bankrolled Trump Jr.'s Bahamas wedding, ProPublica reports",
+      "url": "https://www.perplexity.ai/page/putin-ally-bankrolled-trump-jr-AyY_AlCHRxetMR.L3R0bGg",
+      "description": "Umar Kremlev, head of the International Boxing Association, covered hundreds of thousands of dollars in expenses for the May celebration, according to the investigation.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-14T21:28:20Z",
+      "pubDate": "2026-09-14T16:08:12Z",
       "sourceCount": "11 sources"
     },
     {
@@ -1162,13 +1270,13 @@
       "sourceCount": "16 sources"
     },
     {
-      "title": "Trump administration pushes AI into medical care despite safety concerns",
-      "url": "https://www.perplexity.ai/page/trump-administration-pushes-ai-EDraqVrLRryJoEL.iSz1rQ",
-      "description": "HHS is developing Medicare reimbursement pathways for AI-supported care and backing pilot programs for autonomous AI doctors, alarming some officials.",
+      "title": "China's spy chief names U.S. AI models as threats to national security",
+      "url": "https://www.perplexity.ai/page/china-s-spy-chief-names-u-s-ai-ZqmxQM3MTY.c7YHTN9eaJw",
+      "description": "State Security Minister Chen Yixin singled out Anthropic's Claude Mythos and OpenAI's ChatGPT-5.5-Cyber as risks to critical infrastructure ahead of Trump-Xi talks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-14T21:20:52Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-09-14T16:05:28Z",
+      "sourceCount": "8 sources"
     },
     {
       "title": "Iran restarts ballistic missile production underground",
@@ -1189,13 +1297,13 @@
       "sourceCount": "5 sources"
     },
     {
-      "title": "Putin ally bankrolled Trump Jr.'s Bahamas wedding, ProPublica reports",
-      "url": "https://www.perplexity.ai/page/putin-ally-bankrolled-trump-jr-AyY_AlCHRxetMR.L3R0bGg",
-      "description": "Umar Kremlev, head of the International Boxing Association, covered hundreds of thousands of dollars in expenses for the May celebration, according to the investigation.",
+      "title": "Pentagon recruits immigrants as ICE deports troops' families",
+      "url": "https://www.perplexity.ai/page/pentagon-recruits-immigrants-a-3FFH.dR3T6WaFi7p85IS7w",
+      "description": "Green-card military recruits rose 62% since 2021, even as over 50 service members' relatives have been detained under Trump's immigration crackdown.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-14T16:08:12Z",
-      "sourceCount": "11 sources"
+      "pubDate": "2026-09-14T13:34:06Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Rhode Island Gov. McKee ousted in Democratic primary",
@@ -1216,40 +1324,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "China's spy chief names U.S. AI models as threats to national security",
-      "url": "https://www.perplexity.ai/page/china-s-spy-chief-names-u-s-ai-ZqmxQM3MTY.c7YHTN9eaJw",
-      "description": "State Security Minister Chen Yixin singled out Anthropic's Claude Mythos and OpenAI's ChatGPT-5.5-Cyber as risks to critical infrastructure ahead of Trump-Xi talks.",
+      "title": "Trump says he'll remove 15% tariff on Irish whiskey",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
+      "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-14T16:05:28Z",
-      "sourceCount": "8 sources"
-    },
-    {
-      "title": "Tate brothers denied bail in Miami extradition fight",
-      "url": "https://www.perplexity.ai/page/tate-brothers-denied-bail-in-m-BOSyv1BlT6a9ZnFGR2vU2A",
-      "description": "A federal judge ruled Andrew and Tristan Tate are flight risks and must remain jailed while contesting extradition to the U.K. on 59 sex crime charges.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-09T19:06:20Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "Congressional watchdog clears Ilhan Omar over inflated financial disclosures",
-      "url": "https://www.perplexity.ai/page/congressional-watchdog-clears-Q4553LVBQqmhLTI5u.cpVw",
-      "description": "The Office of Congressional Conduct dismissed allegations that Omar filed false information, though a separate DOJ investigation remains ongoing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-09T16:02:26Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Pentagon recruits immigrants as ICE deports troops' families",
-      "url": "https://www.perplexity.ai/page/pentagon-recruits-immigrants-a-3FFH.dR3T6WaFi7p85IS7w",
-      "description": "Green-card military recruits rose 62% since 2021, even as over 50 service members' relatives have been detained under Trump's immigration crackdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-14T13:34:06Z",
-      "sourceCount": "32 sources"
+      "pubDate": "2026-09-13T18:07:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Sanders convenes Senate AI briefing after Anthropic researcher's resignation",
@@ -1261,134 +1342,197 @@
       "sourceCount": "10 sources"
     },
     {
-      "title": "Ukraine reveals €23B defense budget gap at Ramstein talks",
-      "url": "https://www.perplexity.ai/page/ukraine-reveals-eur23b-defense-9st_YK8yQxq.4oGcpeVDyg",
-      "description": "Defense Minister Khmara urged allies to commit funds by November to sustain drone production through winter as the U.S. warned of a protracted war.",
+      "title": "Tate brothers denied bail in Miami extradition fight",
+      "url": "https://www.perplexity.ai/page/tate-brothers-denied-bail-in-m-BOSyv1BlT6a9ZnFGR2vU2A",
+      "description": "A federal judge ruled Andrew and Tristan Tate are flight risks and must remain jailed while contesting extradition to the U.K. on 59 sex crime charges.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-09T02:08:55Z",
-      "sourceCount": "32 sources"
-    },
-    {
-      "title": "Trump says he'll consider releasing more 9/11 records",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-consider-rele-cfQbGJuGRa.6rhk0nxsitQ",
-      "description": "Speaking in Ireland on Sunday, the president responded to families' appeals for greater transparency about the attacks on their 25th anniversary.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-13T19:30:58Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Russia rehearsed wars against NATO in secret simulations since 2017, investigation finds",
-      "url": "https://www.perplexity.ai/page/russia-rehearsed-wars-against-LmQ1T.IqQFWGRUu3TqI8.A",
-      "description": "The Dossier Center uncovered exercises at a Moscow military academy involving scenarios targeting Gotland, Japan, and Ukraine.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-09T01:58:48Z",
-      "sourceCount": "21 sources"
-    },
-    {
-      "title": "Pappas, Sununu win New Hampshire Senate primaries",
-      "url": "https://www.perplexity.ai/page/pappas-sununu-win-new-hampshir-JXvzkz4xSbesBclIEMx8LQ",
-      "description": "The open-seat race to replace retiring Sen. Jeanne Shaheen could help determine which party controls the Senate in November.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-09T00:33:19Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump says he'll remove 15% tariff on Irish whiskey",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
-      "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-13T18:07:42Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran fired undisclosed second wave of missiles at U.S. Navy ships, WSJ reports",
-      "url": "https://www.perplexity.ai/page/iran-fired-undisclosed-second-1SUbXhp5TNO4AM6TDcKjEQ",
-      "description": "The Monday attack missed its targets, but follows Iran's weekend strike on a U.S. aircraft carrier near the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T20:18:24Z",
-      "sourceCount": "21 sources"
-    },
-    {
-      "title": "Meta launches Muse, a personal AI agent that acts on users' behalf",
-      "url": "https://www.perplexity.ai/page/meta-launches-muse-a-personal-mWI3B8aXRNGKokJRIDke5Q",
-      "description": "The free agent can send emails, book travel, and make purchases autonomously, with paid tiers at $20 and $100 per month.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T19:24:28Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
-      "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-12T23:02:43Z",
-      "sourceCount": "8 sources"
-    },
-    {
-      "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
-      "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
-      "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T18:55:14Z",
-      "sourceCount": "16 sources"
-    },
-    {
-      "title": "NYC releases 170,000 pages of post-9/11 air quality records",
-      "url": "https://www.perplexity.ai/page/nyc-releases-170000-pages-of-p-6nRj0Sz.TVy5J00tGM9oig",
-      "description": "The documents, sought for over two decades, reveal officials knew about toxic conditions at Ground Zero while publicly declaring the air safe.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T13:30:55Z",
-      "sourceCount": "22 sources"
+      "pubDate": "2026-09-09T19:06:20Z",
+      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-09-24T00:32:54Z",
+  "cached_at": "2026-09-26T18:31:40Z",
   "topics": {
     "top": [
       {
-        "title": "White House weighs scaling back beef imports as GOP midterm panic grows",
-        "url": "https://www.perplexity.ai/page/white-house-weighs-scaling-bac-WqThuTwkS9qF7NpMKcqc_w",
-        "description": "Internal discussions pit the Domestic Policy Council against USTR as farm-state Republicans publicly break with Trump over the policy.",
+        "title": "Trump rejects Iran's ceasefire offer, eyes post-midterm airstrikes",
+        "url": "https://www.perplexity.ai/page/trump-rejects-iran-s-ceasefire-h.nzVApESKqNjqHEAp01hg",
+        "description": "The president dismissed Tehran's proposal to reopen the Strait of Hormuz within seven days, telling advisors he expects to resume bombing after November's elections.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-24T00:17:15Z",
-        "sourceCount": "10 sources"
+        "pubDate": "2026-09-26T00:40:01Z",
+        "sourceCount": "16 sources"
       },
       {
-        "title": "U.S. and China extend trade truce through January 10",
-        "url": "https://www.perplexity.ai/page/u-s-and-china-extend-trade-tru-lTutCStJQNCiELUDkPEauA",
-        "description": "Treasury Secretary Bessent announced the deal as Xi Jinping arrived in Washington for a three-day state visit.",
+        "title": "Whistleblowers say Kennedy Center shelved repairs now cited for closure",
+        "url": "https://www.perplexity.ai/page/whistleblowers-say-kennedy-cen-k5hcHiY7REW9oPFIBNRR1g",
+        "description": "Former employees told Congress that executive director Matt Floca canceled funded roof fixes in April, then used the same leaks to justify shutting the building.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T22:48:12Z",
-        "sourceCount": "17 sources"
+        "pubDate": "2026-09-25T23:31:06Z",
+        "sourceCount": "5 sources"
       },
       {
-        "title": "China seized diverted F-35 stealth parts, Bloomberg reports",
-        "url": "https://www.perplexity.ai/page/china-seized-diverted-f-35-ste-18xUwWf0SkKYe6fOhqaNRg",
-        "description": "Stealth-coated components shipped from Australia via UPS were rerouted to Hong Kong in late May, prompting a Pentagon investigation and congressional briefings.",
+        "title": "DOJ prosecutor quits, says she was scapegoated in Broadview Six case",
+        "url": "https://www.perplexity.ai/page/doj-prosecutor-quits-says-she-Xi8JhZ45QviPNttMAcCI6Q",
+        "description": "Sheri Mecklenburg accused Chicago's U.S. attorney of directing the failed felony prosecution of anti-ICE protesters, then blaming her when it collapsed.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T22:12:56Z",
+        "pubDate": "2026-09-25T22:20:49Z",
+        "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump cancels $810M in spending using disputed pocket rescission",
+        "url": "https://www.perplexity.ai/page/trump-cancels-810m-in-spending-oh.KRbcJQ06aZZ8ode.EAw",
+        "description": "Sen. Collins called the move \"a clear violation of the law,\" saying OMB intentionally withheld funds for months to bypass Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-26T00:18:06Z",
+        "sourceCount": "6 sources"
+      },
+      {
+        "title": "OpenAI agents tried to hack five government, university sites",
+        "url": "https://www.perplexity.ai/page/openai-agents-tried-to-hack-fi-5ROZpnKZR2K7FGCpEq.TCg",
+        "description": "Australia's prime minister called the company's delayed disclosure \"completely unacceptable\" after agents autonomously breached a Medicare portal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T20:49:48Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Supreme Court blocks Missouri GOP map for third time",
+        "url": "https://www.perplexity.ai/page/supreme-court-blocks-missouri-yVk25PKeTzSJIrbK38QhCA",
+        "description": "The unanimous decision preserves the state's 2022 congressional districts as absentee voting is already underway for the Nov. 3 midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T22:17:54Z",
+        "sourceCount": "5 sources"
+      },
+      {
+        "title": "Appeals court upholds Pentagon blacklisting of Anthropic",
+        "url": "https://www.perplexity.ai/page/appeals-court-upholds-pentagon-v9twrW0NRg6v.ZWgmxizCQ",
+        "description": "The 2-1 ruling found the Defense Department had \"ample support\" for deeming Anthropic's AI safety restrictions a national security supply chain risk.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T16:00:05Z",
+        "sourceCount": "9 sources"
+      },
+      {
+        "title": "Zelensky says Russia's territorial demands dropped from peace talks",
+        "url": "https://www.perplexity.ai/page/zelensky-says-russia-s-territo-SWRC5c4ST6WeedQhpEjhMg",
+        "description": "Speaking in New York, Ukraine's president credited battlefield gains for pushing the \"Anchorage agreements\" off the negotiating agenda.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T10:23:10Z",
+        "sourceCount": "4 sources"
+      },
+      {
+        "title": "Supreme Court revives Trump voter-check database ahead of midterms",
+        "url": "https://www.perplexity.ai/page/supreme-court-revives-trump-vo-jCDT5G.CTeCjdERfiUoCWg",
+        "description": "The justices lifted a lower court order blocking the SAVE system, which has flagged tens of thousands of registered voters as potential noncitizens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T15:49:47Z",
+        "sourceCount": "6 sources"
+      },
+      {
+        "title": "France to send troops to Saudi oil port as Houthi attacks escalate",
+        "url": "https://www.perplexity.ai/page/france-to-send-troops-to-saudi-uUYh2N49Rp.46LSHYXIBwA",
+        "description": "Saudi Arabia, Turkey, and Pakistan plan an urgent military chiefs meeting under the Mecca Joint Defence Agreement after Houthi missile strikes hit Saudi targets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T10:03:15Z",
         "sourceCount": "18 sources"
       },
       {
-        "title": "Judge questions Trump's White House media ban but delays ruling",
-        "url": "https://www.perplexity.ai/page/judge-questions-trump-s-white-Srmm_BEdTbC8MDJrE66aiw",
-        "description": "Judge Timothy Kelly said due process \"wasn't followed\" in banning CNN, MS NOW and Politico but ended Wednesday's hearing without a decision.",
+        "title": "Scores of delegates walk out as Netanyahu addresses UN General Assembly",
+        "url": "https://www.perplexity.ai/page/scores-of-delegates-walk-out-a-hi2iXE6ySJ.f.jhTZn5VEw",
+        "description": "The Israeli prime minister delivered a defiant speech to a mostly empty hall, calling departing diplomats \"moral cowards.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T22:13:01Z",
-        "sourceCount": "10 sources"
+        "pubDate": "2026-09-24T20:03:03Z",
+        "sourceCount": "61 sources"
+      },
+      {
+        "title": "Xi urges Trump to formally oppose Taiwan independence",
+        "url": "https://www.perplexity.ai/page/xi-urges-trump-to-formally-opp-rysrphfqTtiUBpr0MEwEvw",
+        "description": "Beijing's demand marks a deliberate escalation from Washington's longstanding stance that it \"does not support\" Taiwan's formal independence.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-25T00:21:14Z",
+        "sourceCount": "7 sources"
+      },
+      {
+        "title": "California court orders sheriff to return 650,000 seized ballots",
+        "url": "https://www.perplexity.ai/page/california-court-orders-sherif-OlYWGCsGSsKCIaOVk6jAkw",
+        "description": "The state Supreme Court unanimously ruled Sheriff Chad Bianco's seizure of ballots from a 2025 special election was unlawful, weeks before midterm voting begins.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T19:16:05Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Carney confirms Canada will move away from Starlink, F-35s",
+        "url": "https://www.perplexity.ai/page/carney-confirms-canada-will-mo-woQMPYXkThy03PRDPjpgfw",
+        "description": "Canada's prime minister told The New York Times his government plans to reduce reliance on U.S. defense and technology systems.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T19:13:06Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "Trump administration to ask Supreme Court to restore third-country deportations",
+        "url": "https://www.perplexity.ai/page/trump-administration-to-ask-su-PicExOYRTterCU0uPLBIpw",
+        "description": "AG Todd Blanche said the administration will seek emergency relief after a federal appeals court blocked rapid deportations to third countries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T19:23:11Z",
+        "sourceCount": "8 sources"
+      },
+      {
+        "title": "U.S. quietly presses China on suspected nuclear tests",
+        "url": "https://www.perplexity.ai/page/u-s-quietly-presses-china-on-s-1wSA0KtjSeq6iMekKKjT7Q",
+        "description": "Confidential diplomatic exchanges have escalated Washington's public accusations that Beijing conducted low-yield nuclear blasts violating a global test ban.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T17:52:50Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Abbas calls US visa ban 'punitive' in virtual UN speech",
+        "url": "https://www.perplexity.ai/page/abbas-calls-us-visa-ban-puniti-O1ubSEUoRYiyIiKLdpbmhw",
+        "description": "The Palestinian Authority president addressed the General Assembly from Ramallah after being barred from entering the U.S. for a second straight year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T14:37:48Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Google, OpenAI, Anthropic name joint AI safety body",
+        "url": "https://www.perplexity.ai/page/google-openai-anthropic-name-j-cmCE3q5PS2KaFXb.OWy7vQ",
+        "description": "The Standards Authority for Frontier AI is the tentative name for the new organization, according to The Information.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T13:46:23Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Carney says he prepared for risk of U.S. military action against Canada",
+        "url": "https://www.perplexity.ai/page/carney-says-he-prepared-for-ri-i0QmZlrKQi2pxaZdzN6Yjw",
+        "description": "In a New York Times interview, the Canadian prime minister called it \"extreme tail risk\" that would be \"irresponsible\" to ignore amid an escalating trade war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T10:05:37Z",
+        "sourceCount": "18 sources"
+      },
+      {
+        "title": "Rubio warns Ukraine war could 'metastasize' after Lavrov meeting",
+        "url": "https://www.perplexity.ai/page/rubio-warns-ukraine-war-could-NkNtR.deRGK4Z16iqZta1w",
+        "description": "After meeting Russian Foreign Minister Lavrov at the U.N. General Assembly, Secretary of State Rubio warned the conflict risks spreading through hybrid attacks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T01:38:49Z",
+        "sourceCount": "4 sources"
       },
       {
         "title": "Carney says Canada won't trade away EU ties for U.S. deal",
@@ -1400,6 +1544,24 @@
         "sourceCount": "17 sources"
       },
       {
+        "title": "Judge orders Trump to restore White House access for CNN, MS NOW, Politico",
+        "url": "https://www.perplexity.ai/page/judge-orders-trump-to-restore-1wx69fgkTd.pmP.ooyBXlA",
+        "description": "The ruling finds Trump's ban on the three outlets likely unconstitutional, rejecting the administration's national security justification.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-24T05:59:28Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "China seized diverted F-35 stealth parts, Bloomberg reports",
+        "url": "https://www.perplexity.ai/page/china-seized-diverted-f-35-ste-18xUwWf0SkKYe6fOhqaNRg",
+        "description": "Stealth-coated components shipped from Australia via UPS were rerouted to Hong Kong in late May, prompting a Pentagon investigation and congressional briefings.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-23T22:12:56Z",
+        "sourceCount": "18 sources"
+      },
+      {
         "title": "Altman, Amodei urge AI caution at UN Security Council",
         "url": "https://www.perplexity.ai/page/altman-amodei-urge-ai-caution-jzGUds07QBmFaTufVPiR6Q",
         "description": "The OpenAI and Anthropic CEOs called for international cooperation on AI safety, a day after Trump rejected global oversight as a \"globalist scheme.\"",
@@ -1409,13 +1571,13 @@
         "sourceCount": "10 sources"
       },
       {
-        "title": "Trump greets Xi on tarmac in rare personal welcome",
-        "url": "https://www.perplexity.ai/page/trump-greets-xi-on-tarmac-in-r-qGY5rgRQRUSOuXzkhrHh9Q",
-        "description": "The unusual gesture at Joint Base Andrews kicks off Xi Jinping's first White House state visit in over a decade.",
+        "title": "Thune says Trump is open to AI safeguards despite public defiance",
+        "url": "https://www.perplexity.ai/page/thune-says-trump-is-open-to-ai-ez7EyKUQQEGt8MVjOw4DLg",
+        "description": "The Senate majority leader told Axios that private conversations left him believing the president is \"not really dug in\" against AI guardrails.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T22:11:14Z",
-        "sourceCount": "17 sources"
+        "pubDate": "2026-09-24T01:22:52Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "Zelenskyy urges UN to choke Russia's war revenues",
@@ -1436,13 +1598,13 @@
         "sourceCount": "17 sources"
       },
       {
-        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault case",
-        "url": "https://www.perplexity.ai/page/harvey-weinstein-sentenced-to-hr_PHFnlTLy0AQvp4IbAfA",
-        "description": "The judge called him \"the literal face of the Me Too movement\" and ordered the sentence to run consecutive to a pending California term.",
+        "title": "White House weighs scaling back beef imports as GOP midterm panic grows",
+        "url": "https://www.perplexity.ai/page/white-house-weighs-scaling-bac-WqThuTwkS9qF7NpMKcqc_w",
+        "description": "Internal discussions pit the Domestic Policy Council against USTR as farm-state Republicans publicly break with Trump over the policy.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T15:58:36Z",
-        "sourceCount": "56 sources"
+        "pubDate": "2026-09-24T00:17:15Z",
+        "sourceCount": "10 sources"
       },
       {
         "title": "Rubio says US invited Putin to G20 summit in Miami",
@@ -1454,13 +1616,13 @@
         "sourceCount": "16 sources"
       },
       {
-        "title": "10-year Treasury yield tops 5%, highest since 2007",
-        "url": "https://www.perplexity.ai/page/10-year-treasury-yield-tops-5-ZDUnEvG4TbyUs5T316F0ew",
-        "description": "Stronger-than-expected economic activity in September fueled bets on further Fed rate hikes, pushing borrowing costs to 2007 highs.",
+        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault case",
+        "url": "https://www.perplexity.ai/page/harvey-weinstein-sentenced-to-hr_PHFnlTLy0AQvp4IbAfA",
+        "description": "The judge called him \"the literal face of the Me Too movement\" and ordered the sentence to run consecutive to a pending California term.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-23T15:06:39Z",
-        "sourceCount": "34 sources"
+        "pubDate": "2026-09-23T15:58:36Z",
+        "sourceCount": "56 sources"
       },
       {
         "title": "Iran's Pezeshkian calls country a 'victim' in rare wartime UN address",
@@ -1490,33 +1652,6 @@
         "sourceCount": "19 sources"
       },
       {
-        "title": "Kremlin rebuffs Zelenskyy's call for trilateral talks with Putin and Trump",
-        "url": "https://www.perplexity.ai/page/kremlin-rebuffs-zelenskyy-s-ca-IMBtu7GQSy.tLUppQwxtiw",
-        "description": "Russia called a leaders' summit \"a waste of time\" without prior groundwork, hours after Zelenskyy urged Trump to broker the meeting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-23T13:13:54Z",
-        "sourceCount": "11 sources"
-      },
-      {
-        "title": "Netanyahu vows to target NYC Mayor Mamdani in UN speech",
-        "url": "https://www.perplexity.ai/page/netanyahu-vows-to-target-nyc-m-Kt56dz30QyaRI7AQFT_b_A",
-        "description": "The Israeli PM posted a video saying \"shame on you\" after Mamdani renewed calls for his arrest on war crimes charges ahead of the General Assembly.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T16:23:38Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Vance task force to cut 760,000 ACA enrollments in fraud crackdown",
-        "url": "https://www.perplexity.ai/page/vance-task-force-to-cut-760000-vTV4DxNHR_CuLyOEx4OmdQ",
-        "description": "CMS and the vice president announced the action Tuesday, claiming it will save $2.2 billion by canceling subsidies for ineligible or fictitious accounts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T15:29:19Z",
-        "sourceCount": "4 sources"
-      },
-      {
         "title": "Trump holds first meeting with US-backed Venezuelan leader at UN",
         "url": "https://www.perplexity.ai/page/trump-holds-first-meeting-with-nXbO4XRZQrOtH26NTjmiYQ",
         "description": "The talks with interim President Delcy Rodríguez took place near the New York jail where ousted leader Nicolás Maduro awaits trial.",
@@ -1535,13 +1670,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Hurricane Polo reaches Category 5 off Mexico's coast",
-        "url": "https://www.perplexity.ai/page/hurricane-polo-reaches-categor-BtK9lwflQmi3UT53Y3xrWQ",
-        "description": "The storm intensified from a tropical depression to the highest category in roughly 36 hours, threatening severe flooding across five Mexican states.",
+        "title": "Severed cable and blown circuit ground thousands of Northeast flights",
+        "url": "https://www.perplexity.ai/page/severed-cable-and-blown-circui-8VtKD5kkQRafLoon07GNxQ",
+        "description": "A failed FAA circuit and an accidentally cut backup fiber line halted flights at Newark and Philadelphia for hours, canceling over 900 flights.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-22T13:02:21Z",
-        "sourceCount": "11 sources"
+        "pubDate": "2026-09-22T02:22:44Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "GOP candidates quietly shed Trump branding as midterms loom",
@@ -1553,15 +1688,6 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Severed cable and blown circuit ground thousands of Northeast flights",
-        "url": "https://www.perplexity.ai/page/severed-cable-and-blown-circui-8VtKD5kkQRafLoon07GNxQ",
-        "description": "A failed FAA circuit and an accidentally cut backup fiber line halted flights at Newark and Philadelphia for hours, canceling over 900 flights.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T02:22:44Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "North Korea tests new hypersonic missile as Kim warns of 'incurable headache' for enemies",
         "url": "https://www.perplexity.ai/page/north-korea-tests-new-hyperson-3zGegrDtSzObuJcqYfTNJQ",
         "description": "Kim Jong Un oversaw the launch of two short-range ballistic missiles on Sept. 20, the country's 14th ballistic missile test this year.",
@@ -1569,15 +1695,6 @@
         "topic": "top",
         "pubDate": "2026-09-21T23:07:18Z",
         "sourceCount": "10 sources"
-      },
-      {
-        "title": "US and Iran hold first direct talks in months at UN General Assembly",
-        "url": "https://www.perplexity.ai/page/us-and-iran-hold-first-direct-qUo_SzENSM.Vg.WOzJRf7w",
-        "description": "Trump said envoys Witkoff and Kushner had a \"very good\" three-hour meeting with Iranian officials, with another session planned soon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-23T00:32:39Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Supreme Court's shadow docket now outpaces its formal rulings, ProPublica finds",
@@ -1589,21 +1706,21 @@
         "sourceCount": "18 sources"
       },
       {
+        "title": "US and Iran hold first direct talks in months at UN General Assembly",
+        "url": "https://www.perplexity.ai/page/us-and-iran-hold-first-direct-qUo_SzENSM.Vg.WOzJRf7w",
+        "description": "Trump said envoys Witkoff and Kushner had a \"very good\" three-hour meeting with Iranian officials, with another session planned soon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-23T00:32:39Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Paramount settles with states, clearing $110B Warner Bros. merger",
         "url": "https://www.perplexity.ai/page/paramount-settles-with-states-8zn0g8uFQnm.7JEEwQlXdg",
         "description": "The deal removes the last major legal obstacle after 12 state attorneys general sued to block the acquisition on antitrust grounds.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-21T15:08:18Z",
-        "sourceCount": "17 sources"
-      },
-      {
-        "title": "Bessent emerges as frontrunner for Trump's AI czar role",
-        "url": "https://www.perplexity.ai/page/bessent-emerges-as-frontrunner-dOkI3q2yRDaNvg7bv0DkZg",
-        "description": "The Treasury secretary already led AI-focused talks with China on Sunday and holds multiple administration portfolios.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T22:17:44Z",
         "sourceCount": "17 sources"
       },
       {
@@ -1616,21 +1733,21 @@
         "sourceCount": "10 sources"
       },
       {
+        "title": "Macron rebukes Trump on Gaza in farewell UN speech",
+        "url": "https://www.perplexity.ai/page/macron-rebukes-trump-on-gaza-i-ir0hi4SLSRCr7acOohwMgQ",
+        "description": "The French president called Trump's claimed peace a \"spectacle that should shame us all,\" saying humanitarian access has not resumed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-22T22:18:41Z",
+        "sourceCount": "5 sources"
+      },
+      {
         "title": "DHS opens probe into ICE shooting of DoorDash driver in Austin",
         "url": "https://www.perplexity.ai/page/dhs-opens-probe-into-ice-shoot-KMi6XvrBQKenxQY5xnsIvg",
         "description": "Wilber Rafael Garces Perez, 28, was shot in the torso during a delivery and later released from the hospital into ICE custody.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-21T10:24:40Z",
-        "sourceCount": "16 sources"
-      },
-      {
-        "title": "Trump signs Greenland security deal with Denmark at U.N.",
-        "url": "https://www.perplexity.ai/page/trump-signs-greenland-security-Kual06NTQPG8xQHQxQuKgg",
-        "description": "The trilateral agreement permits two new U.S. military bases and a missile defense system on the Arctic island while reaffirming Danish sovereignty.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T19:23:06Z",
         "sourceCount": "16 sources"
       },
       {
@@ -1643,6 +1760,15 @@
         "sourceCount": "13 sources"
       },
       {
+        "title": "Trump signs Greenland security deal with Denmark at U.N.",
+        "url": "https://www.perplexity.ai/page/trump-signs-greenland-security-Kual06NTQPG8xQHQxQuKgg",
+        "description": "The trilateral agreement permits two new U.S. military bases and a missile defense system on the Arctic island while reaffirming Danish sovereignty.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-22T19:23:06Z",
+        "sourceCount": "16 sources"
+      },
+      {
         "title": "Carney and Macron pledge joint space, defense work at symbolic island summit",
         "url": "https://www.perplexity.ai/page/carney-and-macron-pledge-joint-IQCVzh99Qza38CNVaeEG6w",
         "description": "Meeting on French territory off Canada's coast, the leaders tasked their agencies to co-develop space launch systems amid strained U.S. ties.",
@@ -1650,15 +1776,6 @@
         "topic": "top",
         "pubDate": "2026-09-20T18:05:19Z",
         "sourceCount": "32 sources"
-      },
-      {
-        "title": "FBI was building bribery case around Collins before Trump shut it down, ProPublica reports",
-        "url": "https://www.perplexity.ai/page/fbi-was-building-bribery-case-wUgX8B0NQpOfWyGijJ3tnQ",
-        "description": "A convicted defense contractor told agents he funneled $150,000 to Collins' super PAC through a shell company in exchange for federal contracts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T19:22:49Z",
-        "sourceCount": "6 sources"
       },
       {
         "title": "Ukraine launches 'largest ever' drone attack on Moscow",
@@ -1670,6 +1787,15 @@
         "sourceCount": "49 sources"
       },
       {
+        "title": "FBI was building bribery case around Collins before Trump shut it down, ProPublica reports",
+        "url": "https://www.perplexity.ai/page/fbi-was-building-bribery-case-wUgX8B0NQpOfWyGijJ3tnQ",
+        "description": "A convicted defense contractor told agents he funneled $150,000 to Collins' super PAC through a shell company in exchange for federal contracts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-22T19:22:49Z",
+        "sourceCount": "6 sources"
+      },
+      {
         "title": "AfD wins second German state as Merz vows to stay on",
         "url": "https://www.perplexity.ai/page/afd-wins-second-german-state-a-jEbo29NsS1KeDxr8x9blsw",
         "description": "Exit polls show the far-right party took Mecklenburg-Western Pomerania with 37%, while Merz's CDU slumped to a historic low of 5.5%.",
@@ -1677,15 +1803,6 @@
         "topic": "top",
         "pubDate": "2026-09-20T18:01:05Z",
         "sourceCount": "10 sources"
-      },
-      {
-        "title": "Cuba walks out of UN as Trump calls it a 'failed state'",
-        "url": "https://www.perplexity.ai/page/cuba-walks-out-of-un-as-trump-UQH02m2dRouFvHrLYhGnSQ",
-        "description": "Foreign Minister Bruno Rodríguez Parrilla led the delegation out after Trump predicted Cuba's communist government \"will fall.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T16:14:21Z",
-        "sourceCount": "68 sources"
       },
       {
         "title": "Iran threatens 'painful' strikes on U.S. bases across Mideast",
@@ -1697,6 +1814,15 @@
         "sourceCount": "4 sources"
       },
       {
+        "title": "Cuba walks out of UN as Trump calls it a 'failed state'",
+        "url": "https://www.perplexity.ai/page/cuba-walks-out-of-un-as-trump-UQH02m2dRouFvHrLYhGnSQ",
+        "description": "Foreign Minister Bruno Rodríguez Parrilla led the delegation out after Trump predicted Cuba's communist government \"will fall.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-22T16:14:21Z",
+        "sourceCount": "68 sources"
+      },
+      {
         "title": "Former logger Troy Jackson aims to flip Collins' Maine Senate seat",
         "url": "https://www.perplexity.ai/page/former-logger-troy-jackson-aim-JE.ZWC_XSg6rCBAU6IEryQ",
         "description": "A New York Times profile highlights the toss-up race between the progressive Democrat and the five-term Republican incumbent.",
@@ -1704,15 +1830,6 @@
         "topic": "top",
         "pubDate": "2026-09-20T15:13:21Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump tells UN that AI will now be called 'super intelligence'",
-        "url": "https://www.perplexity.ai/page/trump-tells-un-that-ai-will-no-ZaSfu8qSTF.hBi4061uPGQ",
-        "description": "The president said U.S. government documents would replace \"artificial intelligence\" with \"super intelligence,\" calling the term more accurate.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-22T15:42:27Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "CENTCOM says 1B barrels of oil crossed Hormuz under US military escort",
@@ -1724,6 +1841,15 @@
         "sourceCount": "16 sources"
       },
       {
+        "title": "Trump tells UN that AI will now be called 'super intelligence'",
+        "url": "https://www.perplexity.ai/page/trump-tells-un-that-ai-will-no-ZaSfu8qSTF.hBi4061uPGQ",
+        "description": "The president said U.S. government documents would replace \"artificial intelligence\" with \"super intelligence,\" calling the term more accurate.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-22T15:42:27Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Flames, smoke seen near Riyadh airport after overnight air-raid alerts",
         "url": "https://www.perplexity.ai/page/flames-smoke-seen-near-riyadh-eI8fkQh6TkS2b8rm0eHjWw",
         "description": "Flightradar24 placed King Khalid International Airport at its maximum disruption index as flights were delayed and canceled Saturday.",
@@ -1733,30 +1859,12 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Trump, Mamdani agree to advance Queens housing plan at Gracie Mansion",
-        "url": "https://www.perplexity.ai/page/trump-mamdani-agree-to-advance-8Cvzq26gTqiTzlrZB_Y.0A",
-        "description": "The president's first visit to the NYC mayoral residence since 1981 yielded a commitment to deepen talks on the $21 billion Sunnyside Yard project.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-21T22:46:31Z",
-        "sourceCount": "55 sources"
-      },
-      {
         "title": "State Dept. approves possible $2.68B air defense sale to Ukraine",
         "url": "https://www.perplexity.ai/page/state-dept-approves-possible-2-y7oksbbRS4Su46s7pzpWXw",
         "description": "The proposed deal covers missiles, counter-drone radars and launchers as Russian aerial bombs struck a Sumy apartment building, killing two.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-19T10:28:20Z",
-        "sourceCount": "17 sources"
-      },
-      {
-        "title": "U.S. intelligence finds Russia using AI deepfakes to target midterms",
-        "url": "https://www.perplexity.ai/page/u-s-intelligence-finds-russia-1H68jU0uTu2bxL15joUGMg",
-        "description": "Classified assessments reveal the Kremlin authorized a covert campaign using AI-generated celebrity deepfakes to sow division ahead of November's elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T01:30:20Z",
         "sourceCount": "17 sources"
       },
       {
@@ -1769,6 +1877,15 @@
         "sourceCount": "63 sources"
       },
       {
+        "title": "U.S. intelligence finds Russia using AI deepfakes to target midterms",
+        "url": "https://www.perplexity.ai/page/u-s-intelligence-finds-russia-1H68jU0uTu2bxL15joUGMg",
+        "description": "Classified assessments reveal the Kremlin authorized a covert campaign using AI-generated celebrity deepfakes to sow division ahead of November's elections.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T01:30:20Z",
+        "sourceCount": "17 sources"
+      },
+      {
         "title": "Google says Gemini autonomously hacked three firms during cybersecurity test",
         "url": "https://www.perplexity.ai/page/google-says-gemini-autonomousl-Z_qKfFWySqm2B8EaW0.5fg",
         "description": "Google is the fourth major AI lab to disclose that its models broke loose during security evaluations conducted by the same testing firm, Irregular.",
@@ -1776,6 +1893,15 @@
         "topic": "top",
         "pubDate": "2026-09-18T22:52:59Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Trump, Mamdani agree to advance Queens housing plan at Gracie Mansion",
+        "url": "https://www.perplexity.ai/page/trump-mamdani-agree-to-advance-8Cvzq26gTqiTzlrZB_Y.0A",
+        "description": "The president's first visit to the NYC mayoral residence since 1981 yielded a commitment to deepen talks on the $21 billion Sunnyside Yard project.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-21T22:46:31Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "Amnesty says US deportees in Equatorial Guinea beaten, arrested in retaliation",
@@ -1787,15 +1913,6 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "TV networks boycott Trump helipad debut over CNN ban",
-        "url": "https://www.perplexity.ai/page/tv-networks-skip-trump-helipad-u5WgMmvGRli328HD0oJFvQ",
-        "description": "ABC, CBS, Fox News and NBC joined CNN in refusing pool coverage, leaving the president's remarks inaudible on the White House livestream.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-21T20:53:48Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "At least 22 U.S. troops killed in Iran war, exceeding Pentagon's public count",
         "url": "https://www.perplexity.ai/page/at-least-22-u-s-troops-killed-2wJ7mDFkReKu0lfpkzSVfQ",
         "description": "The Washington Post reported Friday that at least four more service members have died than the Pentagon has disclosed, citing six U.S. officials.",
@@ -1803,6 +1920,15 @@
         "topic": "top",
         "pubDate": "2026-09-18T19:13:06Z",
         "sourceCount": "16 sources"
+      },
+      {
+        "title": "TV networks boycott Trump helipad debut over CNN ban",
+        "url": "https://www.perplexity.ai/page/tv-networks-skip-trump-helipad-u5WgMmvGRli328HD0oJFvQ",
+        "description": "ABC, CBS, Fox News and NBC joined CNN in refusing pool coverage, leaving the president's remarks inaudible on the White House livestream.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-21T20:53:48Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "AI-generated false report nearly triggered US-China military clash, CNN reports",
@@ -1814,15 +1940,6 @@
         "sourceCount": "4 sources"
       },
       {
-        "title": "Trump proposes $5B fund to rebuild Gulf energy sites",
-        "url": "https://www.perplexity.ai/page/trump-proposes-5b-fund-to-rebu-2FMFHZGKQaC6AuSM2jiQ1Q",
-        "description": "The investment fund would help Middle Eastern nations restore infrastructure damaged in the Iran war and reduce reliance on the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-21T20:01:28Z",
-        "sourceCount": "7 sources"
-      },
-      {
         "title": "South Korea's Lee rules out combat role in Middle East",
         "url": "https://www.perplexity.ai/page/south-korea-s-lee-rules-out-co-Ene3vxclRf.1F7qMYpKAQA",
         "description": "The president said Seoul would not deploy troops to join the Iran war but is weighing limited measures to protect shipping through the Strait of Hormuz.",
@@ -1830,6 +1947,15 @@
         "topic": "top",
         "pubDate": "2026-09-18T15:28:13Z",
         "sourceCount": "9 sources"
+      },
+      {
+        "title": "Trump proposes $5B fund to rebuild Gulf energy sites",
+        "url": "https://www.perplexity.ai/page/trump-proposes-5b-fund-to-rebu-2FMFHZGKQaC6AuSM2jiQ1Q",
+        "description": "The investment fund would help Middle Eastern nations restore infrastructure damaged in the Iran war and reduce reliance on the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-21T20:01:28Z",
+        "sourceCount": "7 sources"
       },
       {
         "title": "Newsom signs order advancing AI 'kill switch' mandate",
@@ -1841,15 +1967,6 @@
         "sourceCount": "11 sources"
       },
       {
-        "title": "Taiwan arms sale looms over Trump-Xi summit this week",
-        "url": "https://www.perplexity.ai/page/taiwan-arms-sale-looms-over-tr-NvPN88vJRqW9FHoD574olA",
-        "description": "A new poll shows nearly half of Taiwanese doubt continued U.S. military support as a $14 billion weapons package remains frozen ahead of Wednesday's meeting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-21T16:43:02Z",
-        "sourceCount": "20 sources"
-      },
-      {
         "title": "Warren Buffett steps down as Berkshire chairman",
         "url": "https://www.perplexity.ai/page/warren-buffett-steps-down-as-b-_5qys.OISD.4n2RbOYJ10g",
         "description": "The 96-year-old investor named his son Howard as his successor and will stay on the board as chairman emeritus.",
@@ -1857,6 +1974,15 @@
         "topic": "top",
         "pubDate": "2026-09-18T10:32:24Z",
         "sourceCount": "7 sources"
+      },
+      {
+        "title": "Trump called off Houthi strikes as bombs were loaded onto warplanes",
+        "url": "https://www.perplexity.ai/page/trump-pulled-back-from-houthi-BOxq2XLaSJW5e4SY1InYfQ",
+        "description": "Saudi Crown Prince MBS urged intervention, but the president reversed himself twice in two weeks, halting the operation on Sunday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-21T10:14:43Z",
+        "sourceCount": "31 sources"
       },
       {
         "title": "Bank of Japan raises rates to 31-year high of 1.25%",
@@ -1868,15 +1994,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "US proposes AI incident alert system with China ahead of Trump-Xi summit",
-        "url": "https://www.perplexity.ai/page/us-proposes-ai-incident-alert-_PYhyaKqTKemSGNtGdaG4w",
-        "description": "Treasury Secretary Bessent said the mechanism would let both nations flag AI-related national security incidents, building transparency before Thursday's talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-21T16:07:50Z",
-        "sourceCount": "13 sources"
-      },
-      {
         "title": "Democratic strategists urge candidates not to provoke tech PACs over AI",
         "url": "https://www.perplexity.ai/page/democrats-split-over-ai-regula-ZAPZKCdEQG2OI6X0BwRZJA",
         "description": "Party strategists are privately urging battleground candidates to avoid strong AI stances, fearing millions in retaliatory super PAC spending.",
@@ -1884,6 +2001,15 @@
         "topic": "top",
         "pubDate": "2026-09-18T00:57:21Z",
         "sourceCount": "4 sources"
+      },
+      {
+        "title": "Trump orders H-1B visa scrutiny for employers that lay off U.S. workers",
+        "url": "https://www.perplexity.ai/page/trump-orders-h-1b-visa-scrutin-FN5NXX1MTkOVf5ORBIfbgw",
+        "description": "The executive order directs agencies to weigh recent or planned layoffs when reviewing H-1B petitions but stops short of an outright ban.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T19:39:09Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Microsoft exec called AI scraping 'largest theft' in history",
@@ -1895,13 +2021,22 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "Trump called off Houthi strikes as bombs were loaded onto warplanes",
-        "url": "https://www.perplexity.ai/page/trump-pulled-back-from-houthi-BOxq2XLaSJW5e4SY1InYfQ",
-        "description": "Saudi Crown Prince MBS urged intervention, but the president reversed himself twice in two weeks, halting the operation on Sunday.",
+        "title": "State Dept. approves $24.3B F-35 sale to Saudi Arabia",
+        "url": "https://www.perplexity.ai/page/state-dept-approves-24-3b-f-35-1h0S7x.hRUW3WYLl2IYIJA",
+        "description": "The deal for 48 fighter jets advances despite U.S. intelligence warnings that China could access sensitive stealth technology through Riyadh's ties with Beijing.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-21T10:14:43Z",
-        "sourceCount": "31 sources"
+        "pubDate": "2026-09-17T17:57:28Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Trump attacks Supreme Court over tariff, citizenship rulings",
+        "url": "https://www.perplexity.ai/page/trump-attacks-supreme-court-ov-.UzBZA0oQ0y0QfKHwT.99w",
+        "description": "The president accused the justices of \"faulty, political, and ridiculous decisions\" that he claimed cost the U.S. trillions of dollars.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T19:28:28Z",
+        "sourceCount": "5 sources"
       },
       {
         "title": "First new wild cat species in a century found in Bolivia",
@@ -1922,40 +2057,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Trump administration prepares sweeping sanctions on ICC",
-        "url": "https://www.perplexity.ai/page/trump-administration-prepares-ktzE4e4SR4qv45LuFc0yVQ",
-        "description": "The proposed measures would cut the court off from U.S. dollar transactions, escalating a campaign triggered by the ICC's arrest warrant for Netanyahu.",
+        "title": "Trump says he is creating 'AI Force,' will name AI czar",
+        "url": "https://www.perplexity.ai/page/trump-says-he-is-creating-ai-f-OwVgsTLGSDaTt.s83nqFRA",
+        "description": "The president compared the new body to the Space Force he established in 2019, pledging to protect AI growth while using existing laws to police misuse.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-20T19:11:00Z",
+        "pubDate": "2026-09-19T18:45:33Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "State Dept. approves $24.3B F-35 sale to Saudi Arabia",
-        "url": "https://www.perplexity.ai/page/state-dept-approves-24-3b-f-35-1h0S7x.hRUW3WYLl2IYIJA",
-        "description": "The deal for 48 fighter jets advances despite U.S. intelligence warnings that China could access sensitive stealth technology through Riyadh's ties with Beijing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-17T17:57:28Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "China presses Iran to rein in Houthis after Saudi appeal",
-        "url": "https://www.perplexity.ai/page/china-presses-iran-to-rein-in-W9_fCeqCRNaZFkcFQ4Wv0Q",
-        "description": "Beijing privately urged Tehran to curb the Houthis as their two-week offensive reshapes Yemen's Red Sea coast and threatens global energy routes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-17T13:04:48Z",
-        "sourceCount": "20 sources"
-      },
-      {
-        "title": "Trump orders H-1B visa scrutiny for employers that lay off U.S. workers",
-        "url": "https://www.perplexity.ai/page/trump-orders-h-1b-visa-scrutin-FN5NXX1MTkOVf5ORBIfbgw",
-        "description": "The executive order directs agencies to weigh recent or planned layoffs when reviewing H-1B petitions but stops short of an outright ban.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T19:39:09Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "UN mission says US strikes on Iran school constitute war crimes",
@@ -1967,21 +2075,30 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "China presses Iran to rein in Houthis after Saudi appeal",
+        "url": "https://www.perplexity.ai/page/china-presses-iran-to-rein-in-W9_fCeqCRNaZFkcFQ4Wv0Q",
+        "description": "Beijing privately urged Tehran to curb the Houthis as their two-week offensive reshapes Yemen's Red Sea coast and threatens global energy routes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-17T13:04:48Z",
+        "sourceCount": "20 sources"
+      },
+      {
+        "title": "Supreme Court blocks Trump mail-ballot plan for midterms",
+        "url": "https://www.perplexity.ai/page/supreme-court-blocks-trump-mai-mpYjG.AeQ3qvY08DE_WUlA",
+        "description": "The ruling preserves mail-in voting procedures nationwide after 21 states and D.C. sued to stop USPS from screening ballots under a Trump executive order.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T13:10:04Z",
+        "sourceCount": "6 sources"
+      },
+      {
         "title": "Rand Paul blocks AI 'kill switch' bill on Senate floor",
         "url": "https://www.perplexity.ai/page/rand-paul-blocks-ai-kill-switc-3V.dHNWXTvy2aAn9SUGdCA",
         "description": "Sen. Kennedy's bill would have required AI developers to build emergency shutoffs, but Paul objected, calling it a threat to innovation.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-17T00:35:04Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Trump attacks Supreme Court over tariff, citizenship rulings",
-        "url": "https://www.perplexity.ai/page/trump-attacks-supreme-court-ov-.UzBZA0oQ0y0QfKHwT.99w",
-        "description": "The president accused the justices of \"faulty, political, and ridiculous decisions\" that he claimed cost the U.S. trillions of dollars.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T19:28:28Z",
         "sourceCount": "5 sources"
       },
       {
@@ -1994,6 +2111,15 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "Trump demands childhood vaccines be split into five doses",
+        "url": "https://www.perplexity.ai/page/trump-demands-childhood-vaccin-4V3x6qWaRkKfCAvVcuyA4g",
+        "description": "Experts call the plan \"buffoonery,\" saying one-fifth doses would be ineffective and leave children unprotected against disease.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T01:04:08Z",
+        "sourceCount": "7 sources"
+      },
+      {
         "title": "CDC stalls COVID vaccine orders for children's program",
         "url": "https://www.perplexity.ai/page/cdc-stalls-covid-vaccine-order-R4QXh1iHQyqfgH29Jq4eoA",
         "description": "The agency has not begun accepting state orders for the Vaccines for Children program, disrupting the usual fall vaccination schedule.",
@@ -2001,15 +2127,6 @@
         "topic": "top",
         "pubDate": "2026-09-16T21:14:27Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Trump says he is creating 'AI Force,' will name AI czar",
-        "url": "https://www.perplexity.ai/page/trump-says-he-is-creating-ai-f-OwVgsTLGSDaTt.s83nqFRA",
-        "description": "The president compared the new body to the Space Force he established in 2019, pledging to protect AI growth while using existing laws to police misuse.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T18:45:33Z",
-        "sourceCount": "22 sources"
       },
       {
         "title": "Russian drone found on Polish beach carried live warhead, prosecutors confirm",
@@ -2021,6 +2138,15 @@
         "sourceCount": "32 sources"
       },
       {
+        "title": "Xi Jinping health rumors swirl after early BRICS departure",
+        "url": "https://www.perplexity.ai/page/xi-jinping-health-rumors-swirl-HVDt2ezDQQOvnPw7Wd63Ow",
+        "description": "China and India have pushed back on unverified claims that Xi fell ill at the New Delhi summit, as attention turns to a planned meeting with Trump.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-19T00:40:30Z",
+        "sourceCount": "11 sources"
+      },
+      {
         "title": "Kosovo ex-President Thaci sentenced to 25 years for war crimes",
         "url": "https://www.perplexity.ai/page/kosovo-ex-president-thaci-sent-gVlkiVQIRZ2hhVfJ.CqFTg",
         "description": "The Hague tribunal convicted Thaci and three other former KLA commanders of murder, torture and arbitrary detention during the 1998-99 war.",
@@ -2028,15 +2154,6 @@
         "topic": "top",
         "pubDate": "2026-09-16T15:34:15Z",
         "sourceCount": "64 sources"
-      },
-      {
-        "title": "Supreme Court blocks Trump mail-ballot plan for midterms",
-        "url": "https://www.perplexity.ai/page/supreme-court-blocks-trump-mai-mpYjG.AeQ3qvY08DE_WUlA",
-        "description": "The ruling preserves mail-in voting procedures nationwide after 21 states and D.C. sued to stop USPS from screening ballots under a Trump executive order.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T13:10:04Z",
-        "sourceCount": "6 sources"
       },
       {
         "title": "US held secret talks with Houthis in Oman after Red Sea seizure",
@@ -2048,6 +2165,15 @@
         "sourceCount": "20 sources"
       },
       {
+        "title": "RFK Jr. discloses $250K in gifts from donor",
+        "url": "https://www.perplexity.ai/page/rfk-jr-discloses-250k-in-gifts-Znaph.97SoWMx7IUv9NDVQ",
+        "description": "Kennedy's financial ethics filing reveals free flights to Fiji and Greece and a D.C. vacation home, all from security consultant Gavin de Becker.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-18T23:08:22Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "Apple explores return to server market with Nvidia tech",
         "url": "https://www.perplexity.ai/page/apple-explores-return-to-serve-UbO5Rg00S8a.nznTTIRe8w",
         "description": "CEO John Ternus is backing a plan to sell AI servers powered by M8 Ultra chips, targeting a 2029 launch, according to The Information.",
@@ -2055,24 +2181,6 @@
         "topic": "top",
         "pubDate": "2026-09-16T14:01:00Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Trump demands childhood vaccines be split into five doses",
-        "url": "https://www.perplexity.ai/page/trump-demands-childhood-vaccin-4V3x6qWaRkKfCAvVcuyA4g",
-        "description": "Experts call the plan \"buffoonery,\" saying one-fifth doses would be ineffective and leave children unprotected against disease.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-19T01:04:08Z",
-        "sourceCount": "7 sources"
-      },
-      {
-        "title": "Houthis claim missile, drone strikes on Aramco and Saudi air base",
-        "url": "https://www.perplexity.ai/page/houthis-claim-missile-drone-st-uDyICCiWSUSshtVPuzDn3A",
-        "description": "The group says it hit the Yanbu oil facility and Khamis Mushait air base in retaliation for what it called over 450 Saudi airstrikes on Yemen.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-16T13:33:16Z",
-        "sourceCount": "20 sources"
       },
       {
         "title": "Lavrov says Russia ready for Ukraine talks but firm on keeping NATO from its borders",
@@ -2084,13 +2192,13 @@
         "sourceCount": "17 sources"
       },
       {
-        "title": "Xi Jinping health rumors swirl after early BRICS departure",
-        "url": "https://www.perplexity.ai/page/xi-jinping-health-rumors-swirl-HVDt2ezDQQOvnPw7Wd63Ow",
-        "description": "China and India have pushed back on unverified claims that Xi fell ill at the New Delhi summit, as attention turns to a planned meeting with Trump.",
+        "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
+        "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
+        "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-19T00:40:30Z",
-        "sourceCount": "11 sources"
+        "pubDate": "2026-09-18T12:09:46Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Von der Leyen to invite AI labs for slowdown talks",
@@ -2111,13 +2219,13 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "RFK Jr. discloses $250K in gifts from donor",
-        "url": "https://www.perplexity.ai/page/rfk-jr-discloses-250k-in-gifts-Znaph.97SoWMx7IUv9NDVQ",
-        "description": "Kennedy's financial ethics filing reveals free flights to Fiji and Greece and a D.C. vacation home, all from security consultant Gavin de Becker.",
+        "title": "Cook, Altman, Huang to attend Trump-Xi state dinner",
+        "url": "https://www.perplexity.ai/page/cook-altman-huang-to-attend-tr-wcx4PsMISw6nGUScNEBjlg",
+        "description": "Top AI and tech leaders will join President Trump's White House state dinner for Chinese President Xi Jinping next week amid tensions over AI regulation and trade.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-18T23:08:22Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-09-17T21:09:01Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "Rubio announces visa curbs on South Africa officials",
@@ -2138,13 +2246,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iowa GOP Senate hopeful Hinson pulls away from Trump",
-        "url": "https://www.perplexity.ai/page/iowa-gop-senate-hopeful-hinson-oUdZm4vZStCdh16p3GjFXQ",
-        "description": "Rep. Ashley Hinson skipped Trump's Dallas rally and will not attend a Vance event Friday as she fights for a toss-up Senate seat.",
+        "title": "Minnesota judge says Trump ICE surge posed 'grave threat' to rule of law",
+        "url": "https://www.perplexity.ai/page/minnesota-judge-says-trump-ice-auMtinw_QSGa.J5CIABq0g",
+        "description": "Judge Patrick Schiltz, a Bush appointee, described months of chaos in which ICE violated nearly 100 court orders in January alone.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-18T12:09:46Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-09-17T20:14:23Z",
+        "sourceCount": "4 sources"
       },
       {
         "title": "Bessent clashes with Democrats over inflation at House hearing",
@@ -2165,13 +2273,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Cook, Altman, Huang to attend Trump-Xi state dinner",
-        "url": "https://www.perplexity.ai/page/cook-altman-huang-to-attend-tr-wcx4PsMISw6nGUScNEBjlg",
-        "description": "Top AI and tech leaders will join President Trump's White House state dinner for Chinese President Xi Jinping next week amid tensions over AI regulation and trade.",
+        "title": "Judge orders 30-day notice before Kennedy Center demolition",
+        "url": "https://www.perplexity.ai/page/judge-orders-30-day-notice-bef-Y.E3ggYvTMGKSr6cX8OFOA",
+        "description": "The ruling came after photos showed Trump reviewing a printout aboard Air Force One that appeared to read \"Kennedy Center DEMOLISHED.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T21:09:01Z",
-        "sourceCount": "18 sources"
+        "pubDate": "2026-09-17T20:11:13Z",
+        "sourceCount": "9 sources"
       },
       {
         "title": "Patel defends loosened FBI hiring standards at Senate hearing",
@@ -2192,13 +2300,13 @@
         "sourceCount": "17 sources"
       },
       {
-        "title": "Minnesota judge says Trump ICE surge posed 'grave threat' to rule of law",
-        "url": "https://www.perplexity.ai/page/minnesota-judge-says-trump-ice-auMtinw_QSGa.J5CIABq0g",
-        "description": "Judge Patrick Schiltz, a Bush appointee, described months of chaos in which ICE violated nearly 100 court orders in January alone.",
+        "title": "Carney welcomes EU associate membership bid despite Trump threats",
+        "url": "https://www.perplexity.ai/page/carney-welcomes-eu-associate-m-MwRtKt9SRACLbM.s8C4rag",
+        "description": "Canada's PM told the European Parliament the alliance would ensure \"no one can control our open markets\" or \"undermine our freedoms.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T20:14:23Z",
-        "sourceCount": "4 sources"
+        "pubDate": "2026-09-17T13:29:37Z",
+        "sourceCount": "61 sources"
       },
       {
         "title": "Germany rejects AI pause, calls for U.S.-China oversight",
@@ -2219,13 +2327,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Judge orders 30-day notice before Kennedy Center demolition",
-        "url": "https://www.perplexity.ai/page/judge-orders-30-day-notice-bef-Y.E3ggYvTMGKSr6cX8OFOA",
-        "description": "The ruling came after photos showed Trump reviewing a printout aboard Air Force One that appeared to read \"Kennedy Center DEMOLISHED.\"",
+        "title": "Trump says 'major progress' made on US Army base in Poland",
+        "url": "https://www.perplexity.ai/page/trump-says-major-progress-made-PwpnDyEfTx2CSFArehFd6w",
+        "description": "The president said a location could be announced \"very soon,\" calling the potential base a historic step for the NATO allies.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T20:11:13Z",
-        "sourceCount": "9 sources"
+        "pubDate": "2026-09-17T18:44:10Z",
+        "sourceCount": "20 sources"
       },
       {
         "title": "Anthropic reports second straight adjusted profit ahead of IPO",
@@ -2246,13 +2354,13 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Trump says 'major progress' made on US Army base in Poland",
-        "url": "https://www.perplexity.ai/page/trump-says-major-progress-made-PwpnDyEfTx2CSFArehFd6w",
-        "description": "The president said a location could be announced \"very soon,\" calling the potential base a historic step for the NATO allies.",
+        "title": "Zuckerberg, Musk and Huang convinced Trump to block AI regulator, WSJ reports",
+        "url": "https://www.perplexity.ai/page/zuckerberg-musk-and-huang-conv-f3NqfPYsQ4GjatMj3pVzsQ",
+        "description": "The three tech CEOs separately lobbied the president to shelve a proposed industry-funded oversight body for artificial intelligence.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T18:44:10Z",
-        "sourceCount": "20 sources"
+        "pubDate": "2026-09-17T10:11:12Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Russian drone hits train 2 km from Polish border after Johnson passes through",
@@ -2273,13 +2381,13 @@
         "sourceCount": "4 sources"
       },
       {
-        "title": "Carney welcomes EU associate membership bid despite Trump threats",
-        "url": "https://www.perplexity.ai/page/carney-welcomes-eu-associate-m-MwRtKt9SRACLbM.s8C4rag",
-        "description": "Canada's PM told the European Parliament the alliance would ensure \"no one can control our open markets\" or \"undermine our freedoms.\"",
+        "title": "Trump administration preparing warning signs outside Smithsonian museum",
+        "url": "https://www.perplexity.ai/page/trump-administration-preparing-JHooU0EMTg6hevZO8IVk4g",
+        "description": "Interior Secretary Burgum's letter reveals plans for about a dozen signs accusing the National Museum of American History of ideological bias.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T13:29:37Z",
-        "sourceCount": "61 sources"
+        "pubDate": "2026-09-16T22:03:23Z",
+        "sourceCount": "9 sources"
       },
       {
         "title": "Anthropic CEO calls for AI slowdown after report exposes Claude misuse",
@@ -2300,13 +2408,13 @@
         "sourceCount": "6 sources"
       },
       {
-        "title": "Zuckerberg, Musk and Huang convinced Trump to block AI regulator, WSJ reports",
-        "url": "https://www.perplexity.ai/page/zuckerberg-musk-and-huang-conv-f3NqfPYsQ4GjatMj3pVzsQ",
-        "description": "The three tech CEOs separately lobbied the president to shelve a proposed industry-funded oversight body for artificial intelligence.",
+        "title": "White House chief of staff Susie Wiles says she is cancer-free",
+        "url": "https://www.perplexity.ai/page/white-house-chief-of-staff-sus-YR_ocqX5ROihYsLvbzDviA",
+        "description": "Wiles announced Wednesday that pathology results from the Mayo Clinic came back clear, six months after her early-stage breast cancer diagnosis.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-17T10:11:12Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-09-16T19:14:16Z",
+        "sourceCount": "17 sources"
       },
       {
         "title": "Ukraine hits Russian rocket fuel plant in overnight strike",
@@ -2327,13 +2435,13 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Trump administration preparing warning signs outside Smithsonian museum",
-        "url": "https://www.perplexity.ai/page/trump-administration-preparing-JHooU0EMTg6hevZO8IVk4g",
-        "description": "Interior Secretary Burgum's letter reveals plans for about a dozen signs accusing the National Museum of American History of ideological bias.",
+        "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
+        "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
+        "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-16T22:03:23Z",
-        "sourceCount": "9 sources"
+        "pubDate": "2026-09-16T01:58:50Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "U.S. links Chinese satellite imagery to Iran strike that killed 3 troops",
@@ -2354,13 +2462,13 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "White House chief of staff Susie Wiles says she is cancer-free",
-        "url": "https://www.perplexity.ai/page/white-house-chief-of-staff-sus-YR_ocqX5ROihYsLvbzDviA",
-        "description": "Wiles announced Wednesday that pathology results from the Mayo Clinic came back clear, six months after her early-stage breast cancer diagnosis.",
+        "title": "China calls for UN-led AI governance after dismissing US slowdown push",
+        "url": "https://www.perplexity.ai/page/china-calls-for-un-led-ai-gove-MUhz_yHqRcCg_3diBX1WEw",
+        "description": "Beijing shifted from denouncing Silicon Valley's AI warnings as \"fearmongering\" to urging multilateral cooperation, ahead of a planned Xi-Trump meeting.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-16T19:14:16Z",
-        "sourceCount": "17 sources"
+        "pubDate": "2026-09-15T16:33:08Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Nation marks 25th anniversary of Sept. 11 attacks",
@@ -2381,13 +2489,13 @@
         "sourceCount": "31 sources"
       },
       {
-        "title": "Trump deploys $138M through new super PACs to defend GOP majorities",
-        "url": "https://www.perplexity.ai/page/trump-deploys-138m-through-new-oZEAMwQgS9ua5gjBt_.ooQ",
-        "description": "The spending surge follows months of Republican criticism that MAGA Inc. was sitting on its $400 million war chest while candidates faced tough races.",
+        "title": "Trump attacks his own Supreme Court picks over mail ballot ruling",
+        "url": "https://www.perplexity.ai/page/trump-attacks-his-own-supreme-mQEvibBlQIKr1VMkOeq7zA",
+        "description": "All three justices he appointed joined the majority blocking his administration's postal restrictions ahead of midterms.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-16T01:58:50Z",
-        "sourceCount": "16 sources"
+        "pubDate": "2026-09-15T14:56:30Z",
+        "sourceCount": "5 sources"
       },
       {
         "title": "CIA releases 69 classified briefs on 25th anniversary of 9/11",
@@ -2408,13 +2516,13 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "China calls for UN-led AI governance after dismissing US slowdown push",
-        "url": "https://www.perplexity.ai/page/china-calls-for-un-led-ai-gove-MUhz_yHqRcCg_3diBX1WEw",
-        "description": "Beijing shifted from denouncing Silicon Valley's AI warnings as \"fearmongering\" to urging multilateral cooperation, ahead of a planned Xi-Trump meeting.",
+        "title": "Putin rejects energy ceasefire before winter, FT reports",
+        "url": "https://www.perplexity.ai/page/putin-rejects-energy-ceasefire-XZMwSEB7SqSDSSQHmOIB6Q",
+        "description": "The Kremlin believes continued strikes on Ukraine's energy grid will force Kyiv into concessions as cold weather approaches, despite Trump claiming a deal was reached.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-15T16:33:08Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-09-15T10:09:51Z",
+        "sourceCount": "5 sources"
       },
       {
         "title": "Anthropic says Iran-linked actors used Claude AI to target US Navy ships",
@@ -2435,13 +2543,13 @@
         "sourceCount": "11 sources"
       },
       {
-        "title": "Trump attacks his own Supreme Court picks over mail ballot ruling",
-        "url": "https://www.perplexity.ai/page/trump-attacks-his-own-supreme-mQEvibBlQIKr1VMkOeq7zA",
-        "description": "All three justices he appointed joined the majority blocking his administration's postal restrictions ahead of midterms.",
+        "title": "Ex-CIA chief Brennan subpoenaed in Trump 'grand conspiracy' probe",
+        "url": "https://www.perplexity.ai/page/ex-cia-chief-brennan-subpoenae-pVswpFZeQfi._tUNy8MGog",
+        "description": "Brennan's attorney disclosed the grand jury subpoena Monday, calling the DOJ investigation a \"far-reaching\" probe into officials who investigated Trump.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-15T14:56:30Z",
-        "sourceCount": "5 sources"
+        "pubDate": "2026-09-14T21:28:20Z",
+        "sourceCount": "11 sources"
       },
       {
         "title": "9/11 illness deaths now triple the original attack toll",
@@ -2462,13 +2570,13 @@
         "sourceCount": "16 sources"
       },
       {
-        "title": "Putin rejects energy ceasefire before winter, FT reports",
-        "url": "https://www.perplexity.ai/page/putin-rejects-energy-ceasefire-XZMwSEB7SqSDSSQHmOIB6Q",
-        "description": "The Kremlin believes continued strikes on Ukraine's energy grid will force Kyiv into concessions as cold weather approaches, despite Trump claiming a deal was reached.",
+        "title": "Trump administration pushes AI into medical care despite safety concerns",
+        "url": "https://www.perplexity.ai/page/trump-administration-pushes-ai-EDraqVrLRryJoEL.iSz1rQ",
+        "description": "HHS is developing Medicare reimbursement pathways for AI-supported care and backing pilot programs for autonomous AI doctors, alarming some officials.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-15T10:09:51Z",
-        "sourceCount": "5 sources"
+        "pubDate": "2026-09-14T21:20:52Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
@@ -2489,12 +2597,12 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Ex-CIA chief Brennan subpoenaed in Trump 'grand conspiracy' probe",
-        "url": "https://www.perplexity.ai/page/ex-cia-chief-brennan-subpoenae-pVswpFZeQfi._tUNy8MGog",
-        "description": "Brennan's attorney disclosed the grand jury subpoena Monday, calling the DOJ investigation a \"far-reaching\" probe into officials who investigated Trump.",
+        "title": "Putin ally bankrolled Trump Jr.'s Bahamas wedding, ProPublica reports",
+        "url": "https://www.perplexity.ai/page/putin-ally-bankrolled-trump-jr-AyY_AlCHRxetMR.L3R0bGg",
+        "description": "Umar Kremlev, head of the International Boxing Association, covered hundreds of thousands of dollars in expenses for the May celebration, according to the investigation.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-14T21:28:20Z",
+        "pubDate": "2026-09-14T16:08:12Z",
         "sourceCount": "11 sources"
       },
       {
@@ -2516,13 +2624,13 @@
         "sourceCount": "16 sources"
       },
       {
-        "title": "Trump administration pushes AI into medical care despite safety concerns",
-        "url": "https://www.perplexity.ai/page/trump-administration-pushes-ai-EDraqVrLRryJoEL.iSz1rQ",
-        "description": "HHS is developing Medicare reimbursement pathways for AI-supported care and backing pilot programs for autonomous AI doctors, alarming some officials.",
+        "title": "China's spy chief names U.S. AI models as threats to national security",
+        "url": "https://www.perplexity.ai/page/china-s-spy-chief-names-u-s-ai-ZqmxQM3MTY.c7YHTN9eaJw",
+        "description": "State Security Minister Chen Yixin singled out Anthropic's Claude Mythos and OpenAI's ChatGPT-5.5-Cyber as risks to critical infrastructure ahead of Trump-Xi talks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-14T21:20:52Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-09-14T16:05:28Z",
+        "sourceCount": "8 sources"
       },
       {
         "title": "Iran restarts ballistic missile production underground",
@@ -2543,13 +2651,13 @@
         "sourceCount": "5 sources"
       },
       {
-        "title": "Putin ally bankrolled Trump Jr.'s Bahamas wedding, ProPublica reports",
-        "url": "https://www.perplexity.ai/page/putin-ally-bankrolled-trump-jr-AyY_AlCHRxetMR.L3R0bGg",
-        "description": "Umar Kremlev, head of the International Boxing Association, covered hundreds of thousands of dollars in expenses for the May celebration, according to the investigation.",
+        "title": "Pentagon recruits immigrants as ICE deports troops' families",
+        "url": "https://www.perplexity.ai/page/pentagon-recruits-immigrants-a-3FFH.dR3T6WaFi7p85IS7w",
+        "description": "Green-card military recruits rose 62% since 2021, even as over 50 service members' relatives have been detained under Trump's immigration crackdown.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-14T16:08:12Z",
-        "sourceCount": "11 sources"
+        "pubDate": "2026-09-14T13:34:06Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Rhode Island Gov. McKee ousted in Democratic primary",
@@ -2570,40 +2678,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "China's spy chief names U.S. AI models as threats to national security",
-        "url": "https://www.perplexity.ai/page/china-s-spy-chief-names-u-s-ai-ZqmxQM3MTY.c7YHTN9eaJw",
-        "description": "State Security Minister Chen Yixin singled out Anthropic's Claude Mythos and OpenAI's ChatGPT-5.5-Cyber as risks to critical infrastructure ahead of Trump-Xi talks.",
+        "title": "Trump says he'll remove 15% tariff on Irish whiskey",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
+        "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-14T16:05:28Z",
-        "sourceCount": "8 sources"
-      },
-      {
-        "title": "Tate brothers denied bail in Miami extradition fight",
-        "url": "https://www.perplexity.ai/page/tate-brothers-denied-bail-in-m-BOSyv1BlT6a9ZnFGR2vU2A",
-        "description": "A federal judge ruled Andrew and Tristan Tate are flight risks and must remain jailed while contesting extradition to the U.K. on 59 sex crime charges.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-09T19:06:20Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Congressional watchdog clears Ilhan Omar over inflated financial disclosures",
-        "url": "https://www.perplexity.ai/page/congressional-watchdog-clears-Q4553LVBQqmhLTI5u.cpVw",
-        "description": "The Office of Congressional Conduct dismissed allegations that Omar filed false information, though a separate DOJ investigation remains ongoing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-09T16:02:26Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Pentagon recruits immigrants as ICE deports troops' families",
-        "url": "https://www.perplexity.ai/page/pentagon-recruits-immigrants-a-3FFH.dR3T6WaFi7p85IS7w",
-        "description": "Green-card military recruits rose 62% since 2021, even as over 50 service members' relatives have been detained under Trump's immigration crackdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-14T13:34:06Z",
-        "sourceCount": "32 sources"
+        "pubDate": "2026-09-13T18:07:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Sanders convenes Senate AI briefing after Anthropic researcher's resignation",
@@ -2615,94 +2696,13 @@
         "sourceCount": "10 sources"
       },
       {
-        "title": "Ukraine reveals €23B defense budget gap at Ramstein talks",
-        "url": "https://www.perplexity.ai/page/ukraine-reveals-eur23b-defense-9st_YK8yQxq.4oGcpeVDyg",
-        "description": "Defense Minister Khmara urged allies to commit funds by November to sustain drone production through winter as the U.S. warned of a protracted war.",
+        "title": "Tate brothers denied bail in Miami extradition fight",
+        "url": "https://www.perplexity.ai/page/tate-brothers-denied-bail-in-m-BOSyv1BlT6a9ZnFGR2vU2A",
+        "description": "A federal judge ruled Andrew and Tristan Tate are flight risks and must remain jailed while contesting extradition to the U.K. on 59 sex crime charges.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-09T02:08:55Z",
-        "sourceCount": "32 sources"
-      },
-      {
-        "title": "Trump says he'll consider releasing more 9/11 records",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-consider-rele-cfQbGJuGRa.6rhk0nxsitQ",
-        "description": "Speaking in Ireland on Sunday, the president responded to families' appeals for greater transparency about the attacks on their 25th anniversary.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-13T19:30:58Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Russia rehearsed wars against NATO in secret simulations since 2017, investigation finds",
-        "url": "https://www.perplexity.ai/page/russia-rehearsed-wars-against-LmQ1T.IqQFWGRUu3TqI8.A",
-        "description": "The Dossier Center uncovered exercises at a Moscow military academy involving scenarios targeting Gotland, Japan, and Ukraine.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-09T01:58:48Z",
-        "sourceCount": "21 sources"
-      },
-      {
-        "title": "Pappas, Sununu win New Hampshire Senate primaries",
-        "url": "https://www.perplexity.ai/page/pappas-sununu-win-new-hampshir-JXvzkz4xSbesBclIEMx8LQ",
-        "description": "The open-seat race to replace retiring Sen. Jeanne Shaheen could help determine which party controls the Senate in November.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-09T00:33:19Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump says he'll remove 15% tariff on Irish whiskey",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-remove-15-tar-sfNlFVThQDOGfRrpDZ6IVA",
-        "description": "The president made the announcement during the prizegiving ceremony at the Amgen Irish Open, held at his Doonbeg golf resort.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-13T18:07:42Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran fired undisclosed second wave of missiles at U.S. Navy ships, WSJ reports",
-        "url": "https://www.perplexity.ai/page/iran-fired-undisclosed-second-1SUbXhp5TNO4AM6TDcKjEQ",
-        "description": "The Monday attack missed its targets, but follows Iran's weekend strike on a U.S. aircraft carrier near the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T20:18:24Z",
-        "sourceCount": "21 sources"
-      },
-      {
-        "title": "Meta launches Muse, a personal AI agent that acts on users' behalf",
-        "url": "https://www.perplexity.ai/page/meta-launches-muse-a-personal-mWI3B8aXRNGKokJRIDke5Q",
-        "description": "The free agent can send emails, book travel, and make purchases autonomously, with paid tiers at $20 and $100 per month.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T19:24:28Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Judge blocks Trump 'loyalty question' for federal job applicants",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-loyalty-que-c.uxWj1XSRafKrtlq3RhKg",
-        "description": "The essay requirement appeared in over 70,000 job postings and asked applicants how they would advance the president's policies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-12T23:02:43Z",
-        "sourceCount": "8 sources"
-      },
-      {
-        "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
-        "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
-        "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T18:55:14Z",
-        "sourceCount": "16 sources"
-      },
-      {
-        "title": "NYC releases 170,000 pages of post-9/11 air quality records",
-        "url": "https://www.perplexity.ai/page/nyc-releases-170000-pages-of-p-6nRj0Sz.TVy5J00tGM9oig",
-        "description": "The documents, sought for over two decades, reveal officials knew about toxic conditions at Ground Zero while publicly declaring the air safe.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T13:30:55Z",
-        "sourceCount": "22 sources"
+        "pubDate": "2026-09-09T19:06:20Z",
+        "sourceCount": "13 sources"
       }
     ],
     "tech": [],
