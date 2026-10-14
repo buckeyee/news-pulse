@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "US inflation rises to 3.7% as core prices top forecasts",
+      "url": "https://www.perplexity.ai/page/us-inflation-rises-to-3-7-as-c-1OW7rcy_R1mn4OmWdUKTbQ",
+      "description": "The hotter core reading tests the Fed's expected October pause, just weeks before the Nov. 3 midterm elections.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T12:58:12Z",
+      "sourceCount": "7 sources"
+    },
+    {
+      "title": "Iran says container ship sank after hitting Hormuz mine",
+      "url": "https://www.perplexity.ai/page/iran-says-container-ship-sank-c1KaM6BYTIuN_XCxIOabcA",
+      "description": "The Revolutionary Guards gave no details on the crew or ship's identity, and no independent monitor has confirmed the sinking.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T12:08:11Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Ukraine says SpaceX Starlink limits disrupt drone missions",
+      "url": "https://www.perplexity.ai/page/ukraine-says-spacex-starlink-l-YcH6BywmR6SXZYznTPi9qw",
+      "description": "Presidential adviser Serhiy Beskrestnov says SpaceX capped military Starshield terminals at 100 mph without warning, as Russia struck energy sites.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T10:03:17Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Russian strikes cut power to 600,000 despite Trump truce",
+      "url": "https://www.perplexity.ai/page/russian-strikes-cut-power-to-6-W.QRFLKSTpqDuBnckAKwRw",
+      "description": "Zelenskyy said the barrage hit 26 power facilities supposedly covered by the energy ceasefire Trump announced Sunday, which Moscow has not confirmed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T08:35:15Z",
+      "sourceCount": "12 sources"
+    },
+    {
       "title": "Trump weighs scrapping Fort Hood execution livestream",
       "url": "https://www.perplexity.ai/page/trump-weighs-scrapping-fort-ho-4APzREjORraisXLwkoBt7w",
       "description": "Trump said privately he didn't know Hasan is paralyzed, CNN reports, as the Pentagon reconsiders showing the December 3 firing squad execution.",
@@ -19,22 +55,13 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Saudi coalition hits Sanaa fuel depot; Houthis fire back",
-      "url": "https://www.perplexity.ai/page/saudi-coalition-hits-sanaa-fue-.u8EDLxPT2K9yLDPiq0eSQ",
-      "description": "Saudi Arabia says it intercepted missiles and drones aimed at Riyadh and Dammam, days after a Houthi strike killed 13 at Riyadh's airport.",
+      "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
+      "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
+      "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-13T21:38:30Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Zelenskyy says US warned of intel cutoff over refinery strikes",
-      "url": "https://www.perplexity.ai/page/zelenskyy-us-warned-of-intel-c-vTmfLWjASyWVdoEU.vW3.A",
-      "description": "Trump denied a cutoff Tuesday, telling reporters the U.S. is still sharing intelligence, after Kyiv got no warning before a Russian missile barrage.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-13T22:44:19Z",
-      "sourceCount": "10 sources"
+      "pubDate": "2026-10-14T02:03:03Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "FBI arrests OpenAI engineer over hidden recording device",
@@ -190,31 +217,13 @@
       "sourceCount": "11 sources"
     },
     {
-      "title": "Zelenskyy says Yandex strikes cut bots; researchers doubt claims",
-      "url": "https://www.perplexity.ai/page/zelenskyy-says-yandex-strikes-FQBNoacbRi2ZWFrF9vHC6g",
-      "description": "Researchers say Cloudflare data showing a collapse in Yandex's automated traffic mostly reflects search crawlers, not propaganda accounts on social media.",
+      "title": "NATO's top commander warns Russia attack would be futile",
+      "url": "https://www.perplexity.ai/page/nato-s-top-commander-warns-rus-fcML7gm5QMqGTtsut5WWhQ",
+      "description": "Gen. Alexus Grynkewich outlined a \"theory of victory\" he says all 32 allies back, pledging to hit anything sustaining an attacking force.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-12T13:23:44Z",
-      "sourceCount": "9 sources"
-    },
-    {
-      "title": "Saudi crown prince shuttles between bunkers, WSJ reports",
-      "url": "https://www.perplexity.ai/page/saudi-crown-prince-shuttles-be-FKdGxsBjTBeGsBErRtzuyA",
-      "description": "Mohammed bin Salman hasn't appeared publicly since Oct. 6 as Houthi strikes on Riyadh's airport killed 13 Saturday and one Sunday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-12T10:22:53Z",
-      "sourceCount": "18 sources"
-    },
-    {
-      "title": "UK PM Burnham says Russia interfered in Brexit vote",
-      "url": "https://www.perplexity.ai/page/uk-pm-burnham-says-russia-inte-o4Dr3HVLR3uqVeAZrP8IbA",
-      "description": "It's the first time a British prime minister has made the claim, though Burnham offered no evidence or details.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-12T01:28:16Z",
-      "sourceCount": "6 sources"
+      "pubDate": "2026-10-12T13:22:44Z",
+      "sourceCount": "21 sources"
     },
     {
       "title": "US threatens Ukraine intel, arms cutoff over energy strikes",
@@ -226,22 +235,22 @@
       "sourceCount": "8 sources"
     },
     {
-      "title": "NATO's top commander warns Russia attack would be futile",
-      "url": "https://www.perplexity.ai/page/nato-s-top-commander-warns-rus-fcML7gm5QMqGTtsut5WWhQ",
-      "description": "Gen. Alexus Grynkewich outlined a \"theory of victory\" he says all 32 allies back, pledging to hit anything sustaining an attacking force.",
+      "title": "UK PM Burnham says Russia interfered in Brexit vote",
+      "url": "https://www.perplexity.ai/page/uk-pm-burnham-says-russia-inte-o4Dr3HVLR3uqVeAZrP8IbA",
+      "description": "It's the first time a British prime minister has made the claim, though Burnham offered no evidence or details.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-12T13:22:44Z",
-      "sourceCount": "21 sources"
+      "pubDate": "2026-10-12T01:28:16Z",
+      "sourceCount": "6 sources"
     },
     {
-      "title": "Iran calls US reply on reopening Hormuz 'insufficient'",
-      "url": "https://www.perplexity.ai/page/iran-calls-us-reply-on-reopeni-5CVzAZknT8q7zqJHu30SUA",
-      "description": "Security chief Mohsen Rezaei said Washington accepted some of Tehran's seven conditions but must clarify others before the vital oil route reopens.",
+      "title": "Saudi crown prince shuttles between bunkers, WSJ reports",
+      "url": "https://www.perplexity.ai/page/saudi-crown-prince-shuttles-be-FKdGxsBjTBeGsBErRtzuyA",
+      "description": "Mohammed bin Salman hasn't appeared publicly since Oct. 6 as Houthi strikes on Riyadh's airport killed 13 Saturday and one Sunday.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-11T18:38:33Z",
-      "sourceCount": "6 sources"
+      "pubDate": "2026-10-12T10:22:53Z",
+      "sourceCount": "18 sources"
     },
     {
       "title": "US offered Russia frozen assets for limited truce, NYT says",
@@ -1340,20 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-10-01T05:18:00Z",
       "sourceCount": "49 sources"
-    },
-    {
-      "title": "OpenAI's Brockman drops second $25M gift to AI super PAC",
-      "url": "https://www.perplexity.ai/page/openai-s-brockman-drops-second-P0AyrpA4SGietHFs1Rse2Q",
-      "description": "Brockman told OpenAI staff in June that the Leading the Future super PAC had become a \"distraction,\" according to The New York Times.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T00:08:44Z",
-      "sourceCount": "10 sources"
     }
   ],
-  "cached_at": "2026-10-14T00:48:35Z",
+  "cached_at": "2026-10-14T15:27:50Z",
   "topics": {
     "top": [
+      {
+        "title": "US inflation rises to 3.7% as core prices top forecasts",
+        "url": "https://www.perplexity.ai/page/us-inflation-rises-to-3-7-as-c-1OW7rcy_R1mn4OmWdUKTbQ",
+        "description": "The hotter core reading tests the Fed's expected October pause, just weeks before the Nov. 3 midterm elections.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T12:58:12Z",
+        "sourceCount": "7 sources"
+      },
+      {
+        "title": "Iran says container ship sank after hitting Hormuz mine",
+        "url": "https://www.perplexity.ai/page/iran-says-container-ship-sank-c1KaM6BYTIuN_XCxIOabcA",
+        "description": "The Revolutionary Guards gave no details on the crew or ship's identity, and no independent monitor has confirmed the sinking.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T12:08:11Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Ukraine says SpaceX Starlink limits disrupt drone missions",
+        "url": "https://www.perplexity.ai/page/ukraine-says-spacex-starlink-l-YcH6BywmR6SXZYznTPi9qw",
+        "description": "Presidential adviser Serhiy Beskrestnov says SpaceX capped military Starshield terminals at 100 mph without warning, as Russia struck energy sites.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T10:03:17Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Russian strikes cut power to 600,000 despite Trump truce",
+        "url": "https://www.perplexity.ai/page/russian-strikes-cut-power-to-6-W.QRFLKSTpqDuBnckAKwRw",
+        "description": "Zelenskyy said the barrage hit 26 power facilities supposedly covered by the energy ceasefire Trump announced Sunday, which Moscow has not confirmed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T08:35:15Z",
+        "sourceCount": "12 sources"
+      },
       {
         "title": "Trump weighs scrapping Fort Hood execution livestream",
         "url": "https://www.perplexity.ai/page/trump-weighs-scrapping-fort-ho-4APzREjORraisXLwkoBt7w",
@@ -1373,22 +1409,13 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Saudi coalition hits Sanaa fuel depot; Houthis fire back",
-        "url": "https://www.perplexity.ai/page/saudi-coalition-hits-sanaa-fue-.u8EDLxPT2K9yLDPiq0eSQ",
-        "description": "Saudi Arabia says it intercepted missiles and drones aimed at Riyadh and Dammam, days after a Houthi strike killed 13 at Riyadh's airport.",
+        "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
+        "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
+        "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-13T21:38:30Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Zelenskyy says US warned of intel cutoff over refinery strikes",
-        "url": "https://www.perplexity.ai/page/zelenskyy-us-warned-of-intel-c-vTmfLWjASyWVdoEU.vW3.A",
-        "description": "Trump denied a cutoff Tuesday, telling reporters the U.S. is still sharing intelligence, after Kyiv got no warning before a Russian missile barrage.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-13T22:44:19Z",
-        "sourceCount": "10 sources"
+        "pubDate": "2026-10-14T02:03:03Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "FBI arrests OpenAI engineer over hidden recording device",
@@ -1544,31 +1571,13 @@
         "sourceCount": "11 sources"
       },
       {
-        "title": "Zelenskyy says Yandex strikes cut bots; researchers doubt claims",
-        "url": "https://www.perplexity.ai/page/zelenskyy-says-yandex-strikes-FQBNoacbRi2ZWFrF9vHC6g",
-        "description": "Researchers say Cloudflare data showing a collapse in Yandex's automated traffic mostly reflects search crawlers, not propaganda accounts on social media.",
+        "title": "NATO's top commander warns Russia attack would be futile",
+        "url": "https://www.perplexity.ai/page/nato-s-top-commander-warns-rus-fcML7gm5QMqGTtsut5WWhQ",
+        "description": "Gen. Alexus Grynkewich outlined a \"theory of victory\" he says all 32 allies back, pledging to hit anything sustaining an attacking force.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-12T13:23:44Z",
-        "sourceCount": "9 sources"
-      },
-      {
-        "title": "Saudi crown prince shuttles between bunkers, WSJ reports",
-        "url": "https://www.perplexity.ai/page/saudi-crown-prince-shuttles-be-FKdGxsBjTBeGsBErRtzuyA",
-        "description": "Mohammed bin Salman hasn't appeared publicly since Oct. 6 as Houthi strikes on Riyadh's airport killed 13 Saturday and one Sunday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-12T10:22:53Z",
-        "sourceCount": "18 sources"
-      },
-      {
-        "title": "UK PM Burnham says Russia interfered in Brexit vote",
-        "url": "https://www.perplexity.ai/page/uk-pm-burnham-says-russia-inte-o4Dr3HVLR3uqVeAZrP8IbA",
-        "description": "It's the first time a British prime minister has made the claim, though Burnham offered no evidence or details.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-12T01:28:16Z",
-        "sourceCount": "6 sources"
+        "pubDate": "2026-10-12T13:22:44Z",
+        "sourceCount": "21 sources"
       },
       {
         "title": "US threatens Ukraine intel, arms cutoff over energy strikes",
@@ -1580,22 +1589,22 @@
         "sourceCount": "8 sources"
       },
       {
-        "title": "NATO's top commander warns Russia attack would be futile",
-        "url": "https://www.perplexity.ai/page/nato-s-top-commander-warns-rus-fcML7gm5QMqGTtsut5WWhQ",
-        "description": "Gen. Alexus Grynkewich outlined a \"theory of victory\" he says all 32 allies back, pledging to hit anything sustaining an attacking force.",
+        "title": "UK PM Burnham says Russia interfered in Brexit vote",
+        "url": "https://www.perplexity.ai/page/uk-pm-burnham-says-russia-inte-o4Dr3HVLR3uqVeAZrP8IbA",
+        "description": "It's the first time a British prime minister has made the claim, though Burnham offered no evidence or details.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-12T13:22:44Z",
-        "sourceCount": "21 sources"
+        "pubDate": "2026-10-12T01:28:16Z",
+        "sourceCount": "6 sources"
       },
       {
-        "title": "Iran calls US reply on reopening Hormuz 'insufficient'",
-        "url": "https://www.perplexity.ai/page/iran-calls-us-reply-on-reopeni-5CVzAZknT8q7zqJHu30SUA",
-        "description": "Security chief Mohsen Rezaei said Washington accepted some of Tehran's seven conditions but must clarify others before the vital oil route reopens.",
+        "title": "Saudi crown prince shuttles between bunkers, WSJ reports",
+        "url": "https://www.perplexity.ai/page/saudi-crown-prince-shuttles-be-FKdGxsBjTBeGsBErRtzuyA",
+        "description": "Mohammed bin Salman hasn't appeared publicly since Oct. 6 as Houthi strikes on Riyadh's airport killed 13 Saturday and one Sunday.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-11T18:38:33Z",
-        "sourceCount": "6 sources"
+        "pubDate": "2026-10-12T10:22:53Z",
+        "sourceCount": "18 sources"
       },
       {
         "title": "US offered Russia frozen assets for limited truce, NYT says",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-10-01T05:18:00Z",
         "sourceCount": "49 sources"
-      },
-      {
-        "title": "OpenAI's Brockman drops second $25M gift to AI super PAC",
-        "url": "https://www.perplexity.ai/page/openai-s-brockman-drops-second-P0AyrpA4SGietHFs1Rse2Q",
-        "description": "Brockman told OpenAI staff in June that the Leading the Future super PAC had become a \"distraction,\" according to The New York Times.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T00:08:44Z",
-        "sourceCount": "10 sources"
       }
     ],
     "tech": [],
