@@ -1,6 +1,105 @@
 {
   "stories": [
     {
+      "title": "WSJ says Press Secretary Zacharia failed California bar",
+      "url": "https://www.perplexity.ai/page/wsj-says-press-secretary-zacha-zS0njNAVQyeDwCWtbeWORw",
+      "description": "Zacharia has long called herself a lawyer. She has also claimed she passed a bar exam in China, which experts say noncitizens cannot take.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-15T01:38:06Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Omar probe aims to revoke her citizenship, WSJ reports",
+      "url": "https://www.perplexity.ai/page/omar-probe-aims-to-revoke-her-W6BPNV9oTw.UeMhnO3md6Q",
+      "description": "The report follows Monday's federal search of her Washington home, as CNN revealed a judge limited prosecutors' access to her records.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-15T00:23:48Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "US sends hundreds of troops to Latin America in drug fight",
+      "url": "https://www.perplexity.ai/page/us-sends-hundreds-of-troops-to-tP2KGrqcQP.prcmgAcbtiQ",
+      "description": "The first troops from a 10th Mountain Division battalion have started deploying to a new jungle site in Panama before drills in Colombia, officials say.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T20:54:36Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Eight states sue OpenAI, alleging ChatGPT harms children",
+      "url": "https://www.perplexity.ai/page/eight-states-sue-openai-allegi-Ix3lAry2SlC83GjbypeAUw",
+      "description": "Iowa, Kansas and six other states filed separate suits seeking ChatGPT changes for minors and forfeiture of profits from young users.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T20:24:26Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Prosecutors seek life sentences for Alexander brothers",
+      "url": "https://www.perplexity.ai/page/prosecutors-seek-life-sentence-pAIK0EhzR8Sl2yiF01gN7w",
+      "description": "Defense lawyers want 15-year minimum terms for the luxury brokers convicted of sex trafficking. The judge will sentence them Oct. 27.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T23:42:31Z",
+      "sourceCount": "17 sources"
+    },
+    {
+      "title": "Zelenskyy says he feels betrayed by Trump over Russia deal",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-he-feels-betray-Ps4QFcwLS4yxpGVJptsiXA",
+      "description": "Ukraine's leader told Piers Morgan that Kyiv is \"losing a strong partner\" after Trump eased Russian diesel sanctions and urged his replacement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T19:44:17Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Russia says diesel contracts with US under negotiation",
+      "url": "https://www.perplexity.ai/page/russia-says-diesel-contracts-w-k7JdZgI2SJOkszzeEkj1Sw",
+      "description": "Deputy Prime Minister Alexander Novak said signing contracts and loading tankers will take time before the first diesel shipment leaves for the US.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T19:43:01Z",
+      "sourceCount": "17 sources"
+    },
+    {
+      "title": "Supreme Court blocks order forcing FCC ad rate ruling",
+      "url": "https://www.perplexity.ai/page/supreme-court-blocks-order-for-qEesi4nMTrW.FxH8belVkQ",
+      "description": "The 7-2 order lets the FCC set its own schedule, stalling Democrats' challenge to cheaper ad rates for party committees.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T22:23:50Z",
+      "sourceCount": "18 sources"
+    },
+    {
+      "title": "Two ships sink near Hormuz as Iranian attacks intensify",
+      "url": "https://www.perplexity.ai/page/two-ships-sink-near-hormuz-as-Dft9QloSScau.emVkLu.AQ",
+      "description": "Singapore says the GFS Pride sank after a projectile strike. The Cape Dao, a bulk carrier hit in September, also went down.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T17:16:51Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "Pope Leo walking, eating normally after lung cancer surgery",
+      "url": "https://www.perplexity.ai/page/pope-leo-walking-eating-normal-9ok22anUREqDcYMFjSYOAA",
+      "description": "Doctors say tests show normal recovery a day after surgeons removed part of his right lung to treat adenocarcinoma.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T16:12:56Z",
+      "sourceCount": "16 sources"
+    },
+    {
+      "title": "Judge limited DOJ access to Omar's records before search",
+      "url": "https://www.perplexity.ai/page/judge-limited-doj-access-to-om-hAq2RarUSUirhPwrcEpdnw",
+      "description": "Magistrate Judge Matthew Sharbaugh ordered screening to shield the Minnesota Democrat's legislative work under the Speech or Debate Clause, CNN reports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-14T22:04:02Z",
+      "sourceCount": "31 sources"
+    },
+    {
       "title": "US inflation rises to 3.7% as core prices top forecasts",
       "url": "https://www.perplexity.ai/page/us-inflation-rises-to-3-7-as-c-1OW7rcy_R1mn4OmWdUKTbQ",
       "description": "The hotter core reading tests the Fed's expected October pause, just weeks before the Nov. 3 midterm elections.",
@@ -10,30 +109,21 @@
       "sourceCount": "7 sources"
     },
     {
-      "title": "Iran says container ship sank after hitting Hormuz mine",
-      "url": "https://www.perplexity.ai/page/iran-says-container-ship-sank-c1KaM6BYTIuN_XCxIOabcA",
-      "description": "The Revolutionary Guards gave no details on the crew or ship's identity, and no independent monitor has confirmed the sinking.",
+      "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
+      "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
+      "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-14T12:08:11Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-10-14T02:03:03Z",
+      "sourceCount": "24 sources"
     },
     {
-      "title": "Ukraine says SpaceX Starlink limits disrupt drone missions",
-      "url": "https://www.perplexity.ai/page/ukraine-says-spacex-starlink-l-YcH6BywmR6SXZYznTPi9qw",
-      "description": "Presidential adviser Serhiy Beskrestnov says SpaceX capped military Starshield terminals at 100 mph without warning, as Russia struck energy sites.",
+      "title": "Iran shifts Hormuz tactics before midterms, officials say",
+      "url": "https://www.perplexity.ai/page/iran-shifts-hormuz-tactics-bef-kCwBEnPpTwGEh_WNo4y8zA",
+      "description": "Two senior Iranian officials told Reuters the new strategy aims to keep oil prices high and sway the Nov. 3 US vote.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-14T10:03:17Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Russian strikes cut power to 600,000 despite Trump truce",
-      "url": "https://www.perplexity.ai/page/russian-strikes-cut-power-to-6-W.QRFLKSTpqDuBnckAKwRw",
-      "description": "Zelenskyy said the barrage hit 26 power facilities supposedly covered by the energy ceasefire Trump announced Sunday, which Moscow has not confirmed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-14T08:35:15Z",
+      "pubDate": "2026-10-14T00:38:25Z",
       "sourceCount": "12 sources"
     },
     {
@@ -55,15 +145,6 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
-      "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
-      "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-14T02:03:03Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "FBI arrests OpenAI engineer over hidden recording device",
       "url": "https://www.perplexity.ai/page/fbi-arrests-openai-engineer-ov-TZJrGdmwQ_SUI_29gtk3Gw",
       "description": "Prosecutors say Saudi national Abdulrahman Alfozan hid a recorder in an executive meeting room. OpenAI says its AI models traced him.",
@@ -71,15 +152,6 @@
       "topic": "top",
       "pubDate": "2026-10-13T21:08:59Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Vatican says Pope Leo XIV has lung cancer after surgery",
-      "url": "https://www.perplexity.ai/page/vatican-says-pope-leo-xiv-has-Y1lGPGqzTWqadCxZ2Bge_A",
-      "description": "Surgeons at Rome's Gemelli hospital removed the lower lobe of the 71-year-old pontiff's right lung, and the Vatican reported no complications.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-13T20:50:38Z",
-      "sourceCount": "19 sources"
     },
     {
       "title": "Germany, UK urge tougher Russia sanctions after Trump deal",
@@ -1277,83 +1349,110 @@
       "topic": "top",
       "pubDate": "2026-10-01T20:47:56Z",
       "sourceCount": "8 sources"
-    },
-    {
-      "title": "Judge rules noncitizen voting law unconstitutional",
-      "url": "https://www.perplexity.ai/page/judge-rules-noncitizen-voting-uiBfJRTiT_qKOZXVqewkQA",
-      "description": "The Miami ruling dismissed charges against a Jamaican national, dealing a blow to the Trump administration's noncitizen voting crackdown before the midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-02T01:43:59Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Putin rejects strike truce, says Russia lost 1% of GDP",
-      "url": "https://www.perplexity.ai/page/putin-rejects-strike-truce-say-4DBQdWzwRnqYHgYg0KOdIQ",
-      "description": "Putin called a U.S.-backed proposal to mutually halt refinery and ship attacks \"ridiculous\" and said Kyiv's strikes had partly succeeded.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T20:44:44Z",
-      "sourceCount": "8 sources"
-    },
-    {
-      "title": "DOJ reviews whether Watergate prosecutors mistreated Nixon",
-      "url": "https://www.perplexity.ai/page/doj-reviews-whether-watergate-3FE1E9_MTFyAJeV6VH4buQ",
-      "description": "Former Nixon White House lawyer Geoff Shepard helped prompt the review, The Wall Street Journal reports, citing people familiar with the matter.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T19:14:14Z",
-      "sourceCount": "8 sources"
-    },
-    {
-      "title": "Trump asked Grok about Maduro capture, Time reports",
-      "url": "https://www.perplexity.ai/page/trump-asked-grok-about-maduro-8yjOcEaIRDCXJUxELwdj6Q",
-      "description": "An official told Time that Trump asked Musk's chatbot in December 2025 how Venezuelans would react, weeks before the January raid.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-02T01:27:21Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "Anthropic targets IPO before Thanksgiving, Bloomberg says",
-      "url": "https://www.perplexity.ai/page/anthropic-targets-ipo-before-t-GwEl4AUiRpmuGDWoTcAhgQ",
-      "description": "The Claude maker could start formal marketing as soon as the week of Nov. 9 after pushing back earlier listing plans.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T17:48:34Z",
-      "sourceCount": "18 sources"
-    },
-    {
-      "title": "Rubio ordered Iran's UN team out, U.S. official says",
-      "url": "https://www.perplexity.ai/page/rubio-ordered-iran-s-un-team-o-FJN6irZIQXOU.kv_Xb9qEw",
-      "description": "Foreign Minister Abbas Araghchi's delegation flew to Doha early Tuesday after U.S.-Iran talks stalled, a rare diplomatic rebuke.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T01:33:13Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "Trump refuses to rule out demolishing Kennedy Center",
-      "url": "https://www.perplexity.ai/page/trump-refuses-to-rule-out-demo-EtLG26woTC2GMIkJlwczIA",
-      "description": "Trump told Time \"I'm not committing to anything\" as courts weigh whether his name can go on the shuttered performing arts center.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T21:48:59Z",
-      "sourceCount": "9 sources"
-    },
-    {
-      "title": "Gov. Lee orders review after Pike survives lethal injection",
-      "url": "https://www.perplexity.ai/page/gov-lee-orders-review-after-pi-395.5I60Tv2JatQF475BrA",
-      "description": "Christa Pike was still alive after two doses of pentobarbital Wednesday. A death penalty expert called it unprecedented. She was taken to a hospital.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-01T05:18:00Z",
-      "sourceCount": "49 sources"
     }
   ],
-  "cached_at": "2026-10-14T15:27:50Z",
+  "cached_at": "2026-10-15T10:19:20Z",
   "topics": {
     "top": [
+      {
+        "title": "WSJ says Press Secretary Zacharia failed California bar",
+        "url": "https://www.perplexity.ai/page/wsj-says-press-secretary-zacha-zS0njNAVQyeDwCWtbeWORw",
+        "description": "Zacharia has long called herself a lawyer. She has also claimed she passed a bar exam in China, which experts say noncitizens cannot take.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-15T01:38:06Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Omar probe aims to revoke her citizenship, WSJ reports",
+        "url": "https://www.perplexity.ai/page/omar-probe-aims-to-revoke-her-W6BPNV9oTw.UeMhnO3md6Q",
+        "description": "The report follows Monday's federal search of her Washington home, as CNN revealed a judge limited prosecutors' access to her records.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-15T00:23:48Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "US sends hundreds of troops to Latin America in drug fight",
+        "url": "https://www.perplexity.ai/page/us-sends-hundreds-of-troops-to-tP2KGrqcQP.prcmgAcbtiQ",
+        "description": "The first troops from a 10th Mountain Division battalion have started deploying to a new jungle site in Panama before drills in Colombia, officials say.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T20:54:36Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Eight states sue OpenAI, alleging ChatGPT harms children",
+        "url": "https://www.perplexity.ai/page/eight-states-sue-openai-allegi-Ix3lAry2SlC83GjbypeAUw",
+        "description": "Iowa, Kansas and six other states filed separate suits seeking ChatGPT changes for minors and forfeiture of profits from young users.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T20:24:26Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Prosecutors seek life sentences for Alexander brothers",
+        "url": "https://www.perplexity.ai/page/prosecutors-seek-life-sentence-pAIK0EhzR8Sl2yiF01gN7w",
+        "description": "Defense lawyers want 15-year minimum terms for the luxury brokers convicted of sex trafficking. The judge will sentence them Oct. 27.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T23:42:31Z",
+        "sourceCount": "17 sources"
+      },
+      {
+        "title": "Zelenskyy says he feels betrayed by Trump over Russia deal",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-he-feels-betray-Ps4QFcwLS4yxpGVJptsiXA",
+        "description": "Ukraine's leader told Piers Morgan that Kyiv is \"losing a strong partner\" after Trump eased Russian diesel sanctions and urged his replacement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T19:44:17Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Russia says diesel contracts with US under negotiation",
+        "url": "https://www.perplexity.ai/page/russia-says-diesel-contracts-w-k7JdZgI2SJOkszzeEkj1Sw",
+        "description": "Deputy Prime Minister Alexander Novak said signing contracts and loading tankers will take time before the first diesel shipment leaves for the US.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T19:43:01Z",
+        "sourceCount": "17 sources"
+      },
+      {
+        "title": "Supreme Court blocks order forcing FCC ad rate ruling",
+        "url": "https://www.perplexity.ai/page/supreme-court-blocks-order-for-qEesi4nMTrW.FxH8belVkQ",
+        "description": "The 7-2 order lets the FCC set its own schedule, stalling Democrats' challenge to cheaper ad rates for party committees.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T22:23:50Z",
+        "sourceCount": "18 sources"
+      },
+      {
+        "title": "Two ships sink near Hormuz as Iranian attacks intensify",
+        "url": "https://www.perplexity.ai/page/two-ships-sink-near-hormuz-as-Dft9QloSScau.emVkLu.AQ",
+        "description": "Singapore says the GFS Pride sank after a projectile strike. The Cape Dao, a bulk carrier hit in September, also went down.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T17:16:51Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "Pope Leo walking, eating normally after lung cancer surgery",
+        "url": "https://www.perplexity.ai/page/pope-leo-walking-eating-normal-9ok22anUREqDcYMFjSYOAA",
+        "description": "Doctors say tests show normal recovery a day after surgeons removed part of his right lung to treat adenocarcinoma.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T16:12:56Z",
+        "sourceCount": "16 sources"
+      },
+      {
+        "title": "Judge limited DOJ access to Omar's records before search",
+        "url": "https://www.perplexity.ai/page/judge-limited-doj-access-to-om-hAq2RarUSUirhPwrcEpdnw",
+        "description": "Magistrate Judge Matthew Sharbaugh ordered screening to shield the Minnesota Democrat's legislative work under the Speech or Debate Clause, CNN reports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-14T22:04:02Z",
+        "sourceCount": "31 sources"
+      },
       {
         "title": "US inflation rises to 3.7% as core prices top forecasts",
         "url": "https://www.perplexity.ai/page/us-inflation-rises-to-3-7-as-c-1OW7rcy_R1mn4OmWdUKTbQ",
@@ -1364,30 +1463,21 @@
         "sourceCount": "7 sources"
       },
       {
-        "title": "Iran says container ship sank after hitting Hormuz mine",
-        "url": "https://www.perplexity.ai/page/iran-says-container-ship-sank-c1KaM6BYTIuN_XCxIOabcA",
-        "description": "The Revolutionary Guards gave no details on the crew or ship's identity, and no independent monitor has confirmed the sinking.",
+        "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
+        "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
+        "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-14T12:08:11Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-10-14T02:03:03Z",
+        "sourceCount": "24 sources"
       },
       {
-        "title": "Ukraine says SpaceX Starlink limits disrupt drone missions",
-        "url": "https://www.perplexity.ai/page/ukraine-says-spacex-starlink-l-YcH6BywmR6SXZYznTPi9qw",
-        "description": "Presidential adviser Serhiy Beskrestnov says SpaceX capped military Starshield terminals at 100 mph without warning, as Russia struck energy sites.",
+        "title": "Iran shifts Hormuz tactics before midterms, officials say",
+        "url": "https://www.perplexity.ai/page/iran-shifts-hormuz-tactics-bef-kCwBEnPpTwGEh_WNo4y8zA",
+        "description": "Two senior Iranian officials told Reuters the new strategy aims to keep oil prices high and sway the Nov. 3 US vote.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-14T10:03:17Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Russian strikes cut power to 600,000 despite Trump truce",
-        "url": "https://www.perplexity.ai/page/russian-strikes-cut-power-to-6-W.QRFLKSTpqDuBnckAKwRw",
-        "description": "Zelenskyy said the barrage hit 26 power facilities supposedly covered by the energy ceasefire Trump announced Sunday, which Moscow has not confirmed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-14T08:35:15Z",
+        "pubDate": "2026-10-14T00:38:25Z",
         "sourceCount": "12 sources"
       },
       {
@@ -1409,15 +1499,6 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Houthi missile strikes Saudi Aramco headquarters in Dhahran",
-        "url": "https://www.perplexity.ai/page/attack-sparks-fire-at-saudi-ar-XM0Od9ujTW6b.iklPqDkfw",
-        "description": "Energy Ministry reported no injuries after the late Tuesday attack, which followed Saudi-led strikes on Sanaa and Houthi threats of retaliation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-14T02:03:03Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "FBI arrests OpenAI engineer over hidden recording device",
         "url": "https://www.perplexity.ai/page/fbi-arrests-openai-engineer-ov-TZJrGdmwQ_SUI_29gtk3Gw",
         "description": "Prosecutors say Saudi national Abdulrahman Alfozan hid a recorder in an executive meeting room. OpenAI says its AI models traced him.",
@@ -1425,15 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-10-13T21:08:59Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Vatican says Pope Leo XIV has lung cancer after surgery",
-        "url": "https://www.perplexity.ai/page/vatican-says-pope-leo-xiv-has-Y1lGPGqzTWqadCxZ2Bge_A",
-        "description": "Surgeons at Rome's Gemelli hospital removed the lower lobe of the 71-year-old pontiff's right lung, and the Vatican reported no complications.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-13T20:50:38Z",
-        "sourceCount": "19 sources"
       },
       {
         "title": "Germany, UK urge tougher Russia sanctions after Trump deal",
@@ -2631,78 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-10-01T20:47:56Z",
         "sourceCount": "8 sources"
-      },
-      {
-        "title": "Judge rules noncitizen voting law unconstitutional",
-        "url": "https://www.perplexity.ai/page/judge-rules-noncitizen-voting-uiBfJRTiT_qKOZXVqewkQA",
-        "description": "The Miami ruling dismissed charges against a Jamaican national, dealing a blow to the Trump administration's noncitizen voting crackdown before the midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-02T01:43:59Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Putin rejects strike truce, says Russia lost 1% of GDP",
-        "url": "https://www.perplexity.ai/page/putin-rejects-strike-truce-say-4DBQdWzwRnqYHgYg0KOdIQ",
-        "description": "Putin called a U.S.-backed proposal to mutually halt refinery and ship attacks \"ridiculous\" and said Kyiv's strikes had partly succeeded.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T20:44:44Z",
-        "sourceCount": "8 sources"
-      },
-      {
-        "title": "DOJ reviews whether Watergate prosecutors mistreated Nixon",
-        "url": "https://www.perplexity.ai/page/doj-reviews-whether-watergate-3FE1E9_MTFyAJeV6VH4buQ",
-        "description": "Former Nixon White House lawyer Geoff Shepard helped prompt the review, The Wall Street Journal reports, citing people familiar with the matter.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T19:14:14Z",
-        "sourceCount": "8 sources"
-      },
-      {
-        "title": "Trump asked Grok about Maduro capture, Time reports",
-        "url": "https://www.perplexity.ai/page/trump-asked-grok-about-maduro-8yjOcEaIRDCXJUxELwdj6Q",
-        "description": "An official told Time that Trump asked Musk's chatbot in December 2025 how Venezuelans would react, weeks before the January raid.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-02T01:27:21Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Anthropic targets IPO before Thanksgiving, Bloomberg says",
-        "url": "https://www.perplexity.ai/page/anthropic-targets-ipo-before-t-GwEl4AUiRpmuGDWoTcAhgQ",
-        "description": "The Claude maker could start formal marketing as soon as the week of Nov. 9 after pushing back earlier listing plans.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T17:48:34Z",
-        "sourceCount": "18 sources"
-      },
-      {
-        "title": "Rubio ordered Iran's UN team out, U.S. official says",
-        "url": "https://www.perplexity.ai/page/rubio-ordered-iran-s-un-team-o-FJN6irZIQXOU.kv_Xb9qEw",
-        "description": "Foreign Minister Abbas Araghchi's delegation flew to Doha early Tuesday after U.S.-Iran talks stalled, a rare diplomatic rebuke.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T01:33:13Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Trump refuses to rule out demolishing Kennedy Center",
-        "url": "https://www.perplexity.ai/page/trump-refuses-to-rule-out-demo-EtLG26woTC2GMIkJlwczIA",
-        "description": "Trump told Time \"I'm not committing to anything\" as courts weigh whether his name can go on the shuttered performing arts center.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T21:48:59Z",
-        "sourceCount": "9 sources"
-      },
-      {
-        "title": "Gov. Lee orders review after Pike survives lethal injection",
-        "url": "https://www.perplexity.ai/page/gov-lee-orders-review-after-pi-395.5I60Tv2JatQF475BrA",
-        "description": "Christa Pike was still alive after two doses of pentobarbital Wednesday. A death penalty expert called it unprecedented. She was taken to a hospital.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-01T05:18:00Z",
-        "sourceCount": "49 sources"
       }
     ],
     "tech": [],
