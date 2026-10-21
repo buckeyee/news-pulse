@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "FEMA chief Hamilton tells states to handle disasters on their own",
+      "url": "https://www.perplexity.ai/page/fema-chief-hamilton-tells-stat-VvIq2OkaRweU7zv5tv0jZw",
+      "description": "Hamilton said states should handle most disasters alone. POLITICO reports the administration plans to cut aid in as little as six months.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-21T01:12:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Iran says Hormuz to stay shut until US accepts its plan",
+      "url": "https://www.perplexity.ai/page/iran-says-hormuz-to-stay-shut-kOYi1ihcRvmnmxX5GxvsoA",
+      "description": "Foreign Minister Abbas Araghchi said a seven-day initiative would reopen the strait, while Rubio called a deal extremely difficult.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-21T00:53:42Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Gulf oil exports top prewar levels despite Iran attacks",
       "url": "https://www.perplexity.ai/page/gulf-oil-exports-top-prewar-le-oPxbtUGARluDGTcuR_beVQ",
       "description": "The rebound, above a 23.3 million-barrel prewar average, relies on U.S. naval escorts and pipelines bypassing the Strait of Hormuz.",
@@ -703,15 +721,6 @@
       "sourceCount": "18 sources"
     },
     {
-      "title": "Iran calls US reply on reopening Hormuz 'insufficient'",
-      "url": "https://www.perplexity.ai/page/iran-calls-us-reply-on-reopeni-5CVzAZknT8q7zqJHu30SUA",
-      "description": "Security chief Mohsen Rezaei said Washington accepted some of Tehran's seven conditions but must clarify others before the vital oil route reopens.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-11T18:38:33Z",
-      "sourceCount": "6 sources"
-    },
-    {
       "title": "US offered Russia frozen assets for limited truce, NYT says",
       "url": "https://www.perplexity.ai/page/us-offered-russia-frozen-asset-aB9n.W8nQLmI6qf9o1phcA",
       "description": "Envoys Witkoff and Kushner also floated a Lukoil stake sale and Belarus potash relief; Kyiv demanded matching payments and guarantees.",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-10-05T13:12:53Z",
       "sourceCount": "12 sources"
-    },
-    {
-      "title": "Ukraine says strikes knocked out half of Russia's refining",
-      "url": "https://www.perplexity.ai/page/ukraine-says-strikes-knocked-o-F6OU1DB7Rr.p9psxB_IiYA",
-      "description": "The unverified claim came as Russia's Defense Ministry vowed to intensify strikes on Kyiv after Zelenskyy pledged more refinery attacks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-05T13:08:43Z",
-      "sourceCount": "16 sources"
     }
   ],
-  "cached_at": "2026-10-21T00:46:29Z",
+  "cached_at": "2026-10-21T05:23:32Z",
   "topics": {
     "top": [
+      {
+        "title": "FEMA chief Hamilton tells states to handle disasters on their own",
+        "url": "https://www.perplexity.ai/page/fema-chief-hamilton-tells-stat-VvIq2OkaRweU7zv5tv0jZw",
+        "description": "Hamilton said states should handle most disasters alone. POLITICO reports the administration plans to cut aid in as little as six months.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-21T01:12:46Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Iran says Hormuz to stay shut until US accepts its plan",
+        "url": "https://www.perplexity.ai/page/iran-says-hormuz-to-stay-shut-kOYi1ihcRvmnmxX5GxvsoA",
+        "description": "Foreign Minister Abbas Araghchi said a seven-day initiative would reopen the strait, while Rubio called a deal extremely difficult.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-21T00:53:42Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Gulf oil exports top prewar levels despite Iran attacks",
         "url": "https://www.perplexity.ai/page/gulf-oil-exports-top-prewar-le-oPxbtUGARluDGTcuR_beVQ",
@@ -2057,15 +2075,6 @@
         "sourceCount": "18 sources"
       },
       {
-        "title": "Iran calls US reply on reopening Hormuz 'insufficient'",
-        "url": "https://www.perplexity.ai/page/iran-calls-us-reply-on-reopeni-5CVzAZknT8q7zqJHu30SUA",
-        "description": "Security chief Mohsen Rezaei said Washington accepted some of Tehran's seven conditions but must clarify others before the vital oil route reopens.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-11T18:38:33Z",
-        "sourceCount": "6 sources"
-      },
-      {
         "title": "US offered Russia frozen assets for limited truce, NYT says",
         "url": "https://www.perplexity.ai/page/us-offered-russia-frozen-asset-aB9n.W8nQLmI6qf9o1phcA",
         "description": "Envoys Witkoff and Kushner also floated a Lukoil stake sale and Belarus potash relief; Kyiv demanded matching payments and guarantees.",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-10-05T13:12:53Z",
         "sourceCount": "12 sources"
-      },
-      {
-        "title": "Ukraine says strikes knocked out half of Russia's refining",
-        "url": "https://www.perplexity.ai/page/ukraine-says-strikes-knocked-o-F6OU1DB7Rr.p9psxB_IiYA",
-        "description": "The unverified claim came as Russia's Defense Ministry vowed to intensify strikes on Kyiv after Zelenskyy pledged more refinery attacks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-05T13:08:43Z",
-        "sourceCount": "16 sources"
       }
     ],
     "tech": [],
