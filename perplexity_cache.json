@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "Israel's Iran chemical arms warning splits US officials",
+      "url": "https://www.perplexity.ai/page/israel-s-iran-chemical-arms-wa-yMAf34.sRYC_g1gszZA3pw",
+      "description": "Some US officials see the intelligence as pressure from Netanyahu while Washington weighs renewed strikes against a Qatari-brokered deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-03T21:32:25Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "FBI probes Perfect Child over $30,000-a-day autism bills",
+      "url": "https://www.perplexity.ai/page/fbi-probes-perfect-child-over-TCxYG8UAR9aPRT_.zYuToA",
+      "description": "Agents have contacted families billed hundreds of thousands of dollars by the Brooklyn provider, which allegedly promised little or no out-of-pocket costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-03T21:28:39Z",
+      "sourceCount": "11 sources"
+    },
+    {
+      "title": "DOJ sends target letters to Democrats in Alaska probe",
+      "url": "https://www.perplexity.ai/page/doj-sends-target-letters-to-de-nTnBFToxSF.WjwjUHcURsw",
+      "description": "Elections lawyer Marc Elias is among about 20 recipients, The New York Times reports, as Sen. Dan Sullivan faces Mary Peltola Tuesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-03T19:42:43Z",
+      "sourceCount": "11 sources"
+    },
+    {
+      "title": "Trump says Canada deal near, fertilizer to be tariff-free",
+      "url": "https://www.perplexity.ai/page/trump-says-canada-deal-near-fe-bILWojB.T_aoGEb.9AXdGg",
+      "description": "Trump spoke on Election Day after a weekend call with Prime Minister Mark Carney, though neither government has announced terms or timeline.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-03T18:43:34Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Hoax bomb threats target seven flights across Europe",
+      "url": "https://www.perplexity.ai/page/hoax-bomb-threats-target-seven-IJmNHoVWTG6y9OOxSXsX4g",
+      "description": "Searches, a diversion and a temporary closure at Warsaw-Modlin followed threats against LOT, SAS, Wizz Air and Ryanair flights; nothing was found.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-03T18:34:10Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "US job openings jump to 7.5 million as layoffs fall",
       "url": "https://www.perplexity.ai/page/us-job-openings-jump-to-7-5-mi-DY01MI9TTvygm5my_t0PIw",
       "description": "September vacancies beat economists' 7.1 million forecast, but analysts say the labor market remains stuck in a \"low-hire, low-fire\" pattern.",
@@ -388,15 +433,6 @@
       "sourceCount": "11 sources"
     },
     {
-      "title": "Dunleavy says Peltola probe could halt Senate certification",
-      "url": "https://www.perplexity.ai/page/dunleavy-says-peltola-probe-co-05Op1mo_RjObiOjmW_3_pA",
-      "description": "The state Department of Public Safety is investigating claims Peltola's campaign recruited a second Dan Sullivan. Peltola denies knowing about it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-30T17:08:01Z",
-      "sourceCount": "34 sources"
-    },
-    {
       "title": "Spain transport minister Puente refuses to resign over Urda train crash",
       "url": "https://www.perplexity.ai/page/puente-rules-out-resigning-ove-ZY3yeFtKTr62_Ausmcx9Dg",
       "description": "The Transport Minister said he offered his post to Sánchez, who called resignation \"unjust,\" as calls to quit mount after deadly crash.",
@@ -404,15 +440,6 @@
       "topic": "top",
       "pubDate": "2026-10-30T14:48:56Z",
       "sourceCount": "64 sources"
-    },
-    {
-      "title": "Judge probes whether DOJ misled court on Trump golf plan",
-      "url": "https://www.perplexity.ai/page/judge-probes-whether-doj-misle-aWtllvWXRzm5h2ZmX6yO6A",
-      "description": "Judge Ana Reyes acted after Justice Department lawyers, who earlier denied closure plans, confirmed a Washington public course will close Nov. 15.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-30T19:13:10Z",
-      "sourceCount": "13 sources"
     },
     {
       "title": "Pope Leo XIV becomes first pope to vote in US election",
@@ -424,6 +451,15 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "Judge probes whether DOJ misled court on Trump golf plan",
+      "url": "https://www.perplexity.ai/page/judge-probes-whether-doj-misle-aWtllvWXRzm5h2ZmX6yO6A",
+      "description": "Judge Ana Reyes acted after Justice Department lawyers, who earlier denied closure plans, confirmed a Washington public course will close Nov. 15.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-30T19:13:10Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "Spain mourns as Urda train crash death toll rises to 74",
       "url": "https://www.perplexity.ai/page/spain-mourns-as-urda-train-cra-U_yZm1URQWWgFxs7JjJqVQ",
       "description": "Transport Minister Óscar Puente called the order that let trains restart without speed limits after a computer failure \"inexplicable.\"",
@@ -431,6 +467,15 @@
       "topic": "top",
       "pubDate": "2026-10-29T20:15:45Z",
       "sourceCount": "20 sources"
+    },
+    {
+      "title": "Alphabet has worst day ever as cash burn spooks investors",
+      "url": "https://www.perplexity.ai/page/alphabet-has-worst-day-ever-as-LjCcXwNjQFO6OKtdlz9Ofg",
+      "description": "Search revenue missed forecasts and free cash flow turned negative, while Alphabet said capital spending will rise significantly in 2027.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-29T20:14:48Z",
+      "sourceCount": "33 sources"
     },
     {
       "title": "Grand jury indicts ICE agent for running over Houston man",
@@ -451,15 +496,6 @@
       "sourceCount": "16 sources"
     },
     {
-      "title": "Alphabet has worst day ever as cash burn spooks investors",
-      "url": "https://www.perplexity.ai/page/alphabet-has-worst-day-ever-as-LjCcXwNjQFO6OKtdlz9Ofg",
-      "description": "Search revenue missed forecasts and free cash flow turned negative, while Alphabet said capital spending will rise significantly in 2027.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-29T20:14:48Z",
-      "sourceCount": "33 sources"
-    },
-    {
       "title": "Sir Patrick Stewart, Star Trek's Picard, dies at 86",
       "url": "https://www.perplexity.ai/page/sir-patrick-stewart-star-trek-Xea_ud1xTQSYMTDF13gEiA",
       "description": "The X-Men star died Wednesday at his Los Angeles home after battling Alzheimer's and Lewy body dementia, his spokesperson said.",
@@ -467,15 +503,6 @@
       "topic": "top",
       "pubDate": "2026-10-29T20:13:29Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "Pentagon braces for budget $400B below Trump's ask",
-      "url": "https://www.perplexity.ai/page/pentagon-braces-for-budget-400-GLJ9WnqLTTSNCE6f6TEyjw",
-      "description": "Politico reports that officials privately consider the president's record $1.5 trillion defense request dead, and a $1.1 trillion plan is being drafted instead.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-29T22:17:38Z",
-      "sourceCount": "5 sources"
     },
     {
       "title": "Netanyahu bloc falls short of majority in final results",
@@ -487,6 +514,15 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "Pentagon braces for budget $400B below Trump's ask",
+      "url": "https://www.perplexity.ai/page/pentagon-braces-for-budget-400-GLJ9WnqLTTSNCE6f6TEyjw",
+      "description": "Politico reports that officials privately consider the president's record $1.5 trillion defense request dead, and a $1.1 trillion plan is being drafted instead.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-29T22:17:38Z",
+      "sourceCount": "5 sources"
+    },
+    {
       "title": "Trump officials promised Audi tariff relief, WSJ reports",
       "url": "https://www.perplexity.ai/page/trump-officials-promised-audi-Rq78Nb3_S1uMz5PTqUrGVQ",
       "description": "The offer came up in talks over Audi's roughly $4 billion Georgia plant, which Trump announced at a campaign rally in Perry on Saturday.",
@@ -494,6 +530,15 @@
       "topic": "top",
       "pubDate": "2026-10-29T14:15:12Z",
       "sourceCount": "31 sources"
+    },
+    {
+      "title": "ECB holds rates at 2.5%, warns of rising inflation risks",
+      "url": "https://www.perplexity.ai/page/ecb-holds-rates-at-2-5-warns-o-Tr2EY01kQU.RMd5vgSZCMA",
+      "description": "It came hours after Lagarde said she will step down early, with inflation at 3.8% and French borrowing costs rising.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-10-29T13:43:08Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Judge blocks Trump limits on Medicaid frailty exemptions",
@@ -514,13 +559,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "ECB holds rates at 2.5%, warns of rising inflation risks",
-      "url": "https://www.perplexity.ai/page/ecb-holds-rates-at-2-5-warns-o-Tr2EY01kQU.RMd5vgSZCMA",
-      "description": "It came hours after Lagarde said she will step down early, with inflation at 3.8% and French borrowing costs rising.",
+      "title": "US economy grows 3.4% in third quarter, beating forecasts",
+      "url": "https://www.perplexity.ai/page/us-economy-grows-3-4-in-third-EWBnTnSdR.yji4F_LPS.lg",
+      "description": "AI investment and strong consumer spending drove the advance estimate, the last major economic report before next week's midterm elections.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-10-29T13:43:08Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-10-29T13:08:46Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Trump rallies for Darline Graham in tied S.C. Senate race",
@@ -530,15 +575,6 @@
       "topic": "top",
       "pubDate": "2026-10-29T19:15:15Z",
       "sourceCount": "61 sources"
-    },
-    {
-      "title": "US economy grows 3.4% in third quarter, beating forecasts",
-      "url": "https://www.perplexity.ai/page/us-economy-grows-3-4-in-third-EWBnTnSdR.yji4F_LPS.lg",
-      "description": "AI investment and strong consumer spending drove the advance estimate, the last major economic report before next week's midterm elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-29T13:08:46Z",
-      "sourceCount": "35 sources"
     },
     {
       "title": "Pentagon suspects hack in military base freezer failures",
@@ -1313,47 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-10-20T20:06:21Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "FAA certifies Boeing 737 Max 10 after years of delays",
-      "url": "https://www.perplexity.ai/page/faa-certifies-boeing-737-max-1-kOr.3OEJSGGgpjAuAgtJLg",
-      "description": "Transportation Secretary Sean Duffy announced the approval in Everett, Washington, meaning all four 737 Max models are now certified.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-20T20:05:24Z",
-      "sourceCount": "10 sources"
-    },
-    {
-      "title": "ProPublica: FBI probe eyeing Graham, Clyburn stalled",
-      "url": "https://www.perplexity.ai/page/propublica-fbi-probe-eyeing-gr-a36c5ZGnR4yqnc79Ei22Vg",
-      "description": "Agents examined a Navatek cash-for-contracts scheme, but the case stalled after Trump dismantled FBI public corruption teams and fired the investigating agents.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-20T17:03:06Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "RNC pumps $50 million into GOP House, Senate races",
-      "url": "https://www.perplexity.ai/page/rnc-pumps-50-million-into-gop-5RPoLLvbQIWBD1PIQ3qvxA",
-      "description": "The transfer, aided by a June Supreme Court ruling, widens the GOP's cash edge over a debt-burdened DNC before Nov. 3.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-20T16:22:29Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Curfews calm French cities as unrest spreads across Europe",
-      "url": "https://www.perplexity.ai/page/curfews-calm-french-cities-as-eUpHJ.5WSxCkQOApogxsHg",
-      "description": "Protest groups plan new demonstrations Saturday. Euro area inflation hit 3.8% in September, its highest level in three years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-20T13:18:40Z",
-      "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-11-03T16:31:15Z",
+  "cached_at": "2026-11-03T21:56:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Israel's Iran chemical arms warning splits US officials",
+        "url": "https://www.perplexity.ai/page/israel-s-iran-chemical-arms-wa-yMAf34.sRYC_g1gszZA3pw",
+        "description": "Some US officials see the intelligence as pressure from Netanyahu while Washington weighs renewed strikes against a Qatari-brokered deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-03T21:32:25Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "FBI probes Perfect Child over $30,000-a-day autism bills",
+        "url": "https://www.perplexity.ai/page/fbi-probes-perfect-child-over-TCxYG8UAR9aPRT_.zYuToA",
+        "description": "Agents have contacted families billed hundreds of thousands of dollars by the Brooklyn provider, which allegedly promised little or no out-of-pocket costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-03T21:28:39Z",
+        "sourceCount": "11 sources"
+      },
+      {
+        "title": "DOJ sends target letters to Democrats in Alaska probe",
+        "url": "https://www.perplexity.ai/page/doj-sends-target-letters-to-de-nTnBFToxSF.WjwjUHcURsw",
+        "description": "Elections lawyer Marc Elias is among about 20 recipients, The New York Times reports, as Sen. Dan Sullivan faces Mary Peltola Tuesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-03T19:42:43Z",
+        "sourceCount": "11 sources"
+      },
+      {
+        "title": "Trump says Canada deal near, fertilizer to be tariff-free",
+        "url": "https://www.perplexity.ai/page/trump-says-canada-deal-near-fe-bILWojB.T_aoGEb.9AXdGg",
+        "description": "Trump spoke on Election Day after a weekend call with Prime Minister Mark Carney, though neither government has announced terms or timeline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-03T18:43:34Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Hoax bomb threats target seven flights across Europe",
+        "url": "https://www.perplexity.ai/page/hoax-bomb-threats-target-seven-IJmNHoVWTG6y9OOxSXsX4g",
+        "description": "Searches, a diversion and a temporary closure at Warsaw-Modlin followed threats against LOT, SAS, Wizz Air and Ryanair flights; nothing was found.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-03T18:34:10Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "US job openings jump to 7.5 million as layoffs fall",
         "url": "https://www.perplexity.ai/page/us-job-openings-jump-to-7-5-mi-DY01MI9TTvygm5my_t0PIw",
@@ -1742,15 +1787,6 @@
         "sourceCount": "11 sources"
       },
       {
-        "title": "Dunleavy says Peltola probe could halt Senate certification",
-        "url": "https://www.perplexity.ai/page/dunleavy-says-peltola-probe-co-05Op1mo_RjObiOjmW_3_pA",
-        "description": "The state Department of Public Safety is investigating claims Peltola's campaign recruited a second Dan Sullivan. Peltola denies knowing about it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-30T17:08:01Z",
-        "sourceCount": "34 sources"
-      },
-      {
         "title": "Spain transport minister Puente refuses to resign over Urda train crash",
         "url": "https://www.perplexity.ai/page/puente-rules-out-resigning-ove-ZY3yeFtKTr62_Ausmcx9Dg",
         "description": "The Transport Minister said he offered his post to Sánchez, who called resignation \"unjust,\" as calls to quit mount after deadly crash.",
@@ -1758,15 +1794,6 @@
         "topic": "top",
         "pubDate": "2026-10-30T14:48:56Z",
         "sourceCount": "64 sources"
-      },
-      {
-        "title": "Judge probes whether DOJ misled court on Trump golf plan",
-        "url": "https://www.perplexity.ai/page/judge-probes-whether-doj-misle-aWtllvWXRzm5h2ZmX6yO6A",
-        "description": "Judge Ana Reyes acted after Justice Department lawyers, who earlier denied closure plans, confirmed a Washington public course will close Nov. 15.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-30T19:13:10Z",
-        "sourceCount": "13 sources"
       },
       {
         "title": "Pope Leo XIV becomes first pope to vote in US election",
@@ -1778,6 +1805,15 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "Judge probes whether DOJ misled court on Trump golf plan",
+        "url": "https://www.perplexity.ai/page/judge-probes-whether-doj-misle-aWtllvWXRzm5h2ZmX6yO6A",
+        "description": "Judge Ana Reyes acted after Justice Department lawyers, who earlier denied closure plans, confirmed a Washington public course will close Nov. 15.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-30T19:13:10Z",
+        "sourceCount": "13 sources"
+      },
+      {
         "title": "Spain mourns as Urda train crash death toll rises to 74",
         "url": "https://www.perplexity.ai/page/spain-mourns-as-urda-train-cra-U_yZm1URQWWgFxs7JjJqVQ",
         "description": "Transport Minister Óscar Puente called the order that let trains restart without speed limits after a computer failure \"inexplicable.\"",
@@ -1785,6 +1821,15 @@
         "topic": "top",
         "pubDate": "2026-10-29T20:15:45Z",
         "sourceCount": "20 sources"
+      },
+      {
+        "title": "Alphabet has worst day ever as cash burn spooks investors",
+        "url": "https://www.perplexity.ai/page/alphabet-has-worst-day-ever-as-LjCcXwNjQFO6OKtdlz9Ofg",
+        "description": "Search revenue missed forecasts and free cash flow turned negative, while Alphabet said capital spending will rise significantly in 2027.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-29T20:14:48Z",
+        "sourceCount": "33 sources"
       },
       {
         "title": "Grand jury indicts ICE agent for running over Houston man",
@@ -1805,15 +1850,6 @@
         "sourceCount": "16 sources"
       },
       {
-        "title": "Alphabet has worst day ever as cash burn spooks investors",
-        "url": "https://www.perplexity.ai/page/alphabet-has-worst-day-ever-as-LjCcXwNjQFO6OKtdlz9Ofg",
-        "description": "Search revenue missed forecasts and free cash flow turned negative, while Alphabet said capital spending will rise significantly in 2027.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-29T20:14:48Z",
-        "sourceCount": "33 sources"
-      },
-      {
         "title": "Sir Patrick Stewart, Star Trek's Picard, dies at 86",
         "url": "https://www.perplexity.ai/page/sir-patrick-stewart-star-trek-Xea_ud1xTQSYMTDF13gEiA",
         "description": "The X-Men star died Wednesday at his Los Angeles home after battling Alzheimer's and Lewy body dementia, his spokesperson said.",
@@ -1821,15 +1857,6 @@
         "topic": "top",
         "pubDate": "2026-10-29T20:13:29Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "Pentagon braces for budget $400B below Trump's ask",
-        "url": "https://www.perplexity.ai/page/pentagon-braces-for-budget-400-GLJ9WnqLTTSNCE6f6TEyjw",
-        "description": "Politico reports that officials privately consider the president's record $1.5 trillion defense request dead, and a $1.1 trillion plan is being drafted instead.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-29T22:17:38Z",
-        "sourceCount": "5 sources"
       },
       {
         "title": "Netanyahu bloc falls short of majority in final results",
@@ -1841,6 +1868,15 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "Pentagon braces for budget $400B below Trump's ask",
+        "url": "https://www.perplexity.ai/page/pentagon-braces-for-budget-400-GLJ9WnqLTTSNCE6f6TEyjw",
+        "description": "Politico reports that officials privately consider the president's record $1.5 trillion defense request dead, and a $1.1 trillion plan is being drafted instead.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-29T22:17:38Z",
+        "sourceCount": "5 sources"
+      },
+      {
         "title": "Trump officials promised Audi tariff relief, WSJ reports",
         "url": "https://www.perplexity.ai/page/trump-officials-promised-audi-Rq78Nb3_S1uMz5PTqUrGVQ",
         "description": "The offer came up in talks over Audi's roughly $4 billion Georgia plant, which Trump announced at a campaign rally in Perry on Saturday.",
@@ -1848,6 +1884,15 @@
         "topic": "top",
         "pubDate": "2026-10-29T14:15:12Z",
         "sourceCount": "31 sources"
+      },
+      {
+        "title": "ECB holds rates at 2.5%, warns of rising inflation risks",
+        "url": "https://www.perplexity.ai/page/ecb-holds-rates-at-2-5-warns-o-Tr2EY01kQU.RMd5vgSZCMA",
+        "description": "It came hours after Lagarde said she will step down early, with inflation at 3.8% and French borrowing costs rising.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-10-29T13:43:08Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Judge blocks Trump limits on Medicaid frailty exemptions",
@@ -1868,13 +1913,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "ECB holds rates at 2.5%, warns of rising inflation risks",
-        "url": "https://www.perplexity.ai/page/ecb-holds-rates-at-2-5-warns-o-Tr2EY01kQU.RMd5vgSZCMA",
-        "description": "It came hours after Lagarde said she will step down early, with inflation at 3.8% and French borrowing costs rising.",
+        "title": "US economy grows 3.4% in third quarter, beating forecasts",
+        "url": "https://www.perplexity.ai/page/us-economy-grows-3-4-in-third-EWBnTnSdR.yji4F_LPS.lg",
+        "description": "AI investment and strong consumer spending drove the advance estimate, the last major economic report before next week's midterm elections.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-10-29T13:43:08Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-10-29T13:08:46Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Trump rallies for Darline Graham in tied S.C. Senate race",
@@ -1884,15 +1929,6 @@
         "topic": "top",
         "pubDate": "2026-10-29T19:15:15Z",
         "sourceCount": "61 sources"
-      },
-      {
-        "title": "US economy grows 3.4% in third quarter, beating forecasts",
-        "url": "https://www.perplexity.ai/page/us-economy-grows-3-4-in-third-EWBnTnSdR.yji4F_LPS.lg",
-        "description": "AI investment and strong consumer spending drove the advance estimate, the last major economic report before next week's midterm elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-29T13:08:46Z",
-        "sourceCount": "35 sources"
       },
       {
         "title": "Pentagon suspects hack in military base freezer failures",
@@ -2667,42 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-10-20T20:06:21Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "FAA certifies Boeing 737 Max 10 after years of delays",
-        "url": "https://www.perplexity.ai/page/faa-certifies-boeing-737-max-1-kOr.3OEJSGGgpjAuAgtJLg",
-        "description": "Transportation Secretary Sean Duffy announced the approval in Everett, Washington, meaning all four 737 Max models are now certified.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-20T20:05:24Z",
-        "sourceCount": "10 sources"
-      },
-      {
-        "title": "ProPublica: FBI probe eyeing Graham, Clyburn stalled",
-        "url": "https://www.perplexity.ai/page/propublica-fbi-probe-eyeing-gr-a36c5ZGnR4yqnc79Ei22Vg",
-        "description": "Agents examined a Navatek cash-for-contracts scheme, but the case stalled after Trump dismantled FBI public corruption teams and fired the investigating agents.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-20T17:03:06Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "RNC pumps $50 million into GOP House, Senate races",
-        "url": "https://www.perplexity.ai/page/rnc-pumps-50-million-into-gop-5RPoLLvbQIWBD1PIQ3qvxA",
-        "description": "The transfer, aided by a June Supreme Court ruling, widens the GOP's cash edge over a debt-burdened DNC before Nov. 3.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-20T16:22:29Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Curfews calm French cities as unrest spreads across Europe",
-        "url": "https://www.perplexity.ai/page/curfews-calm-french-cities-as-eUpHJ.5WSxCkQOApogxsHg",
-        "description": "Protest groups plan new demonstrations Saturday. Euro area inflation hit 3.8% in September, its highest level in three years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-20T13:18:40Z",
-        "sourceCount": "35 sources"
       }
     ],
     "tech": [],
