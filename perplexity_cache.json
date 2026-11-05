@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "California's Prop 40 billionaire tax heads for defeat",
+      "url": "https://www.perplexity.ai/page/california-s-prop-40-billionai-m09oH3_4TSGYlejUXxK3bQ",
+      "description": "With about 60% of ballots counted, voters were rejecting the one-time 5% billionaire wealth tax; no major outlet has called the race.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-05T04:05:25Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Joshua Wong sentenced to 10 years for foreign collusion",
+      "url": "https://www.perplexity.ai/page/joshua-wong-sentenced-to-10-ye-M8mK9gMjSlGZuInJhYuMIw",
+      "description": "The democracy activist's second national security conviction comes as he was serving a subversion term and expected release in January.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-05T03:32:39Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Alito tells allies he won't retire despite Democratic wins",
       "url": "https://www.perplexity.ai/page/alito-tells-allies-he-won-t-re-SXxhbxE8QZCUuXBv3w.3QA",
       "description": "Democrats take control of the Senate Jan. 3, which leaves President Trump little time to confirm a new Supreme Court justice.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-10-22T15:27:59Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "Report: Pentagon built secret unit to sabotage foreign tech",
-      "url": "https://www.perplexity.ai/page/report-pentagon-built-secret-u-FeybB3g2RY65xBBwyRr7CA",
-      "description": "Politico says the Technology Support Office, created in April from two classified programs, targets foreign technology threatening U.S. military dominance.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-22T13:03:31Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Kim Yo Jong says border loudspeakers ready within days",
-      "url": "https://www.perplexity.ai/page/kim-yo-jong-says-border-loudsp-cSg1V0OuSQug4xFJFtmwqg",
-      "description": "In her second statement in hours, North Korean leader Kim Jong Un's sister warned Seoul of \"the most horrible and distressing situation.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-10-22T01:42:33Z",
-      "sourceCount": "11 sources"
     }
   ],
-  "cached_at": "2026-11-05T02:50:41Z",
+  "cached_at": "2026-11-05T10:09:22Z",
   "topics": {
     "top": [
+      {
+        "title": "California's Prop 40 billionaire tax heads for defeat",
+        "url": "https://www.perplexity.ai/page/california-s-prop-40-billionai-m09oH3_4TSGYlejUXxK3bQ",
+        "description": "With about 60% of ballots counted, voters were rejecting the one-time 5% billionaire wealth tax; no major outlet has called the race.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-05T04:05:25Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Joshua Wong sentenced to 10 years for foreign collusion",
+        "url": "https://www.perplexity.ai/page/joshua-wong-sentenced-to-10-ye-M8mK9gMjSlGZuInJhYuMIw",
+        "description": "The democracy activist's second national security conviction comes as he was serving a subversion term and expected release in January.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-05T03:32:39Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "Alito tells allies he won't retire despite Democratic wins",
         "url": "https://www.perplexity.ai/page/alito-tells-allies-he-won-t-re-SXxhbxE8QZCUuXBv3w.3QA",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-10-22T15:27:59Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "Report: Pentagon built secret unit to sabotage foreign tech",
-        "url": "https://www.perplexity.ai/page/report-pentagon-built-secret-u-FeybB3g2RY65xBBwyRr7CA",
-        "description": "Politico says the Technology Support Office, created in April from two classified programs, targets foreign technology threatening U.S. military dominance.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-22T13:03:31Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Kim Yo Jong says border loudspeakers ready within days",
-        "url": "https://www.perplexity.ai/page/kim-yo-jong-says-border-loudsp-cSg1V0OuSQug4xFJFtmwqg",
-        "description": "In her second statement in hours, North Korean leader Kim Jong Un's sister warned Seoul of \"the most horrible and distressing situation.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-10-22T01:42:33Z",
-        "sourceCount": "11 sources"
       }
     ],
     "tech": [],
