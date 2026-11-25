@@ -1,6 +1,96 @@
 {
   "stories": [
     {
+      "title": "Storm pushes 100th Macy's parade to Saturday, a first",
+      "url": "https://www.perplexity.ai/page/storm-pushes-100th-macy-s-para-S3aQOXspTnCYC3z2yMCZCw",
+      "description": "Forecast gusts near 60 mph on Thanksgiving Day exceed balloon safety limits. NBC will air the 2025 parade Thursday instead.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T22:19:19Z",
+      "sourceCount": "41 sources"
+    },
+    {
+      "title": "Judge upholds Mamdani's rent freeze, tosses landlord suit",
+      "url": "https://www.perplexity.ai/page/judge-upholds-mamdani-s-rent-f-QJ2e_ijrSsK4L2MvoXn2tA",
+      "description": "Justice Brendan Lantry found the Rent Guidelines Board acted rationally, though he called Mamdani's campaign freeze pledge \"reckless and irresponsible.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T21:38:41Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Justice Dept. never probed Nvidia's Huang, sources say",
+      "url": "https://www.perplexity.ai/page/justice-dept-never-probed-nvid-8WPoGCZ7TZaWDqLh9YeJQA",
+      "description": "Intelligence officials also told congressional staff they lack evidence China orchestrated the CEO's affair, as Huang prepares to face lawmakers next week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T20:39:26Z",
+      "sourceCount": "34 sources"
+    },
+    {
+      "title": "Finland, Norway used oligarch to reach Putin, WSJ says",
+      "url": "https://www.perplexity.ai/page/finland-norway-used-oligarch-t-0ePRu23GREK5IUMQTSSNfw",
+      "description": "Stubb and Støre sought to ease Kremlin fears of a NATO blockade in the Baltic Sea before their Oct. 27 call with Putin.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T19:50:26Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "EU, China reject US overcapacity claims behind new tariffs",
+      "url": "https://www.perplexity.ai/page/eu-china-reject-us-overcapacit-4atSv8HKSvq0OPdi.TYSOw",
+      "description": "Trade Representative Greer proposed Section 301 duties on 14 economies, including 15% on EU goods and up to 20% on Chinese imports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T18:13:52Z",
+      "sourceCount": "55 sources"
+    },
+    {
+      "title": "FCC clears SpaceX for 1 million orbital data centers",
+      "url": "https://www.perplexity.ai/page/fcc-clears-spacex-for-1-millio-N2HQD7wWSaGYsq88LaAJoA",
+      "description": "The FCC approved SpaceX's Starmind constellation, which the agency says will help meet fast-growing demand for AI computing power.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T17:14:29Z",
+      "sourceCount": "103 sources"
+    },
+    {
+      "title": "Poland to create no-fly zone along Ukraine border",
+      "url": "https://www.perplexity.ai/page/poland-to-create-no-fly-zone-a-wfEYgkYNTDGk2MV0dZUFzA",
+      "description": "Deputy Defense Minister Cezary Tomczyk said the ordinance should take effect around year's end, after Russian missile and drone incursions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T16:19:47Z",
+      "sourceCount": "46 sources"
+    },
+    {
+      "title": "Army detonates lead azide stockpile in Iowa despite outcry",
+      "url": "https://www.perplexity.ai/page/army-detonates-lead-azide-stoc-HqfIXUzrQFWw9wRl3_SKCg",
+      "description": "The controlled blast near Middletown destroyed the nation's entire stock of the degraded explosive after a court cleared the EPA's emergency permit.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T15:20:39Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "Macron vows to halt EU budget talks without December deal",
+      "url": "https://www.perplexity.ai/page/macron-vows-to-halt-eu-budget-.X.w1XcFSjiZjN1NYVWdYw",
+      "description": "The warning came a day before a Brussels summit, as France rejects proposed cuts to farm aid in the EU's 2028–2034 budget.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T14:34:26Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Alice Huang-linked firms used $270M AI servers for loans",
+      "url": "https://www.perplexity.ai/page/alice-huang-linked-firms-used-0FlH_s6PQsyNtlwZ8H37kA",
+      "description": "Chinese central-bank filings reviewed by Reuters show firms tied to her family leased or pledged the hardware, days after Washington blacklisted Megaspeed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-25T14:14:51Z",
+      "sourceCount": "49 sources"
+    },
+    {
       "title": "Fed's preferred inflation gauge climbs to 3.8% in October",
       "url": "https://www.perplexity.ai/page/fed-s-preferred-inflation-gaug-Raz2L1FhTlOHoLFC5cE8mQ",
       "description": "Core PCE rose to 3.3%, above forecasts, strengthening expectations of a rate hike at the Federal Reserve's Dec. 8–9 meeting.",
@@ -28,31 +118,13 @@
       "sourceCount": "83 sources"
     },
     {
-      "title": "Rubio warned Trump about Nvidia CEO before his return",
-      "url": "https://www.perplexity.ai/page/rubio-warned-trump-about-nvidi-8e_t3HFXR7KfXPOSlkHe6w",
-      "description": "Rubio saw Jensen Huang and Nvidia as a \"malign influence\" on China policy, according to reports, but Trump backed Huang's reinstatement anyway.",
+      "title": "US jury convicts Huawei of bank fraud, trade secret theft",
+      "url": "https://www.perplexity.ai/page/us-jury-convicts-huawei-of-ban-maswf269RlCvvfhtb.rUXQ",
+      "description": "A Brooklyn federal jury found the Chinese tech giant guilty on 10 of 12 counts but acquitted it of racketeering conspiracy.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-11-25T02:35:12Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Iowa evacuations begin ahead of Army lead azide blast",
-      "url": "https://www.perplexity.ai/page/iowa-evacuations-begin-ahead-o-7UJga3XkSqmKuO9Oe2gYQA",
-      "description": "The Army will detonate nearly 10,000 pounds of unstable lead azide Wednesday morning, with plume maps showing lead dust drifting toward Missouri.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-25T01:06:17Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Abrego Garcia to leave US voluntarily, heading to Spain",
-      "url": "https://www.perplexity.ai/page/abrego-garcia-to-leave-us-volu-3o8yeNLPRu.rGbOOuNBXOQ",
-      "description": "The departure will end a 20-month fight sparked by his mistaken deportation. His lawyers say he ultimately plans to reach Mexico.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T23:12:54Z",
-      "sourceCount": "7 sources"
+      "pubDate": "2026-11-24T20:44:53Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "CIA, ODNI hit by breach of open-source intel network",
@@ -64,33 +136,6 @@
       "sourceCount": "10 sources"
     },
     {
-      "title": "Gov. Reynolds declares emergency ahead of Army blast",
-      "url": "https://www.perplexity.ai/page/gov-reynolds-declares-emergenc-mEXC0gkDSTec.hqncvV2Qg",
-      "description": "Up to 100 National Guard soldiers will help notify about 150 households advised to evacuate before Wednesday's planned Army blast in Middletown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T23:07:17Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "US jury convicts Huawei of bank fraud, trade secret theft",
-      "url": "https://www.perplexity.ai/page/us-jury-convicts-huawei-of-ban-maswf269RlCvvfhtb.rUXQ",
-      "description": "A Brooklyn federal jury found the Chinese tech giant guilty on 10 of 12 counts but acquitted it of racketeering conspiracy.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T20:44:53Z",
-      "sourceCount": "16 sources"
-    },
-    {
-      "title": "Blanche, Patel dodge questions on Jensen Huang probe",
-      "url": "https://www.perplexity.ai/page/blanche-patel-dodge-questions-aU3jeAtfS3qQ6ttcdvzSiQ",
-      "description": "The attorney general declined for a second day to say whether DOJ investigated the Nvidia CEO before his board reinstated him Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T17:26:24Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Trump aides debate targeting Iran's leaders, NBC reports",
       "url": "https://www.perplexity.ai/page/trump-aides-debate-targeting-i-xrBV53JeQ9Ks51vi3D.Nqw",
       "description": "Supporters say striking Iran's leadership could end the nearly nine-month war. Critics warn it could embolden remaining hardliners and endanger U.S. officials.",
@@ -98,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-11-24T17:16:04Z",
       "sourceCount": "11 sources"
-    },
-    {
-      "title": "Army sets Wednesday blast of Iowa lead azide stockpile",
-      "url": "https://www.perplexity.ai/page/army-sets-wednesday-blast-of-i-aaAnrRcbTxmyS4_hKlTj3g",
-      "description": "A federal appeals court cleared the way Monday, and FEMA warned some residents near Middletown may be evacuated ahead of the blast.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T20:14:10Z",
-      "sourceCount": "31 sources"
     },
     {
       "title": "DOJ targets 800-plus defendants in largest scam crackdown",
@@ -181,15 +217,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "8th Circuit clears Army to detonate lead azide in Iowa",
-      "url": "https://www.perplexity.ai/page/8th-circuit-clears-army-to-det-HtCHu7GkQ3K1skQ9ftshXA",
-      "description": "The ruling lifts a stay on the EPA's emergency permit, meeting one of Trump's two conditions, but no blast date is set.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-24T00:57:49Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Senate Democrat probes Vance over Vitol Venezuela oil deal",
       "url": "https://www.perplexity.ai/page/senate-democrat-probes-vance-o-YGb3WgpSSXCF.n64SmhHGw",
       "description": "Sen. Maggie Hassan cites flight records placing Vance and a Vitol donor in Montana before Maduro's capture. Vance's office denies the meeting.",
@@ -197,15 +224,6 @@
       "topic": "top",
       "pubDate": "2026-11-23T23:47:53Z",
       "sourceCount": "11 sources"
-    },
-    {
-      "title": "Meduza, Mediazona estimate 700,000 Russian war dead",
-      "url": "https://www.perplexity.ai/page/meduza-mediazona-estimate-7000-iH8pCjfvTe.d6IwDg1Fc6A",
-      "description": "The exiled outlets based the figure on hacked Rosstat mortality records showing at least 490,000 registered military deaths through late September.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-23T23:35:37Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "US weighs demining training mission for Syrian army",
@@ -217,6 +235,15 @@
       "sourceCount": "22 sources"
     },
     {
+      "title": "Meduza, Mediazona estimate 700,000 Russian war dead",
+      "url": "https://www.perplexity.ai/page/meduza-mediazona-estimate-7000-iH8pCjfvTe.d6IwDg1Fc6A",
+      "description": "The exiled outlets based the figure on hacked Rosstat mortality records showing at least 490,000 registered military deaths through late September.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-23T23:35:37Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Trump slams Newsom's death row commutations at DOJ",
       "url": "https://www.perplexity.ai/page/trump-slams-newsom-s-death-row-MPr3gVbaQS6dzo8.HmwK8A",
       "description": "Trump said he will sign a directive ordering the Justice Department to seek death sentences for child murderers and to speed up federal executions.",
@@ -226,15 +253,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Backlash grows after COP31 collapses over fossil fuels",
-      "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
-      "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-23T11:08:10Z",
-      "sourceCount": "31 sources"
-    },
-    {
       "title": "Iran says four tankers hit mines in Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/iran-says-four-tankers-hit-min-THyf2k3CQ.6rH2hMdidsUg",
       "description": "Tehran says two of the vessels sailed with US Central Command support. No ships were named, and no one has independently confirmed the claims.",
@@ -242,6 +260,15 @@
       "topic": "top",
       "pubDate": "2026-11-23T15:53:15Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Backlash grows after COP31 collapses over fossil fuels",
+      "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
+      "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-23T11:08:10Z",
+      "sourceCount": "31 sources"
     },
     {
       "title": "2nd Circuit revives Trump bid to move hush money case",
@@ -1322,38 +1349,101 @@
       "topic": "top",
       "pubDate": "2026-11-12T19:29:51Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Wright says stalled Russian diesel cargo will go elsewhere",
-      "url": "https://www.perplexity.ai/page/wright-says-stalled-russian-di-F2JWpg1_Snq2PhRq1201iA",
-      "description": "The Agioi Fanendes has idled off the East Coast since Nov. 9, as lawmakers warn unloading Russian diesel would break federal law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-11T17:54:55Z",
-      "sourceCount": "17 sources"
-    },
-    {
-      "title": "Hundreds of Italian schools evacuated over bomb hoaxes",
-      "url": "https://www.perplexity.ai/page/hundreds-of-italian-schools-ev-XFZ4xmUUTPGF5mLqOAh25w",
-      "description": "About 6,000 schools received emails signed by the same \"Mikhail Andropov\" who claimed recent newsroom threats, deepening European hybrid warfare fears.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-11T17:39:05Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "Epstein files petition hits 218, forcing House vote",
-      "url": "https://www.perplexity.ai/page/epstein-files-petition-hits-21-WFqrhD6DRt..GouFvYtm6w",
-      "description": "Rep. John Garamendi's signature lets the Epstein Files Transparency Act II bypass Speaker Johnson, with a vote possible later this month.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-11T19:48:25Z",
-      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-11-25T14:53:31Z",
+  "cached_at": "2026-11-25T23:28:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Storm pushes 100th Macy's parade to Saturday, a first",
+        "url": "https://www.perplexity.ai/page/storm-pushes-100th-macy-s-para-S3aQOXspTnCYC3z2yMCZCw",
+        "description": "Forecast gusts near 60 mph on Thanksgiving Day exceed balloon safety limits. NBC will air the 2025 parade Thursday instead.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T22:19:19Z",
+        "sourceCount": "41 sources"
+      },
+      {
+        "title": "Judge upholds Mamdani's rent freeze, tosses landlord suit",
+        "url": "https://www.perplexity.ai/page/judge-upholds-mamdani-s-rent-f-QJ2e_ijrSsK4L2MvoXn2tA",
+        "description": "Justice Brendan Lantry found the Rent Guidelines Board acted rationally, though he called Mamdani's campaign freeze pledge \"reckless and irresponsible.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T21:38:41Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Justice Dept. never probed Nvidia's Huang, sources say",
+        "url": "https://www.perplexity.ai/page/justice-dept-never-probed-nvid-8WPoGCZ7TZaWDqLh9YeJQA",
+        "description": "Intelligence officials also told congressional staff they lack evidence China orchestrated the CEO's affair, as Huang prepares to face lawmakers next week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T20:39:26Z",
+        "sourceCount": "34 sources"
+      },
+      {
+        "title": "Finland, Norway used oligarch to reach Putin, WSJ says",
+        "url": "https://www.perplexity.ai/page/finland-norway-used-oligarch-t-0ePRu23GREK5IUMQTSSNfw",
+        "description": "Stubb and Støre sought to ease Kremlin fears of a NATO blockade in the Baltic Sea before their Oct. 27 call with Putin.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T19:50:26Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "EU, China reject US overcapacity claims behind new tariffs",
+        "url": "https://www.perplexity.ai/page/eu-china-reject-us-overcapacit-4atSv8HKSvq0OPdi.TYSOw",
+        "description": "Trade Representative Greer proposed Section 301 duties on 14 economies, including 15% on EU goods and up to 20% on Chinese imports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T18:13:52Z",
+        "sourceCount": "55 sources"
+      },
+      {
+        "title": "FCC clears SpaceX for 1 million orbital data centers",
+        "url": "https://www.perplexity.ai/page/fcc-clears-spacex-for-1-millio-N2HQD7wWSaGYsq88LaAJoA",
+        "description": "The FCC approved SpaceX's Starmind constellation, which the agency says will help meet fast-growing demand for AI computing power.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T17:14:29Z",
+        "sourceCount": "103 sources"
+      },
+      {
+        "title": "Poland to create no-fly zone along Ukraine border",
+        "url": "https://www.perplexity.ai/page/poland-to-create-no-fly-zone-a-wfEYgkYNTDGk2MV0dZUFzA",
+        "description": "Deputy Defense Minister Cezary Tomczyk said the ordinance should take effect around year's end, after Russian missile and drone incursions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T16:19:47Z",
+        "sourceCount": "46 sources"
+      },
+      {
+        "title": "Army detonates lead azide stockpile in Iowa despite outcry",
+        "url": "https://www.perplexity.ai/page/army-detonates-lead-azide-stoc-HqfIXUzrQFWw9wRl3_SKCg",
+        "description": "The controlled blast near Middletown destroyed the nation's entire stock of the degraded explosive after a court cleared the EPA's emergency permit.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T15:20:39Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "Macron vows to halt EU budget talks without December deal",
+        "url": "https://www.perplexity.ai/page/macron-vows-to-halt-eu-budget-.X.w1XcFSjiZjN1NYVWdYw",
+        "description": "The warning came a day before a Brussels summit, as France rejects proposed cuts to farm aid in the EU's 2028–2034 budget.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T14:34:26Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Alice Huang-linked firms used $270M AI servers for loans",
+        "url": "https://www.perplexity.ai/page/alice-huang-linked-firms-used-0FlH_s6PQsyNtlwZ8H37kA",
+        "description": "Chinese central-bank filings reviewed by Reuters show firms tied to her family leased or pledged the hardware, days after Washington blacklisted Megaspeed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-25T14:14:51Z",
+        "sourceCount": "49 sources"
+      },
       {
         "title": "Fed's preferred inflation gauge climbs to 3.8% in October",
         "url": "https://www.perplexity.ai/page/fed-s-preferred-inflation-gaug-Raz2L1FhTlOHoLFC5cE8mQ",
@@ -1382,31 +1472,13 @@
         "sourceCount": "83 sources"
       },
       {
-        "title": "Rubio warned Trump about Nvidia CEO before his return",
-        "url": "https://www.perplexity.ai/page/rubio-warned-trump-about-nvidi-8e_t3HFXR7KfXPOSlkHe6w",
-        "description": "Rubio saw Jensen Huang and Nvidia as a \"malign influence\" on China policy, according to reports, but Trump backed Huang's reinstatement anyway.",
+        "title": "US jury convicts Huawei of bank fraud, trade secret theft",
+        "url": "https://www.perplexity.ai/page/us-jury-convicts-huawei-of-ban-maswf269RlCvvfhtb.rUXQ",
+        "description": "A Brooklyn federal jury found the Chinese tech giant guilty on 10 of 12 counts but acquitted it of racketeering conspiracy.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-11-25T02:35:12Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Iowa evacuations begin ahead of Army lead azide blast",
-        "url": "https://www.perplexity.ai/page/iowa-evacuations-begin-ahead-o-7UJga3XkSqmKuO9Oe2gYQA",
-        "description": "The Army will detonate nearly 10,000 pounds of unstable lead azide Wednesday morning, with plume maps showing lead dust drifting toward Missouri.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-25T01:06:17Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Abrego Garcia to leave US voluntarily, heading to Spain",
-        "url": "https://www.perplexity.ai/page/abrego-garcia-to-leave-us-volu-3o8yeNLPRu.rGbOOuNBXOQ",
-        "description": "The departure will end a 20-month fight sparked by his mistaken deportation. His lawyers say he ultimately plans to reach Mexico.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T23:12:54Z",
-        "sourceCount": "7 sources"
+        "pubDate": "2026-11-24T20:44:53Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "CIA, ODNI hit by breach of open-source intel network",
@@ -1418,33 +1490,6 @@
         "sourceCount": "10 sources"
       },
       {
-        "title": "Gov. Reynolds declares emergency ahead of Army blast",
-        "url": "https://www.perplexity.ai/page/gov-reynolds-declares-emergenc-mEXC0gkDSTec.hqncvV2Qg",
-        "description": "Up to 100 National Guard soldiers will help notify about 150 households advised to evacuate before Wednesday's planned Army blast in Middletown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T23:07:17Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "US jury convicts Huawei of bank fraud, trade secret theft",
-        "url": "https://www.perplexity.ai/page/us-jury-convicts-huawei-of-ban-maswf269RlCvvfhtb.rUXQ",
-        "description": "A Brooklyn federal jury found the Chinese tech giant guilty on 10 of 12 counts but acquitted it of racketeering conspiracy.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T20:44:53Z",
-        "sourceCount": "16 sources"
-      },
-      {
-        "title": "Blanche, Patel dodge questions on Jensen Huang probe",
-        "url": "https://www.perplexity.ai/page/blanche-patel-dodge-questions-aU3jeAtfS3qQ6ttcdvzSiQ",
-        "description": "The attorney general declined for a second day to say whether DOJ investigated the Nvidia CEO before his board reinstated him Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T17:26:24Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Trump aides debate targeting Iran's leaders, NBC reports",
         "url": "https://www.perplexity.ai/page/trump-aides-debate-targeting-i-xrBV53JeQ9Ks51vi3D.Nqw",
         "description": "Supporters say striking Iran's leadership could end the nearly nine-month war. Critics warn it could embolden remaining hardliners and endanger U.S. officials.",
@@ -1452,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-11-24T17:16:04Z",
         "sourceCount": "11 sources"
-      },
-      {
-        "title": "Army sets Wednesday blast of Iowa lead azide stockpile",
-        "url": "https://www.perplexity.ai/page/army-sets-wednesday-blast-of-i-aaAnrRcbTxmyS4_hKlTj3g",
-        "description": "A federal appeals court cleared the way Monday, and FEMA warned some residents near Middletown may be evacuated ahead of the blast.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T20:14:10Z",
-        "sourceCount": "31 sources"
       },
       {
         "title": "DOJ targets 800-plus defendants in largest scam crackdown",
@@ -1535,15 +1571,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "8th Circuit clears Army to detonate lead azide in Iowa",
-        "url": "https://www.perplexity.ai/page/8th-circuit-clears-army-to-det-HtCHu7GkQ3K1skQ9ftshXA",
-        "description": "The ruling lifts a stay on the EPA's emergency permit, meeting one of Trump's two conditions, but no blast date is set.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-24T00:57:49Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Senate Democrat probes Vance over Vitol Venezuela oil deal",
         "url": "https://www.perplexity.ai/page/senate-democrat-probes-vance-o-YGb3WgpSSXCF.n64SmhHGw",
         "description": "Sen. Maggie Hassan cites flight records placing Vance and a Vitol donor in Montana before Maduro's capture. Vance's office denies the meeting.",
@@ -1551,15 +1578,6 @@
         "topic": "top",
         "pubDate": "2026-11-23T23:47:53Z",
         "sourceCount": "11 sources"
-      },
-      {
-        "title": "Meduza, Mediazona estimate 700,000 Russian war dead",
-        "url": "https://www.perplexity.ai/page/meduza-mediazona-estimate-7000-iH8pCjfvTe.d6IwDg1Fc6A",
-        "description": "The exiled outlets based the figure on hacked Rosstat mortality records showing at least 490,000 registered military deaths through late September.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-23T23:35:37Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "US weighs demining training mission for Syrian army",
@@ -1571,6 +1589,15 @@
         "sourceCount": "22 sources"
       },
       {
+        "title": "Meduza, Mediazona estimate 700,000 Russian war dead",
+        "url": "https://www.perplexity.ai/page/meduza-mediazona-estimate-7000-iH8pCjfvTe.d6IwDg1Fc6A",
+        "description": "The exiled outlets based the figure on hacked Rosstat mortality records showing at least 490,000 registered military deaths through late September.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-23T23:35:37Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Trump slams Newsom's death row commutations at DOJ",
         "url": "https://www.perplexity.ai/page/trump-slams-newsom-s-death-row-MPr3gVbaQS6dzo8.HmwK8A",
         "description": "Trump said he will sign a directive ordering the Justice Department to seek death sentences for child murderers and to speed up federal executions.",
@@ -1580,15 +1607,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Backlash grows after COP31 collapses over fossil fuels",
-        "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
-        "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-23T11:08:10Z",
-        "sourceCount": "31 sources"
-      },
-      {
         "title": "Iran says four tankers hit mines in Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/iran-says-four-tankers-hit-min-THyf2k3CQ.6rH2hMdidsUg",
         "description": "Tehran says two of the vessels sailed with US Central Command support. No ships were named, and no one has independently confirmed the claims.",
@@ -1596,6 +1614,15 @@
         "topic": "top",
         "pubDate": "2026-11-23T15:53:15Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Backlash grows after COP31 collapses over fossil fuels",
+        "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
+        "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-23T11:08:10Z",
+        "sourceCount": "31 sources"
       },
       {
         "title": "2nd Circuit revives Trump bid to move hush money case",
@@ -2675,33 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-11-12T19:29:51Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Wright says stalled Russian diesel cargo will go elsewhere",
-        "url": "https://www.perplexity.ai/page/wright-says-stalled-russian-di-F2JWpg1_Snq2PhRq1201iA",
-        "description": "The Agioi Fanendes has idled off the East Coast since Nov. 9, as lawmakers warn unloading Russian diesel would break federal law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-11T17:54:55Z",
-        "sourceCount": "17 sources"
-      },
-      {
-        "title": "Hundreds of Italian schools evacuated over bomb hoaxes",
-        "url": "https://www.perplexity.ai/page/hundreds-of-italian-schools-ev-XFZ4xmUUTPGF5mLqOAh25w",
-        "description": "About 6,000 schools received emails signed by the same \"Mikhail Andropov\" who claimed recent newsroom threats, deepening European hybrid warfare fears.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-11T17:39:05Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "Epstein files petition hits 218, forcing House vote",
-        "url": "https://www.perplexity.ai/page/epstein-files-petition-hits-21-WFqrhD6DRt..GouFvYtm6w",
-        "description": "Rep. John Garamendi's signature lets the Epstein Files Transparency Act II bypass Speaker Johnson, with a vote possible later this month.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-11T19:48:25Z",
         "sourceCount": "13 sources"
       }
     ],
