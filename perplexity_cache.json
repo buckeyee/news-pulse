@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Russian envoy says nuclear war with NATO inching closer",
+      "url": "https://www.perplexity.ai/page/russian-envoy-says-nuclear-war-K1lZFCcrSO6bbsRUmCBN9g",
+      "description": "Russia's OSCE envoy Dmitry Polyansky accused NATO members of joining drone attacks on Russian ships in the Baltic Sea.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T02:43:50Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Trump says Nvidia's Huang is not a security threat",
+      "url": "https://www.perplexity.ai/page/trump-says-nvidia-s-huang-is-n-ffvcTvpERWi6pUq7MsmeTA",
+      "description": "Trump cited \"a lot of information\" even though the Justice Department never opened a formal probe, and called Huang's reinstatement \"a great thing.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T02:23:46Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "Thanksgiving storms knock out power to over 700,000",
       "url": "https://www.perplexity.ai/page/thanksgiving-storms-knock-out-L7wxHzEPTBKpr6b6.Fw5Qw",
       "description": "A strengthening nor'easter and Midwest snow hit Virginia, Maryland and Missouri hardest, canceling flights and forcing postponement of Macy's 100th parade.",
@@ -46,6 +64,15 @@
       "sourceCount": "31 sources"
     },
     {
+      "title": "UK net migration falls to 77,000, lowest since 1997",
+      "url": "https://www.perplexity.ai/page/uk-net-migration-falls-to-7700-S9nRohjrT1aOqNLCoZk7kA",
+      "description": "ONS provisional figures show net migration more than halved in a year, driven by fewer non-EU arrivals for work and study.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-26T10:24:38Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "France defends Ukraine's Libya strikes as Italy objects",
       "url": "https://www.perplexity.ai/page/france-defends-ukraine-s-libya-pXXj1aU.S2mBxbz2kkxWMg",
       "description": "Foreign Minister Jean-Noel Barrot cited Kyiv's right to self-defense, while Italy's Antonio Tajani said the strikes near Benghazi violated Libya's sovereignty.",
@@ -80,15 +107,6 @@
       "topic": "top",
       "pubDate": "2026-11-25T23:19:24Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Report: Pentagon weighed wartime law to restore Nvidia CEO",
-      "url": "https://www.perplexity.ai/page/report-pentagon-weighed-wartim-dSyb6u0EQsCpumWESzKgyA",
-      "description": "The Washington Post says Hegseth discussed using the Defense Production Act to pressure Nvidia's board. The Pentagon denies the conversations happened.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-25T23:14:35Z",
-      "sourceCount": "51 sources"
     },
     {
       "title": "Storm pushes 100th Macy's parade to Saturday, a first",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-11-13T02:23:03Z",
       "sourceCount": "16 sources"
-    },
-    {
-      "title": "White House confirms Trump-Xi-Putin meeting in Shenzhen",
-      "url": "https://www.perplexity.ai/page/white-house-confirms-trump-xi-8mAc6Ez7SW2AD2DkWLTxsw",
-      "description": "The first three-way talks among the top nuclear powers are set for Nov. 19 at APEC, with arms reduction on the agenda.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-14T00:39:31Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Army officer held in UK spy sting named as Brandon Tyner",
-      "url": "https://www.perplexity.ai/page/army-officer-held-in-uk-spy-st-2pEGeXzXRQW72wMmJOeD5w",
-      "description": "U.S. officials told The Wall Street Journal that British charges against the 41-year-old lieutenant colonel are expected Sunday or Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-12T21:32:34Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-11-26T23:59:20Z",
+  "cached_at": "2026-11-27T08:09:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Russian envoy says nuclear war with NATO inching closer",
+        "url": "https://www.perplexity.ai/page/russian-envoy-says-nuclear-war-K1lZFCcrSO6bbsRUmCBN9g",
+        "description": "Russia's OSCE envoy Dmitry Polyansky accused NATO members of joining drone attacks on Russian ships in the Baltic Sea.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T02:43:50Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Trump says Nvidia's Huang is not a security threat",
+        "url": "https://www.perplexity.ai/page/trump-says-nvidia-s-huang-is-n-ffvcTvpERWi6pUq7MsmeTA",
+        "description": "Trump cited \"a lot of information\" even though the Justice Department never opened a formal probe, and called Huang's reinstatement \"a great thing.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T02:23:46Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "Thanksgiving storms knock out power to over 700,000",
         "url": "https://www.perplexity.ai/page/thanksgiving-storms-knock-out-L7wxHzEPTBKpr6b6.Fw5Qw",
@@ -1400,6 +1418,15 @@
         "sourceCount": "31 sources"
       },
       {
+        "title": "UK net migration falls to 77,000, lowest since 1997",
+        "url": "https://www.perplexity.ai/page/uk-net-migration-falls-to-7700-S9nRohjrT1aOqNLCoZk7kA",
+        "description": "ONS provisional figures show net migration more than halved in a year, driven by fewer non-EU arrivals for work and study.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-26T10:24:38Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "France defends Ukraine's Libya strikes as Italy objects",
         "url": "https://www.perplexity.ai/page/france-defends-ukraine-s-libya-pXXj1aU.S2mBxbz2kkxWMg",
         "description": "Foreign Minister Jean-Noel Barrot cited Kyiv's right to self-defense, while Italy's Antonio Tajani said the strikes near Benghazi violated Libya's sovereignty.",
@@ -1434,15 +1461,6 @@
         "topic": "top",
         "pubDate": "2026-11-25T23:19:24Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Report: Pentagon weighed wartime law to restore Nvidia CEO",
-        "url": "https://www.perplexity.ai/page/report-pentagon-weighed-wartim-dSyb6u0EQsCpumWESzKgyA",
-        "description": "The Washington Post says Hegseth discussed using the Defense Production Act to pressure Nvidia's board. The Pentagon denies the conversations happened.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-25T23:14:35Z",
-        "sourceCount": "51 sources"
       },
       {
         "title": "Storm pushes 100th Macy's parade to Saturday, a first",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-11-13T02:23:03Z",
         "sourceCount": "16 sources"
-      },
-      {
-        "title": "White House confirms Trump-Xi-Putin meeting in Shenzhen",
-        "url": "https://www.perplexity.ai/page/white-house-confirms-trump-xi-8mAc6Ez7SW2AD2DkWLTxsw",
-        "description": "The first three-way talks among the top nuclear powers are set for Nov. 19 at APEC, with arms reduction on the agenda.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-14T00:39:31Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Army officer held in UK spy sting named as Brandon Tyner",
-        "url": "https://www.perplexity.ai/page/army-officer-held-in-uk-spy-st-2pEGeXzXRQW72wMmJOeD5w",
-        "description": "U.S. officials told The Wall Street Journal that British charges against the 41-year-old lieutenant colonel are expected Sunday or Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-12T21:32:34Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
