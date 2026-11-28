@@ -1,6 +1,60 @@
 {
   "stories": [
     {
+      "title": "Putin pushes AI expansion as sanctions squeeze chip access",
+      "url": "https://www.perplexity.ai/page/putin-pushes-ai-expansion-as-s-SUMhvToSQaCuNxgC4PR2Ow",
+      "description": "At Moscow's AI Journey conference Nov. 26, Putin called for updating the national AI strategy through 2036 and backing sovereign models.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-28T00:58:28Z",
+      "sourceCount": "66 sources"
+    },
+    {
+      "title": "Outages ease after Thanksgiving storm batters East Coast",
+      "url": "https://www.perplexity.ai/page/outages-ease-after-thanksgivin-g9z04yFxQdWuybuWNiscuA",
+      "description": "Outages dropped from over 900,000 Thursday to about 360,000 Friday evening, with coastal flood warnings still posted from New Jersey to Virginia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T23:31:05Z",
+      "sourceCount": "57 sources"
+    },
+    {
+      "title": "US military says it disabled ship running Iran blockade",
+      "url": "https://www.perplexity.ai/page/us-military-says-it-disabled-s-1T29t5r7T8iEma57syUUXw",
+      "description": "A U.S. aircraft struck the Palau-flagged Pacific Archer after it left Bandar Abbas, while an Iranian adviser vowed to break the embargo.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T19:49:29Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Russian convoys bound for Libya turn back after sinking",
+      "url": "https://www.perplexity.ai/page/russian-convoys-bound-for-liby-Cmt08NlrQruVI.2a3LTFqg",
+      "description": "Officials told Reuters a frigate-escorted convoy reversed course after Ukrainian sea drones sank the corvette Merkury in Benghazi.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T18:17:49Z",
+      "sourceCount": "34 sources"
+    },
+    {
+      "title": "Dow notches best week since 2022 as AI stocks rebound",
+      "url": "https://www.perplexity.ai/page/dow-notches-best-week-since-20-tiSniYTbTl.3nyvGYkvSFQ",
+      "description": "Stocks closed higher in a shortened post-Thanksgiving session, with the Dow and S&P 500 posting big weekly gains after a turbulent stretch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T18:15:52Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "Iran says tanker exploded after hitting mine in Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-says-tanker-exploded-afte-5WUQ_0yySQeuEFJq0OR9yA",
+      "description": "Iran's Revolutionary Guards said a second tanker turned back. Independent maritime agencies have not confirmed Friday's reported blast.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-27T17:44:01Z",
+      "sourceCount": "60 sources"
+    },
+    {
       "title": "AI shopping agents face Black Friday test as trust lags",
       "url": "https://www.perplexity.ai/page/ai-shopping-agents-face-black-NO38wxasRuS.v6jQ0KQrFQ",
       "description": "More shoppers are using AI to hunt for deals, but benchmark tests and polls show most are still wary of letting bots pay.",
@@ -397,15 +451,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran says four tankers hit mines in Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-says-four-tankers-hit-min-THyf2k3CQ.6rH2hMdidsUg",
-      "description": "Tehran says two of the vessels sailed with US Central Command support. No ships were named, and no one has independently confirmed the claims.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-23T15:53:15Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Backlash grows after COP31 collapses over fossil fuels",
       "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
       "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
@@ -413,6 +458,15 @@
       "topic": "top",
       "pubDate": "2026-11-23T11:08:10Z",
       "sourceCount": "31 sources"
+    },
+    {
+      "title": "NATO intelligence warns Russia readying nuclear satellite",
+      "url": "https://www.perplexity.ai/page/nato-intelligence-warns-russia-yrF9Hf1xTfaJbw4aLC9j2Q",
+      "description": "A German media investigation says the Sputnik-S satellite, stored near Moscow, could launch by December. Russia's embassy calls the claims propaganda.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-11-23T11:08:06Z",
+      "sourceCount": "21 sources"
     },
     {
       "title": "2nd Circuit revives Trump bid to move hush money case",
@@ -431,15 +485,6 @@
       "topic": "top",
       "pubDate": "2026-11-23T21:12:07Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "NATO intelligence warns Russia readying nuclear satellite",
-      "url": "https://www.perplexity.ai/page/nato-intelligence-warns-russia-yrF9Hf1xTfaJbw4aLC9j2Q",
-      "description": "A German media investigation says the Sputnik-S satellite, stored near Moscow, could launch by December. Russia's embassy calls the claims propaganda.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-23T11:08:06Z",
-      "sourceCount": "21 sources"
     },
     {
       "title": "OpenAI chief scientist urges perplexity-based AI limits",
@@ -1304,56 +1349,65 @@
       "topic": "top",
       "pubDate": "2026-11-16T20:26:19Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Democratic senators order Musk to preserve Starlink records",
-      "url": "https://www.perplexity.ai/page/democratic-senators-order-musk-F6hVwlsNTiyL6ZDqmwQDHg",
-      "description": "The demand comes as Zelensky says Starshield speed caps have returned over occupied territory, a claim SpaceX denies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-13T23:59:45Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "Trump administration delays Medicaid work rule penalties",
-      "url": "https://www.perplexity.ai/page/trump-administration-delays-me-LVexIfOFTUavFj_t2IqT9Q",
-      "description": "New CMS guidance lets states hold off on coverage cuts through June 2027, though the requirement still formally starts Jan. 1.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-13T23:54:32Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Supreme Court rejects Trump bid to cut UC research grants",
-      "url": "https://www.perplexity.ai/page/supreme-court-rejects-trump-bi-nCdDvQDJS821r1yjvbnEgg",
-      "description": "The justices left in place a ruling blocking about $59 million in diversity-related grant cuts that lower courts called likely viewpoint discrimination.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-16T17:12:35Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Tanker hits docked New Orleans riverboat, 32 hospitalized",
-      "url": "https://www.perplexity.ai/page/tanker-hits-docked-new-orleans-AacvbCKUTaSf3NKlMaWcMQ",
-      "description": "The American Heritage capsized after the Atlantic Asphalt struck it Friday. Mayor Helena Moreno said everyone aboard was accounted for.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-13T23:12:56Z",
-      "sourceCount": "61 sources"
-    },
-    {
-      "title": "EU leaders reject Putin's demand for NATO rollback",
-      "url": "https://www.perplexity.ai/page/eu-leaders-reject-putin-s-dema-DIPnKYwBTvel6aIJfNrO9A",
-      "description": "At a Dublin summit, Merz and Kallas dismissed Moscow's bid to reopen Europe's security order after Putin revived 2021 NATO demands.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-11-13T22:27:17Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-11-27T18:11:42Z",
+  "cached_at": "2026-11-28T01:28:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Putin pushes AI expansion as sanctions squeeze chip access",
+        "url": "https://www.perplexity.ai/page/putin-pushes-ai-expansion-as-s-SUMhvToSQaCuNxgC4PR2Ow",
+        "description": "At Moscow's AI Journey conference Nov. 26, Putin called for updating the national AI strategy through 2036 and backing sovereign models.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-28T00:58:28Z",
+        "sourceCount": "66 sources"
+      },
+      {
+        "title": "Outages ease after Thanksgiving storm batters East Coast",
+        "url": "https://www.perplexity.ai/page/outages-ease-after-thanksgivin-g9z04yFxQdWuybuWNiscuA",
+        "description": "Outages dropped from over 900,000 Thursday to about 360,000 Friday evening, with coastal flood warnings still posted from New Jersey to Virginia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T23:31:05Z",
+        "sourceCount": "57 sources"
+      },
+      {
+        "title": "US military says it disabled ship running Iran blockade",
+        "url": "https://www.perplexity.ai/page/us-military-says-it-disabled-s-1T29t5r7T8iEma57syUUXw",
+        "description": "A U.S. aircraft struck the Palau-flagged Pacific Archer after it left Bandar Abbas, while an Iranian adviser vowed to break the embargo.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T19:49:29Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Russian convoys bound for Libya turn back after sinking",
+        "url": "https://www.perplexity.ai/page/russian-convoys-bound-for-liby-Cmt08NlrQruVI.2a3LTFqg",
+        "description": "Officials told Reuters a frigate-escorted convoy reversed course after Ukrainian sea drones sank the corvette Merkury in Benghazi.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T18:17:49Z",
+        "sourceCount": "34 sources"
+      },
+      {
+        "title": "Dow notches best week since 2022 as AI stocks rebound",
+        "url": "https://www.perplexity.ai/page/dow-notches-best-week-since-20-tiSniYTbTl.3nyvGYkvSFQ",
+        "description": "Stocks closed higher in a shortened post-Thanksgiving session, with the Dow and S&P 500 posting big weekly gains after a turbulent stretch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T18:15:52Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "Iran says tanker exploded after hitting mine in Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-says-tanker-exploded-afte-5WUQ_0yySQeuEFJq0OR9yA",
+        "description": "Iran's Revolutionary Guards said a second tanker turned back. Independent maritime agencies have not confirmed Friday's reported blast.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-27T17:44:01Z",
+        "sourceCount": "60 sources"
+      },
       {
         "title": "AI shopping agents face Black Friday test as trust lags",
         "url": "https://www.perplexity.ai/page/ai-shopping-agents-face-black-NO38wxasRuS.v6jQ0KQrFQ",
@@ -1751,15 +1805,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran says four tankers hit mines in Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-says-four-tankers-hit-min-THyf2k3CQ.6rH2hMdidsUg",
-        "description": "Tehran says two of the vessels sailed with US Central Command support. No ships were named, and no one has independently confirmed the claims.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-23T15:53:15Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Backlash grows after COP31 collapses over fossil fuels",
         "url": "https://www.perplexity.ai/page/backlash-grows-after-cop31-col-Z9g1BBPjQBq4GmF0Q7hQDg",
         "description": "The EU and Pacific nations rejected a final draft omitting fossil fuels, ending the record-long Antalya summit Sunday without an overarching agreement.",
@@ -1767,6 +1812,15 @@
         "topic": "top",
         "pubDate": "2026-11-23T11:08:10Z",
         "sourceCount": "31 sources"
+      },
+      {
+        "title": "NATO intelligence warns Russia readying nuclear satellite",
+        "url": "https://www.perplexity.ai/page/nato-intelligence-warns-russia-yrF9Hf1xTfaJbw4aLC9j2Q",
+        "description": "A German media investigation says the Sputnik-S satellite, stored near Moscow, could launch by December. Russia's embassy calls the claims propaganda.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-11-23T11:08:06Z",
+        "sourceCount": "21 sources"
       },
       {
         "title": "2nd Circuit revives Trump bid to move hush money case",
@@ -1785,15 +1839,6 @@
         "topic": "top",
         "pubDate": "2026-11-23T21:12:07Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "NATO intelligence warns Russia readying nuclear satellite",
-        "url": "https://www.perplexity.ai/page/nato-intelligence-warns-russia-yrF9Hf1xTfaJbw4aLC9j2Q",
-        "description": "A German media investigation says the Sputnik-S satellite, stored near Moscow, could launch by December. Russia's embassy calls the claims propaganda.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-23T11:08:06Z",
-        "sourceCount": "21 sources"
       },
       {
         "title": "OpenAI chief scientist urges perplexity-based AI limits",
@@ -2658,51 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-11-16T20:26:19Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Democratic senators order Musk to preserve Starlink records",
-        "url": "https://www.perplexity.ai/page/democratic-senators-order-musk-F6hVwlsNTiyL6ZDqmwQDHg",
-        "description": "The demand comes as Zelensky says Starshield speed caps have returned over occupied territory, a claim SpaceX denies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-13T23:59:45Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "Trump administration delays Medicaid work rule penalties",
-        "url": "https://www.perplexity.ai/page/trump-administration-delays-me-LVexIfOFTUavFj_t2IqT9Q",
-        "description": "New CMS guidance lets states hold off on coverage cuts through June 2027, though the requirement still formally starts Jan. 1.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-13T23:54:32Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Supreme Court rejects Trump bid to cut UC research grants",
-        "url": "https://www.perplexity.ai/page/supreme-court-rejects-trump-bi-nCdDvQDJS821r1yjvbnEgg",
-        "description": "The justices left in place a ruling blocking about $59 million in diversity-related grant cuts that lower courts called likely viewpoint discrimination.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-16T17:12:35Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Tanker hits docked New Orleans riverboat, 32 hospitalized",
-        "url": "https://www.perplexity.ai/page/tanker-hits-docked-new-orleans-AacvbCKUTaSf3NKlMaWcMQ",
-        "description": "The American Heritage capsized after the Atlantic Asphalt struck it Friday. Mayor Helena Moreno said everyone aboard was accounted for.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-13T23:12:56Z",
-        "sourceCount": "61 sources"
-      },
-      {
-        "title": "EU leaders reject Putin's demand for NATO rollback",
-        "url": "https://www.perplexity.ai/page/eu-leaders-reject-putin-s-dema-DIPnKYwBTvel6aIJfNrO9A",
-        "description": "At a Dublin summit, Merz and Kallas dismissed Moscow's bid to reopen Europe's security order after Putin revived 2021 NATO demands.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-11-13T22:27:17Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
